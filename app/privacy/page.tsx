@@ -29,7 +29,7 @@ export default function Privacy() {
               Googleが広告配信にCookieを使用することにより、当サイトや他のサイト
               へアクセスした際の情報に基づいて、Google及びそのパートナーが適切な
               広告を表示します。ユーザーは
-              <a
+              
                 href="https://adssettings.google.com/"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -63,7 +63,7 @@ export default function Privacy() {
             </p>
           </section>
 
-         <section>
+          <section>
             <h2 className="font-display text-lg font-bold text-ink">
               お問い合わせ
             </h2>
@@ -80,7 +80,7 @@ export default function Privacy() {
               </a>
             </p>
           </section>
-          
+
           <p className="pt-4 text-xs text-ink-muted">最終更新日：2026年7月</p>
         </div>
       </main>
