@@ -19,11 +19,11 @@ export default function Header() {
             </p>
           </div>
         </Link>
-        <nav className="font-mono text-xs text-ink-muted flex gap-4">
-          <Link href="/blog" className="hover:text-hanko underline underline-offset-4">
+        <nav className="flex items-center gap-4 font-mono text-xs">
+          <Link href="/blog" className="border-2 border-hanko bg-hanko px-3 py-1.5 font-display font-bold text-paper transition-transform hover:-translate-y-0.5">
             コラム
           </Link>
-          <Link href="/about" className="hover:text-hanko underline underline-offset-4">
+          <Link href="/about" className="text-ink-muted underline underline-offset-4 hover:text-hanko">
             このサイトについて
           </Link>
         </nav>
