@@ -20,6 +20,9 @@ export default function Header() {
           </div>
         </Link>
         <nav className="font-mono text-xs text-ink-muted flex gap-4">
+          <Link href="/blog" className="hover:text-hanko underline underline-offset-4">
+            コラム
+          </Link>
           <Link href="/about" className="hover:text-hanko underline underline-offset-4">
             このサイトについて
           </Link>
