@@ -1,3 +1,4 @@
+import { Analytics } from "@vercel/analytics/next";
 import type { Metadata } from "next";
 import { Zen_Kaku_Gothic_New, Noto_Sans_JP, Roboto_Mono } from "next/font/google";
 import "./globals.css";
