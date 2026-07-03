@@ -1,5 +1,6 @@
-import { Analytics } from "@vercel/analytics/next";
 import type { Metadata } from "next";
+// 1. Vercel Analytics をインポート（追加）
+import { Analytics } from "@vercel/analytics/next";
 import { Zen_Kaku_Gothic_New, Noto_Sans_JP, Roboto_Mono } from "next/font/google";
 import "./globals.css";
 
@@ -38,6 +39,8 @@ export default function RootLayout({
         className={`${display.variable} ${body.variable} ${mono.variable} font-body text-ink`}
       >
         {children}
+        {/* 2. bodyの閉じタグ直前に設置（追加） */}
+        <Analytics />
       </body>
     </html>
   );
