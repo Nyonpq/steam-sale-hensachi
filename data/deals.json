@@ -1,0 +1,50 @@
+{
+  "fetchedAt": "2026-07-03T00:00:00.000Z",
+  "currency": "JPY",
+  "count": 3,
+  "averageDiscount": 50,
+  "deals": [
+    {
+      "appid": 570,
+      "name": "サンプルゲーム A（データ未取得）",
+      "headerImage": "",
+      "discountPercent": 75,
+      "initialPriceCents": 298000,
+      "finalPriceCents": 74500,
+      "reviewPositiveRate": 95,
+      "reviewCount": 120000,
+      "storeUrl": "https://store.steampowered.com/",
+      "rawScore": 68,
+      "hensachi": 62.4,
+      "rank": 1
+    },
+    {
+      "appid": 730,
+      "name": "サンプルゲーム B（データ未取得）",
+      "headerImage": "",
+      "discountPercent": 40,
+      "initialPriceCents": 198000,
+      "finalPriceCents": 118800,
+      "reviewPositiveRate": 88,
+      "reviewCount": 50000,
+      "storeUrl": "https://store.steampowered.com/",
+      "rawScore": 52,
+      "hensachi": 50.1,
+      "rank": 2
+    },
+    {
+      "appid": 440,
+      "name": "サンプルゲーム C（データ未取得）",
+      "headerImage": "",
+      "discountPercent": 20,
+      "initialPriceCents": 98000,
+      "finalPriceCents": 78400,
+      "reviewPositiveRate": 70,
+      "reviewCount": 800,
+      "storeUrl": "https://store.steampowered.com/",
+      "rawScore": 35,
+      "hensachi": 37.5,
+      "rank": 3
+    }
+  ]
+}
