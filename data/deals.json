@@ -1,23 +1,9 @@
 {
-  "fetchedAt": "2026-07-03T05:20:43.348Z",
+  "fetchedAt": "2026-07-03T12:30:43.946Z",
   "currency": "JPY",
   "count": 10,
-  "averageDiscount": 43.8,
+  "averageDiscount": 43,
   "deals": [
-    {
-      "appid": 1687950,
-      "name": "ペルソナ５ ザ・ロイヤル",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header_japanese.jpg?t=1782353605",
-      "discountPercent": 70,
-      "initialPriceCents": 767800,
-      "finalPriceCents": 230300,
-      "reviewPositiveRate": 96.4,
-      "reviewCount": 133296,
-      "storeUrl": "https://store.steampowered.com/app/1687950/",
-      "rawScore": 84.57894481220572,
-      "hensachi": 64.2,
-      "rank": 1
-    },
     {
       "appid": 1091500,
       "name": "サイバーパンク2077",
@@ -26,11 +12,11 @@
       "initialPriceCents": 877800,
       "finalPriceCents": 263300,
       "reviewPositiveRate": 86.6,
-      "reviewCount": 951047,
+      "reviewCount": 951199,
       "storeUrl": "https://store.steampowered.com/app/1091500/",
       "rawScore": 81.81,
-      "hensachi": 61.4,
-      "rank": 2
+      "hensachi": 63.9,
+      "rank": 1
     },
     {
       "appid": 2161700,
@@ -40,11 +26,11 @@
       "initialPriceCents": 767800,
       "finalPriceCents": 268700,
       "reviewPositiveRate": 94.4,
-      "reviewCount": 58398,
+      "reviewCount": 58420,
       "storeUrl": "https://store.steampowered.com/app/2161700/",
-      "rawScore": 80.27643551131843,
-      "hensachi": 59.8,
-      "rank": 3
+      "rawScore": 80.27705277953721,
+      "hensachi": 62.2,
+      "rank": 2
     },
     {
       "appid": 814380,
@@ -54,11 +40,39 @@
       "initialPriceCents": 836000,
       "finalPriceCents": 418000,
       "reviewPositiveRate": 95.3,
-      "reviewCount": 350310,
+      "reviewCount": 350342,
       "storeUrl": "https://store.steampowered.com/app/814380/",
       "rawScore": 75.85499999999999,
-      "hensachi": 55.3,
+      "hensachi": 57.1,
+      "rank": 3
+    },
+    {
+      "appid": 3240220,
+      "name": "グランド・セフト・オートV エンハンスト",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header_japanese.jpg?t=1781187782",
+      "discountPercent": 50,
+      "initialPriceCents": 438000,
+      "finalPriceCents": 219000,
+      "reviewPositiveRate": 82.9,
+      "reviewCount": 195517,
+      "storeUrl": "https://store.steampowered.com/app/3240220/",
+      "rawScore": 71.48174243805249,
+      "hensachi": 52,
       "rank": 4
+    },
+    {
+      "appid": 3240220,
+      "name": "グランド・セフト・オートV エンハンスト",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header_japanese.jpg?t=1781187782",
+      "discountPercent": 50,
+      "initialPriceCents": 438000,
+      "finalPriceCents": 219000,
+      "reviewPositiveRate": 82.9,
+      "reviewCount": 195517,
+      "storeUrl": "https://store.steampowered.com/app/3240220/",
+      "rawScore": 71.48174243805249,
+      "hensachi": 52,
+      "rank": 5
     },
     {
       "appid": 251570,
@@ -68,11 +82,11 @@
       "initialPriceCents": 490000,
       "finalPriceCents": 269500,
       "reviewPositiveRate": 87.1,
-      "reviewCount": 401968,
+      "reviewCount": 401988,
       "storeUrl": "https://store.steampowered.com/app/251570/",
       "rawScore": 70.735,
-      "hensachi": 50,
-      "rank": 5
+      "hensachi": 51.2,
+      "rank": 6
     },
     {
       "appid": 1623730,
@@ -82,24 +96,10 @@
       "initialPriceCents": 340000,
       "finalPriceCents": 238000,
       "reviewPositiveRate": 94.3,
-      "reviewCount": 424864,
+      "reviewCount": 424900,
       "storeUrl": "https://store.steampowered.com/app/1623730/",
       "rawScore": 66.505,
-      "hensachi": 45.6,
-      "rank": 6
-    },
-    {
-      "appid": 3489700,
-      "name": "Stellar Blade™",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/header.jpg?t=1776466244",
-      "discountPercent": 33,
-      "initialPriceCents": 798000,
-      "finalPriceCents": 534600,
-      "reviewPositiveRate": 94,
-      "reviewCount": 89532,
-      "storeUrl": "https://store.steampowered.com/app/3489700/",
-      "rawScore": 66.43672881784192,
-      "hensachi": 45.5,
+      "hensachi": 46.3,
       "rank": 7
     },
     {
@@ -110,24 +110,24 @@
       "initialPriceCents": 430900,
       "finalPriceCents": 258500,
       "reviewPositiveRate": 90.2,
-      "reviewCount": 23216,
+      "reviewCount": 23221,
       "storeUrl": "https://store.steampowered.com/app/2138330/",
-      "rawScore": 66.04474000520514,
-      "hensachi": 45.1,
+      "rawScore": 66.04509290839165,
+      "hensachi": 45.8,
       "rank": 8
     },
     {
-      "appid": 1086940,
-      "name": "Baldur's Gate 3",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
-      "discountPercent": 25,
-      "initialPriceCents": 849900,
-      "finalPriceCents": 637400,
-      "reviewPositiveRate": 96.8,
-      "reviewCount": 845392,
-      "storeUrl": "https://store.steampowered.com/app/1086940/",
-      "rawScore": 65.13,
-      "hensachi": 44.2,
+      "appid": 1671210,
+      "name": "DELTARUNE",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/7ccda5b1631d2e60cc756a3271e845dbb9168821/header.jpg?t=1782314340",
+      "discountPercent": 20,
+      "initialPriceCents": 398000,
+      "finalPriceCents": 318400,
+      "reviewPositiveRate": 98.2,
+      "reviewCount": 116058,
+      "storeUrl": "https://store.steampowered.com/app/1671210/",
+      "rawScore": 62.48199556313189,
+      "hensachi": 41.7,
       "rank": 9
     },
     {
@@ -137,11 +137,11 @@
       "discountPercent": 10,
       "initialPriceCents": 187000,
       "finalPriceCents": 168300,
-      "reviewPositiveRate": 98.1,
-      "reviewCount": 1076,
+      "reviewPositiveRate": 98.2,
+      "reviewCount": 1114,
       "storeUrl": "https://store.steampowered.com/app/3711590/",
-      "rawScore": 50.27732340867162,
-      "hensachi": 28.9,
+      "rawScore": 50.36915044295917,
+      "hensachi": 27.7,
       "rank": 10
     }
   ]
