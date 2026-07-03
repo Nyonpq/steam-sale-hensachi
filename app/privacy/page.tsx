@@ -63,15 +63,24 @@ export default function Privacy() {
             </p>
           </section>
 
-          <section>
+         <section>
             <h2 className="font-display text-lg font-bold text-ink">
               お問い合わせ
             </h2>
             <p className="mt-2">
-              本ポリシーに関するお問い合わせは、サイト運営者までご連絡ください。
+              本ポリシーおよび当サイトに関するお問い合わせは、以下のメール
+              アドレスまでご連絡ください。
+            </p>
+            <p className="mt-2 font-mono">
+              
+                href="mailto:steam.sale.hensachi@gmail.com"
+                className="underline underline-offset-4 hover:text-hanko"
+              >
+                steam.sale.hensachi@gmail.com
+              </a>
             </p>
           </section>
-
+          
           <p className="pt-4 text-xs text-ink-muted">最終更新日：2026年7月</p>
         </div>
       </main>
