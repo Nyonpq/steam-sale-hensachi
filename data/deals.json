@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-07-03T21:44:04.911Z",
+  "fetchedAt": "2026-07-04T09:09:36.316Z",
   "currency": "JPY",
   "count": 10,
-  "averageDiscount": 44.5,
+  "averageDiscount": 43.3,
   "deals": [
     {
       "appid": 1091500,
@@ -12,10 +12,10 @@
       "initialPriceCents": 877800,
       "finalPriceCents": 263300,
       "reviewPositiveRate": 86.6,
-      "reviewCount": 951477,
+      "reviewCount": 951747,
       "storeUrl": "https://store.steampowered.com/app/1091500/",
       "rawScore": 81.81,
-      "hensachi": 63.7,
+      "hensachi": 64.2,
       "rank": 1
     },
     {
@@ -26,10 +26,10 @@
       "initialPriceCents": 767800,
       "finalPriceCents": 268700,
       "reviewPositiveRate": 94.4,
-      "reviewCount": 58451,
+      "reviewCount": 58491,
       "storeUrl": "https://store.steampowered.com/app/2161700/",
-      "rawScore": 80.27792217214866,
-      "hensachi": 61.8,
+      "rawScore": 80.27904328800955,
+      "hensachi": 62.3,
       "rank": 2
     },
     {
@@ -40,10 +40,10 @@
       "initialPriceCents": 836000,
       "finalPriceCents": 418000,
       "reviewPositiveRate": 95.3,
-      "reviewCount": 350399,
+      "reviewCount": 350446,
       "storeUrl": "https://store.steampowered.com/app/814380/",
       "rawScore": 75.85499999999999,
-      "hensachi": 56.5,
+      "hensachi": 57.1,
       "rank": 3
     },
     {
@@ -54,25 +54,11 @@
       "initialPriceCents": 438000,
       "finalPriceCents": 219000,
       "reviewPositiveRate": 82.9,
-      "reviewCount": 195774,
+      "reviewCount": 195939,
       "storeUrl": "https://store.steampowered.com/app/3240220/",
-      "rawScore": 71.48389521750755,
-      "hensachi": 51.3,
+      "rawScore": 71.48527586306743,
+      "hensachi": 51.9,
       "rank": 4
-    },
-    {
-      "appid": 3240220,
-      "name": "グランド・セフト・オートV エンハンスト",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header_japanese.jpg?t=1781187782",
-      "discountPercent": 50,
-      "initialPriceCents": 438000,
-      "finalPriceCents": 219000,
-      "reviewPositiveRate": 82.9,
-      "reviewCount": 195774,
-      "storeUrl": "https://store.steampowered.com/app/3240220/",
-      "rawScore": 71.48389521750755,
-      "hensachi": 51.3,
-      "rank": 5
     },
     {
       "appid": 251570,
@@ -82,25 +68,25 @@
       "initialPriceCents": 490000,
       "finalPriceCents": 269500,
       "reviewPositiveRate": 87.1,
-      "reviewCount": 402035,
+      "reviewCount": 402076,
       "storeUrl": "https://store.steampowered.com/app/251570/",
       "rawScore": 70.735,
-      "hensachi": 50.4,
-      "rank": 6
+      "hensachi": 51,
+      "rank": 5
     },
     {
-      "appid": 3241660,
-      "name": "R.E.P.O.",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/a12c92856b71315da885924ea5e1d5290c8025b8/header_alt_assets_2.jpg?t=1778158882",
-      "discountPercent": 35,
-      "initialPriceCents": 120000,
-      "finalPriceCents": 78000,
-      "reviewPositiveRate": 96.1,
-      "reviewCount": 406922,
-      "storeUrl": "https://store.steampowered.com/app/3241660/",
-      "rawScore": 69.38499999999999,
-      "hensachi": 48.8,
-      "rank": 7
+      "appid": 2215430,
+      "name": "Ghost of Tsushima DIRECTOR'S CUT",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg?t=1763409398",
+      "discountPercent": 40,
+      "initialPriceCents": 759000,
+      "finalPriceCents": 455400,
+      "reviewPositiveRate": 93.9,
+      "reviewCount": 92984,
+      "storeUrl": "https://store.steampowered.com/app/2215430/",
+      "rawScore": 69.61372790719719,
+      "hensachi": 49.6,
+      "rank": 6
     },
     {
       "appid": 1623730,
@@ -110,10 +96,24 @@
       "initialPriceCents": 340000,
       "finalPriceCents": 238000,
       "reviewPositiveRate": 94.3,
-      "reviewCount": 424951,
+      "reviewCount": 425021,
       "storeUrl": "https://store.steampowered.com/app/1623730/",
       "rawScore": 66.505,
-      "hensachi": 45.3,
+      "hensachi": 45.9,
+      "rank": 7
+    },
+    {
+      "appid": 3489700,
+      "name": "Stellar Blade™",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/header.jpg?t=1776466244",
+      "discountPercent": 33,
+      "initialPriceCents": 798000,
+      "finalPriceCents": 534600,
+      "reviewPositiveRate": 94,
+      "reviewCount": 89674,
+      "storeUrl": "https://store.steampowered.com/app/3489700/",
+      "rawScore": 66.4393259824453,
+      "hensachi": 45.9,
       "rank": 8
     },
     {
@@ -124,10 +124,10 @@
       "initialPriceCents": 430900,
       "finalPriceCents": 258500,
       "reviewPositiveRate": 90.2,
-      "reviewCount": 23220,
+      "reviewCount": 23223,
       "storeUrl": "https://store.steampowered.com/app/2138330/",
-      "rawScore": 66.04502233383351,
-      "hensachi": 44.8,
+      "rawScore": 66.04523404839101,
+      "hensachi": 45.4,
       "rank": 9
     },
     {
@@ -138,10 +138,10 @@
       "initialPriceCents": 187000,
       "finalPriceCents": 168300,
       "reviewPositiveRate": 98,
-      "reviewCount": 1172,
+      "reviewCount": 1224,
       "storeUrl": "https://store.steampowered.com/app/3711590/",
-      "rawScore": 50.38225664949256,
-      "hensachi": 26,
+      "rawScore": 50.45334373094548,
+      "hensachi": 26.8,
       "rank": 10
     }
   ]
