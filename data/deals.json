@@ -1,23 +1,9 @@
 {
-  "fetchedAt": "2026-07-05T14:01:56.436Z",
+  "fetchedAt": "2026-07-05T15:55:15.186Z",
   "currency": "JPY",
-  "count": 9,
-  "averageDiscount": 47.8,
+  "count": 10,
+  "averageDiscount": 44.5,
   "deals": [
-    {
-      "appid": 1687950,
-      "name": "ペルソナ５ ザ・ロイヤル",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header_japanese.jpg?t=1782353605",
-      "discountPercent": 70,
-      "initialPriceCents": 767800,
-      "finalPriceCents": 230300,
-      "reviewPositiveRate": 96.4,
-      "reviewCount": 133539,
-      "storeUrl": "https://store.steampowered.com/app/1687950/",
-      "rawScore": 84.58192970527347,
-      "hensachi": 62.9,
-      "rank": 1
-    },
     {
       "appid": 1091500,
       "name": "サイバーパンク2077",
@@ -26,11 +12,11 @@
       "initialPriceCents": 877800,
       "finalPriceCents": 263300,
       "reviewPositiveRate": 86.6,
-      "reviewCount": 952589,
+      "reviewCount": 952672,
       "storeUrl": "https://store.steampowered.com/app/1091500/",
       "rawScore": 81.81,
-      "hensachi": 60,
-      "rank": 2
+      "hensachi": 63.8,
+      "rank": 1
     },
     {
       "appid": 2161700,
@@ -40,11 +26,11 @@
       "initialPriceCents": 767800,
       "finalPriceCents": 268700,
       "reviewPositiveRate": 94.4,
-      "reviewCount": 58604,
+      "reviewCount": 58613,
       "storeUrl": "https://store.steampowered.com/app/2161700/",
-      "rawScore": 80.28220630294516,
-      "hensachi": 58.5,
-      "rank": 3
+      "rawScore": 80.28245796221444,
+      "hensachi": 61.9,
+      "rank": 2
     },
     {
       "appid": 814380,
@@ -54,10 +40,24 @@
       "initialPriceCents": 836000,
       "finalPriceCents": 418000,
       "reviewPositiveRate": 95.3,
-      "reviewCount": 350581,
+      "reviewCount": 350596,
       "storeUrl": "https://store.steampowered.com/app/814380/",
       "rawScore": 75.85499999999999,
-      "hensachi": 53.9,
+      "hensachi": 56.6,
+      "rank": 3
+    },
+    {
+      "appid": 3240220,
+      "name": "グランド・セフト・オートV エンハンスト",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header_japanese.jpg?t=1781187782",
+      "discountPercent": 50,
+      "initialPriceCents": 438000,
+      "finalPriceCents": 219000,
+      "reviewPositiveRate": 82.9,
+      "reviewCount": 196637,
+      "storeUrl": "https://store.steampowered.com/app/3240220/",
+      "rawScore": 71.49110357874312,
+      "hensachi": 51.3,
       "rank": 4
     },
     {
@@ -68,10 +68,10 @@
       "initialPriceCents": 438000,
       "finalPriceCents": 219000,
       "reviewPositiveRate": 82.9,
-      "reviewCount": 196575,
+      "reviewCount": 196637,
       "storeUrl": "https://store.steampowered.com/app/3240220/",
-      "rawScore": 71.49058676845083,
-      "hensachi": 49.5,
+      "rawScore": 71.49110357874312,
+      "hensachi": 51.3,
       "rank": 5
     },
     {
@@ -82,11 +82,25 @@
       "initialPriceCents": 490000,
       "finalPriceCents": 269500,
       "reviewPositiveRate": 87.1,
-      "reviewCount": 402190,
+      "reviewCount": 402199,
       "storeUrl": "https://store.steampowered.com/app/251570/",
       "rawScore": 70.735,
-      "hensachi": 48.7,
+      "hensachi": 50.4,
       "rank": 6
+    },
+    {
+      "appid": 3241660,
+      "name": "R.E.P.O.",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/a12c92856b71315da885924ea5e1d5290c8025b8/header_alt_assets_2.jpg?t=1778158882",
+      "discountPercent": 35,
+      "initialPriceCents": 120000,
+      "finalPriceCents": 78000,
+      "reviewPositiveRate": 96.1,
+      "reviewCount": 407470,
+      "storeUrl": "https://store.steampowered.com/app/3241660/",
+      "rawScore": 69.38499999999999,
+      "hensachi": 48.7,
+      "rank": 7
     },
     {
       "appid": 1623730,
@@ -96,11 +110,11 @@
       "initialPriceCents": 340000,
       "finalPriceCents": 238000,
       "reviewPositiveRate": 94.3,
-      "reviewCount": 425229,
+      "reviewCount": 425246,
       "storeUrl": "https://store.steampowered.com/app/1623730/",
       "rawScore": 66.505,
-      "hensachi": 44.4,
-      "rank": 7
+      "hensachi": 45.3,
+      "rank": 8
     },
     {
       "appid": 2138330,
@@ -110,11 +124,11 @@
       "initialPriceCents": 430900,
       "finalPriceCents": 258500,
       "reviewPositiveRate": 90.2,
-      "reviewCount": 23233,
+      "reviewCount": 23234,
       "storeUrl": "https://store.steampowered.com/app/2138330/",
-      "rawScore": 66.04593956611748,
-      "hensachi": 43.9,
-      "rank": 8
+      "rawScore": 66.04601010118826,
+      "hensachi": 44.7,
+      "rank": 9
     },
     {
       "appid": 3711590,
@@ -123,12 +137,12 @@
       "discountPercent": 10,
       "initialPriceCents": 187000,
       "finalPriceCents": 168300,
-      "reviewPositiveRate": 97.9,
-      "reviewCount": 1399,
+      "reviewPositiveRate": 98,
+      "reviewCount": 1420,
       "storeUrl": "https://store.steampowered.com/app/3711590/",
-      "rawScore": 50.637181266710336,
-      "hensachi": 28.2,
-      "rank": 9
+      "rawScore": 50.69658142614139,
+      "hensachi": 26.1,
+      "rank": 10
     }
   ]
 }
