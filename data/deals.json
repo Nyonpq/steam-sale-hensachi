@@ -1,23 +1,9 @@
 {
-  "fetchedAt": "2026-07-05T14:01:56.436Z",
+  "fetchedAt": "2026-07-05T15:56:03.917Z",
   "currency": "JPY",
-  "count": 9,
-  "averageDiscount": 47.8,
+  "count": 22,
+  "averageDiscount": 33.5,
   "deals": [
-    {
-      "appid": 1687950,
-      "name": "ペルソナ５ ザ・ロイヤル",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header_japanese.jpg?t=1782353605",
-      "discountPercent": 70,
-      "initialPriceCents": 767800,
-      "finalPriceCents": 230300,
-      "reviewPositiveRate": 96.4,
-      "reviewCount": 133539,
-      "storeUrl": "https://store.steampowered.com/app/1687950/",
-      "rawScore": 84.58192970527347,
-      "hensachi": 62.9,
-      "rank": 1
-    },
     {
       "appid": 1091500,
       "name": "サイバーパンク2077",
@@ -26,11 +12,17 @@
       "initialPriceCents": 877800,
       "finalPriceCents": 263300,
       "reviewPositiveRate": 86.6,
-      "reviewCount": 952589,
+      "reviewCount": 952672,
       "storeUrl": "https://store.steampowered.com/app/1091500/",
+      "genres": [
+        "RPG"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2020,
+      "shortDescription": "『サイバーパンク2077』――未来の巨大都市ナイトシティを舞台にしたオープンワールド・アクションアドベンチャーRPG",
       "rawScore": 81.81,
-      "hensachi": 60,
-      "rank": 2
+      "hensachi": 63.3,
+      "rank": 1
     },
     {
       "appid": 2161700,
@@ -40,10 +32,38 @@
       "initialPriceCents": 767800,
       "finalPriceCents": 268700,
       "reviewPositiveRate": 94.4,
-      "reviewCount": 58604,
+      "reviewCount": 58613,
       "storeUrl": "https://store.steampowered.com/app/2161700/",
-      "rawScore": 80.28220630294516,
-      "hensachi": 58.5,
+      "genres": [
+        "アドベンチャー",
+        "RPG",
+        "ストラテジー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2024,
+      "shortDescription": "『ペルソナ３』が、装いを新たに現行最新ハードにて生まれ変わる！",
+      "rawScore": 80.28245796221444,
+      "hensachi": 62.7,
+      "rank": 2
+    },
+    {
+      "appid": 32470,
+      "name": "サイバーパンク2077 アルティメットエディション",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/32470/5htp7gjbzhjufq5c/67f4f047da1935d1efe1c4a4697011951be5b534/header_ratio.jpg?t=1746520128",
+      "discountPercent": 60,
+      "initialPriceCents": 1308700,
+      "finalPriceCents": 480000,
+      "reviewPositiveRate": 97.7,
+      "reviewCount": 42724,
+      "storeUrl": "https://store.steampowered.com/app/32470/",
+      "genres": [
+        "ストラテジー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2010,
+      "shortDescription": "Command or corrupt an entire galaxy in the definitive Star Wars strategy collection. It is a time of galactic civil war. Will you take up the reins of the Rebellion, assume control of the Empire, or rule the Star Wars Underworld?",
+      "rawScore": 78.6692719675199,
+      "hensachi": 62.2,
       "rank": 3
     },
     {
@@ -54,10 +74,17 @@
       "initialPriceCents": 836000,
       "finalPriceCents": 418000,
       "reviewPositiveRate": 95.3,
-      "reviewCount": 350581,
+      "reviewCount": 350596,
       "storeUrl": "https://store.steampowered.com/app/814380/",
+      "genres": [
+        "アクション",
+        "アドベンチャー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2019,
+      "shortDescription": "隻腕の狼、戦国に忍ぶ。 史上最も血なまぐさい時代・戦国を舞台に、孤独な忍びの戦いを描くアクション・アドベンチャー。",
       "rawScore": 75.85499999999999,
-      "hensachi": 53.9,
+      "hensachi": 61.1,
       "rank": 4
     },
     {
@@ -68,10 +95,18 @@
       "initialPriceCents": 438000,
       "finalPriceCents": 219000,
       "reviewPositiveRate": 82.9,
-      "reviewCount": 196575,
+      "reviewCount": 196637,
       "storeUrl": "https://store.steampowered.com/app/3240220/",
-      "rawScore": 71.49058676845083,
-      "hensachi": 49.5,
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "レース"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2025,
+      "shortDescription": "大ヒットの『グランド・セフト・オートV』と「GTAオンライン」を体験しよう - 新世代用に美麗なグラフィック、短縮されたロード時間、3Dオーディオなどのアップグレード。さらに、「GTAオンライン」プレイヤー用の限定コンテンツなど。",
+      "rawScore": 71.49110357874312,
+      "hensachi": 59.6,
       "rank": 5
     },
     {
@@ -82,11 +117,43 @@
       "initialPriceCents": 490000,
       "finalPriceCents": 269500,
       "reviewPositiveRate": 87.1,
-      "reviewCount": 402190,
+      "reviewCount": 402199,
       "storeUrl": "https://store.steampowered.com/app/251570/",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "インディー",
+        "RPG",
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2024,
+      "shortDescription": "『7 Days to Die』は、FPS、サバイバルホラー、タワーディフェンス、ロールプレイングゲームをユニークに組み合わせたオープンワールド型のゲームです。元祖ゾンビサバイバルなサンドボックスRPGゲームをプレイしましょう。ナベズゲインがあなたを待っています！",
       "rawScore": 70.735,
-      "hensachi": 48.7,
+      "hensachi": 59.3,
       "rank": 6
+    },
+    {
+      "appid": 3241660,
+      "name": "R.E.P.O.",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/a12c92856b71315da885924ea5e1d5290c8025b8/header_alt_assets_2.jpg?t=1778158882",
+      "discountPercent": 35,
+      "initialPriceCents": 120000,
+      "finalPriceCents": 78000,
+      "reviewPositiveRate": 96.1,
+      "reviewCount": 407470,
+      "storeUrl": "https://store.steampowered.com/app/3241660/",
+      "genres": [
+        "アクション",
+        "早期アクセス"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2025,
+      "shortDescription": "An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.",
+      "rawScore": 69.38499999999999,
+      "hensachi": 58.8,
+      "rank": 7
     },
     {
       "appid": 1623730,
@@ -96,11 +163,21 @@
       "initialPriceCents": 340000,
       "finalPriceCents": 238000,
       "reviewPositiveRate": 94.3,
-      "reviewCount": 425229,
+      "reviewCount": 425246,
       "storeUrl": "https://store.steampowered.com/app/1623730/",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "インディー",
+        "RPG",
+        "早期アクセス"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2024,
+      "shortDescription": "広大な世界で不思議な生物『パル』を集めて、戦闘・建築・農業を行わせたり、工場で労働させたりする全く新しいマルチ対応のオープンワールドサバイバルクラフトゲームです。",
       "rawScore": 66.505,
-      "hensachi": 44.4,
-      "rank": 7
+      "hensachi": 57.8,
+      "rank": 8
     },
     {
       "appid": 2138330,
@@ -110,11 +187,40 @@
       "initialPriceCents": 430900,
       "finalPriceCents": 258500,
       "reviewPositiveRate": 90.2,
-      "reviewCount": 23233,
+      "reviewCount": 23234,
       "storeUrl": "https://store.steampowered.com/app/2138330/",
-      "rawScore": 66.04593956611748,
-      "hensachi": 43.9,
-      "rank": 8
+      "genres": [
+        "RPG"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2023,
+      "shortDescription": "『サイバーパンク2077』に、スパイスリラーをテーマとした拡張パック「仮初めの自由」が新登場。ナイトシティで生きる傭兵、Vに待つ新たな任務とは？スパイのソロモン・リードと共に、踏みにじまれた忠誠心と熾烈な権力闘争が絡み合うスパイの世界へと身を投じろ",
+      "rawScore": 66.04601010118826,
+      "hensachi": 57.6,
+      "rank": 9
+    },
+    {
+      "appid": 2191410,
+      "name": "For the Crown",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2191410/header.jpg?t=1783179096",
+      "discountPercent": 50,
+      "initialPriceCents": 120000,
+      "finalPriceCents": 60000,
+      "reviewPositiveRate": 81.8,
+      "reviewCount": 11,
+      "storeUrl": "https://store.steampowered.com/app/2191410/",
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "A puzzle logistics builder where lemming-like workers transport resources across a limited island. Create production chains, optimize routes, upgrade your castle and solve increasingly complex space and logistics challenges. The island never gets bigger. Your logistics problems do.",
+      "rawScore": 55.20238206055707,
+      "hensachi": 53.7,
+      "rank": 10
     },
     {
       "appid": 3711590,
@@ -123,12 +229,258 @@
       "discountPercent": 10,
       "initialPriceCents": 187000,
       "finalPriceCents": 168300,
-      "reviewPositiveRate": 97.9,
-      "reviewCount": 1399,
+      "reviewPositiveRate": 98,
+      "reviewCount": 1420,
       "storeUrl": "https://store.steampowered.com/app/3711590/",
-      "rawScore": 50.637181266710336,
-      "hensachi": 28.2,
-      "rank": 9
+      "genres": [
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "ドット絵2D視点の謎解きゲーム。プレイヤーとヒロインたちは悪魔・コニアルによって、無限に走り続ける電車に閉じ込められ、車両の中で異変を探し出さないと、死から逃げられない！",
+      "rawScore": 50.69658142614139,
+      "hensachi": 52,
+      "rank": 11
+    },
+    {
+      "appid": 3384540,
+      "name": "Spirit of the Dome",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384540/48bd364a2ef567b75494eb9de0a8e09f9e9cddd4/header.jpg?t=1783198918",
+      "discountPercent": 21,
+      "initialPriceCents": 65500,
+      "finalPriceCents": 51700,
+      "reviewPositiveRate": 100,
+      "reviewCount": 7,
+      "storeUrl": "https://store.steampowered.com/app/3384540/",
+      "genres": [
+        "アクション",
+        "カジュアル",
+        "ストラテジー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "このRTSスタイルのタワーディフェンスゲームで、荒廃した世界を舞台に、絶え間なく押し寄せる敵や闇の勢力から世界を守り抜こう！",
+      "rawScore": 47.857886743365825,
+      "hensachi": 51,
+      "rank": 12
+    },
+    {
+      "appid": 4698340,
+      "name": "The Incident",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4698340/c98f62a155b7595c7418021dba8a5c49c7f8d2fb/header.jpg?t=1783202818",
+      "discountPercent": 20,
+      "initialPriceCents": 53000,
+      "finalPriceCents": 42400,
+      "reviewPositiveRate": 75,
+      "reviewCount": 8,
+      "storeUrl": "https://store.steampowered.com/app/4698340/",
+      "genres": [
+        "アドベンチャー",
+        "インディー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "The Incident is a first-person psychological horror game where you explore a closed circus, destroy evidence before investigators arrive, and avoid someone still inside watching your every move.",
+      "rawScore": 38.850915129959716,
+      "hensachi": 47.8,
+      "rank": 13
+    },
+    {
+      "appid": 3997700,
+      "name": "Where Is Mommy",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3997700/a817ded1205207dc08578177437da3ed0824641a/header.jpg?t=1783220314",
+      "discountPercent": 30,
+      "initialPriceCents": 70000,
+      "finalPriceCents": 49000,
+      "reviewPositiveRate": 60,
+      "reviewCount": 5,
+      "storeUrl": "https://store.steampowered.com/app/3997700/",
+      "genres": [
+        "アドベンチャー",
+        "インディー",
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "Trapped in a bazaar that twists with every turn, you are a lost child searching for your mother. Watch for subtle anomalies in the shifting environment to survive the loop. In this retro-inspired world, nothing is as it seems. Can you find her before the cycle swallows you whole?",
+      "rawScore": 37.43641981276846,
+      "hensachi": 47.2,
+      "rank": 14
+    },
+    {
+      "appid": 4840320,
+      "name": "Sex Passion and Lust",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840320/838a1d56c264957b65688aecf1567bbb3b48e2dc/header.jpg?t=1783153653",
+      "discountPercent": 25,
+      "initialPriceCents": 260000,
+      "finalPriceCents": 195000,
+      "reviewPositiveRate": 40,
+      "reviewCount": 5,
+      "storeUrl": "https://store.steampowered.com/app/4840320/",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "インディー",
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "セックス・パッション＆ラストはプレイヤーの妄想を現実にする究極のアдаルトオープンワールド。フルアニメ＆無修正の絡みシーン（ソロ、パートナー、グループ）、奥深いキャラメイク、自由自在なカメラワークを堪能せよ。フィルターも限界もない圧倒的な自由がここに。",
+      "rawScore": 28.186419812768467,
+      "hensachi": 43.9,
+      "rank": 15
+    },
+    {
+      "appid": 4849010,
+      "name": "FOCUS",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849010/f6e3154c3685f7bf7ad1d0126f18205214d5b8ef/header.jpg?t=1783213208",
+      "discountPercent": 15,
+      "initialPriceCents": 47000,
+      "finalPriceCents": 39900,
+      "reviewPositiveRate": 25,
+      "reviewCount": 4,
+      "storeUrl": "https://store.steampowered.com/app/4849010/",
+      "genres": [
+        "インディー",
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "監視映像が、少しずつ書き換わっていく。変化した箇所を見つけて報告する、ポイント&amp;クリック観察ホラー。",
+      "rawScore": 18.13762265787177,
+      "hensachi": 40.3,
+      "rank": 16
+    },
+    {
+      "appid": 1831380,
+      "name": "Incarnation - Lifetimes",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1831380/e9c3ad70a9814125aa9436dae7281fb32b3cfe95/header.jpg?t=1783248429",
+      "discountPercent": 40,
+      "initialPriceCents": 65500,
+      "finalPriceCents": 39300,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/1831380/",
+      "genres": [
+        "ストラテジー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "After years of development, many failures and redesigns, Incarnation - Lifetimes final form is taking shape.",
+      "rawScore": 18,
+      "hensachi": 40.2,
+      "rank": 17
+    },
+    {
+      "appid": 4365090,
+      "name": "五行策(WuXing Card)",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4365090/89e2115bcc3ccff255cee78ea20eb978c8dafdfb/header_japanese.jpg?t=1783181730",
+      "discountPercent": 40,
+      "initialPriceCents": 53000,
+      "finalPriceCents": 31800,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4365090/",
+      "genres": [
+        "インディー",
+        "ストラテジー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "『五行策』は中国の伝統的な五行思想をモチーフにした戦略カードゲームです。英雄のスキルと多彩なアイテムを組み合わせ、強力なコンボを構築して限界スコアに挑み、刻々と変化する戦局の中で自分だけの勝利の道を切り開きましょう。",
+      "rawScore": 18,
+      "hensachi": 40.2,
+      "rank": 18
+    },
+    {
+      "appid": 4829230,
+      "name": "Nin Ninja RESCUE MISSION",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829230/50cdb5d17f53af866621eac1e42a93fcf602621e/header.jpg?t=1783264310",
+      "discountPercent": 10,
+      "initialPriceCents": 26500,
+      "finalPriceCents": 23800,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4829230/",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "カジュアル",
+        "インディー",
+        "レース",
+        "RPG"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Nin Ninja Rescue Mission is an action, adventure, platform, and endless runner game. Run, face dangerous enemies, dodge traps, defeat enemies, and use your skills to complete a rescue mission.",
+      "rawScore": 4.5,
+      "hensachi": 35.3,
+      "rank": 19
+    },
+    {
+      "appid": 4771430,
+      "name": "Pickel: The Mysterious Mine",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4771430/5b0ee09af3f9907e48ced5db72d829aa6d23320b/header.jpg?t=1783247688",
+      "discountPercent": 10,
+      "initialPriceCents": 39500,
+      "finalPriceCents": 35500,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4771430/",
+      "genres": [
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "ある日発生した謎の大地震と、跡形もなく消えた村人たち。主人公「ピコ」となり、深く暗い地下世界を突き進め。ツルハシの先にかかる手がかりとき妙な痕跡……。深く潜るほど、村が隠し続けた巨大な真実が姿を現す。果たして、この鉱山の先には何が待ち受けているのか？",
+      "rawScore": 4.5,
+      "hensachi": 35.3,
+      "rank": 20
+    },
+    {
+      "appid": 4831720,
+      "name": "City Cardz",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4831720/64598667100c987145b37ee9cdb5750e62c9160f/header.jpg?t=1783235158",
+      "discountPercent": 10,
+      "initialPriceCents": 53000,
+      "finalPriceCents": 47700,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4831720/",
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "ストラテジー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Collect 1200+ city cards from 600+ different cities, build your deck and compete in strategic card battles inspired by cities from around the world. Discover unique card abilities, different combinations, and interesting city facts as you outsmart the opponents.",
+      "rawScore": 4.5,
+      "hensachi": 35.3,
+      "rank": 21
+    },
+    {
+      "appid": 4840300,
+      "name": "The Pawn Broker",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840300/bd7baa4d1761ddd14aee45be20f99eab77f758d6/header.jpg?t=1783216601",
+      "discountPercent": 10,
+      "initialPriceCents": 105000,
+      "finalPriceCents": 94500,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4840300/",
+      "genres": [
+        "インディー",
+        "シミュレーション"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "The Pawn Broker is an atmospheric horror economic survival game. Run a cursed pawnshop, analyze every item that comes through for signs of theft or dark curses, and make high-stakes decisions to stay profitable before your five days are up.",
+      "rawScore": 4.5,
+      "hensachi": 35.3,
+      "rank": 22
     }
   ]
 }

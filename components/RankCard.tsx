@@ -39,11 +39,29 @@ export default function RankCard({ deal }: { deal: Deal }) {
           ) : null}
         </div>
         <p className="truncate font-display text-base font-bold text-ink sm:text-lg">{deal.name}</p>
-        <div className="mt-1 flex flex-wrap items-center gap-x-3 gap-y-1 font-mono text-xs text-ink-muted">
-          <span className={`inline-block px-2 py-0.5 text-[11px] font-bold ${label.badgeClass}`}>{label.text}</span>
+        {deal.shortDescription && (
+          <p className="mt-1 line-clamp-2 text-xs leading-relaxed text-ink-muted">
+            {deal.shortDescription}
+          </p>
+        )}
+        <div className="mt-1.5 flex flex-wrap items-center gap-x-3 gap-y-1 font-mono text-xs text-ink-muted">
+          <span className={`inline-block px-2.5 py-1 text-xs font-bold tracking-wide ${label.badgeClass}`}>{label.text}</span>
           <span>レビュー好評率 {deal.reviewPositiveRate}%</span>
           <span>（{deal.reviewCount.toLocaleString("ja-JP")}件）</span>
         </div>
+        {(deal.genres?.length || deal.releaseYear || deal.supportsJapanese) ? (
+          <div className="mt-1.5 flex flex-wrap gap-1.5">
+            {deal.releaseYear && (
+              <span className="border border-ink/30 px-1.5 py-0.5 text-[10px] text-ink-muted">{deal.releaseYear}年</span>
+            )}
+            {deal.supportsJapanese && (
+              <span className="border border-pen px-1.5 py-0.5 text-[10px] font-bold text-pen">日本語対応</span>
+            )}
+            {deal.genres?.slice(0, 3).map((genre) => (
+              <span key={genre} className="border border-ink/30 px-1.5 py-0.5 text-[10px] text-ink-muted">{genre}</span>
+            ))}
+          </div>
+        ) : null}
       </div>
 
       {/* 価格 */}

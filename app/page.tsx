@@ -1,6 +1,6 @@
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
-import RankCard from "@/components/RankCard";
+import DealsExplorer from "@/components/DealsExplorer";
 import dealsData from "@/data/deals.json";
 import { DealsDataset } from "@/lib/types";
 
@@ -37,11 +37,7 @@ export default function Home() {
           </p>
         </section>
 
-        <section className="space-y-3">
-          {deals.map((deal) => (
-            <RankCard key={deal.appid} deal={deal} />
-          ))}
-        </section>
+        <DealsExplorer deals={deals} />
       </main>
       <Footer />
     </>

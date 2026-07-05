@@ -17,8 +17,11 @@ const FEATURED_URL =
 
 const REVIEWS_URL = (appid) =>
   `https://store.steampowered.com/appreviews/${appid}?json=1&language=all&purchase_type=all&num_per_page=0`;
-
-const REQUEST_DELAY_MS = 300; // Steam側への配慮のための最小限のウェイト
+  
+const APPDETAILS_URL = (appid) =>
+  `https://store.steampowered.com/api/appdetails?appids=${appid}&l=japanese&cc=jp`;
+  
+const REQUEST_DELAY_MS = 200; // Steam側への配慮のための最小限のウェイト
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
@@ -36,8 +39,26 @@ async function fetchJson(url) {
 
 async function fetchFeaturedSpecials() {
   const data = await fetchJson(FEATURED_URL);
-  const items = data?.specials?.items ?? [];
-  return items.filter((item) => item.discount_percent > 0);
+
+  // specialsだけでなく、top_sellers・new_releasesにもセール中タイトルが
+  // 混ざっているため、合算して母集団を広げる（ジャンル絞り込みの精度向上のため）
+  const buckets = [
+    data?.specials?.items,
+    data?.top_sellers?.items,
+    data?.new_releases?.items,
+  ];
+
+  const merged = buckets.flatMap((items) => items ?? []);
+  const discounted = merged.filter((item) => item.discount_percent > 0);
+
+  const seen = new Set();
+  const deduped = [];
+  for (const item of discounted) {
+    if (seen.has(item.id)) continue;
+    seen.add(item.id);
+    deduped.push(item);
+  }
+  return deduped;
 }
 
 async function fetchReviewStats(appid) {
@@ -59,14 +80,40 @@ async function fetchReviewStats(appid) {
   }
 }
 
+function extractYear(dateStr) {
+  const match = /(\d{4})/.exec(dateStr ?? "");
+  return match ? Number(match[1]) : null;
+}
+
+async function fetchAppDetailsExtra(appid) {
+  const fallback = { genres: [], supportsJapanese: false, releaseYear: null, shortDescription: "" };
+  try {
+    const data = await fetchJson(APPDETAILS_URL(appid));
+    const entry = data?.[appid];
+    if (!entry?.success) return fallback;
+
+    const d = entry.data ?? {};
+    const genres = (d.genres ?? []).map((g) => g.description).filter(Boolean);
+    const supportsJapanese = typeof d.supported_languages === "string" && d.supported_languages.includes("日本語");
+    const releaseYear = extractYear(d.release_date?.date);
+    const shortDescription = (d.short_description ?? "").trim();
+
+    return { genres, supportsJapanese, releaseYear, shortDescription };
+  } catch (err) {
+    console.warn(`  ! appdetails fetch failed for appid ${appid}:`, err.message);
+    return fallback;
+  }
+}
+
 async function buildRawDeals(items) {
   const rawDeals = [];
 
   for (const item of items) {
     console.log(`Fetching reviews for ${item.name} (${item.id})...`);
-    const { reviewPositiveRate, reviewCount } = await fetchReviewStats(
-      item.id
-    );
+    const { reviewPositiveRate, reviewCount } = await fetchReviewStats(item.id);
+    await sleep(REQUEST_DELAY_MS);
+
+    const { genres, supportsJapanese, releaseYear, shortDescription } = await fetchAppDetailsExtra(item.id);
 
     rawDeals.push({
       appid: item.id,
@@ -78,6 +125,10 @@ async function buildRawDeals(items) {
       reviewPositiveRate,
       reviewCount,
       storeUrl: `https://store.steampowered.com/app/${item.id}/`,
+      genres,
+      supportsJapanese,
+      releaseYear,
+      shortDescription,
     });
 
     await sleep(REQUEST_DELAY_MS);

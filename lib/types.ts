@@ -8,6 +8,10 @@ export interface RawDealInput {
   reviewPositiveRate: number; // 0-100, % of positive reviews
   reviewCount: number; // total number of reviews
   storeUrl: string;
+  genres?: string[]; // 例: ["アクション", "インディー"]
+  supportsJapanese?: boolean;
+  releaseYear?: number | null;
+  shortDescription?: string;
 }
 
 export interface Deal extends RawDealInput {

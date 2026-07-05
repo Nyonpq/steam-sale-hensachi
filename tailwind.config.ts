@@ -16,7 +16,8 @@ const config: Config = {
         hanko: "#C23B22",
         "hanko-dark": "#9C2E19",
         pen: "#2F5D8A",
-        gold: "#B8860B",
+        green: "#3D7A4F",
+        gold: "#8A6914",
       },
       fontFamily: {
         display: ["var(--font-display)", "sans-serif"],
