@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-07-04T20:40:08.008Z",
+  "fetchedAt": "2026-07-05T09:47:19.284Z",
   "currency": "JPY",
   "count": 10,
-  "averageDiscount": 44.5,
+  "averageDiscount": 44.3,
   "deals": [
     {
       "appid": 1091500,
@@ -12,10 +12,10 @@
       "initialPriceCents": 877800,
       "finalPriceCents": 263300,
       "reviewPositiveRate": 86.6,
-      "reviewCount": 952149,
+      "reviewCount": 952473,
       "storeUrl": "https://store.steampowered.com/app/1091500/",
       "rawScore": 81.81,
-      "hensachi": 63.7,
+      "hensachi": 64,
       "rank": 1
     },
     {
@@ -26,10 +26,10 @@
       "initialPriceCents": 767800,
       "finalPriceCents": 268700,
       "reviewPositiveRate": 94.4,
-      "reviewCount": 58539,
+      "reviewCount": 58585,
       "storeUrl": "https://store.steampowered.com/app/2161700/",
-      "rawScore": 80.2803876154633,
-      "hensachi": 61.9,
+      "rawScore": 80.28167489532508,
+      "hensachi": 62.1,
       "rank": 2
     },
     {
@@ -40,10 +40,10 @@
       "initialPriceCents": 836000,
       "finalPriceCents": 418000,
       "reviewPositiveRate": 95.3,
-      "reviewCount": 350509,
+      "reviewCount": 350560,
       "storeUrl": "https://store.steampowered.com/app/814380/",
       "rawScore": 75.85499999999999,
-      "hensachi": 56.6,
+      "hensachi": 56.8,
       "rank": 3
     },
     {
@@ -54,10 +54,10 @@
       "initialPriceCents": 438000,
       "finalPriceCents": 219000,
       "reviewPositiveRate": 82.9,
-      "reviewCount": 196226,
+      "reviewCount": 196462,
       "storeUrl": "https://store.steampowered.com/app/3240220/",
-      "rawScore": 71.48767458199129,
-      "hensachi": 51.3,
+      "rawScore": 71.48964442060456,
+      "hensachi": 51.6,
       "rank": 4
     },
     {
@@ -68,10 +68,10 @@
       "initialPriceCents": 438000,
       "finalPriceCents": 219000,
       "reviewPositiveRate": 82.9,
-      "reviewCount": 196226,
+      "reviewCount": 196462,
       "storeUrl": "https://store.steampowered.com/app/3240220/",
-      "rawScore": 71.48767458199129,
-      "hensachi": 51.3,
+      "rawScore": 71.48964442060456,
+      "hensachi": 51.6,
       "rank": 5
     },
     {
@@ -82,25 +82,11 @@
       "initialPriceCents": 490000,
       "finalPriceCents": 269500,
       "reviewPositiveRate": 87.1,
-      "reviewCount": 402125,
+      "reviewCount": 402174,
       "storeUrl": "https://store.steampowered.com/app/251570/",
       "rawScore": 70.735,
-      "hensachi": 50.4,
+      "hensachi": 50.7,
       "rank": 6
-    },
-    {
-      "appid": 3241660,
-      "name": "R.E.P.O.",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/a12c92856b71315da885924ea5e1d5290c8025b8/header_alt_assets_2.jpg?t=1778158882",
-      "discountPercent": 35,
-      "initialPriceCents": 120000,
-      "finalPriceCents": 78000,
-      "reviewPositiveRate": 96.1,
-      "reviewCount": 407230,
-      "storeUrl": "https://store.steampowered.com/app/3241660/",
-      "rawScore": 69.38499999999999,
-      "hensachi": 48.8,
-      "rank": 7
     },
     {
       "appid": 1623730,
@@ -110,10 +96,24 @@
       "initialPriceCents": 340000,
       "finalPriceCents": 238000,
       "reviewPositiveRate": 94.3,
-      "reviewCount": 425110,
+      "reviewCount": 425197,
       "storeUrl": "https://store.steampowered.com/app/1623730/",
       "rawScore": 66.505,
-      "hensachi": 45.3,
+      "hensachi": 45.7,
+      "rank": 7
+    },
+    {
+      "appid": 3489700,
+      "name": "Stellar Blade™",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/header.jpg?t=1776466244",
+      "discountPercent": 33,
+      "initialPriceCents": 798000,
+      "finalPriceCents": 534600,
+      "reviewPositiveRate": 94,
+      "reviewCount": 89827,
+      "storeUrl": "https://store.steampowered.com/app/3489700/",
+      "rawScore": 66.44211973705949,
+      "hensachi": 45.6,
       "rank": 8
     },
     {
@@ -124,10 +124,10 @@
       "initialPriceCents": 430900,
       "finalPriceCents": 258500,
       "reviewPositiveRate": 90.2,
-      "reviewCount": 23228,
+      "reviewCount": 23234,
       "storeUrl": "https://store.steampowered.com/app/2138330/",
-      "rawScore": 66.0455868452196,
-      "hensachi": 44.7,
+      "rawScore": 66.04601010118826,
+      "hensachi": 45.1,
       "rank": 9
     },
     {
@@ -137,11 +137,11 @@
       "discountPercent": 10,
       "initialPriceCents": 187000,
       "finalPriceCents": 168300,
-      "reviewPositiveRate": 98,
-      "reviewCount": 1303,
+      "reviewPositiveRate": 97.9,
+      "reviewCount": 1364,
       "storeUrl": "https://store.steampowered.com/app/3711590/",
-      "rawScore": 50.555764495833586,
-      "hensachi": 26.1,
+      "rawScore": 50.5956892504784,
+      "hensachi": 26.7,
       "rank": 10
     }
   ]
