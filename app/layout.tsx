@@ -23,6 +23,7 @@ const mono = Roboto_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://steam-sale-hensachi.com"),
   title: "セール偏差値 | Steamセールお得度ランキング",
   description:
     "Steamで今セール中のゲームを「偏差値」でランキング化。割引率だけでなくレビュー評価・人気度も加味した独自指標でお得なセールを発見。",
@@ -35,11 +36,21 @@ export default function RootLayout({
 }) {
   return (
     <html lang="ja">
-      <body
-        className={`${display.variable} ${body.variable} ${mono.variable} font-body text-ink`}
-      >
+     <body className={`${display.variable} ${body.variable} ${mono.variable} font-body text-ink`}>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "WebSite",
+              name: "セール偏差値",
+              url: "https://steam-sale-hensachi.com",
+              description: "Steamで今セール中のゲームを偏差値でランキング化するファンサイト",
+              inLanguage: "ja",
+            }),
+          }}
+        />
         {children}
-        {/* 2. bodyの閉じタグ直前に設置（追加） */}
         <Analytics />
       </body>
     </html>

@@ -10,12 +10,8 @@ export default function OGImage() {
         <div style={{ display: "flex", alignItems: "center", justifyContent: "center", width: 160, height: 160, borderRadius: "50%", border: "8px solid #C23B22", color: "#C23B22", fontSize: 56, fontWeight: 900, marginBottom: 32, transform: "rotate(-8deg)" }}>
           偏差値
         </div>
-        <div style={{ fontSize: 72, fontWeight: 900, color: "#211D19" }}>
-          セール偏差値
-        </div>
-        <div style={{ fontSize: 28, color: "#6B6259", marginTop: 16 }}>
-          Steamセールお得度ランキング
-        </div>
+        <div style={{ fontSize: 72, fontWeight: 900, color: "#211D19" }}>セール偏差値</div>
+        <div style={{ fontSize: 28, color: "#6B6259", marginTop: 16 }}>Steamセールお得度ランキング</div>
       </div>
     ),
     { ...size }
