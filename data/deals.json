@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-07-05T16:12:51.423Z",
+  "fetchedAt": "2026-07-05T21:37:52.188Z",
   "currency": "JPY",
-  "count": 22,
-  "averageDiscount": 33.5,
+  "count": 26,
+  "averageDiscount": 31.7,
   "deals": [
     {
       "appid": 1091500,
@@ -12,7 +12,7 @@
       "initialPriceCents": 877800,
       "finalPriceCents": 263300,
       "reviewPositiveRate": 86.6,
-      "reviewCount": 952672,
+      "reviewCount": 952891,
       "storeUrl": "https://store.steampowered.com/app/1091500/",
       "genres": [
         "RPG"
@@ -21,7 +21,7 @@
       "releaseYear": 2020,
       "shortDescription": "『サイバーパンク2077』――未来の巨大都市ナイトシティを舞台にしたオープンワールド・アクションアドベンチャーRPG",
       "rawScore": 81.81,
-      "hensachi": 63.3,
+      "hensachi": 64.9,
       "rank": 1
     },
     {
@@ -32,7 +32,7 @@
       "initialPriceCents": 767800,
       "finalPriceCents": 268700,
       "reviewPositiveRate": 94.4,
-      "reviewCount": 58613,
+      "reviewCount": 58633,
       "storeUrl": "https://store.steampowered.com/app/2161700/",
       "genres": [
         "アドベンチャー",
@@ -42,29 +42,9 @@
       "supportsJapanese": true,
       "releaseYear": 2024,
       "shortDescription": "『ペルソナ３』が、装いを新たに現行最新ハードにて生まれ変わる！",
-      "rawScore": 80.28245796221444,
-      "hensachi": 62.7,
+      "rawScore": 80.28301706671682,
+      "hensachi": 64.3,
       "rank": 2
-    },
-    {
-      "appid": 32470,
-      "name": "サイバーパンク2077 アルティメットエディション",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/32470/5htp7gjbzhjufq5c/67f4f047da1935d1efe1c4a4697011951be5b534/header_ratio.jpg?t=1746520128",
-      "discountPercent": 60,
-      "initialPriceCents": 1308700,
-      "finalPriceCents": 480000,
-      "reviewPositiveRate": 97.7,
-      "reviewCount": 42724,
-      "storeUrl": "https://store.steampowered.com/app/32470/",
-      "genres": [
-        "ストラテジー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2010,
-      "shortDescription": "Command or corrupt an entire galaxy in the definitive Star Wars strategy collection. It is a time of galactic civil war. Will you take up the reins of the Rebellion, assume control of the Empire, or rule the Star Wars Underworld?",
-      "rawScore": 78.6692719675199,
-      "hensachi": 62.2,
-      "rank": 3
     },
     {
       "appid": 814380,
@@ -74,7 +54,7 @@
       "initialPriceCents": 836000,
       "finalPriceCents": 418000,
       "reviewPositiveRate": 95.3,
-      "reviewCount": 350602,
+      "reviewCount": 350633,
       "storeUrl": "https://store.steampowered.com/app/814380/",
       "genres": [
         "アクション",
@@ -84,8 +64,8 @@
       "releaseYear": 2019,
       "shortDescription": "隻腕の狼、戦国に忍ぶ。 史上最も血なまぐさい時代・戦国を舞台に、孤独な忍びの戦いを描くアクション・アドベンチャー。",
       "rawScore": 75.85499999999999,
-      "hensachi": 61.1,
-      "rank": 4
+      "hensachi": 62.7,
+      "rank": 3
     },
     {
       "appid": 3240220,
@@ -95,7 +75,7 @@
       "initialPriceCents": 438000,
       "finalPriceCents": 219000,
       "reviewPositiveRate": 82.9,
-      "reviewCount": 196637,
+      "reviewCount": 196758,
       "storeUrl": "https://store.steampowered.com/app/3240220/",
       "genres": [
         "アクション",
@@ -105,9 +85,9 @@
       "supportsJapanese": true,
       "releaseYear": 2025,
       "shortDescription": "大ヒットの『グランド・セフト・オートV』と「GTAオンライン」を体験しよう - 新世代用に美麗なグラフィック、短縮されたロード時間、3Dオーディオなどのアップグレード。さらに、「GTAオンライン」プレイヤー用の限定コンテンツなど。",
-      "rawScore": 71.49110357874312,
-      "hensachi": 59.6,
-      "rank": 5
+      "rawScore": 71.49211172321569,
+      "hensachi": 61.2,
+      "rank": 4
     },
     {
       "appid": 251570,
@@ -117,7 +97,7 @@
       "initialPriceCents": 490000,
       "finalPriceCents": 269500,
       "reviewPositiveRate": 87.1,
-      "reviewCount": 402199,
+      "reviewCount": 402221,
       "storeUrl": "https://store.steampowered.com/app/251570/",
       "genres": [
         "アクション",
@@ -131,29 +111,29 @@
       "releaseYear": 2024,
       "shortDescription": "『7 Days to Die』は、FPS、サバイバルホラー、タワーディフェンス、ロールプレイングゲームをユニークに組み合わせたオープンワールド型のゲームです。元祖ゾンビサバイバルなサンドボックスRPGゲームをプレイしましょう。ナベズゲインがあなたを待っています！",
       "rawScore": 70.735,
-      "hensachi": 59.3,
-      "rank": 6
+      "hensachi": 60.9,
+      "rank": 5
     },
     {
-      "appid": 3241660,
-      "name": "R.E.P.O.",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/a12c92856b71315da885924ea5e1d5290c8025b8/header_alt_assets_2.jpg?t=1778158882",
-      "discountPercent": 35,
-      "initialPriceCents": 120000,
-      "finalPriceCents": 78000,
-      "reviewPositiveRate": 96.1,
-      "reviewCount": 407489,
-      "storeUrl": "https://store.steampowered.com/app/3241660/",
+      "appid": 2215430,
+      "name": "Ghost of Tsushima DIRECTOR'S CUT",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg?t=1763409398",
+      "discountPercent": 40,
+      "initialPriceCents": 759000,
+      "finalPriceCents": 455400,
+      "reviewPositiveRate": 93.9,
+      "reviewCount": 93140,
+      "storeUrl": "https://store.steampowered.com/app/2215430/",
       "genres": [
         "アクション",
-        "早期アクセス"
+        "アドベンチャー"
       ],
-      "supportsJapanese": false,
-      "releaseYear": 2025,
-      "shortDescription": "An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.",
-      "rawScore": 69.38499999999999,
-      "hensachi": 58.8,
-      "rank": 7
+      "supportsJapanese": true,
+      "releaseYear": 2024,
+      "shortDescription": "嵐が、来る。『Ghost of Tsushima DIRECTOR’S CUT』のPC用完全版でオープンワールド時代劇アクションアドベンチャーへ足を踏み入れ、自身の道を切り開こう。本作はSucker Punch Productions、Nixxes Software、PlayStation Studiosの共同制作でお届けします。",
+      "rawScore": 69.61647508070011,
+      "hensachi": 60.5,
+      "rank": 6
     },
     {
       "appid": 1623730,
@@ -163,7 +143,7 @@
       "initialPriceCents": 340000,
       "finalPriceCents": 238000,
       "reviewPositiveRate": 94.3,
-      "reviewCount": 425246,
+      "reviewCount": 425289,
       "storeUrl": "https://store.steampowered.com/app/1623730/",
       "genres": [
         "アクション",
@@ -176,8 +156,8 @@
       "releaseYear": 2024,
       "shortDescription": "広大な世界で不思議な生物『パル』を集めて、戦闘・建築・農業を行わせたり、工場で労働させたりする全く新しいマルチ対応のオープンワールドサバイバルクラフトゲームです。",
       "rawScore": 66.505,
-      "hensachi": 57.8,
-      "rank": 8
+      "hensachi": 59.4,
+      "rank": 7
     },
     {
       "appid": 2138330,
@@ -187,7 +167,7 @@
       "initialPriceCents": 430900,
       "finalPriceCents": 258500,
       "reviewPositiveRate": 90.2,
-      "reviewCount": 23235,
+      "reviewCount": 23238,
       "storeUrl": "https://store.steampowered.com/app/2138330/",
       "genres": [
         "RPG"
@@ -195,9 +175,52 @@
       "supportsJapanese": true,
       "releaseYear": 2023,
       "shortDescription": "『サイバーパンク2077』に、スパイスリラーをテーマとした拡張パック「仮初めの自由」が新登場。ナイトシティで生きる傭兵、Vに待つ新たな任務とは？スパイのソロモン・リードと共に、踏みにじまれた忠誠心と熾烈な権力闘争が絡み合うスパイの世界へと身を投じろ",
-      "rawScore": 66.04608063322337,
-      "hensachi": 57.6,
+      "rawScore": 66.04629221111735,
+      "hensachi": 59.2,
+      "rank": 8
+    },
+    {
+      "appid": 2246340,
+      "name": "モンスターハンターワイルズ",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg?t=1781071959",
+      "discountPercent": 58,
+      "initialPriceCents": 899000,
+      "finalPriceCents": 377500,
+      "reviewPositiveRate": 48.8,
+      "reviewCount": 323485,
+      "storeUrl": "https://store.steampowered.com/app/2246340/",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "RPG"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2025,
+      "shortDescription": "荒々しく獰猛な自然が、襲い来る。 刻一刻とダイナミックにその姿を変貌させるフィールド。二面性をもつ世界に生きる、モンスターと人々の物語。 進化したハンティングアクションと、途切れることのない没入感を追求した究極の狩猟体験が、あなたを待っている。",
+      "rawScore": 63.18,
+      "hensachi": 58.2,
       "rank": 9
+    },
+    {
+      "appid": 4829180,
+      "name": "101 Dogs Hidden in New York",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829180/067664e95c347268974db3ab856b6693f2bce7ea/header.jpg?t=1783268700",
+      "discountPercent": 40,
+      "initialPriceCents": 26500,
+      "finalPriceCents": 15900,
+      "reviewPositiveRate": 100,
+      "reviewCount": 10,
+      "storeUrl": "https://store.steampowered.com/app/4829180/",
+      "genres": [
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "この冒険に参加して、手作りの風景の中に隠れている101匹の犬たちを見つけ出そう🐾。🏆 たくさんの実績を獲得しよう。何匹の犬を見つけられるかな🐶？🔎 急いで！⏱️",
+      "rawScore": 56.9297837175782,
+      "hensachi": 55.9,
+      "rank": 10
     },
     {
       "appid": 2191410,
@@ -219,8 +242,8 @@
       "releaseYear": 2026,
       "shortDescription": "A puzzle logistics builder where lemming-like workers transport resources across a limited island. Create production chains, optimize routes, upgrade your castle and solve increasingly complex space and logistics challenges. The island never gets bigger. Your logistics problems do.",
       "rawScore": 55.20238206055707,
-      "hensachi": 53.7,
-      "rank": 10
+      "hensachi": 55.3,
+      "rank": 11
     },
     {
       "appid": 3711590,
@@ -230,7 +253,7 @@
       "initialPriceCents": 187000,
       "finalPriceCents": 168300,
       "reviewPositiveRate": 98,
-      "reviewCount": 1420,
+      "reviewCount": 1445,
       "storeUrl": "https://store.steampowered.com/app/3711590/",
       "genres": [
         "カジュアル",
@@ -239,9 +262,9 @@
       "supportsJapanese": true,
       "releaseYear": 2026,
       "shortDescription": "ドット絵2D視点の謎解きゲーム。プレイヤーとヒロインたちは悪魔・コニアルによって、無限に走り続ける電車に閉じ込められ、車両の中で異変を探し出さないと、死から逃げられない！",
-      "rawScore": 50.69658142614139,
-      "hensachi": 52,
-      "rank": 11
+      "rawScore": 50.72516336965476,
+      "hensachi": 53.7,
+      "rank": 12
     },
     {
       "appid": 3384540,
@@ -262,8 +285,8 @@
       "releaseYear": 2026,
       "shortDescription": "このRTSスタイルのタワーディフェンスゲームで、荒廃した世界を舞台に、絶え間なく押し寄せる敵や闇の勢力から世界を守り抜こう！",
       "rawScore": 47.857886743365825,
-      "hensachi": 51,
-      "rank": 12
+      "hensachi": 52.6,
+      "rank": 13
     },
     {
       "appid": 4698340,
@@ -283,8 +306,8 @@
       "releaseYear": 2026,
       "shortDescription": "The Incident is a first-person psychological horror game where you explore a closed circus, destroy evidence before investigators arrive, and avoid someone still inside watching your every move.",
       "rawScore": 38.850915129959716,
-      "hensachi": 47.8,
-      "rank": 13
+      "hensachi": 49.4,
+      "rank": 14
     },
     {
       "appid": 3997700,
@@ -305,8 +328,8 @@
       "releaseYear": 2026,
       "shortDescription": "Trapped in a bazaar that twists with every turn, you are a lost child searching for your mother. Watch for subtle anomalies in the shifting environment to survive the loop. In this retro-inspired world, nothing is as it seems. Can you find her before the cycle swallows you whole?",
       "rawScore": 37.43641981276846,
-      "hensachi": 47.2,
-      "rank": 14
+      "hensachi": 48.9,
+      "rank": 15
     },
     {
       "appid": 4840320,
@@ -328,28 +351,7 @@
       "releaseYear": 2026,
       "shortDescription": "セックス・パッション＆ラストはプレイヤーの妄想を現実にする究極のアдаルトオープンワールド。フルアニメ＆無修正の絡みシーン（ソロ、パートナー、グループ）、奥深いキャラメイク、自由自在なカメラワークを堪能せよ。フィルターも限界もない圧倒的な自由がここに。",
       "rawScore": 28.186419812768467,
-      "hensachi": 43.9,
-      "rank": 15
-    },
-    {
-      "appid": 4849010,
-      "name": "FOCUS",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849010/f6e3154c3685f7bf7ad1d0126f18205214d5b8ef/header.jpg?t=1783213208",
-      "discountPercent": 15,
-      "initialPriceCents": 47000,
-      "finalPriceCents": 39900,
-      "reviewPositiveRate": 25,
-      "reviewCount": 4,
-      "storeUrl": "https://store.steampowered.com/app/4849010/",
-      "genres": [
-        "インディー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "監視映像が、少しずつ書き換わっていく。変化した箇所を見つけて報告する、ポイント&amp;クリック観察ホラー。",
-      "rawScore": 18.13762265787177,
-      "hensachi": 40.3,
+      "hensachi": 45.6,
       "rank": 16
     },
     {
@@ -369,8 +371,29 @@
       "releaseYear": 2026,
       "shortDescription": "After years of development, many failures and redesigns, Incarnation - Lifetimes final form is taking shape.",
       "rawScore": 18,
-      "hensachi": 40.2,
+      "hensachi": 41.9,
       "rank": 17
+    },
+    {
+      "appid": 4849010,
+      "name": "FOCUS",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849010/f6e3154c3685f7bf7ad1d0126f18205214d5b8ef/header.jpg?t=1783213208",
+      "discountPercent": 15,
+      "initialPriceCents": 47000,
+      "finalPriceCents": 39900,
+      "reviewPositiveRate": 25,
+      "reviewCount": 4,
+      "storeUrl": "https://store.steampowered.com/app/4849010/",
+      "genres": [
+        "インディー",
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "監視映像が、少しずつ書き換わっていく。変化した箇所を見つけて報告する、ポイント&amp;クリック観察ホラー。",
+      "rawScore": 18.13762265787177,
+      "hensachi": 41.9,
+      "rank": 18
     },
     {
       "appid": 4365090,
@@ -390,8 +413,50 @@
       "releaseYear": 2026,
       "shortDescription": "『五行策』は中国の伝統的な五行思想をモチーフにした戦略カードゲームです。英雄のスキルと多彩なアイテムを組み合わせ、強力なコンボを構築して限界スコアに挑み、刻々と変化する戦局の中で自分だけの勝利の道を切り開きましょう。",
       "rawScore": 18,
-      "hensachi": 40.2,
-      "rank": 18
+      "hensachi": 41.9,
+      "rank": 19
+    },
+    {
+      "appid": 4377340,
+      "name": "Cage Bar: The Hunting Game",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4377340/0fe195e23c2ed3a670c54d644668ba92a2e8d13d/header.jpg?t=1783244636",
+      "discountPercent": 20,
+      "initialPriceCents": 120000,
+      "finalPriceCents": 96000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4377340/",
+      "genres": [
+        "RPG"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "During their vacation, Vylan and Ivy accidentally entered the Cage Bar and found that their sister Lillian had been transformed into a &quot;human pig&quot;. They were dragged into the &quot;Colorful Maze Death Hunting Ground&quot;. Vylan has to lead everyone to escape and take revenge within seven days.",
+      "rawScore": 9,
+      "hensachi": 38.7,
+      "rank": 20
+    },
+    {
+      "appid": 4317130,
+      "name": "FishPond",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317130/43a3dc4037a535b3dbe98859276de2d1695806fa/header.jpg?t=1783265329",
+      "discountPercent": 15,
+      "initialPriceCents": 53000,
+      "finalPriceCents": 45000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4317130/",
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "すべての魚がユニークな遺伝コードを持つ生きた池を作りましょう。レアな特性のために繁殖させ、酸素と空腹度のバランスをとり、新しい種を解放し、生態系がリアルタイムで自分自身のサウンドトラックを作曲するのを見届けましょう。シミュレーション、放置ゲーム、そして美しく失敗した科学実験、それらが一つになったゲームです。",
+      "rawScore": 6.75,
+      "hensachi": 37.8,
+      "rank": 21
     },
     {
       "appid": 4829230,
@@ -415,8 +480,8 @@
       "releaseYear": 2026,
       "shortDescription": "Nin Ninja Rescue Mission is an action, adventure, platform, and endless runner game. Run, face dangerous enemies, dodge traps, defeat enemies, and use your skills to complete a rescue mission.",
       "rawScore": 4.5,
-      "hensachi": 35.3,
-      "rank": 19
+      "hensachi": 37,
+      "rank": 22
     },
     {
       "appid": 4771430,
@@ -436,8 +501,29 @@
       "releaseYear": 2026,
       "shortDescription": "ある日発生した謎の大地震と、跡形もなく消えた村人たち。主人公「ピコ」となり、深く暗い地下世界を突き進め。ツルハシの先にかかる手がかりとき妙な痕跡……。深く潜るほど、村が隠し続けた巨大な真実が姿を現す。果たして、この鉱山の先には何が待ち受けているのか？",
       "rawScore": 4.5,
-      "hensachi": 35.3,
-      "rank": 20
+      "hensachi": 37,
+      "rank": 23
+    },
+    {
+      "appid": 4829070,
+      "name": "Twelve Boxes",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829070/de9874a469083934a8b4c6dccc4c45ccb2482a8e/header.jpg?t=1783246531",
+      "discountPercent": 10,
+      "initialPriceCents": 22200,
+      "finalPriceCents": 19900,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4829070/",
+      "genres": [
+        "インディー",
+        "シミュレーション"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "You're just a mover doing a simple job: pick up boxes and carry them to the truck. Easy, right? Not quite. Strange anomalies hide inside the house, and spotting them is the only way to avoid an endless shift of hauling boxes forever.",
+      "rawScore": 4.5,
+      "hensachi": 37,
+      "rank": 24
     },
     {
       "appid": 4831720,
@@ -458,8 +544,8 @@
       "releaseYear": 2026,
       "shortDescription": "Collect 1200+ city cards from 600+ different cities, build your deck and compete in strategic card battles inspired by cities from around the world. Discover unique card abilities, different combinations, and interesting city facts as you outsmart the opponents.",
       "rawScore": 4.5,
-      "hensachi": 35.3,
-      "rank": 21
+      "hensachi": 37,
+      "rank": 25
     },
     {
       "appid": 4840300,
@@ -479,8 +565,8 @@
       "releaseYear": 2026,
       "shortDescription": "The Pawn Broker is an atmospheric horror economic survival game. Run a cursed pawnshop, analyze every item that comes through for signs of theft or dark curses, and make high-stakes decisions to stay profitable before your five days are up.",
       "rawScore": 4.5,
-      "hensachi": 35.3,
-      "rank": 22
+      "hensachi": 37,
+      "rank": 26
     }
   ]
 }
