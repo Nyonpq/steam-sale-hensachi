@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-07-07T08:18:27.609Z",
+  "fetchedAt": "2026-07-07T11:22:51.157Z",
   "currency": "JPY",
-  "count": 33,
-  "averageDiscount": 28.5,
+  "count": 30,
+  "averageDiscount": 27.7,
   "deals": [
     {
       "appid": 1091500,
@@ -12,7 +12,7 @@
       "initialPriceCents": 877800,
       "finalPriceCents": 263300,
       "reviewPositiveRate": 86.6,
-      "reviewCount": 953788,
+      "reviewCount": 953853,
       "storeUrl": "https://store.steampowered.com/app/1091500/",
       "genres": [
         "RPG"
@@ -21,29 +21,27 @@
       "releaseYear": 2020,
       "shortDescription": "『サイバーパンク2077』――未来の巨大都市ナイトシティを舞台にしたオープンワールド・アクションアドベンチャーRPG",
       "rawScore": 81.81,
-      "hensachi": 67.2,
+      "hensachi": 66.4,
       "rank": 1
     },
     {
-      "appid": 2161700,
-      "name": "ペルソナ３ リロード",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/header.jpg?t=1764776430",
-      "discountPercent": 65,
-      "initialPriceCents": 767800,
-      "finalPriceCents": 268700,
-      "reviewPositiveRate": 94.4,
-      "reviewCount": 58752,
-      "storeUrl": "https://store.steampowered.com/app/2161700/",
+      "appid": 32470,
+      "name": "サイバーパンク2077 アルティメットエディション",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/32470/5htp7gjbzhjufq5c/67f4f047da1935d1efe1c4a4697011951be5b534/header_ratio.jpg?t=1746520128",
+      "discountPercent": 60,
+      "initialPriceCents": 1308700,
+      "finalPriceCents": 480000,
+      "reviewPositiveRate": 97.7,
+      "reviewCount": 42746,
+      "storeUrl": "https://store.steampowered.com/app/32470/",
       "genres": [
-        "アドベンチャー",
-        "RPG",
         "ストラテジー"
       ],
-      "supportsJapanese": true,
-      "releaseYear": 2024,
-      "shortDescription": "『ペルソナ３』が、装いを新たに現行最新ハードにて生まれ変わる！",
-      "rawScore": 80.28633980044181,
-      "hensachi": 66.6,
+      "supportsJapanese": false,
+      "releaseYear": 2010,
+      "shortDescription": "Command or corrupt an entire galaxy in the definitive Star Wars strategy collection. It is a time of galactic civil war. Will you take up the reins of the Rebellion, assume control of the Empire, or rule the Star Wars Underworld?",
+      "rawScore": 78.67011562712842,
+      "hensachi": 65.1,
       "rank": 2
     },
     {
@@ -54,18 +52,45 @@
       "initialPriceCents": 836000,
       "finalPriceCents": 418000,
       "reviewPositiveRate": 95.3,
-      "reviewCount": 350804,
+      "reviewCount": 350818,
       "storeUrl": "https://store.steampowered.com/app/814380/",
       "genres": [
         "アクション",
-        "アドベンチャー"
+        "アドベンチャー",
+        "ソウルライク",
+        "ハクスラ"
       ],
       "supportsJapanese": true,
       "releaseYear": 2019,
       "shortDescription": "隻腕の狼、戦国に忍ぶ。 史上最も血なまぐさい時代・戦国を舞台に、孤独な忍びの戦いを描くアクション・アドベンチャー。",
       "rawScore": 75.85499999999999,
-      "hensachi": 64.8,
+      "hensachi": 63.9,
       "rank": 3
+    },
+    {
+      "appid": 252490,
+      "name": "Rust",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg?t=1781536981",
+      "discountPercent": 50,
+      "initialPriceCents": 460000,
+      "finalPriceCents": 230000,
+      "reviewPositiveRate": 86.9,
+      "reviewCount": 1378540,
+      "storeUrl": "https://store.steampowered.com/app/252490/",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "インディー",
+        "MM（Massively Multiplayer）",
+        "RPG",
+        "サバイバル"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2018,
+      "shortDescription": "『Rust』における唯一の目的は、生き残ること。島の野生生物、そこに住む他の者たち、自然環境、そして他の生存者たち——あらゆるものがプレイヤーの命を狙う。どんな手を使ってでも、次の夜を生き延びろ。",
+      "rawScore": 72.91499999999999,
+      "hensachi": 62.7,
+      "rank": 4
     },
     {
       "appid": 3240220,
@@ -75,7 +100,7 @@
       "initialPriceCents": 438000,
       "finalPriceCents": 219000,
       "reviewPositiveRate": 83,
-      "reviewCount": 197397,
+      "reviewCount": 197452,
       "storeUrl": "https://store.steampowered.com/app/3240220/",
       "genres": [
         "アクション",
@@ -85,9 +110,9 @@
       "supportsJapanese": true,
       "releaseYear": 2025,
       "shortDescription": "大ヒットの『グランド・セフト・オートV』と「GTAオンライン」を体験しよう - 新世代用に美麗なグラフィック、短縮されたロード時間、3Dオーディオなどのアップグレード。さらに、「GTAオンライン」プレイヤー用の限定コンテンツなど。",
-      "rawScore": 71.53242546477207,
-      "hensachi": 63.1,
-      "rank": 4
+      "rawScore": 71.53288202479683,
+      "hensachi": 62.1,
+      "rank": 5
     },
     {
       "appid": 251570,
@@ -97,7 +122,7 @@
       "initialPriceCents": 490000,
       "finalPriceCents": 269500,
       "reviewPositiveRate": 87.1,
-      "reviewCount": 402359,
+      "reviewCount": 402365,
       "storeUrl": "https://store.steampowered.com/app/251570/",
       "genres": [
         "アクション",
@@ -105,14 +130,16 @@
         "インディー",
         "RPG",
         "シミュレーション",
-        "ストラテジー"
+        "ストラテジー",
+        "サバイバル",
+        "タワーディフェンス"
       ],
       "supportsJapanese": true,
       "releaseYear": 2024,
       "shortDescription": "『7 Days to Die』は、FPS、サバイバルホラー、タワーディフェンス、ロールプレイングゲームをユニークに組み合わせたオープンワールド型のゲームです。元祖ゾンビサバイバルなサンドボックスRPGゲームをプレイしましょう。ナベズゲインがあなたを待っています！",
       "rawScore": 70.735,
-      "hensachi": 62.8,
-      "rank": 5
+      "hensachi": 61.7,
+      "rank": 6
     },
     {
       "appid": 1623730,
@@ -122,21 +149,22 @@
       "initialPriceCents": 340000,
       "finalPriceCents": 238000,
       "reviewPositiveRate": 94.3,
-      "reviewCount": 425537,
+      "reviewCount": 425551,
       "storeUrl": "https://store.steampowered.com/app/1623730/",
       "genres": [
         "アクション",
         "アドベンチャー",
         "インディー",
         "RPG",
-        "早期アクセス"
+        "早期アクセス",
+        "サバイバル"
       ],
       "supportsJapanese": true,
       "releaseYear": 2024,
       "shortDescription": "広大な世界で不思議な生物『パル』を集めて、戦闘・建築・農業を行わせたり、工場で労働させたりする全く新しいマルチ対応のオープンワールドサバイバルクラフトゲームです。",
       "rawScore": 66.505,
-      "hensachi": 61.1,
-      "rank": 6
+      "hensachi": 60,
+      "rank": 7
     },
     {
       "appid": 2138330,
@@ -155,28 +183,6 @@
       "releaseYear": 2023,
       "shortDescription": "『サイバーパンク2077』に、スパイスリラーをテーマとした拡張パック「仮初めの自由」が新登場。ナイトシティで生きる傭兵、Vに待つ新たな任務とは？スパイのソロモン・リードと共に、踏みにじまれた忠誠心と熾烈な権力闘争が絡み合うスパイの世界へと身を投じろ",
       "rawScore": 66.0474201654624,
-      "hensachi": 60.9,
-      "rank": 7
-    },
-    {
-      "appid": 2246340,
-      "name": "モンスターハンターワイルズ",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg?t=1781071959",
-      "discountPercent": 58,
-      "initialPriceCents": 899000,
-      "finalPriceCents": 377500,
-      "reviewPositiveRate": 48.8,
-      "reviewCount": 323650,
-      "storeUrl": "https://store.steampowered.com/app/2246340/",
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "RPG"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2025,
-      "shortDescription": "荒々しく獰猛な自然が、襲い来る。 刻一刻とダイナミックにその姿を変貌させるフィールド。二面性をもつ世界に生きる、モンスターと人々の物語。 進化したハンティングアクションと、途切れることのない没入感を追求した究極の狩猟体験が、あなたを待っている。",
-      "rawScore": 63.18,
       "hensachi": 59.8,
       "rank": 8
     },
@@ -188,7 +194,7 @@
       "initialPriceCents": 90500,
       "finalPriceCents": 54300,
       "reviewPositiveRate": 100,
-      "reviewCount": 1,
+      "reviewCount": 2,
       "storeUrl": "https://store.steampowered.com/app/4793920/",
       "genres": [
         "アドベンチャー",
@@ -197,8 +203,8 @@
       "supportsJapanese": true,
       "releaseYear": 2026,
       "shortDescription": "マレンツァは、どうにかしてワールドカップ本大会まで辿り着いてしまった、とても小さな国だ。監督ローナン・コスグローヴに与えられたのは、それがまぐれではなかったと証明するための六週間——そして、その全てを台無しにしかねない三人の女性。別居中の妻レナ、密着取材を続けるドキュメンタリー監督クイン、そして危機対応を担うフィクサー、レナータ。キックオフ前夜、彼が誰と一緒に過ごすのかを、あなたが選ぼう。",
-      "rawScore": 54.135962247788605,
-      "hensachi": 56.2,
+      "rawScore": 54.80045756497986,
+      "hensachi": 55.1,
       "rank": 9
     },
     {
@@ -209,7 +215,7 @@
       "initialPriceCents": 187000,
       "finalPriceCents": 168300,
       "reviewPositiveRate": 98,
-      "reviewCount": 1571,
+      "reviewCount": 1584,
       "storeUrl": "https://store.steampowered.com/app/3711590/",
       "genres": [
         "カジュアル",
@@ -218,8 +224,8 @@
       "supportsJapanese": true,
       "releaseYear": 2026,
       "shortDescription": "ドット絵2D視点の謎解きゲーム。プレイヤーとヒロインたちは悪魔・コニアルによって、無限に走り続ける電車に閉じ込められ、車両の中で異変を探し出さないと、死から逃げられない！",
-      "rawScore": 50.86208506303166,
-      "hensachi": 54.9,
+      "rawScore": 50.87558213793875,
+      "hensachi": 53.4,
       "rank": 10
     },
     {
@@ -230,7 +236,7 @@
       "initialPriceCents": 230000,
       "finalPriceCents": 207000,
       "reviewPositiveRate": 75.5,
-      "reviewCount": 36394,
+      "reviewCount": 36400,
       "storeUrl": "https://store.steampowered.com/app/1859910/",
       "genres": [
         "アドベンチャー",
@@ -241,30 +247,9 @@
       "supportsJapanese": false,
       "releaseYear": 2024,
       "shortDescription": "The game world is set in a turbulent state and the mighty Tang-Man declines. The threats from the old enemies keep coming one after another.As a nobody, will you choose either to leave yourself out of it or to fight for Tang-Man's future and turning the tide? The journey of yours,is unpredictable.",
-      "rawScore": 48.13647820270194,
-      "hensachi": 53.8,
+      "rawScore": 48.13674835717832,
+      "hensachi": 52.3,
       "rank": 11
-    },
-    {
-      "appid": 4412950,
-      "name": "Kamikaze Survivors",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4412950/1959cc1026685f220db91146c1c0978dca6e963c/header.jpg?t=1783351271",
-      "discountPercent": 25,
-      "initialPriceCents": 135000,
-      "finalPriceCents": 101200,
-      "reviewPositiveRate": 100,
-      "reviewCount": 2,
-      "storeUrl": "https://store.steampowered.com/app/4412950/",
-      "genres": [
-        "アクション",
-        "インディー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Kamikaze Survivors is a top-down Roguelike where players command, equip, and level up battleships from WW1 to the present day. Participate in the First Blitz on London, Pearl Harbor, and Operation Epic Fury in command of history's most famous warships.",
-      "rawScore": 48.05045756497986,
-      "hensachi": 53.7,
-      "rank": 12
     },
     {
       "appid": 4724650,
@@ -283,29 +268,8 @@
       "releaseYear": 2026,
       "shortDescription": "A retro-inspired Micro-FPS Bullet Heaven, where every powerup stacks infinitely. Become an unstoppable demon-slaying powerhouse with insane speed, massive jumps, multi-bullet weapons, and game-breaking builds.",
       "rawScore": 47.385962247788605,
-      "hensachi": 53.5,
-      "rank": 13
-    },
-    {
-      "appid": 4529100,
-      "name": "Idle DeepMiner",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4529100/793ecd6052bbc4ea272407c1fd0a25aa5bf98a9c/header.jpg?t=1783347941",
-      "discountPercent": 20,
-      "initialPriceCents": 58000,
-      "finalPriceCents": 46400,
-      "reviewPositiveRate": 100,
-      "reviewCount": 5,
-      "storeUrl": "https://store.steampowered.com/app/4529100/",
-      "genres": [
-        "カジュアル",
-        "インディー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "あなたは地核へ向かって世界を掘り進む、生きたつるはしを操ります。 下へと発射し、アップグレードして改造しながら、単純な降下が爆発や雷、コンボが入り乱れる混沌のスペクタクルへと変わる様子を目撃しよう。",
-      "rawScore": 46.93641981276846,
-      "hensachi": 53.3,
-      "rank": 14
+      "hensachi": 52,
+      "rank": 12
     },
     {
       "appid": 4789820,
@@ -329,8 +293,8 @@
       "releaseYear": 2026,
       "shortDescription": "Galaksia Online is an action-packed, 2D multiplayer space MMORPG blending retro pixel art aesthetics with mechanics. Forge alliances, custom-build your starships block by block, and engage in massive faction-based PvP wars or challenging PvE raid battles across dangerous stellar sectors.",
       "rawScore": 46.637622657871766,
-      "hensachi": 53.2,
-      "rank": 15
+      "hensachi": 51.7,
+      "rank": 13
     },
     {
       "appid": 2749950,
@@ -339,8 +303,8 @@
       "discountPercent": 20,
       "initialPriceCents": 230000,
       "finalPriceCents": 184000,
-      "reviewPositiveRate": 81,
-      "reviewCount": 274,
+      "reviewPositiveRate": 80.1,
+      "reviewCount": 312,
       "storeUrl": "https://store.steampowered.com/app/2749950/",
       "genres": [
         "インディー",
@@ -351,9 +315,9 @@
       "supportsJapanese": false,
       "releaseYear": 2026,
       "shortDescription": "独自のプロeスポーツ組織を構築し、率いましょう。選手のスカウト、契約管理、才能の開発、スタッフの採用、ブランドの成長を行い、深く現実的なマネジメントシミュレーションでチャンピオンシップタイトルを目指してください。",
-      "rawScore": 46.555029033321745,
-      "hensachi": 53.1,
-      "rank": 16
+      "rawScore": 46.4521484435715,
+      "hensachi": 51.6,
+      "rank": 14
     },
     {
       "appid": 4588010,
@@ -373,31 +337,8 @@
       "releaseYear": 2026,
       "shortDescription": "おじさんを積むだけのゲームです。心を無にしたいときとかにやってください。",
       "rawScore": 45.135962247788605,
-      "hensachi": 52.6,
-      "rank": 17
-    },
-    {
-      "appid": 4170130,
-      "name": "Venomous Dalliances 💚",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4170130/8b8c52a384d8c783d7e40897db28951c0107ff19/header.jpg?t=1783367961",
-      "discountPercent": 10,
-      "initialPriceCents": 58000,
-      "finalPriceCents": 52200,
-      "reviewPositiveRate": 100,
-      "reviewCount": 9,
-      "storeUrl": "https://store.steampowered.com/app/4170130/",
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "カジュアル",
-        "インディー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "The night can be dangerous for a woman alone. And even cabs know better than to stop in the darker parts of town. So what happens to this sexy lass when she’s discovered unprotected by the blue monster? Her frustration becomes need and hunger, and if she’s good, the rewards will be amazing!",
-      "rawScore": 43.27358490566038,
-      "hensachi": 51.8,
-      "rank": 18
+      "hensachi": 51,
+      "rank": 15
     },
     {
       "appid": 2209900,
@@ -406,8 +347,8 @@
       "discountPercent": 15,
       "initialPriceCents": 490000,
       "finalPriceCents": 416500,
-      "reviewPositiveRate": 89.5,
-      "reviewCount": 19,
+      "reviewPositiveRate": 89.1,
+      "reviewCount": 46,
       "storeUrl": "https://store.steampowered.com/app/2209900/",
       "genres": [
         "カジュアル",
@@ -418,9 +359,56 @@
       "supportsJapanese": true,
       "releaseYear": 2026,
       "shortDescription": "「ムーンライト・ピークス」でヴァンパイアライフを満喫！ポーション作りや呪文詠唱を極めちゃおう。魔法の畑を耕そう。住民の人狼族、魔女やマーメイドたちと仲良くなって、さらには深い仲になっちゃったり…そしてついには永遠の愛を誓う！",
-      "rawScore": 42.984547153448986,
-      "hensachi": 51.7,
-      "rank": 19
+      "rawScore": 44.24480323749327,
+      "hensachi": 50.7,
+      "rank": 16
+    },
+    {
+      "appid": 4086150,
+      "name": "Pattaya Simulator",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4086150/ea867d5ecb878748f8746f0c30797d9b8dfac4c5/header.jpg?t=1783373255",
+      "discountPercent": 15,
+      "initialPriceCents": 100000,
+      "finalPriceCents": 85000,
+      "reviewPositiveRate": 100,
+      "reviewCount": 2,
+      "storeUrl": "https://store.steampowered.com/app/4086150/",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "インディー",
+        "RPG",
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "Pattaya Simulator は、Pattaya の街を舞台にしたライフシミュレーションゲームです。プレイヤーはマッサージ師となり、家族の借金を返済するためにお金を稼ぎながら、マッサージを通じて街に幸せを取り戻していきます。",
+      "rawScore": 43.55045756497986,
+      "hensachi": 50.4,
+      "rank": 17
+    },
+    {
+      "appid": 4170130,
+      "name": "Venomous Dalliances 💚",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4170130/8b8c52a384d8c783d7e40897db28951c0107ff19/header.jpg?t=1783367961",
+      "discountPercent": 10,
+      "initialPriceCents": 58000,
+      "finalPriceCents": 52200,
+      "reviewPositiveRate": 100,
+      "reviewCount": 11,
+      "storeUrl": "https://store.steampowered.com/app/4170130/",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "The night can be dangerous for a woman alone. And even cabs know better than to stop in the darker parts of town. So what happens to this sexy lass when she’s discovered unprotected by the blue monster? Her frustration becomes need and hunger, and if she’s good, the rewards will be amazing!",
+      "rawScore": 43.572382060557075,
+      "hensachi": 50.4,
+      "rank": 18
     },
     {
       "appid": 4133490,
@@ -440,8 +428,79 @@
       "releaseYear": 2026,
       "shortDescription": "あなたは一人暮らしをしており、自宅で仕事をしています。終わりのない雨に閉じ込められ、何日も外に出ていません。毎日電話が鳴ります――知らない番号です。画面には「詐欺の可能性」と表示されます。それはただのスパム電話だと思います。",
       "rawScore": 42.43641981276846,
-      "hensachi": 51.5,
+      "hensachi": 49.9,
+      "rank": 19
+    },
+    {
+      "appid": 4235660,
+      "name": "Heavy Wake",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4235660/af51978101ba90deb6e23586711126bbe16e19bb/header.jpg?t=1783404099",
+      "discountPercent": 10,
+      "initialPriceCents": 26500,
+      "finalPriceCents": 23800,
+      "reviewPositiveRate": 100,
+      "reviewCount": 3,
+      "storeUrl": "https://store.steampowered.com/app/4235660/",
+      "genres": [
+        "アドベンチャー",
+        "インディー",
+        "RPG",
+        "ストラテジー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Explore a cursed island in a short dark-fantasy deckbuilding RPG. Recruit strange survivors, build a party of unlikely allies, and survive tactical card battles as Fyodor searches for a cure for his dying tribe.",
+      "rawScore": 41.77192449557722,
+      "hensachi": 49.6,
       "rank": 20
+    },
+    {
+      "appid": 4810930,
+      "name": "Down The Stairs: The Game",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4810930/459633a763050799d1fe385403a9b7196f6fb791/header.jpg?t=1783407871",
+      "discountPercent": 10,
+      "initialPriceCents": 145000,
+      "finalPriceCents": 130500,
+      "reviewPositiveRate": 100,
+      "reviewCount": 1,
+      "storeUrl": "https://store.steampowered.com/app/4810930/",
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "レース",
+        "シミュレーション",
+        "スポーツ"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Down The Stairs: The Game is a physics-based ragdoll challenge where every clean stair run, brutal fall, shaft setup, and ghost race pushes you toward a better score. Stay in control, hit the beams, beat other players’ ghosts, and master the descent.",
+      "rawScore": 40.635962247788605,
+      "hensachi": 49.1,
+      "rank": 21
+    },
+    {
+      "appid": 4539870,
+      "name": "Khaldun: Text Based Strategy",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4539870/5316be7037ffe8c25f90519fc5d8e043a0c2e0d2/header.jpg?t=1783405744",
+      "discountPercent": 40,
+      "initialPriceCents": 65500,
+      "finalPriceCents": 39300,
+      "reviewPositiveRate": 0,
+      "reviewCount": 1,
+      "storeUrl": "https://store.steampowered.com/app/4539870/",
+      "genres": [
+        "アドベンチャー",
+        "インディー",
+        "RPG",
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Khaldunは、中世を舞台にしたASCIIグラフィックの王国運営ゲームです。リアルな戦争シミュレーションに参加し、経済から人口構成に至るまで、王国のすべてをあなたの手で決定しましょう。あなたの決断が、一つの国家の運命を形作ります。興隆するか、それとも歴史の闇に消えるか……",
+      "rawScore": 19.13596224778861,
+      "hensachi": 40.1,
+      "rank": 22
     },
     {
       "appid": 4133940,
@@ -462,8 +521,8 @@
       "releaseYear": 2026,
       "shortDescription": "Hide as anything. Paint it to match. The whistle will give you away anyway. A multiplayer prop hunt where Hiders disguise as world objects and hand-paint their camouflage, while Hunters sweep the level with scanners, washers, and capture tools to drag them out. Up to 16 players.",
       "rawScore": 18,
-      "hensachi": 41.8,
-      "rank": 21
+      "hensachi": 39.7,
+      "rank": 23
     },
     {
       "appid": 4435420,
@@ -484,51 +543,7 @@
       "releaseYear": 2026,
       "shortDescription": "あなたは記憶を失ったまま、果てしなく続く廊下で目を覚まします。 ある声があなたを呼びかけ、死後、あなたの意識がコンピューターシミュレーションの中に移されたのだと説明します。 しかし残念ながら、バグが発生し始めており、シミュレーションを修復するためには、それらを報告しなければなりません。",
       "rawScore": 18,
-      "hensachi": 41.8,
-      "rank": 22
-    },
-    {
-      "appid": 4293770,
-      "name": "Mandala",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4293770/2d82633f24a216e1198a96abf7d9479db020e31c/header.jpg?t=1783346424",
-      "discountPercent": 40,
-      "initialPriceCents": 23500,
-      "finalPriceCents": 14100,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4293770/",
-      "genres": [
-        "カジュアル",
-        "インディー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "ひとつのルールで成り立つ音楽駆動のウェーブシューター。止まれば撃つ、動けばかわす。フラクタルの世界が音楽にリアルタイムで反応する。自分の曲を読み込んで、自分だけの体験を作ろう。",
-      "rawScore": 18,
-      "hensachi": 41.8,
-      "rank": 23
-    },
-    {
-      "appid": 3902930,
-      "name": "Pogo Panic",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3902930/7a4394cb6d68802060b1c4860c2f3be3c7855359/header.jpg?t=1783343022",
-      "discountPercent": 40,
-      "initialPriceCents": 47000,
-      "finalPriceCents": 28200,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/3902930/",
-      "genres": [
-        "アドベンチャー",
-        "カジュアル",
-        "インディー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "ポゴパニックで跳ね、ジェットパックを一瞬だけ噴かし重力に喧嘩を売りながら垂直コースを駆け上がる、理不尽上等の高難度パルクールゲームだ。ソロでも、友人と叫びながらでも遊べる。チェックポイントなんていらない、本気で挑むなら全部切れ。",
-      "rawScore": 18,
-      "hensachi": 41.8,
+      "hensachi": 39.7,
       "rank": 24
     },
     {
@@ -550,7 +565,7 @@
       "releaseYear": 2026,
       "shortDescription": "Running. Gunning. Reading.",
       "rawScore": 13.950000000000001,
-      "hensachi": 40.1,
+      "hensachi": 38,
       "rank": 25
     },
     {
@@ -573,53 +588,8 @@
       "releaseYear": 2026,
       "shortDescription": "Plow, Shoot, or throw saw blades at swarms of enemies in this truck based Roguelite action game! Tons of upgrade options per run with each run being unique and challenging. Earn scrap after each run to purchase cosmetics and customize your truck!",
       "rawScore": 9,
-      "hensachi": 38.2,
+      "hensachi": 35.9,
       "rank": 26
-    },
-    {
-      "appid": 3453040,
-      "name": "INFLATION Inc.",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3453040/header.jpg?t=1783343484",
-      "discountPercent": 20,
-      "initialPriceCents": 65500,
-      "finalPriceCents": 52400,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/3453040/",
-      "genres": [
-        "インディー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "You're a lewd scientist from INFLATION Inc.; a research corporation tasked by the government to experiment on women in the name of science! Their goal is to unlock the secrets of FEMALE GROWTH and you must help them achieve this goal!",
-      "rawScore": 9,
-      "hensachi": 38.2,
-      "rank": 27
-    },
-    {
-      "appid": 4086150,
-      "name": "Pattaya Simulator",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4086150/ea867d5ecb878748f8746f0c30797d9b8dfac4c5/header.jpg?t=1783373255",
-      "discountPercent": 15,
-      "initialPriceCents": 100000,
-      "finalPriceCents": 85000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4086150/",
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "インディー",
-        "RPG",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "Pattaya Simulator は、Pattaya の街を舞台にしたライフシミュレーションゲームです。プレイヤーはマッサージ師となり、家族の借金を返済するためにお金を稼ぎながら、マッサージを通じて街に幸せを取り戻していきます。",
-      "rawScore": 6.75,
-      "hensachi": 37.3,
-      "rank": 28
     },
     {
       "appid": 3892320,
@@ -643,8 +613,8 @@
       "releaseYear": 2026,
       "shortDescription": "Six weird games from six killer team-ups between indie game devs and indie comics artists! We've got puzzles, adventures, exploration, and baby werewolves in this collab between Iron Circus Comics x INDIEPOCALYPSE!",
       "rawScore": 6.75,
-      "hensachi": 37.3,
-      "rank": 29
+      "hensachi": 35,
+      "rank": 27
     },
     {
       "appid": 4641620,
@@ -663,32 +633,29 @@
       "releaseYear": 2026,
       "shortDescription": "Wars are won by logistics. Command the Federation's fleets across a star system, manage supply chains, secure planets, and outmaneuver a relentless AI enemy. Every battle is decided before it begins.",
       "rawScore": 6.75,
-      "hensachi": 37.3,
-      "rank": 30
+      "hensachi": 35,
+      "rank": 28
     },
     {
-      "appid": 4810930,
-      "name": "Down The Stairs: The Game",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4810930/459633a763050799d1fe385403a9b7196f6fb791/header.jpg?t=1783407871",
+      "appid": 4389170,
+      "name": "Fugaz",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4389170/875943eb9507b1ccd7ed5a905cfae3c7ab5664bb/header.jpg?t=1783416309",
       "discountPercent": 10,
-      "initialPriceCents": 145000,
-      "finalPriceCents": 130500,
+      "initialPriceCents": 79000,
+      "finalPriceCents": 71100,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4810930/",
+      "storeUrl": "https://store.steampowered.com/app/4389170/",
       "genres": [
-        "カジュアル",
-        "インディー",
-        "レース",
-        "シミュレーション",
-        "スポーツ"
+        "アドベンチャー",
+        "インディー"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "Down The Stairs: The Game is a physics-based ragdoll challenge where every clean stair run, brutal fall, shaft setup, and ghost race pushes you toward a better score. Stay in control, hit the beams, beat other players’ ghosts, and master the descent.",
+      "shortDescription": "Play a flute to solve puzzles and unlock secrets, looking for an exit of a dark place before the darkness consumes everything. In this dark immersive horror puzzle game, knowledge is key to put the pieces together. No music experience required.",
       "rawScore": 4.5,
-      "hensachi": 36.4,
-      "rank": 31
+      "hensachi": 34,
+      "rank": 29
     },
     {
       "appid": 4726020,
@@ -709,31 +676,8 @@
       "releaseYear": 2026,
       "shortDescription": "Play as Earth itself in this chaotic arcade action game where you grab elite figures and YEET them into the Sun while dodging UFOs and surviving frantic planetary swats from the Moon, Venus, and Mercury.",
       "rawScore": 4.5,
-      "hensachi": 36.4,
-      "rank": 32
-    },
-    {
-      "appid": 4853490,
-      "name": "Another Slop Game",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4853490/0205bbef57fcf72d8779bfcd963df5ff829fa3bf/header.jpg?t=1783343070",
-      "discountPercent": 10,
-      "initialPriceCents": 49700,
-      "finalPriceCents": 44700,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4853490/",
-      "genres": [
-        "アドベンチャー",
-        "カジュアル",
-        "インディー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Another Slop Game is a chaotic medieval co-op platformer where you and your friends jump, fall, scream, and suffer through floating ruins, giant traps, stupid obstacles, and terrible decisions. Play solo or online with friends. Reaching the top is optional, losing your mind is guaranteed.",
-      "rawScore": 4.5,
-      "hensachi": 36.4,
-      "rank": 33
+      "hensachi": 34,
+      "rank": 30
     }
   ]
 }
