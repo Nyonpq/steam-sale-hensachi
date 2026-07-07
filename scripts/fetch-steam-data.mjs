@@ -3,10 +3,11 @@
 // GitHub Actions から定期実行される想定（.github/workflows/update-data.yml）。
 //
 // 注意：
-// - 使用しているのは Steam の非公式に近い公開JSONエンドポイント（featuredcategories, appreviews）。
-//   Valveの Steam Web API 利用規約の対象であり、仕様変更・停止はValve都合でいつでも起こり得る。
-// - featuredcategories の "specials" は Steam が選定した注目セール（十数件程度）。
-//   将来的に対象を広げたい場合は search API のページングに置き換える必要がある。
+// - 使用しているのは Steam の非公式に近い公開JSONエンドポイント（featuredcategories, appreviews, appdetails）
+//   および SteamSpy（コミュニティタグ取得用）。いずれも非公式に近い形で公開されており、
+//   仕様変更・停止が予告なく起こり得る。
+// - featuredcategories の specials/top_sellers/new_releases を合算しても、
+//   Steam全体のセールを完全に網羅しているわけではない。
 
 import { writeFile, mkdir } from "node:fs/promises";
 import path from "node:path";
@@ -17,10 +18,32 @@ const FEATURED_URL =
 
 const REVIEWS_URL = (appid) =>
   `https://store.steampowered.com/appreviews/${appid}?json=1&language=all&purchase_type=all&num_per_page=0`;
-  
+
 const APPDETAILS_URL = (appid) =>
   `https://store.steampowered.com/api/appdetails?appids=${appid}&l=japanese&cc=jp`;
-  
+
+const STEAMSPY_URL = (appid) =>
+  `https://steamspy.com/api.php?request=appdetails&appid=${appid}`;
+
+// SteamSpyの人気コミュニティタグのうち、興味深いものだけを日本語に変換して採用する
+// （Steam公式の「ジャンル」には無い、より細かい分類）
+const NICHE_TAG_TRANSLATIONS = {
+  Roguelike: "ローグライク",
+  Roguelite: "ローグライト",
+  "Rogue-like": "ローグライク",
+  "Rogue-lite": "ローグライト",
+  "Hack and Slash": "ハクスラ",
+  "Souls-like": "ソウルライク",
+  Metroidvania: "メトロイドヴァニア",
+  Deckbuilding: "デッキ構築",
+  "Bullet Hell": "弾幕",
+  "Tower Defense": "タワーディフェンス",
+  "Turn-Based Strategy": "ターン制ストラテジー",
+  Survival: "サバイバル",
+  "Visual Novel": "ビジュアルノベル",
+  Platformer: "プラットフォーマー",
+};
+
 const REQUEST_DELAY_MS = 200; // Steam側への配慮のための最小限のウェイト
 
 function sleep(ms) {
@@ -51,6 +74,7 @@ async function fetchFeaturedSpecials() {
   const merged = buckets.flatMap((items) => items ?? []);
   const discounted = merged.filter((item) => item.discount_percent > 0);
 
+  // 複数バケットに同じappidが重複することがあるため、appid基準で除去する
   const seen = new Set();
   const deduped = [];
   for (const item of discounted) {
@@ -86,7 +110,12 @@ function extractYear(dateStr) {
 }
 
 async function fetchAppDetailsExtra(appid) {
-  const fallback = { genres: [], supportsJapanese: false, releaseYear: null, shortDescription: "" };
+  const fallback = {
+    genres: [],
+    supportsJapanese: false,
+    releaseYear: null,
+    shortDescription: "",
+  };
   try {
     const data = await fetchJson(APPDETAILS_URL(appid));
     const entry = data?.[appid];
@@ -94,7 +123,9 @@ async function fetchAppDetailsExtra(appid) {
 
     const d = entry.data ?? {};
     const genres = (d.genres ?? []).map((g) => g.description).filter(Boolean);
-    const supportsJapanese = typeof d.supported_languages === "string" && d.supported_languages.includes("日本語");
+    const supportsJapanese =
+      typeof d.supported_languages === "string" &&
+      d.supported_languages.includes("日本語");
     const releaseYear = extractYear(d.release_date?.date);
     const shortDescription = (d.short_description ?? "").trim();
 
@@ -105,15 +136,45 @@ async function fetchAppDetailsExtra(appid) {
   }
 }
 
+async function fetchNicheTags(appid) {
+  try {
+    const data = await fetchJson(STEAMSPY_URL(appid));
+    const tags = data?.tags;
+    if (!tags || typeof tags !== "object" || Array.isArray(tags)) return [];
+
+    const sorted = Object.entries(tags).sort((a, b) => b[1] - a[1]);
+    const translated = [];
+    for (const [tagName] of sorted) {
+      const jp = NICHE_TAG_TRANSLATIONS[tagName];
+      if (jp && !translated.includes(jp)) translated.push(jp);
+      if (translated.length >= 2) break;
+    }
+    return translated;
+  } catch (err) {
+    console.warn(`  ! SteamSpy fetch failed for appid ${appid}:`, err.message);
+    return [];
+  }
+}
+
 async function buildRawDeals(items) {
   const rawDeals = [];
 
   for (const item of items) {
     console.log(`Fetching reviews for ${item.name} (${item.id})...`);
-    const { reviewPositiveRate, reviewCount } = await fetchReviewStats(item.id);
+    const { reviewPositiveRate, reviewCount } = await fetchReviewStats(
+      item.id
+    );
     await sleep(REQUEST_DELAY_MS);
 
-    const { genres, supportsJapanese, releaseYear, shortDescription } = await fetchAppDetailsExtra(item.id);
+    const { genres, supportsJapanese, releaseYear, shortDescription } =
+      await fetchAppDetailsExtra(item.id);
+
+    await sleep(1000); // SteamSpyのポーリング制限への配慮
+    const nicheTags = await fetchNicheTags(item.id);
+    const mergedGenres = [...genres];
+    for (const tag of nicheTags) {
+      if (!mergedGenres.includes(tag)) mergedGenres.push(tag);
+    }
 
     rawDeals.push({
       appid: item.id,
@@ -125,7 +186,7 @@ async function buildRawDeals(items) {
       reviewPositiveRate,
       reviewCount,
       storeUrl: `https://store.steampowered.com/app/${item.id}/`,
-      genres,
+      genres: mergedGenres,
       supportsJapanese,
       releaseYear,
       shortDescription,

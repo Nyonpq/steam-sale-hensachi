@@ -1,29 +1,9 @@
 {
-  "fetchedAt": "2026-07-06T22:44:54.464Z",
+  "fetchedAt": "2026-07-07T08:18:27.609Z",
   "currency": "JPY",
-  "count": 29,
-  "averageDiscount": 31.8,
+  "count": 33,
+  "averageDiscount": 28.5,
   "deals": [
-    {
-      "appid": 1687950,
-      "name": "ペルソナ５ ザ・ロイヤル",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header_japanese.jpg?t=1783356822",
-      "discountPercent": 70,
-      "initialPriceCents": 767800,
-      "finalPriceCents": 230300,
-      "reviewPositiveRate": 96.4,
-      "reviewCount": 133695,
-      "storeUrl": "https://store.steampowered.com/app/1687950/",
-      "genres": [
-        "RPG"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2022,
-      "shortDescription": "奪え、その意志で。",
-      "rawScore": 84.58384307156301,
-      "hensachi": 65.4,
-      "rank": 1
-    },
     {
       "appid": 1091500,
       "name": "サイバーパンク2077",
@@ -32,7 +12,7 @@
       "initialPriceCents": 877800,
       "finalPriceCents": 263300,
       "reviewPositiveRate": 86.6,
-      "reviewCount": 953562,
+      "reviewCount": 953788,
       "storeUrl": "https://store.steampowered.com/app/1091500/",
       "genres": [
         "RPG"
@@ -41,8 +21,8 @@
       "releaseYear": 2020,
       "shortDescription": "『サイバーパンク2077』――未来の巨大都市ナイトシティを舞台にしたオープンワールド・アクションアドベンチャーRPG",
       "rawScore": 81.81,
-      "hensachi": 64.4,
-      "rank": 2
+      "hensachi": 67.2,
+      "rank": 1
     },
     {
       "appid": 2161700,
@@ -52,7 +32,7 @@
       "initialPriceCents": 767800,
       "finalPriceCents": 268700,
       "reviewPositiveRate": 94.4,
-      "reviewCount": 58720,
+      "reviewCount": 58752,
       "storeUrl": "https://store.steampowered.com/app/2161700/",
       "genres": [
         "アドベンチャー",
@@ -62,29 +42,9 @@
       "supportsJapanese": true,
       "releaseYear": 2024,
       "shortDescription": "『ペルソナ３』が、装いを新たに現行最新ハードにて生まれ変わる！",
-      "rawScore": 80.28544695421974,
-      "hensachi": 63.9,
-      "rank": 3
-    },
-    {
-      "appid": 32470,
-      "name": "サイバーパンク2077 アルティメットエディション",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/32470/5htp7gjbzhjufq5c/67f4f047da1935d1efe1c4a4697011951be5b534/header_ratio.jpg?t=1746520128",
-      "discountPercent": 60,
-      "initialPriceCents": 1308700,
-      "finalPriceCents": 480000,
-      "reviewPositiveRate": 97.7,
-      "reviewCount": 42738,
-      "storeUrl": "https://store.steampowered.com/app/32470/",
-      "genres": [
-        "ストラテジー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2010,
-      "shortDescription": "Command or corrupt an entire galaxy in the definitive Star Wars strategy collection. It is a time of galactic civil war. Will you take up the reins of the Rebellion, assume control of the Empire, or rule the Star Wars Underworld?",
-      "rawScore": 78.6698088920642,
-      "hensachi": 63.3,
-      "rank": 4
+      "rawScore": 80.28633980044181,
+      "hensachi": 66.6,
+      "rank": 2
     },
     {
       "appid": 814380,
@@ -94,7 +54,7 @@
       "initialPriceCents": 836000,
       "finalPriceCents": 418000,
       "reviewPositiveRate": 95.3,
-      "reviewCount": 350760,
+      "reviewCount": 350804,
       "storeUrl": "https://store.steampowered.com/app/814380/",
       "genres": [
         "アクション",
@@ -104,8 +64,8 @@
       "releaseYear": 2019,
       "shortDescription": "隻腕の狼、戦国に忍ぶ。 史上最も血なまぐさい時代・戦国を舞台に、孤独な忍びの戦いを描くアクション・アドベンチャー。",
       "rawScore": 75.85499999999999,
-      "hensachi": 62.3,
-      "rank": 5
+      "hensachi": 64.8,
+      "rank": 3
     },
     {
       "appid": 3240220,
@@ -115,7 +75,7 @@
       "initialPriceCents": 438000,
       "finalPriceCents": 219000,
       "reviewPositiveRate": 83,
-      "reviewCount": 197247,
+      "reviewCount": 197397,
       "storeUrl": "https://store.steampowered.com/app/3240220/",
       "genres": [
         "アクション",
@@ -125,9 +85,9 @@
       "supportsJapanese": true,
       "releaseYear": 2025,
       "shortDescription": "大ヒットの『グランド・セフト・オートV』と「GTAオンライン」を体験しよう - 新世代用に美麗なグラフィック、短縮されたロード時間、3Dオーディオなどのアップグレード。さらに、「GTAオンライン」プレイヤー用の限定コンテンツなど。",
-      "rawScore": 71.53117965421241,
-      "hensachi": 60.8,
-      "rank": 6
+      "rawScore": 71.53242546477207,
+      "hensachi": 63.1,
+      "rank": 4
     },
     {
       "appid": 251570,
@@ -137,7 +97,7 @@
       "initialPriceCents": 490000,
       "finalPriceCents": 269500,
       "reviewPositiveRate": 87.1,
-      "reviewCount": 402321,
+      "reviewCount": 402359,
       "storeUrl": "https://store.steampowered.com/app/251570/",
       "genres": [
         "アクション",
@@ -151,8 +111,8 @@
       "releaseYear": 2024,
       "shortDescription": "『7 Days to Die』は、FPS、サバイバルホラー、タワーディフェンス、ロールプレイングゲームをユニークに組み合わせたオープンワールド型のゲームです。元祖ゾンビサバイバルなサンドボックスRPGゲームをプレイしましょう。ナベズゲインがあなたを待っています！",
       "rawScore": 70.735,
-      "hensachi": 60.5,
-      "rank": 7
+      "hensachi": 62.8,
+      "rank": 5
     },
     {
       "appid": 1623730,
@@ -162,7 +122,7 @@
       "initialPriceCents": 340000,
       "finalPriceCents": 238000,
       "reviewPositiveRate": 94.3,
-      "reviewCount": 425473,
+      "reviewCount": 425537,
       "storeUrl": "https://store.steampowered.com/app/1623730/",
       "genres": [
         "アクション",
@@ -175,30 +135,8 @@
       "releaseYear": 2024,
       "shortDescription": "広大な世界で不思議な生物『パル』を集めて、戦闘・建築・農業を行わせたり、工場で労働させたりする全く新しいマルチ対応のオープンワールドサバイバルクラフトゲームです。",
       "rawScore": 66.505,
-      "hensachi": 59,
-      "rank": 8
-    },
-    {
-      "appid": 3489700,
-      "name": "Stellar Blade™",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/header.jpg?t=1776466244",
-      "discountPercent": 33,
-      "initialPriceCents": 798000,
-      "finalPriceCents": 534600,
-      "reviewPositiveRate": 93.9,
-      "reviewCount": 90061,
-      "storeUrl": "https://store.steampowered.com/app/3489700/",
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "RPG"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2025,
-      "shortDescription": "荒廃した世界が舞台のアクションアドベンチャー『Stellar Blade™』で、人類の存亡をかけた戦いが、いま幕を開ける。地球が荒廃した真相を解き明かしながら、激しい戦闘と複雑に絡み合った物語を体験しよう。",
-      "rawScore": 66.41138334746644,
-      "hensachi": 59,
-      "rank": 9
+      "hensachi": 61.1,
+      "rank": 6
     },
     {
       "appid": 2138330,
@@ -208,7 +146,7 @@
       "initialPriceCents": 430900,
       "finalPriceCents": 258500,
       "reviewPositiveRate": 90.2,
-      "reviewCount": 23248,
+      "reviewCount": 23254,
       "storeUrl": "https://store.steampowered.com/app/2138330/",
       "genres": [
         "RPG"
@@ -216,9 +154,52 @@
       "supportsJapanese": true,
       "releaseYear": 2023,
       "shortDescription": "『サイバーパンク2077』に、スパイスリラーをテーマとした拡張パック「仮初めの自由」が新登場。ナイトシティで生きる傭兵、Vに待つ新たな任務とは？スパイのソロモン・リードと共に、踏みにじまれた忠誠心と熾烈な権力闘争が絡み合うスパイの世界へと身を投じろ",
-      "rawScore": 66.04699727355359,
-      "hensachi": 58.8,
-      "rank": 10
+      "rawScore": 66.0474201654624,
+      "hensachi": 60.9,
+      "rank": 7
+    },
+    {
+      "appid": 2246340,
+      "name": "モンスターハンターワイルズ",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg?t=1781071959",
+      "discountPercent": 58,
+      "initialPriceCents": 899000,
+      "finalPriceCents": 377500,
+      "reviewPositiveRate": 48.8,
+      "reviewCount": 323650,
+      "storeUrl": "https://store.steampowered.com/app/2246340/",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "RPG"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2025,
+      "shortDescription": "荒々しく獰猛な自然が、襲い来る。 刻一刻とダイナミックにその姿を変貌させるフィールド。二面性をもつ世界に生きる、モンスターと人々の物語。 進化したハンティングアクションと、途切れることのない没入感を追求した究極の狩猟体験が、あなたを待っている。",
+      "rawScore": 63.18,
+      "hensachi": 59.8,
+      "rank": 8
+    },
+    {
+      "appid": 4793920,
+      "name": "インジュリータイム・ラバーズ",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4793920/fd6df40573dbe060c1d7e62a784bc69cd8c70448/header.jpg?t=1783362158",
+      "discountPercent": 40,
+      "initialPriceCents": 90500,
+      "finalPriceCents": 54300,
+      "reviewPositiveRate": 100,
+      "reviewCount": 1,
+      "storeUrl": "https://store.steampowered.com/app/4793920/",
+      "genres": [
+        "アドベンチャー",
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "マレンツァは、どうにかしてワールドカップ本大会まで辿り着いてしまった、とても小さな国だ。監督ローナン・コスグローヴに与えられたのは、それがまぐれではなかったと証明するための六週間——そして、その全てを台無しにしかねない三人の女性。別居中の妻レナ、密着取材を続けるドキュメンタリー監督クイン、そして危機対応を担うフィクサー、レナータ。キックオフ前夜、彼が誰と一緒に過ごすのかを、あなたが選ぼう。",
+      "rawScore": 54.135962247788605,
+      "hensachi": 56.2,
+      "rank": 9
     },
     {
       "appid": 3711590,
@@ -227,8 +208,8 @@
       "discountPercent": 10,
       "initialPriceCents": 187000,
       "finalPriceCents": 168300,
-      "reviewPositiveRate": 97.9,
-      "reviewCount": 1546,
+      "reviewPositiveRate": 98,
+      "reviewCount": 1571,
       "storeUrl": "https://store.steampowered.com/app/3711590/",
       "genres": [
         "カジュアル",
@@ -237,8 +218,31 @@
       "supportsJapanese": true,
       "releaseYear": 2026,
       "shortDescription": "ドット絵2D視点の謎解きゲーム。プレイヤーとヒロインたちは悪魔・コニアルによって、無限に走り続ける電車に閉じ込められ、車両の中で異変を探し出さないと、死から逃げられない！",
-      "rawScore": 50.800812504525915,
-      "hensachi": 53.4,
+      "rawScore": 50.86208506303166,
+      "hensachi": 54.9,
+      "rank": 10
+    },
+    {
+      "appid": 1859910,
+      "name": "活俠傳",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1859910/header.jpg?t=1780993657",
+      "discountPercent": 10,
+      "initialPriceCents": 230000,
+      "finalPriceCents": 207000,
+      "reviewPositiveRate": 75.5,
+      "reviewCount": 36394,
+      "storeUrl": "https://store.steampowered.com/app/1859910/",
+      "genres": [
+        "アドベンチャー",
+        "インディー",
+        "RPG",
+        "ストラテジー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2024,
+      "shortDescription": "The game world is set in a turbulent state and the mighty Tang-Man declines. The threats from the old enemies keep coming one after another.As a nobody, will you choose either to leave yourself out of it or to fight for Tang-Man's future and turning the tide? The journey of yours,is unpredictable.",
+      "rawScore": 48.13647820270194,
+      "hensachi": 53.8,
       "rank": 11
     },
     {
@@ -259,8 +263,28 @@
       "releaseYear": 2026,
       "shortDescription": "Kamikaze Survivors is a top-down Roguelike where players command, equip, and level up battleships from WW1 to the present day. Participate in the First Blitz on London, Pearl Harbor, and Operation Epic Fury in command of history's most famous warships.",
       "rawScore": 48.05045756497986,
-      "hensachi": 52.4,
+      "hensachi": 53.7,
       "rank": 12
+    },
+    {
+      "appid": 4724650,
+      "name": "DEMON SIEGE",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4724650/f9368810fef7eb9e2ebdc48d3fdfcb377654e0b3/header.jpg?t=1783399593",
+      "discountPercent": 25,
+      "initialPriceCents": 39500,
+      "finalPriceCents": 29600,
+      "reviewPositiveRate": 100,
+      "reviewCount": 1,
+      "storeUrl": "https://store.steampowered.com/app/4724650/",
+      "genres": [
+        "アクション"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "A retro-inspired Micro-FPS Bullet Heaven, where every powerup stacks infinitely. Become an unstoppable demon-slaying powerhouse with insane speed, massive jumps, multi-bullet weapons, and game-breaking builds.",
+      "rawScore": 47.385962247788605,
+      "hensachi": 53.5,
+      "rank": 13
     },
     {
       "appid": 4529100,
@@ -280,8 +304,33 @@
       "releaseYear": 2026,
       "shortDescription": "あなたは地核へ向かって世界を掘り進む、生きたつるはしを操ります。 下へと発射し、アップグレードして改造しながら、単純な降下が爆発や雷、コンボが入り乱れる混沌のスペクタクルへと変わる様子を目撃しよう。",
       "rawScore": 46.93641981276846,
-      "hensachi": 52,
-      "rank": 13
+      "hensachi": 53.3,
+      "rank": 14
+    },
+    {
+      "appid": 4789820,
+      "name": "galaksia online",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4789820/108ff404ac5b45a4d4aa1300b8f22ed71fc5ec1f/header.jpg?t=1783378916",
+      "discountPercent": 20,
+      "initialPriceCents": 26500,
+      "finalPriceCents": 21200,
+      "reviewPositiveRate": 100,
+      "reviewCount": 4,
+      "storeUrl": "https://store.steampowered.com/app/4789820/",
+      "genres": [
+        "アドベンチャー",
+        "カジュアル",
+        "インディー",
+        "MM（Massively Multiplayer）",
+        "RPG",
+        "ストラテジー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Galaksia Online is an action-packed, 2D multiplayer space MMORPG blending retro pixel art aesthetics with mechanics. Forge alliances, custom-build your starships block by block, and engage in massive faction-based PvP wars or challenging PvE raid battles across dangerous stellar sectors.",
+      "rawScore": 46.637622657871766,
+      "hensachi": 53.2,
+      "rank": 15
     },
     {
       "appid": 2749950,
@@ -290,8 +339,8 @@
       "discountPercent": 20,
       "initialPriceCents": 230000,
       "finalPriceCents": 184000,
-      "reviewPositiveRate": 82.8,
-      "reviewCount": 157,
+      "reviewPositiveRate": 81,
+      "reviewCount": 274,
       "storeUrl": "https://store.steampowered.com/app/2749950/",
       "genres": [
         "インディー",
@@ -302,31 +351,76 @@
       "supportsJapanese": false,
       "releaseYear": 2026,
       "shortDescription": "独自のプロeスポーツ組織を構築し、率いましょう。選手のスカウト、契約管理、才能の開発、スタッフの採用、ブランドの成長を行い、深く現実的なマネジメントシミュレーションでチャンピオンシップタイトルを目指してください。",
-      "rawScore": 46.276819196054426,
-      "hensachi": 51.8,
-      "rank": 14
+      "rawScore": 46.555029033321745,
+      "hensachi": 53.1,
+      "rank": 16
     },
     {
-      "appid": 3566760,
-      "name": "Herb's Homegrown Havoc",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3566760/c0c71c3da2e0b3a54adbb994e05ad894896d9d9c/header.jpg?t=1783335619",
+      "appid": 4588010,
+      "name": "PROJECT: OJISAN",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4588010/bcf703355670f5a584d74e86953f189ec1cb7bda/header.jpg?t=1783404056",
       "discountPercent": 20,
-      "initialPriceCents": 35000,
-      "finalPriceCents": 28000,
+      "initialPriceCents": 23000,
+      "finalPriceCents": 18400,
       "reviewPositiveRate": 100,
-      "reviewCount": 2,
-      "storeUrl": "https://store.steampowered.com/app/3566760/",
+      "reviewCount": 1,
+      "storeUrl": "https://store.steampowered.com/app/4588010/",
+      "genres": [
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "おじさんを積むだけのゲームです。心を無にしたいときとかにやってください。",
+      "rawScore": 45.135962247788605,
+      "hensachi": 52.6,
+      "rank": 17
+    },
+    {
+      "appid": 4170130,
+      "name": "Venomous Dalliances 💚",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4170130/8b8c52a384d8c783d7e40897db28951c0107ff19/header.jpg?t=1783367961",
+      "discountPercent": 10,
+      "initialPriceCents": 58000,
+      "finalPriceCents": 52200,
+      "reviewPositiveRate": 100,
+      "reviewCount": 9,
+      "storeUrl": "https://store.steampowered.com/app/4170130/",
       "genres": [
         "アクション",
+        "アドベンチャー",
         "カジュアル",
         "インディー"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "Herb's Homegrown Havoc is a simple but chaotic arcade roguelike. Pluck plants out of the ground before they rot and summon hostile creatures! Upgrade after each round to increase Herb's strength and skills in various ways.",
-      "rawScore": 45.80045756497986,
-      "hensachi": 51.6,
-      "rank": 15
+      "shortDescription": "The night can be dangerous for a woman alone. And even cabs know better than to stop in the darker parts of town. So what happens to this sexy lass when she’s discovered unprotected by the blue monster? Her frustration becomes need and hunger, and if she’s good, the rewards will be amazing!",
+      "rawScore": 43.27358490566038,
+      "hensachi": 51.8,
+      "rank": 18
+    },
+    {
+      "appid": 2209900,
+      "name": "Moonlight Peaks",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209900/9a9b199531ec49be95ea2d34e67dfab47106584b/header.jpg?t=1783397812",
+      "discountPercent": 15,
+      "initialPriceCents": 490000,
+      "finalPriceCents": 416500,
+      "reviewPositiveRate": 89.5,
+      "reviewCount": 19,
+      "storeUrl": "https://store.steampowered.com/app/2209900/",
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "RPG",
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "「ムーンライト・ピークス」でヴァンパイアライフを満喫！ポーション作りや呪文詠唱を極めちゃおう。魔法の畑を耕そう。住民の人狼族、魔女やマーメイドたちと仲良くなって、さらには深い仲になっちゃったり…そしてついには永遠の愛を誓う！",
+      "rawScore": 42.984547153448986,
+      "hensachi": 51.7,
+      "rank": 19
     },
     {
       "appid": 4133490,
@@ -336,7 +430,7 @@
       "initialPriceCents": 79000,
       "finalPriceCents": 71100,
       "reviewPositiveRate": 100,
-      "reviewCount": 3,
+      "reviewCount": 5,
       "storeUrl": "https://store.steampowered.com/app/4133490/",
       "genres": [
         "アドベンチャー",
@@ -345,52 +439,31 @@
       "supportsJapanese": true,
       "releaseYear": 2026,
       "shortDescription": "あなたは一人暮らしをしており、自宅で仕事をしています。終わりのない雨に閉じ込められ、何日も外に出ていません。毎日電話が鳴ります――知らない番号です。画面には「詐欺の可能性」と表示されます。それはただのスパム電話だと思います。",
-      "rawScore": 41.77192449557722,
-      "hensachi": 50.2,
-      "rank": 16
+      "rawScore": 42.43641981276846,
+      "hensachi": 51.5,
+      "rank": 20
     },
     {
-      "appid": 4813570,
-      "name": "Nightclub Empire",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4813570/a66268bb5600a84e13e9c73dab20c51b3d574345/header.jpg?t=1783334355",
-      "discountPercent": 10,
-      "initialPriceCents": 65500,
-      "finalPriceCents": 58900,
-      "reviewPositiveRate": 100,
-      "reviewCount": 1,
-      "storeUrl": "https://store.steampowered.com/app/4813570/",
+      "appid": 4133940,
+      "name": "Tiny Frontier",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4133940/8f23f28f4f77db9b2e55f8b76044e440875219a6/header.jpg?t=1783395130",
+      "discountPercent": 40,
+      "initialPriceCents": 79000,
+      "finalPriceCents": 47400,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4133940/",
       "genres": [
-        "インディー",
-        "シミュレーション",
-        "ストラテジー"
+        "アクション",
+        "カジュアル",
+        "インディー"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "Build and manage your own nightclub in this first-person business simulation. Serve drinks, hire staff, expand your venue, and turn a small bar into a luxury nightlife empire.",
-      "rawScore": 40.635962247788605,
-      "hensachi": 49.8,
-      "rank": 17
-    },
-    {
-      "appid": 4793920,
-      "name": "インジュリータイム・ラバーズ",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4793920/fd6df40573dbe060c1d7e62a784bc69cd8c70448/header.jpg?t=1783362158",
-      "discountPercent": 40,
-      "initialPriceCents": 90500,
-      "finalPriceCents": 54300,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4793920/",
-      "genres": [
-        "アドベンチャー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "マレンツァは、どうにかしてワールドカップ本大会まで辿り着いてしまった、とても小さな国だ。監督ローナン・コスグローヴに与えられたのは、それがまぐれではなかったと証明するための六週間——そして、その全てを台無しにしかねない三人の女性。別居中の妻レナ、密着取材を続けるドキュメンタリー監督クイン、そして危機対応を担うフィクサー、レナータ。キックオフ前夜、彼が誰と一緒に過ごすのかを、あなたが選ぼう。",
+      "shortDescription": "Hide as anything. Paint it to match. The whistle will give you away anyway. A multiplayer prop hunt where Hiders disguise as world objects and hand-paint their camouflage, while Hunters sweep the level with scanners, washers, and capture tools to drag them out. Up to 16 players.",
       "rawScore": 18,
-      "hensachi": 41.7,
-      "rank": 18
+      "hensachi": 41.8,
+      "rank": 21
     },
     {
       "appid": 4435420,
@@ -411,8 +484,8 @@
       "releaseYear": 2026,
       "shortDescription": "あなたは記憶を失ったまま、果てしなく続く廊下で目を覚まします。 ある声があなたを呼びかけ、死後、あなたの意識がコンピューターシミュレーションの中に移されたのだと説明します。 しかし残念ながら、バグが発生し始めており、シミュレーションを修復するためには、それらを報告しなければなりません。",
       "rawScore": 18,
-      "hensachi": 41.7,
-      "rank": 19
+      "hensachi": 41.8,
+      "rank": 22
     },
     {
       "appid": 4293770,
@@ -432,8 +505,8 @@
       "releaseYear": 2026,
       "shortDescription": "ひとつのルールで成り立つ音楽駆動のウェーブシューター。止まれば撃つ、動けばかわす。フラクタルの世界が音楽にリアルタイムで反応する。自分の曲を読み込んで、自分だけの体験を作ろう。",
       "rawScore": 18,
-      "hensachi": 41.7,
-      "rank": 20
+      "hensachi": 41.8,
+      "rank": 23
     },
     {
       "appid": 3902930,
@@ -455,31 +528,53 @@
       "releaseYear": 2026,
       "shortDescription": "ポゴパニックで跳ね、ジェットパックを一瞬だけ噴かし重力に喧嘩を売りながら垂直コースを駆け上がる、理不尽上等の高難度パルクールゲームだ。ソロでも、友人と叫びながらでも遊べる。チェックポイントなんていらない、本気で挑むなら全部切れ。",
       "rawScore": 18,
-      "hensachi": 41.7,
-      "rank": 21
+      "hensachi": 41.8,
+      "rank": 24
     },
     {
-      "appid": 4885420,
-      "name": "EndlessAlice: Mia White Sukumizu",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4885420/20983c47386f9eea35baea0695dce665b1ef7b18/header.jpg?t=1783333296",
-      "discountPercent": 40,
-      "initialPriceCents": 65500,
-      "finalPriceCents": 39300,
+      "appid": 2627350,
+      "name": "Silicon Scars",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2627350/395460856296440fd3e560dbd7df3d9c61097f6f/header.jpg?t=1783396861",
+      "discountPercent": 31,
+      "initialPriceCents": 150000,
+      "finalPriceCents": 103500,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4885420/",
+      "storeUrl": "https://store.steampowered.com/app/2627350/",
       "genres": [
         "アクション",
         "アドベンチャー",
-        "インディー",
-        "RPG"
+        "インディー"
       ],
-      "supportsJapanese": true,
+      "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "このコンテンツをプレイするには、Steamで本編 を所持している必要があります。",
-      "rawScore": 18,
-      "hensachi": 41.7,
-      "rank": 22
+      "shortDescription": "Running. Gunning. Reading.",
+      "rawScore": 13.950000000000001,
+      "hensachi": 40.1,
+      "rank": 25
+    },
+    {
+      "appid": 4742610,
+      "name": "Truck Maxxing",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4742610/831029e3367f52e3afd98c2354faf5f68dc9c162/header.jpg?t=1783392227",
+      "discountPercent": 20,
+      "initialPriceCents": 65500,
+      "finalPriceCents": 52400,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4742610/",
+      "genres": [
+        "アクション",
+        "カジュアル",
+        "インディー",
+        "レース"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Plow, Shoot, or throw saw blades at swarms of enemies in this truck based Roguelite action game! Tons of upgrade options per run with each run being unique and challenging. Earn scrap after each run to purchase cosmetics and customize your truck!",
+      "rawScore": 9,
+      "hensachi": 38.2,
+      "rank": 26
     },
     {
       "appid": 3453040,
@@ -499,8 +594,8 @@
       "releaseYear": 2026,
       "shortDescription": "You're a lewd scientist from INFLATION Inc.; a research corporation tasked by the government to experiment on women in the name of science! Their goal is to unlock the secrets of FEMALE GROWTH and you must help them achieve this goal!",
       "rawScore": 9,
-      "hensachi": 38.5,
-      "rank": 23
+      "hensachi": 38.2,
+      "rank": 27
     },
     {
       "appid": 4086150,
@@ -523,8 +618,8 @@
       "releaseYear": 2026,
       "shortDescription": "Pattaya Simulator は、Pattaya の街を舞台にしたライフシミュレーションゲームです。プレイヤーはマッサージ師となり、家族の借金を返済するためにお金を稼ぎながら、マッサージを通じて街に幸せを取り戻していきます。",
       "rawScore": 6.75,
-      "hensachi": 37.7,
-      "rank": 24
+      "hensachi": 37.3,
+      "rank": 28
     },
     {
       "appid": 3892320,
@@ -548,30 +643,74 @@
       "releaseYear": 2026,
       "shortDescription": "Six weird games from six killer team-ups between indie game devs and indie comics artists! We've got puzzles, adventures, exploration, and baby werewolves in this collab between Iron Circus Comics x INDIEPOCALYPSE!",
       "rawScore": 6.75,
-      "hensachi": 37.7,
-      "rank": 25
+      "hensachi": 37.3,
+      "rank": 29
     },
     {
-      "appid": 4033220,
-      "name": "Rush Word",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4033220/f1712e03e263c5cede4eb2dbc4a1dca6224c9e1a/header.jpg?t=1783341629",
+      "appid": 4641620,
+      "name": "Space Fleet Logistics",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4641620/7cc67915f9af80742c2875fe1969ef8b2b3cd841/header.jpg?t=1783351871",
       "discountPercent": 15,
-      "initialPriceCents": 53000,
-      "finalPriceCents": 45000,
+      "initialPriceCents": 105000,
+      "finalPriceCents": 89200,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4033220/",
+      "storeUrl": "https://store.steampowered.com/app/4641620/",
       "genres": [
-        "カジュアル",
-        "インディー",
         "ストラテジー"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "Rush Word is a fast-paced competitive word game where players race to find and type words before their opponent. Play solo to improve your vocabulary or challenge friends in online 1v1 matches through Steam invites.",
+      "shortDescription": "Wars are won by logistics. Command the Federation's fleets across a star system, manage supply chains, secure planets, and outmaneuver a relentless AI enemy. Every battle is decided before it begins.",
       "rawScore": 6.75,
-      "hensachi": 37.7,
-      "rank": 26
+      "hensachi": 37.3,
+      "rank": 30
+    },
+    {
+      "appid": 4810930,
+      "name": "Down The Stairs: The Game",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4810930/459633a763050799d1fe385403a9b7196f6fb791/header.jpg?t=1783407871",
+      "discountPercent": 10,
+      "initialPriceCents": 145000,
+      "finalPriceCents": 130500,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4810930/",
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "レース",
+        "シミュレーション",
+        "スポーツ"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Down The Stairs: The Game is a physics-based ragdoll challenge where every clean stair run, brutal fall, shaft setup, and ghost race pushes you toward a better score. Stay in control, hit the beams, beat other players’ ghosts, and master the descent.",
+      "rawScore": 4.5,
+      "hensachi": 36.4,
+      "rank": 31
+    },
+    {
+      "appid": 4726020,
+      "name": "YEET! The Elite",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4726020/f5673ce1e51bafd8277c9bd136156a82961df422/header.jpg?t=1783378021",
+      "discountPercent": 10,
+      "initialPriceCents": 39500,
+      "finalPriceCents": 35500,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4726020/",
+      "genres": [
+        "アクション",
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Play as Earth itself in this chaotic arcade action game where you grab elite figures and YEET them into the Sun while dodging UFOs and surviving frantic planetary swats from the Moon, Venus, and Mercury.",
+      "rawScore": 4.5,
+      "hensachi": 36.4,
+      "rank": 32
     },
     {
       "appid": 4853490,
@@ -593,51 +732,8 @@
       "releaseYear": 2026,
       "shortDescription": "Another Slop Game is a chaotic medieval co-op platformer where you and your friends jump, fall, scream, and suffer through floating ruins, giant traps, stupid obstacles, and terrible decisions. Play solo or online with friends. Reaching the top is optional, losing your mind is guaranteed.",
       "rawScore": 4.5,
-      "hensachi": 36.9,
-      "rank": 27
-    },
-    {
-      "appid": 4306760,
-      "name": "Evercrown",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4306760/2c010514c4f9594dd628d91893e25fd16992b1e7/header.jpg?t=1783338925",
-      "discountPercent": 10,
-      "initialPriceCents": 99900,
-      "finalPriceCents": 89900,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4306760/",
-      "genres": [
-        "アドベンチャー",
-        "RPG",
-        "ストラテジー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "A turn-based tactical roguelike where your heroes’ actions are decided by a slot machine. Spin, lock, and reroll abilities, read enemy intentions, build powerful synergies, and push your run into explosive late-game scaling.",
-      "rawScore": 4.5,
-      "hensachi": 36.9,
-      "rank": 28
-    },
-    {
-      "appid": 4871640,
-      "name": "Ore Shatterer",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4871640/a5f80f963cf5f2cfb753108455f1e30203054f34/header.jpg?t=1783325627",
-      "discountPercent": 10,
-      "initialPriceCents": 13500,
-      "finalPriceCents": 12100,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4871640/",
-      "genres": [
-        "カジュアル",
-        "インディー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "マウスを動かすだけで鉱石を粉砕！クリックは一切不要、カーソルを合わせるだけで破壊できます。リラックスしながらSteam世界ランキングの上位を目指しましょう。",
-      "rawScore": 4.5,
-      "hensachi": 36.9,
-      "rank": 29
+      "hensachi": 36.4,
+      "rank": 33
     }
   ]
 }
