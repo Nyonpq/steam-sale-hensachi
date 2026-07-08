@@ -93,6 +93,12 @@ const WATCHLIST_APPIDS = [
   427520, // Factorio
   322330, // Don't Starve Together
   1091500, // Cyberpunk 2077
+  // ここから3本：SteamDBの「All-time peak players」上位のうち、
+  // 買い切り型（＝実際にセールが起こりうる）タイトルを追加
+  // ※F2Pタイトル（PUBG, CS2, Dota 2, Apex Legendsなど）はセール対象外のため除外
+  1623730, // Palworld
+  2358720, // Black Myth: Wukong
+  2246340, // Monster Hunter Wilds
 ];
 
 async function fetchWatchlistDeals() {
