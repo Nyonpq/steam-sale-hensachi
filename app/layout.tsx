@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
-// 1. Vercel Analytics をインポート（追加）
-import { Analytics } from "@vercel/analytics/next";
 import { Zen_Kaku_Gothic_New, Noto_Sans_JP, Roboto_Mono } from "next/font/google";
+import { Analytics } from "@vercel/analytics/next";
+import Script from "next/script";
 import "./globals.css";
 
 const display = Zen_Kaku_Gothic_New({
@@ -36,7 +36,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="ja">
-     <body className={`${display.variable} ${body.variable} ${mono.variable} font-body text-ink`}>
+      <body
+        className={`${display.variable} ${body.variable} ${mono.variable} font-body text-ink`}
+      >
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -45,13 +47,20 @@ export default function RootLayout({
               "@type": "WebSite",
               name: "セール偏差値",
               url: "https://steam-sale-hensachi.com",
-              description: "Steamで今セール中のゲームを偏差値でランキング化するファンサイト",
+              description:
+                "Steamで今セール中のゲームを偏差値でランキング化するファンサイト",
               inLanguage: "ja",
             }),
           }}
         />
         {children}
         <Analytics />
+        <Script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1870453094526052"
+          crossOrigin="anonymous"
+          strategy="afterInteractive"
+        />
       </body>
     </html>
   );
