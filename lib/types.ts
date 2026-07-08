@@ -12,6 +12,7 @@ export interface RawDealInput {
   supportsJapanese?: boolean;
   releaseYear?: number | null;
   shortDescription?: string;
+  reviewSnippet?: string;
 }
 
 export interface Deal extends RawDealInput {
