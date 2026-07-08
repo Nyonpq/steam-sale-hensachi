@@ -43,10 +43,15 @@ async function fetchNicheTags(appid) {
     const data = await fetchJson(STEAMSPY_URL(appid));
     const tags = data?.tags;
     if (!tags || typeof tags !== "object" || Array.isArray(tags)) return [];
+
+    const lowerMap = new Map(
+      Object.entries(NICHE_TAG_TRANSLATIONS).map(([k, v]) => [k.toLowerCase(), v])
+    );
+
     const sorted = Object.entries(tags).sort((a, b) => b[1] - a[1]);
     const translated = [];
     for (const [tagName] of sorted) {
-      const jp = NICHE_TAG_TRANSLATIONS[tagName];
+      const jp = lowerMap.get(tagName.trim().toLowerCase());
       if (jp && !translated.includes(jp)) translated.push(jp);
       if (translated.length >= 2) break;
     }
