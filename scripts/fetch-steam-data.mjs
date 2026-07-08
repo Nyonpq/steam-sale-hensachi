@@ -38,105 +38,6 @@ const NICHE_TAG_TRANSLATIONS = {
   Platformer: "プラットフォーマー",
 };
 
-const REQUEST_DELAY_MS = 200;
-
-function sleep(ms) {
-  return new Promise((resolve) => setTimeout(resolve, ms));
-}
-
-async function fetchJson(url) {
-  const res = await fetch(url, {
-    headers: { "User-Agent": "steam-sale-hensachi/0.1 (personal project)" },
-  });
-  if (!res.ok) {
-    throw new Error(`Request failed ${res.status} for ${url}`);
-  }
-  return res.json();
-}
-
-async function fetchFeaturedSpecials() {
-  const data = await fetchJson(FEATURED_URL);
-  const buckets = [
-    data?.specials?.items,
-    data?.top_sellers?.items,
-    data?.new_releases?.items,
-  ];
-  const merged = buckets.flatMap((items) => items ?? []);
-  const discounted = merged.filter((item) => item.discount_percent > 0);
-  const seen = new Set();
-  const deduped = [];
-  for (const item of discounted) {
-    if (seen.has(item.id)) continue;
-    seen.add(item.id);
-    deduped.push(item);
-  }
-  return deduped;
-}
-
-async function fetchReviewStats(appid) {
-  try {
-    const data = await fetchJson(REVIEWS_URL(appid));
-    const summary = data?.query_summary;
-    if (!summary || summary.total_reviews === 0) {
-      return { reviewPositiveRate: 0, reviewCount: 0 };
-    }
-    const reviewPositiveRate =
-      (summary.total_positive / summary.total_reviews) * 100;
-    return {
-      reviewPositiveRate: Math.round(reviewPositiveRate * 10) / 10,
-      reviewCount: summary.total_reviews,
-    };
-  } catch (err) {
-    console.warn(`  ! review fetch failed for appid ${appid}:`, err.message);
-    return { reviewPositiveRate: 0, reviewCount: 0 };
-  }
-}
-
-async function fetchReviewSnippet(appid) {
-  try {
-    const data = await fetchJson(REVIEW_SNIPPET_URL(appid));
-    const reviews = data?.reviews ?? [];
-    const candidate = reviews.find(
-      (r) =>
-        r.voted_up &&
-        typeof r.review === "string" &&
-        r.review.trim().length >= 10 &&
-        r.review.trim().length <= 200
-    );
-    if (!candidate) return "";
-    const cleaned = candidate.review.trim().replace(/\s+/g, " ");
-    return cleaned.length > 60 ? `${cleaned.slice(0, 60)}…` : cleaned;
-  } catch (err) {
-    console.warn(`  ! review snippet fetch failed for appid ${appid}:`, err.message);
-    return "";
-  }
-}
-
-function extractYear(dateStr) {
-  const match = /(\d{4})/.exec(dateStr ?? "");
-  return match ? Number(match[1]) : null;
-}
-
-async function fetchAppDetailsExtra(appid) {
-  const fallback = { genres: [], supportsJapanese: false, releaseYear: null, shortDescription: "" };
-  try {
-    const data = await fetchJson(APPDETAILS_URL(appid));
-    const entry = data?.[appid];
-    if (!entry?.success) return fallback;
-    const d = entry.data ?? {};
-    const genres = (d.genres ?? []).map((g) => g.description).filter(Boolean);
-    const supportsJapanese =
-      typeof d.supported_languages === "string" &&
-      d.supported_languages.includes("日本語");
-    const releaseYear = extractYear(d.release_date?.date);
-    const shortDescription = (d.short_description ?? "").trim();
-    return { genres, supportsJapanese, releaseYear, shortDescription };
-  } catch (err) {
-    console.warn(`  ! appdetails fetch failed for appid ${appid}:`, err.message);
-    return fallback;
-  }
-}
-
 async function fetchNicheTags(appid) {
   try {
     const data = await fetchJson(STEAMSPY_URL(appid));
@@ -156,6 +57,143 @@ async function fetchNicheTags(appid) {
   }
 }
 
+const REQUEST_DELAY_MS = 200;
+
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+async function fetchJson(url) {
+  const res = await fetch(url, {
+    headers: { "User-Agent": "steam-sale-hensachi/0.1 (personal project)" },
+  });
+  if (!res.ok) {
+    throw new Error(`Request failed ${res.status} for ${url}`);
+  }
+  return res.json();
+}
+
+// 話題性はあるが「注目セール/売れ筋/新作」の枠に入りにくい定番タイトルを
+// 独自にウォッチリスト化し、毎回セール中かどうかをSteam公式APIで直接確認する。
+// 見つけたタイトルを増やしたくなったら、ここにappidを追加するだけでよい。
+const WATCHLIST_APPIDS = [
+  413150, // Stardew Valley
+  346110, // ARK: Survival Evolved
+  292030, // The Witcher 3: Wild Hunt
+  367520, // Hollow Knight
+  105600, // Terraria
+  1245620, // ELDEN RING
+  1145360, // Hades
+  620, // Portal 2
+  271590, // Grand Theft Auto V
+  489830, // The Elder Scrolls V: Skyrim Special Edition
+  588650, // Dead Cells
+  504230, // Celeste
+  294100, // RimWorld
+  427520, // Factorio
+  322330, // Don't Starve Together
+  1091500, // Cyberpunk 2077
+];
+
+async function fetchWatchlistDeals() {
+  const items = [];
+  for (const appid of WATCHLIST_APPIDS) {
+    try {
+      const data = await fetchJson(APPDETAILS_URL(appid));
+      const entry = data?.[appid];
+      const overview = entry?.data?.price_overview;
+      if (entry?.success && overview && overview.discount_percent > 0) {
+        items.push({
+          id: appid,
+          name: entry.data.name ?? `App ${appid}`,
+          header_image:
+            entry.data.header_image ??
+            `https://cdn.akamai.steamstatic.com/steam/apps/${appid}/header.jpg`,
+          discount_percent: overview.discount_percent,
+          original_price: overview.initial,
+          final_price: overview.final,
+        });
+      }
+    } catch (err) {
+      console.warn(`  ! watchlist check failed for appid ${appid}:`, err.message);
+    }
+    await sleep(REQUEST_DELAY_MS);
+  }
+  return items;
+}
+
+async function fetchFeaturedSpecials() {
+  const data = await fetchJson(FEATURED_URL);
+  const buckets = [data?.specials?.items, data?.top_sellers?.items, data?.new_releases?.items];
+  const merged = buckets.flatMap((items) => items ?? []);
+  const discounted = merged.filter((item) => item.discount_percent > 0);
+  const seen = new Set();
+  const deduped = [];
+  for (const item of discounted) {
+    if (seen.has(item.id)) continue;
+    seen.add(item.id);
+    deduped.push(item);
+  }
+  return deduped;
+}
+
+async function fetchReviewStats(appid) {
+  try {
+    const data = await fetchJson(REVIEWS_URL(appid));
+    const summary = data?.query_summary;
+    if (!summary || summary.total_reviews === 0) {
+      return { reviewPositiveRate: 0, reviewCount: 0 };
+    }
+    const reviewPositiveRate = (summary.total_positive / summary.total_reviews) * 100;
+    return {
+      reviewPositiveRate: Math.round(reviewPositiveRate * 10) / 10,
+      reviewCount: summary.total_reviews,
+    };
+  } catch (err) {
+    console.warn(`  ! review fetch failed for appid ${appid}:`, err.message);
+    return { reviewPositiveRate: 0, reviewCount: 0 };
+  }
+}
+
+function extractYear(dateStr) {
+  const match = /(\d{4})/.exec(dateStr ?? "");
+  return match ? Number(match[1]) : null;
+}
+
+async function fetchAppDetailsExtra(appid) {
+  const fallback = { genres: [], supportsJapanese: false, releaseYear: null, shortDescription: "" };
+  try {
+    const data = await fetchJson(APPDETAILS_URL(appid));
+    const entry = data?.[appid];
+    if (!entry?.success) return fallback;
+    const d = entry.data ?? {};
+    const genres = (d.genres ?? []).map((g) => g.description).filter(Boolean);
+    const supportsJapanese = typeof d.supported_languages === "string" && d.supported_languages.includes("日本語");
+    const releaseYear = extractYear(d.release_date?.date);
+    const shortDescription = (d.short_description ?? "").trim();
+    return { genres, supportsJapanese, releaseYear, shortDescription };
+  } catch (err) {
+    console.warn(`  ! appdetails fetch failed for appid ${appid}:`, err.message);
+    return fallback;
+  }
+}
+
+async function fetchReviewSnippet(appid) {
+  try {
+    const data = await fetchJson(REVIEW_SNIPPET_URL(appid));
+    const reviews = data?.reviews ?? [];
+    const candidate = reviews.find(
+      (r) => r.voted_up && typeof r.review === "string" && r.review.trim().length >= 10 && r.review.trim().length <= 200
+    );
+    if (!candidate) return "";
+    const cleaned = candidate.review.trim().replace(/\s+/g, " ");
+    return cleaned.length > 60 ? `${cleaned.slice(0, 60)}…` : cleaned;
+  } catch (err) {
+    console.warn(`  ! review snippet fetch failed for appid ${appid}:`, err.message);
+    return "";
+  }
+}
+
 async function buildRawDeals(items) {
   const rawDeals = [];
 
@@ -164,8 +202,7 @@ async function buildRawDeals(items) {
     const { reviewPositiveRate, reviewCount } = await fetchReviewStats(item.id);
     await sleep(REQUEST_DELAY_MS);
 
-    const { genres, supportsJapanese, releaseYear, shortDescription } =
-      await fetchAppDetailsExtra(item.id);
+    const { genres, supportsJapanese, releaseYear, shortDescription } = await fetchAppDetailsExtra(item.id);
 
     await sleep(1000);
     const nicheTags = await fetchNicheTags(item.id);
@@ -201,8 +238,18 @@ async function buildRawDeals(items) {
 }
 
 async function main() {
-  console.log("Fetching featured specials from Steam...");
-  const items = await fetchFeaturedSpecials();
+  console.log("Fetching deal list...");
+  const featured = await fetchFeaturedSpecials();
+  const watchlist = await fetchWatchlistDeals();
+
+  const merged = [...featured, ...watchlist];
+  const seen = new Set();
+  const items = [];
+  for (const item of merged) {
+    if (seen.has(item.id)) continue;
+    seen.add(item.id);
+    items.push(item);
+  }
 
   if (items.length === 0) {
     console.warn("No specials found. Keeping previous data/deals.json as-is.");
@@ -213,9 +260,7 @@ async function main() {
   const deals = computeHensachi(rawDeals);
 
   const averageDiscount =
-    Math.round(
-      (rawDeals.reduce((sum, d) => sum + d.discountPercent, 0) / rawDeals.length) * 10
-    ) / 10;
+    Math.round((rawDeals.reduce((sum, d) => sum + d.discountPercent, 0) / rawDeals.length) * 10) / 10;
 
   const dataset = {
     fetchedAt: new Date().toISOString(),
