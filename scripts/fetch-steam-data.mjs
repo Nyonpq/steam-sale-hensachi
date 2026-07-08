@@ -68,9 +68,13 @@ function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-async function fetchJson(url) {
+async function fetchJson(url, options = {}) {
   const res = await fetch(url, {
-    headers: { "User-Agent": "steam-sale-hensachi/0.1 (personal project)" },
+    headers: {
+      "User-Agent":
+        options.userAgent ??
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    },
   });
   if (!res.ok) {
     throw new Error(`Request failed ${res.status} for ${url}`);

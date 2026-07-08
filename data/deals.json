@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-07-08T21:43:50.092Z",
+  "fetchedAt": "2026-07-08T21:57:26.122Z",
   "currency": "JPY",
   "count": 33,
-  "averageDiscount": 45.3,
+  "averageDiscount": 44.5,
   "deals": [
     {
       "appid": 292030,
@@ -22,7 +22,7 @@
       "shortDescription": "怪物狩りを生業とするウィッチャー、「リヴィアのゲラルト」となり、〈予言の子〉を見つけ出す冒険へと身を投じよう。ストーリー重視のオープンワールドRPG『ウィッチャー３ ワイルドハント』では、重大な結果に繋がる様々な決断を下しながら、戦争と怪物たちの恐怖に晒された大陸を旅していくことになる。",
       "reviewSnippet": "PS４で５００時間以上プレイ済み このゲームはおもろすぎる ずっと味するスルメゲーです １０年ぶりのDLCマジで楽しみに…",
       "rawScore": 94.38,
-      "hensachi": 62,
+      "hensachi": 62.2,
       "rank": 1
     },
     {
@@ -48,7 +48,7 @@
       "shortDescription": "『Don't Starve Together』は容赦ないサバイバルゲーム、『Don't Starve』がマルチプレイヤーになる、スタンドアローン拡張パックです。",
       "reviewSnippet": "クモに殺され、暗闇に呑まれ、凍え死に、海に溺れ、家が燃え、それでもまた今ここに立っている。 MODがないと不便な点が多い…",
       "rawScore": 93.75,
-      "hensachi": 61.8,
+      "hensachi": 62,
       "rank": 2
     },
     {
@@ -70,7 +70,7 @@
       "shortDescription": "Perpetual Testing Initiativeにより、フレンドと協力してプレイできるパズルのデザイン機能が追加されました！",
       "reviewSnippet": "2009？10年くらいにトレーラーを見てすっごいわくわくしてたのに、協力プレイをクリアして以降放置してたゲーム 2026…",
       "rawScore": 90.545,
-      "hensachi": 60.6,
+      "hensachi": 60.9,
       "rank": 3
     },
     {
@@ -81,7 +81,7 @@
       "initialPriceCents": 280000,
       "finalPriceCents": 70000,
       "reviewPositiveRate": 98,
-      "reviewCount": 305640,
+      "reviewCount": 305643,
       "storeUrl": "https://store.steampowered.com/app/1145360/",
       "genres": [
         "アクション",
@@ -93,7 +93,7 @@
       "shortDescription": "死者の国の神に背き、戦いを切り抜けて冥界から脱せよ。『Bastion』、『Transistor』、『Pyre』のクリエイターによるローグライク・ダンジョンアドベンチャー。",
       "reviewSnippet": "初クリア記念に。わかりやすく言うと「Slay the Spire』のアクション版。失敗すると初めから、永続強化も微妙に見…",
       "rawScore": 88.05,
-      "hensachi": 59.7,
+      "hensachi": 60,
       "rank": 4
     },
     {
@@ -116,7 +116,7 @@
       "shortDescription": "心の闇と戦う少女マデリンとともに、セレステ山の頂上を目指せ。気軽に遊べて奥が深い、手に汗握るアクションゲーム。数百におよぶ難関に立ち向かい、聖山の怪しげな秘密を探り、謎に迫れ。",
       "reviewSnippet": "Madelineの置かれている状況が自分と少し似ていて、特に終盤でのGrannyさんとの会話には心を救われました。ありが…",
       "rawScore": 87.30041225496927,
-      "hensachi": 59.5,
+      "hensachi": 59.7,
       "rank": 5
     },
     {
@@ -127,7 +127,7 @@
       "initialPriceCents": 439900,
       "finalPriceCents": 109900,
       "reviewPositiveRate": 92.4,
-      "reviewCount": 370254,
+      "reviewCount": 370258,
       "storeUrl": "https://store.steampowered.com/app/489830/",
       "genres": [
         "RPG"
@@ -137,29 +137,8 @@
       "shortDescription": "200以上のGame of the Yearアワードを獲得した『The Elder Scrolls V: Skyrim Special Edition』は、詳細にわたる描写で無限のファンタジーに命を吹き込みます。Special Editionには高い評価を受けた基本ゲームやアドオンに加え、新しい機能が含まれます。",
       "reviewSnippet": "最初の2時間くらいは買わない方が良かったかなと思うくらいUi周りが苦痛でした でも慣れてきたら最高ですねmodはよく分か…",
       "rawScore": 86.09,
-      "hensachi": 59,
+      "hensachi": 59.3,
       "rank": 6
-    },
-    {
-      "appid": 1687950,
-      "name": "ペルソナ５ ザ・ロイヤル",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header_japanese.jpg?t=1783356822",
-      "discountPercent": 70,
-      "initialPriceCents": 767800,
-      "finalPriceCents": 230300,
-      "reviewPositiveRate": 96.4,
-      "reviewCount": 133919,
-      "storeUrl": "https://store.steampowered.com/app/1687950/",
-      "genres": [
-        "RPG"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2022,
-      "shortDescription": "奪え、その意志で。",
-      "reviewSnippet": "不満点が適度にブラッシュアップされた良作。スピンオフや続編がほしい。",
-      "rawScore": 84.5865865684875,
-      "hensachi": 58.5,
-      "rank": 7
     },
     {
       "appid": 1091500,
@@ -179,8 +158,8 @@
       "shortDescription": "『サイバーパンク2077』――未来の巨大都市ナイトシティを舞台にしたオープンワールド・アクションアドベンチャーRPG",
       "reviewSnippet": "まずはクリアしろ。 そしてエッジランナーズを見ろ。 もう一回プレイしろ。 そしたらわかる。",
       "rawScore": 81.81,
-      "hensachi": 57.5,
-      "rank": 8
+      "hensachi": 57.7,
+      "rank": 7
     },
     {
       "appid": 2161700,
@@ -202,8 +181,8 @@
       "shortDescription": "『ペルソナ３』が、装いを新たに現行最新ハードにて生まれ変わる！",
       "reviewSnippet": "ラストは予想してたエンディングと違って、一瞬心が置いていかれそうになった。でもエンディング曲を聴いてると『終わっちゃうん…",
       "rawScore": 80.29051854523027,
-      "hensachi": 57,
-      "rank": 9
+      "hensachi": 57.2,
+      "rank": 8
     },
     {
       "appid": 32470,
@@ -223,8 +202,8 @@
       "shortDescription": "Command or corrupt an entire galaxy in the definitive Star Wars strategy collection. It is a time of galactic civil war. Will you take up the reins of the Rebellion, assume control of the Empire, or rule the Star Wars Underworld?",
       "reviewSnippet": "スターウォーズやストラテジーゲームな好きな方は是非やってください。",
       "rawScore": 78.6707672485828,
-      "hensachi": 56.4,
-      "rank": 10
+      "hensachi": 56.6,
+      "rank": 9
     },
     {
       "appid": 105600,
@@ -247,8 +226,8 @@
       "shortDescription": "掘って、戦って、探検して、作ろう! 出来ないことは一切無いアクション満載のアドベンチャーゲーム。 4本パックも発売中!",
       "reviewSnippet": "psvita、ps3.4、switch版を遊んだうえでずっとPCのmod環境に憧れていました。私がPCを購入した最も大き…",
       "rawScore": 76.59,
-      "hensachi": 55.7,
-      "rank": 11
+      "hensachi": 55.9,
+      "rank": 10
     },
     {
       "appid": 367520,
@@ -258,7 +237,7 @@
       "initialPriceCents": 170000,
       "finalPriceCents": 85000,
       "reviewPositiveRate": 96.9,
-      "reviewCount": 550061,
+      "reviewCount": 550073,
       "storeUrl": "https://store.steampowered.com/app/367520/",
       "genres": [
         "アクション",
@@ -270,8 +249,8 @@
       "shortDescription": "英雄とムシたちによって築かれた広大な王国の廃墟を冒険し、自らの道を切り開きましょう！　伝統的な手描きスタイルによって生み出された2D世界の中で、曲がりくねった洞穴や、汚染された生物、それに友好的でちょっと変わったムシたちがあなたを待っています。",
       "reviewSnippet": "人生で初めてのソウルライクです、本当にゲームが下手ですが頑張って進めています。今まで死にゲーの良さなど微塵も理解できませ…",
       "rawScore": 76.41499999999999,
-      "hensachi": 55.6,
-      "rank": 12
+      "hensachi": 55.8,
+      "rank": 11
     },
     {
       "appid": 588650,
@@ -293,8 +272,8 @@
       "shortDescription": "『Dead Cells』は、ローグライトとメトロイドヴァニアにインスピレーションを得たアクションプラットフォーマー。プレイヤーは、無秩序に広がり絶えず変化する城を探索することになる…むろん2Dのソウルライクな戦闘で戦って、番人を通過することができたらの話だが。チェックポイントなし。殺して、死んで、学ぶ。その繰り返しだ",
       "reviewSnippet": "慣れるまで難しいと思いますが、おすすめです。 動作が軽快で操作感もとても良く、かなり作り込まれていると思いました。 マッ…",
       "rawScore": 76.2953772002909,
-      "hensachi": 55.6,
-      "rank": 13
+      "hensachi": 55.8,
+      "rank": 12
     },
     {
       "appid": 814380,
@@ -315,8 +294,8 @@
       "shortDescription": "隻腕の狼、戦国に忍ぶ。 史上最も血なまぐさい時代・戦国を舞台に、孤独な忍びの戦いを描くアクション・アドベンチャー。",
       "reviewSnippet": "とても面白いのだけど、アクションゲームに、特にフロムゲーに不慣れな人には薦められません。 忍者はアクションがとても多くて…",
       "rawScore": 75.85499999999999,
-      "hensachi": 55.4,
-      "rank": 14
+      "hensachi": 55.6,
+      "rank": 13
     },
     {
       "appid": 413150,
@@ -326,7 +305,7 @@
       "initialPriceCents": 148000,
       "finalPriceCents": 88800,
       "reviewPositiveRate": 98.5,
-      "reviewCount": 1020854,
+      "reviewCount": 1020864,
       "storeUrl": "https://store.steampowered.com/app/413150/",
       "genres": [
         "インディー",
@@ -338,8 +317,8 @@
       "shortDescription": "「スターデュー バレー」で、プレイヤーは祖父から古い農場を受け継ぎます。使い古された道具と少しのお金を手に、新たな生活を始めましょう。自給自足の生活で生き抜く術を学び、草木の生い茂る土地を繁栄させることができるか、腕の見せ所です。",
       "reviewSnippet": "価格に対して破格のボリューム 世界観で「ん？」って思う部分がなくもないが、許容範囲内 その気になればいくらでも遊べる一方…",
       "rawScore": 72.475,
-      "hensachi": 54.2,
-      "rank": 15
+      "hensachi": 54.4,
+      "rank": 14
     },
     {
       "appid": 3240220,
@@ -361,7 +340,33 @@
       "shortDescription": "大ヒットの『グランド・セフト・オートV』と「GTAオンライン」を体験しよう - 新世代用に美麗なグラフィック、短縮されたロード時間、3Dオーディオなどのアップグレード。さらに、「GTAオンライン」プレイヤー用の限定コンテンツなど。",
       "reviewSnippet": "神ゲーです オンラインにチーターが多いことを除けば...",
       "rawScore": 71.53921920692468,
-      "hensachi": 53.9,
+      "hensachi": 54.1,
+      "rank": 15
+    },
+    {
+      "appid": 251570,
+      "name": "7 Days to Die",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/header.jpg?t=1783541658",
+      "discountPercent": 45,
+      "initialPriceCents": 490000,
+      "finalPriceCents": 269500,
+      "reviewPositiveRate": 87.1,
+      "reviewCount": 402528,
+      "storeUrl": "https://store.steampowered.com/app/251570/",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "インディー",
+        "RPG",
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2024,
+      "shortDescription": "『7 Days to Die』は、FPS、サバイバルホラー、タワーディフェンス、ロールプレイングゲームをユニークに組み合わせたオープンワールド型のゲームです。元祖ゾンビサバイバルなサンドボックスRPGゲームをプレイしましょう。ナベズゲインがあなたを待っています！",
+      "reviewSnippet": "ver3.0からゲーム内の細かい設定が行えるようになって、今までmodを導入してできてたことが公式で設定できるようになっ…",
+      "rawScore": 70.735,
+      "hensachi": 53.8,
       "rank": 16
     },
     {
@@ -384,7 +389,7 @@
       "shortDescription": "2024年に生誕20周年を迎えたストーリーRPG「軌跡」シリーズ。その記念すべき第１作、『英雄伝説 空の軌跡FC（ファーストチャプター）』を完全フルリメイク！",
       "reviewSnippet": "王道のRPG。レジェンド級のRPGに勝るとも劣らないドラマティックなストーリーとプレーヤーの好みに応じた柔軟な難易度設定…",
       "rawScore": 69.72550052858017,
-      "hensachi": 53.2,
+      "hensachi": 53.4,
       "rank": 17
     },
     {
@@ -409,7 +414,7 @@
       "shortDescription": "広大な世界で不思議な生物『パル』を集めて、戦闘・建築・農業を行わせたり、工場で労働させたりする全く新しいマルチ対応のオープンワールドサバイバルクラフトゲームです。",
       "reviewSnippet": "新しいタイプのゲームでとても面白かった ワールドの設定をいじると簡単になりすぎるの設定変更はあまりお勧めできない",
       "rawScore": 66.505,
-      "hensachi": 52.1,
+      "hensachi": 52.2,
       "rank": 18
     },
     {
@@ -432,7 +437,7 @@
       "shortDescription": "荒廃した世界が舞台のアクションアドベンチャー『Stellar Blade™』で、人類の存亡をかけた戦いが、いま幕を開ける。地球が荒廃した真相を解き明かしながら、激しい戦闘と複雑に絡み合った物語を体験しよう。",
       "reviewSnippet": "ゲームとしてしっかり作られてるので楽しめる。 ただよくあるアクションゲーで目新しさは無い。 ムチムチ、プリケツ等言われて…",
       "rawScore": 66.41569034273274,
-      "hensachi": 52,
+      "hensachi": 52.2,
       "rank": 19
     },
     {
@@ -453,7 +458,7 @@
       "shortDescription": "『サイバーパンク2077』に、スパイスリラーをテーマとした拡張パック「仮初めの自由」が新登場。ナイトシティで生きる傭兵、Vに待つ新たな任務とは？スパイのソロモン・リードと共に、踏みにじまれた忠誠心と熾烈な権力闘争が絡み合うスパイの世界へと身を投じろ",
       "reviewSnippet": "新しいロケーションやクエストは全部面白い 本編が好きな人は買い ただ一点だけ特大の地雷があって メインヒロインのソミの言…",
       "rawScore": 66.04889942838254,
-      "hensachi": 51.9,
+      "hensachi": 52.1,
       "rank": 20
     },
     {
@@ -478,7 +483,7 @@
       "shortDescription": "Stranded on the shores of a mysterious island, you must learn to survive. Use your cunning to kill or tame the primeval creatures roaming the land, and encounter other players to survive, dominate... and escape!",
       "reviewSnippet": "一人でやってしまうくらいには大好きです。正直そのままの設定でやるとかなり苦しむので、設定をいじってやることをお勧めします…",
       "rawScore": 64.455,
-      "hensachi": 51.3,
+      "hensachi": 51.5,
       "rank": 21
     },
     {
@@ -501,7 +506,7 @@
       "shortDescription": "知性のあるAIストーリーテラーによって織りなされるSFコロニーシミュレーションゲームです。人の性格、自然環境、銃撃戦、近接戦、気候、バイオーム、外交、対人関係、芸術、医学、貿易などをシミュレートし、ストーリーを生成します。",
       "reviewSnippet": "ほんの少しだけ衣食住よりも優先度が高いゲームです！ たったの1500時間しかやっていませんがお勧めできるゲームだと思いま…",
       "rawScore": 63.265,
-      "hensachi": 50.9,
+      "hensachi": 51.1,
       "rank": 22
     },
     {
@@ -512,7 +517,7 @@
       "initialPriceCents": 899000,
       "finalPriceCents": 377500,
       "reviewPositiveRate": 48.8,
-      "reviewCount": 323856,
+      "reviewCount": 323863,
       "storeUrl": "https://store.steampowered.com/app/2246340/",
       "genres": [
         "アクション",
@@ -524,7 +529,7 @@
       "shortDescription": "荒々しく獰猛な自然が、襲い来る。 刻一刻とダイナミックにその姿を変貌させるフィールド。二面性をもつ世界に生きる、モンスターと人々の物語。 進化したハンティングアクションと、途切れることのない没入感を追求した究極の狩猟体験が、あなたを待っている。",
       "reviewSnippet": "",
       "rawScore": 63.18,
-      "hensachi": 50.9,
+      "hensachi": 51.1,
       "rank": 23
     },
     {
@@ -546,7 +551,7 @@
       "shortDescription": "A murder mystery blended with sudoku-style logic. Explore suspicious rooms, examine weapon evidence, and piece together clues through sharp deduction to reveal the killer. Play alone or work online with up to 4 detectives to solve the case together.",
       "reviewSnippet": "",
       "rawScore": 54.135962247788605,
-      "hensachi": 47.7,
+      "hensachi": 47.8,
       "rank": 24
     },
     {
@@ -567,7 +572,7 @@
       "shortDescription": "Psychological first-person horror. Fate brings you to your grandfather’s house, left abandoned after his mysterious disappearance. Explore it and uncover the dark secret hidden within.",
       "reviewSnippet": "",
       "rawScore": 46.27192449557722,
-      "hensachi": 44.9,
+      "hensachi": 45,
       "rank": 25
     },
     {
@@ -590,7 +595,7 @@
       "shortDescription": "BEGHOST is a narrative-heavy 2D action-adventure game set in the bowels of a haunted dungeon. Uncover the dungeon's darkest secrets with your ghost girl companion Bee, as you navigate your way through enemies, traps, and more, in a desperate attempt to escape!",
       "reviewSnippet": "",
       "rawScore": 40.635962247788605,
-      "hensachi": 42.9,
+      "hensachi": 43,
       "rank": 26
     },
     {
@@ -614,7 +619,7 @@
       "shortDescription": "そのデッキが、東京を救う切り札になる！本作は、デッキを組み替え、戦略を練り、立ちはだかる敵を打ち倒しながらマップを進んでいく、デッキ構築型ローグライトゲームです。デッキを構築し、裏世界の侵食から東京を守り抜け！",
       "reviewSnippet": "",
       "rawScore": 36.84404920760097,
-      "hensachi": 41.5,
+      "hensachi": 41.6,
       "rank": 27
     },
     {
@@ -636,7 +641,7 @@
       "shortDescription": "A tiny angler who fishes on your desktop while you work. Pocket Pond is a cozy idle overlay where a pixel-art fisherman auto-casts, reels in 130 species, and fills your codex - no clicking required. Just let him drift in the corner of your screen and see what's biting.",
       "reviewSnippet": "",
       "rawScore": 13.5,
-      "hensachi": 33.3,
+      "hensachi": 33.2,
       "rank": 28
     },
     {
@@ -659,7 +664,7 @@
       "shortDescription": "An erotic VISUAL NOVEL with stunning HD visuals and steamy ANIMATIONS. A devoted wife spirals deeper into temptation, risking her marriage for the passion she can no longer resist.",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 31.7,
+      "hensachi": 31.6,
       "rank": 29
     },
     {
@@ -682,7 +687,7 @@
       "shortDescription": "崩壊していく夢のシミュレーションを舞台にした、心理異常探知ホラーゲーム。矛盾点を報告し、現実を問い、意識の価値を判断せよ。",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 31.7,
+      "hensachi": 31.6,
       "rank": 30
     },
     {
@@ -704,7 +709,7 @@
       "shortDescription": "A sci-fi comedy graphic novel where you play Hooman, an android too conceited to be scared and too lucky to die. Your crew is going to die but they could have avoided an untimely death if they had only listened to you. You are not the problem.",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 31.7,
+      "hensachi": 31.6,
       "rank": 31
     },
     {
@@ -726,7 +731,7 @@
       "shortDescription": "Protect a hungry Caterpillar and guide him home in this turn-based puzzle strategy game about friendship, responsibility, and finding a family.",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 30.1,
+      "hensachi": 30,
       "rank": 32
     },
     {
@@ -750,7 +755,7 @@
       "shortDescription": "Tower of Void is a tactical roguelike RPG. It features formation strategy, auto combat, loot farming and class progression. The core fun lies in building lineups, adjusting positions, equipping skills and gear to counter diverse enemies.",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 30.1,
+      "hensachi": 30,
       "rank": 33
     }
   ]
