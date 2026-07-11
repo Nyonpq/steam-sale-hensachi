@@ -1,9 +1,55 @@
 {
-  "fetchedAt": "2026-07-11T15:34:16.772Z",
+  "fetchedAt": "2026-07-11T20:31:15.768Z",
   "currency": "JPY",
   "count": 29,
-  "averageDiscount": 20.5,
+  "averageDiscount": 27.4,
   "deals": [
+    {
+      "appid": 703080,
+      "name": "プラネット ズー",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/703080/header.jpg?t=1765896213",
+      "discountPercent": 95,
+      "initialPriceCents": 475000,
+      "finalPriceCents": 23700,
+      "reviewPositiveRate": 91.1,
+      "reviewCount": 96174,
+      "storeUrl": "https://store.steampowered.com/app/703080/",
+      "genres": [
+        "カジュアル",
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2019,
+      "shortDescription": "「プラネット ズー」で野生動物の王国を作りましょう。「Planet Coaster」や「Zoo Tycoon」の開発チームによる究極の動物園シミュレーションが登場。緻密な生息環境を整え、動物園を管理しましょう。あなたが作り出した世界で活動する、思考力や感覚を備えたリアルな動物たちを観察してください。",
+      "reviewSnippet": "PS5のコンソール版を先に買ってしばらく遊んでいましたが、結局PC版を買いました。 当初は、動物好きな点から購入しました…",
+      "rawScore": 93.43900828293906,
+      "hensachi": 71.3,
+      "rank": 1
+    },
+    {
+      "appid": 1771300,
+      "name": "Kingdom Come: Deliverance II",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg?t=1777975568",
+      "discountPercent": 60,
+      "initialPriceCents": 809000,
+      "finalPriceCents": 323600,
+      "reviewPositiveRate": 94,
+      "reviewCount": 188087,
+      "storeUrl": "https://store.steampowered.com/app/1771300/",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "RPG"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2025,
+      "shortDescription": "15世紀中世ヨーロッパの豊かなオープンワールドを舞台にした、スリリングなストーリー主導のアクションRPGで、若きヘンリーとして究極の中世の冒険に旅立とう。",
+      "reviewSnippet": "サウンドトラックも最高だし世界もめっちゃ作りこまれてるしでとにかく全部最高でめちゃくちゃ面白かった。",
+      "rawScore": 79.80324939048879,
+      "hensachi": 65.6,
+      "rank": 2
+    },
     {
       "appid": 3240220,
       "name": "グランド・セフト・オートV エンハンスト",
@@ -12,7 +58,7 @@
       "initialPriceCents": 648000,
       "finalPriceCents": 285100,
       "reviewPositiveRate": 83.1,
-      "reviewCount": 199625,
+      "reviewCount": 199753,
       "storeUrl": "https://store.steampowered.com/app/3240220/",
       "genres": [
         "アクション",
@@ -24,8 +70,8 @@
       "shortDescription": "大ヒットの『グランド・セフト・オートV』と「GTAオンライン」を体験しよう - 新世代用に美麗なグラフィック、短縮されたロード時間、3Dオーディオなどのアップグレード。さらに、「GTAオンライン」プレイヤー用の限定コンテンツなど。",
       "reviewSnippet": "神ゲーです オンラインにチーターが多いことを除けば...",
       "rawScore": 74.285,
-      "hensachi": 67.3,
-      "rank": 1
+      "hensachi": 63.3,
+      "rank": 3
     },
     {
       "appid": 1984270,
@@ -35,7 +81,7 @@
       "initialPriceCents": 891000,
       "finalPriceCents": 507800,
       "reviewPositiveRate": 89.6,
-      "reviewCount": 21746,
+      "reviewCount": 21750,
       "storeUrl": "https://store.steampowered.com/app/1984270/",
       "genres": [
         "RPG"
@@ -44,9 +90,9 @@
       "releaseYear": 2025,
       "shortDescription": "「デジモンストーリー」シリーズ最新作が遂に登場。今作は、世界崩壊の謎を追う中で、人間世界と異世界を跨ぐ冒険、多種多様なデジモンの収集と育成を楽しめるRPGです。",
       "reviewSnippet": "オープンワールドではない。思い出補正がかかっているので楽しめているが、ストーリーは単調でおつかいの繰り返し。懐かしい以外…",
-      "rawScore": 67.07754473385621,
-      "hensachi": 63.8,
-      "rank": 2
+      "rawScore": 67.07784614488314,
+      "hensachi": 60.3,
+      "rank": 4
     },
     {
       "appid": 1623730,
@@ -56,7 +102,7 @@
       "initialPriceCents": 340000,
       "finalPriceCents": 238000,
       "reviewPositiveRate": 94.3,
-      "reviewCount": 429777,
+      "reviewCount": 430174,
       "storeUrl": "https://store.steampowered.com/app/1623730/",
       "genres": [
         "サバイバル",
@@ -70,8 +116,8 @@
       "shortDescription": "広大な世界で不思議な生物『パル』を集めて、戦闘・建築・農業を行わせたり、工場で労働させたりする全く新しいマルチ対応のオープンワールドサバイバルクラフトゲームです。",
       "reviewSnippet": "このゲームになにか問題があるとするなら、それはプレイヤーキャラクターのデザインが微妙というぐらいですｗ",
       "rawScore": 66.505,
-      "hensachi": 63.5,
-      "rank": 3
+      "hensachi": 60.1,
+      "rank": 5
     },
     {
       "appid": 346110,
@@ -81,7 +127,7 @@
       "initialPriceCents": 170000,
       "finalPriceCents": 112200,
       "reviewPositiveRate": 83.3,
-      "reviewCount": 772079,
+      "reviewCount": 772118,
       "storeUrl": "https://store.steampowered.com/app/346110/",
       "genres": [
         "サバイバル",
@@ -96,8 +142,8 @@
       "shortDescription": "Stranded on the shores of a mysterious island, you must learn to survive. Use your cunning to kill or tame the primeval creatures roaming the land, and encounter other players to survive, dominate... and escape!",
       "reviewSnippet": "個人的に、サバイバルゲームの頂点に君臨している作品だと思います。 恐竜のテイム、育成、建築、探索、ボス討伐など、出来る事…",
       "rawScore": 64.455,
-      "hensachi": 62.6,
-      "rank": 4
+      "hensachi": 59.2,
+      "rank": 6
     },
     {
       "appid": 3280350,
@@ -107,7 +153,7 @@
       "initialPriceCents": 898000,
       "finalPriceCents": 718400,
       "reviewPositiveRate": 95.3,
-      "reviewCount": 24806,
+      "reviewCount": 24820,
       "storeUrl": "https://store.steampowered.com/app/3280350/",
       "genres": [
         "アクション",
@@ -117,19 +163,19 @@
       "releaseYear": 2026,
       "shortDescription": "「我々は繋ぐべきだったのか？」　サムは人類を絶滅から救うために、仲間とともに新たな旅を始める。 荒廃した世界、立ちふさがる敵、混迷する謎。あらゆるものが使命の達成を阻もうとする。人と人との繋がりの向こうに、何があるのか？比類なきゲームクリエイター小島秀夫が、ふたたび世界を変える。",
       "reviewSnippet": "前作よりつまらない。 色々言いたいけど、レイニーの存在意義がマジでわからん。 サブイベントのスイッチオンオフをしている存…",
-      "rawScore": 58.93829904395972,
-      "hensachi": 59.9,
-      "rank": 5
+      "rawScore": 58.93922367763546,
+      "hensachi": 56.9,
+      "rank": 7
     },
     {
       "appid": 4761320,
       "name": "MEGABOOBS 🔞",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4761320/dc9b714939717c2624c72da1a310921f3c7d7762/header.jpg?t=1783782527",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4761320/dc9b714939717c2624c72da1a310921f3c7d7762/header.jpg?t=1783785130",
       "discountPercent": 37,
       "initialPriceCents": 240000,
       "finalPriceCents": 151200,
-      "reviewPositiveRate": 100,
-      "reviewCount": 17,
+      "reviewPositiveRate": 97.5,
+      "reviewCount": 40,
       "storeUrl": "https://store.steampowered.com/app/4761320/",
       "genres": [
         "アクション"
@@ -138,9 +184,9 @@
       "releaseYear": 2026,
       "shortDescription": "巨大なプロポーションのヒロイン、激しいアクション、無修正の成人向けコンテンツが詰まった本格NSFW 3Dサバイバーローグライト。",
       "reviewSnippet": "",
-      "rawScore": 56.386877377748334,
-      "hensachi": 58.7,
-      "rank": 6
+      "rawScore": 56.860976817810325,
+      "hensachi": 56.1,
+      "rank": 8
     },
     {
       "appid": 4746010,
@@ -150,7 +196,7 @@
       "initialPriceCents": 53000,
       "finalPriceCents": 31800,
       "reviewPositiveRate": 100,
-      "reviewCount": 7,
+      "reviewCount": 9,
       "storeUrl": "https://store.steampowered.com/app/4746010/",
       "genres": [
         "インディー",
@@ -160,9 +206,30 @@
       "releaseYear": 2026,
       "shortDescription": "First-person 3D clicker about developing a cube factory: start generators, upgrade production, increase cube value, and automate your progress.",
       "reviewSnippet": "",
-      "rawScore": 56.40788674336582,
-      "hensachi": 58.7,
-      "rank": 7
+      "rawScore": 56.77358490566038,
+      "hensachi": 56,
+      "rank": 9
+    },
+    {
+      "appid": 4799150,
+      "name": "Calculus of Rot",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799150/d9cae5d47394c853b32c8e3e7ea6d260893c8802/header.jpg?t=1783772566",
+      "discountPercent": 40,
+      "initialPriceCents": 65500,
+      "finalPriceCents": 39300,
+      "reviewPositiveRate": 100,
+      "reviewCount": 1,
+      "storeUrl": "https://store.steampowered.com/app/4799150/",
+      "genres": [
+        "アドベンチャー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "Fight your way through zombie-infested wastelands in a turn-based tactical survival game. Reveal the map tile by tile, manage your health, choose your battles wisely, and survive against increasingly dangerous mutants lurking in the darkness.",
+      "reviewSnippet": "",
+      "rawScore": 54.135962247788605,
+      "hensachi": 54.9,
+      "rank": 10
     },
     {
       "appid": 4380490,
@@ -171,8 +238,8 @@
       "discountPercent": 15,
       "initialPriceCents": 190000,
       "finalPriceCents": 161500,
-      "reviewPositiveRate": 90.1,
-      "reviewCount": 880,
+      "reviewPositiveRate": 91,
+      "reviewCount": 975,
       "storeUrl": "https://store.steampowered.com/app/4380490/",
       "genres": [
         "インディー",
@@ -182,9 +249,9 @@
       "releaseYear": 2026,
       "shortDescription": "ゆったりと時間が流れるネコの郵便局が、あなたの職場。毎日やってくる船で届いた荷物を降ろしたら、仕分けて整頓しよう。夜が訪れると、月に照らされた荷物が秘密を教えてくれる。溜まった荷物を片付けて、住民のネコたちを郵送でお手伝いして、新しい技能や目的地を広げてゆこう。",
       "reviewSnippet": "ゲーム自体はとても面白くて満足しています。 ですが、まだ日本語に最適化されておらず郵便物を受け取りに来た方の名前と、郵便…",
-      "rawScore": 49.39811663551716,
-      "hensachi": 55.4,
-      "rank": 8
+      "rawScore": 49.88094270817619,
+      "hensachi": 53.2,
+      "rank": 11
     },
     {
       "appid": 2209900,
@@ -193,8 +260,8 @@
       "discountPercent": 15,
       "initialPriceCents": 490000,
       "finalPriceCents": 416500,
-      "reviewPositiveRate": 89.1,
-      "reviewCount": 663,
+      "reviewPositiveRate": 89.4,
+      "reviewCount": 682,
       "storeUrl": "https://store.steampowered.com/app/2209900/",
       "genres": [
         "カジュアル",
@@ -205,10 +272,32 @@
       "supportsJapanese": true,
       "releaseYear": 2026,
       "shortDescription": "「ムーンライト・ピークス」でヴァンパイアライフを満喫！ポーション作りや呪文詠唱を極めちゃおう。魔法の畑を耕そう。住民の人狼族、魔女やマーメイドたちと仲良くなって、さらには深い仲になっちゃったり…そしてついには永遠の愛を誓う！",
-      "reviewSnippet": "街や木や家や家具や、とにかく何もかもが可愛い。 作物は特に可愛い。いろんな種類を育てたくなる。 ただ、本当に残念なのが翻…",
-      "rawScore": 48.584690865539685,
-      "hensachi": 55,
-      "rank": 9
+      "reviewSnippet": "家の中のオブジェクトにインタラクトできなくなるというバグが発生しており、進行困難になっています。 このバグのせいで進める…",
+      "rawScore": 48.73592718370389,
+      "hensachi": 52.7,
+      "rank": 12
+    },
+    {
+      "appid": 4294400,
+      "name": "Clickstead",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294400/6c404639b47375df831c62184240c71ea03d3a13/header.jpg?t=1783730163",
+      "discountPercent": 20,
+      "initialPriceCents": 53000,
+      "finalPriceCents": 42400,
+      "reviewPositiveRate": 100,
+      "reviewCount": 3,
+      "storeUrl": "https://store.steampowered.com/app/4294400/",
+      "genres": [
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "A short incremental game about harvesting trees using elements like Fire and Lightning to your advantage. Build your skill tree and rise from Seed to legend.",
+      "reviewSnippet": "",
+      "rawScore": 46.27192449557722,
+      "hensachi": 51.7,
+      "rank": 13
     },
     {
       "appid": 4563040,
@@ -230,74 +319,30 @@
       "shortDescription": "ジャオベイ（Jiaobei）は、神意をうかがう中国伝統の占いをもとにしたデスクトップツールです。投げる前に、氏名、住所、生年月日、年齢、相談内容を心の中で伝えます。投げた後は、システムが結果を自動で判定します。",
       "reviewSnippet": "",
       "rawScore": 45.135962247788605,
-      "hensachi": 53.3,
-      "rank": 10
+      "hensachi": 51.2,
+      "rank": 14
     },
     {
-      "appid": 4294400,
-      "name": "Clickstead",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294400/6c404639b47375df831c62184240c71ea03d3a13/header.jpg?t=1783730163",
-      "discountPercent": 20,
-      "initialPriceCents": 53000,
-      "finalPriceCents": 42400,
-      "reviewPositiveRate": 100,
-      "reviewCount": 1,
-      "storeUrl": "https://store.steampowered.com/app/4294400/",
-      "genres": [
-        "カジュアル",
-        "インディー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "A short incremental game about harvesting trees using elements like Fire and Lightning to your advantage. Build your skill tree and rise from Seed to legend.",
-      "reviewSnippet": "",
-      "rawScore": 45.135962247788605,
-      "hensachi": 53.3,
-      "rank": 11
-    },
-    {
-      "appid": 3607040,
-      "name": "Waifu Discovered 3: Cyberpunk Fantasy",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3607040/727f867775ecfc47ee2373439b4899e71277bec7/header.jpg?t=1783719205",
-      "discountPercent": 15,
-      "initialPriceCents": 84000,
-      "finalPriceCents": 71400,
-      "reviewPositiveRate": 100,
-      "reviewCount": 6,
-      "storeUrl": "https://store.steampowered.com/app/3607040/",
+      "appid": 4799110,
+      "name": "Clubbed Seal",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799110/73c6490f94e5c6423fbb5855b2434cc3bd61840e/header.jpg?t=1783772093",
+      "discountPercent": 40,
+      "initialPriceCents": 65500,
+      "finalPriceCents": 39300,
+      "reviewPositiveRate": 66.7,
+      "reviewCount": 3,
+      "storeUrl": "https://store.steampowered.com/app/4799110/",
       "genres": [
         "アクション",
-        "インディー"
+        "カジュアル"
       ],
       "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "『Waifu Discovered 2』の開発チームが贈る、アーケード系アニメSTG×「ストリップ要素」！上手くなるほどどんどん解放――腕前がすべてを暴く！敵の大群を撃ち抜き、ぶっ飛んだボスを撃破して、魅力的なワイフたちを一人ずつアンロックしよう！",
+      "shortDescription": "Crush endless waves of monsters, build unstoppable upgrade combinations, and fight your way to the final boss in this fast-paced fantasy survival adventure.",
       "reviewSnippet": "",
-      "rawScore": 44.939049207600966,
-      "hensachi": 53.3,
-      "rank": 12
-    },
-    {
-      "appid": 2019620,
-      "name": "GERONIMO",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2019620/c18168bcea25a3fa7d835319ddc4aadb2281e997/header.jpg?t=1783702823",
-      "discountPercent": 10,
-      "initialPriceCents": 315000,
-      "finalPriceCents": 283500,
-      "reviewPositiveRate": 85.6,
-      "reviewCount": 361,
-      "storeUrl": "https://store.steampowered.com/app/2019620/",
-      "genres": [
-        "アクション",
-        "早期アクセス"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "GERONIMO is an immersive, tactical CQB shooter built for Virtual Reality that depicts a modern-day world in which Tier 1 operators are called to implement unconventional operations as members of elite teams. Breaching, in-depth character and weapon customization and more! &quot;Who Dares, Wins&quot;",
-      "reviewSnippet": "雰囲気、グラはそこそこ良かったんですが、動作が不安定すぎ（特にドアを破る部分）シングルのNPCがアホすぎで面白くない。 …",
-      "rawScore": 44.11550403974779,
-      "hensachi": 52.9,
-      "rank": 13
+      "rawScore": 43.616924495577216,
+      "hensachi": 50.6,
+      "rank": 15
     },
     {
       "appid": 3606380,
@@ -306,8 +351,8 @@
       "discountPercent": 20,
       "initialPriceCents": 198000,
       "finalPriceCents": 158400,
-      "reviewPositiveRate": 86.7,
-      "reviewCount": 15,
+      "reviewPositiveRate": 83.3,
+      "reviewCount": 18,
       "storeUrl": "https://store.steampowered.com/app/3606380/",
       "genres": [
         "RPG"
@@ -316,9 +361,9 @@
       "releaseYear": 2026,
       "shortDescription": "かわいい姪っ子たちを田舎の家に招き、農業したり、ゲームしたりの夏休みをゆったり過ごそう！",
       "reviewSnippet": "",
-      "rawScore": 43.88884899115443,
-      "hensachi": 52.8,
-      "rank": 14
+      "rawScore": 42.98048528661445,
+      "hensachi": 50.3,
+      "rank": 16
     },
     {
       "appid": 4508570,
@@ -327,8 +372,8 @@
       "discountPercent": 10,
       "initialPriceCents": 198000,
       "finalPriceCents": 178200,
-      "reviewPositiveRate": 86.9,
-      "reviewCount": 84,
+      "reviewPositiveRate": 87.6,
+      "reviewCount": 89,
       "storeUrl": "https://store.steampowered.com/app/4508570/",
       "genres": [
         "アドベンチャー",
@@ -339,9 +384,9 @@
       "releaseYear": 2026,
       "shortDescription": "この本を開いたなら、君は“読者”のままではいられない──『ネバーエンディング・ストーリー』ライクな&quot;読書型&quot;ファンタジーアドベンチャー。ヴァニラウェア出身・ゲーム業界30年の職人が6年の歳月をかけて作り上げた、100%手づくりの一冊。",
       "reviewSnippet": "クリアしました！！最高に面白かった！！紙のゲームブックをデジタル化して、とても遊びやすくしたゲーム。全般的に凄く楽しい。…",
-      "rawScore": 42.19582613477092,
-      "hensachi": 51.9,
-      "rank": 15
+      "rawScore": 42.53450003562009,
+      "hensachi": 50.1,
+      "rank": 17
     },
     {
       "appid": 4740600,
@@ -351,7 +396,7 @@
       "initialPriceCents": 78500,
       "finalPriceCents": 70600,
       "reviewPositiveRate": 100,
-      "reviewCount": 4,
+      "reviewCount": 5,
       "storeUrl": "https://store.steampowered.com/app/4740600/",
       "genres": [
         "カジュアル",
@@ -362,9 +407,9 @@
       "releaseYear": 2026,
       "shortDescription": "4-Player Online Co-op. Push Carts &amp; Loot Cargo. Troll Crewmates. Fight Beasts. Hit the Quota to Evacuate.",
       "reviewSnippet": "",
-      "rawScore": 42.137622657871766,
-      "hensachi": 51.9,
-      "rank": 16
+      "rawScore": 42.43641981276846,
+      "hensachi": 50.1,
+      "rank": 18
     },
     {
       "appid": 4566690,
@@ -374,7 +419,7 @@
       "initialPriceCents": 42500,
       "finalPriceCents": 38200,
       "reviewPositiveRate": 100,
-      "reviewCount": 4,
+      "reviewCount": 5,
       "storeUrl": "https://store.steampowered.com/app/4566690/",
       "genres": [
         "アドベンチャー",
@@ -385,9 +430,9 @@
       "releaseYear": 2026,
       "shortDescription": "不気味な雰囲気に包まれた謎の空間の中、背後から迫る謎の存在—— &quot;それ&quot; はあなたが見ている間は動かない。しかし、一瞬でも目を離せば、音もなく近づいてくる。あなたは &quot;それ&quot; から逃げ切り、謎の空間から脱出することはできるのか。",
       "reviewSnippet": "",
-      "rawScore": 42.137622657871766,
-      "hensachi": 51.9,
-      "rank": 17
+      "rawScore": 42.43641981276846,
+      "hensachi": 50.1,
+      "rank": 19
     },
     {
       "appid": 4542860,
@@ -409,53 +454,7 @@
       "shortDescription": "&quot;Isekai × Isekai&quot; is a casual 2D idle desktop game. Explore forests, journey into space, earn coins, collect new companions (including hidden characters), and build your own world.",
       "reviewSnippet": "",
       "rawScore": 41.30045756497986,
-      "hensachi": 51.5,
-      "rank": 18
-    },
-    {
-      "appid": 4843730,
-      "name": "Hentai Age Gym",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4843730/5415379a8c3c254ceda27e502ee61122314e40e9/header.jpg?t=1783717935",
-      "discountPercent": 20,
-      "initialPriceCents": 13500,
-      "finalPriceCents": 10800,
-      "reviewPositiveRate": 77.8,
-      "reviewCount": 9,
-      "storeUrl": "https://store.steampowered.com/app/4843730/",
-      "genres": [
-        "カジュアル",
-        "インディー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "Short : A relaxing Anime tile-matching puzzle. Match 3 identical tiles to clear the layered board, unlock stunning high-quality artwork, and enjoy a casual, brain-teasing experience with soothing soundtracks.",
-      "reviewSnippet": "",
-      "rawScore": 40.003584905660375,
-      "hensachi": 50.9,
-      "rank": 19
-    },
-    {
-      "appid": 4093240,
-      "name": "東京ワルキューレ",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093240/daeafe12d870bd8257e5411536026a52bddf6006/header_japanese.jpg?t=1783522890",
-      "discountPercent": 10,
-      "initialPriceCents": 298000,
-      "finalPriceCents": 268200,
-      "reviewPositiveRate": 82.9,
-      "reviewCount": 35,
-      "storeUrl": "https://store.steampowered.com/app/4093240/",
-      "genres": [
-        "アドベンチャー",
-        "インディー",
-        "RPG",
-        "ストラテジー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "そのデッキが、東京を救う切り札になる！本作は、デッキを組み替え、戦略を練り、立ちはだかる敵を打ち倒しながらマップを進んでいく、デッキ構築型ローグライトゲームです。デッキを構築し、裏世界の侵食から東京を守り抜け！",
-      "reviewSnippet": "デッキ構築ローグライクとしては本当に面白くない 開発もスレスパ1から効果そのまんまもってきてバランス調整する気ないんだろ…",
-      "rawScore": 39.387839625536934,
-      "hensachi": 50.6,
+      "hensachi": 49.6,
       "rank": 20
     },
     {
@@ -465,8 +464,8 @@
       "discountPercent": 10,
       "initialPriceCents": 39500,
       "finalPriceCents": 35500,
-      "reviewPositiveRate": 66.7,
-      "reviewCount": 3,
+      "reviewPositiveRate": 80,
+      "reviewCount": 5,
       "storeUrl": "https://store.steampowered.com/app/4877890/",
       "genres": [
         "ストラテジー"
@@ -475,54 +474,77 @@
       "releaseYear": 2026,
       "shortDescription": "紅魔館の密室から、レミリアのケーキが消えた！ メイド長・咲夜の助けを借り、12ゲージのショットガンでロシアンルーレットをプレイし、容疑者たちを成敗せよ。幸運を祈る！",
       "reviewSnippet": "",
-      "rawScore": 30.116924495577216,
-      "hensachi": 46.2,
+      "rawScore": 35.43641981276846,
+      "hensachi": 47.2,
       "rank": 21
     },
     {
-      "appid": 4852880,
-      "name": "Save the Kingdom - Warrior Rising",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4852880/e4e357a400104aae75fee1d3a309b73a683b73eb/header.jpg?t=1783720028",
-      "discountPercent": 30,
-      "initialPriceCents": 79000,
-      "finalPriceCents": 55300,
+      "appid": 4751360,
+      "name": "Hentai Tales: 7 Days Cycle",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4751360/1c4a0c7128c09ab258cabe72f8926a0b0de859d3/header.jpg?t=1783768098",
+      "discountPercent": 40,
+      "initialPriceCents": 15500,
+      "finalPriceCents": 9300,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4852880/",
+      "storeUrl": "https://store.steampowered.com/app/4751360/",
       "genres": [
-        "アドベンチャー",
+        "カジュアル",
         "インディー",
-        "RPG"
+        "ストラテジー"
       ],
-      "supportsJapanese": false,
+      "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "A 2D hand‑drawn medieval RPG where Bryn Kelwyn and his friends join the army of Aethelgard to resist Tod Ulfrikson’s rebellion and the invading Hrun Khanate, rising as heroes through tactical battles and story‑driven adventure.",
+      "shortDescription": "俺は死んでは7日前に戻るタイムループから抜け出せない この無限ループを脱するため、4人の特別な女性たちとの濃密な結びつきを通じて薄れゆく記憶を繋ぎ止めねばならない――彼女たちはそれぞれ時間の断層に隠された真実の断片を握っている しかし接近するほどに、より巨大な脅威が迫る：この輪廻を真に支配する者が、ついに気付いてしまったのだ",
       "reviewSnippet": "",
-      "rawScore": 13.5,
-      "hensachi": 38.3,
+      "rawScore": 18,
+      "hensachi": 39.9,
       "rank": 22
     },
     {
-      "appid": 4333240,
-      "name": "DUSK OF WAR",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4333240/d192f4ab0febd3c0486a2493d6a50c98e0bbefb0/header.jpg?t=1783716117",
+      "appid": 3983240,
+      "name": "Diagram Awesome",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3983240/70f04671bb905b95706fda4498b52493f12b6818/header.jpg?t=1783783593",
       "discountPercent": 30,
-      "initialPriceCents": 105000,
-      "finalPriceCents": 73500,
+      "initialPriceCents": 180000,
+      "finalPriceCents": 126000,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4333240/",
+      "storeUrl": "https://store.steampowered.com/app/3983240/",
       "genres": [
-        "シミュレーション",
-        "ストラテジー"
+        "デザイン & イラストレーション",
+        "写真編集",
+        "ビデオ制作",
+        "Webパブリッシング"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "『DUSK OF WAR』は、放置・クリッカー要素を取り入れた戦争運営シミュレーションゲームです。プレイヤーは「戦争大臣」として、軍事、産業、財政、そして兵站（ロジスティクス）のすべてを統括します。 今すぐ国を守り抜きましょう！",
+      "shortDescription": "Create expressive static or animated diagrams with generated visuals directly inside your nodes and connections. Ideal for game loops, workflows, story structures, learning material, and visualizing complex ideas in a more intuitive and creative way.",
       "reviewSnippet": "",
       "rawScore": 13.5,
-      "hensachi": 38.3,
+      "hensachi": 38,
       "rank": 23
+    },
+    {
+      "appid": 4864110,
+      "name": "Brandon's Semiconductor Simulator",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864110/c9cf1783cce0bcc8f650149ef10fab5d348713ab/header.jpg?t=1783786187",
+      "discountPercent": 20,
+      "initialPriceCents": 65500,
+      "finalPriceCents": 52400,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4864110/",
+      "genres": [
+        "教育"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Educational tool for the simulation and visualization of semiconductor devices. Users can draw circuits and devices with just a few brush strokes. This is a fully interactive, realistic simulation with many visualization options and a variety of hand-made demonstrations of semiconductor devices.",
+      "reviewSnippet": "",
+      "rawScore": 9,
+      "hensachi": 36.2,
+      "rank": 24
     },
     {
       "appid": 57805,
@@ -540,8 +562,8 @@
       "shortDescription": "",
       "reviewSnippet": "",
       "rawScore": 8.1,
-      "hensachi": 35.7,
-      "rank": 24
+      "hensachi": 35.8,
+      "rank": 25
     },
     {
       "appid": 2143690,
@@ -563,8 +585,8 @@
       "shortDescription": "An exploring and capture game. Find and capture all the unique creatures hiding on the 5 islands. Discover Abilities such as Jump, Crawl, Glide and Double-jump to help you explore.",
       "reviewSnippet": "",
       "rawScore": 7.65,
-      "hensachi": 35.5,
-      "rank": 25
+      "hensachi": 35.6,
+      "rank": 26
     },
     {
       "appid": 4820200,
@@ -584,8 +606,8 @@
       "shortDescription": "Review hundreds of funny, bizarre, and sometimes suspicious dating profiles, survive office politics, play mini-games, and build a workplace romance with your mysterious boss.",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 35,
-      "rank": 26
+      "hensachi": 35.2,
+      "rank": 27
     },
     {
       "appid": 4612020,
@@ -609,8 +631,8 @@
       "shortDescription": "亡き愛人からの手紙で謎の洋館を訪れた男。記憶の錯乱に侵されながら愛と欲望の深淵に堕ちていく。ただ彼女との再会を夢見て…５人の美女をめぐるちょっと（＊当社比）怖いアニメADV",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 34,
-      "rank": 27
+      "hensachi": 34.3,
+      "rank": 28
     },
     {
       "appid": 4412900,
@@ -633,30 +655,7 @@
       "shortDescription": "A third-person zombie survival RPG built by one solo developer. Scavenge a post-apocalyptic tunnel system, manage gear that breaks, hunger that bites, and a world that gets darker the longer you stay alive.",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 34,
-      "rank": 28
-    },
-    {
-      "appid": 4705520,
-      "name": "Escape This",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4705520/b44bc02988b84e90848fcc475530c6b6ee4ac228/header.jpg?t=1783719138",
-      "discountPercent": 10,
-      "initialPriceCents": 65500,
-      "finalPriceCents": 58900,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4705520/",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "ストラテジー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "A falling block puzzle platformer game with punishing bosses. Switch between two perspectives to rise to the top and escape the evil clutches of The Entity",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 34,
+      "hensachi": 34.3,
       "rank": 29
     }
   ]
