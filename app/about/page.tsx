@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import ProfileCard from "@/components/ProfileCard";
 
 export const metadata = {
   title: "このサイトについて | セール偏差値",
@@ -46,7 +47,10 @@ export default function About() {
               本サイトは、大学生が個人で運営しているファンサイトです。
               Valve CorporationおよびSteamとは一切関係ありません。
             </p>
-            <p className="mt-2">
+
+            <ProfileCard />
+
+            <p className="mt-4">
               コードの一部はAI（Claude）の力を借りながら、企画・デザインの
               方向性やスコアリングの仕組みなどは自分で考えて作っています。
               開発の経緯や裏側については、コラムの
