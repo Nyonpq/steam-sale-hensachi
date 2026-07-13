@@ -14,6 +14,9 @@ export default function Footer() {
           <Link href="/about" className="underline underline-offset-4 hover:text-hanko">
             このサイトについて
           </Link>
+          <Link href="/updates" className="underline underline-offset-4 hover:text-hanko">
+            更新情報
+          </Link>
           <Link href="/privacy" className="underline underline-offset-4 hover:text-hanko">
             プライバシーポリシー
           </Link>

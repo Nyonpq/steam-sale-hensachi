@@ -1,3 +1,4 @@
+import Link from "next/link";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
@@ -10,15 +11,11 @@ export default function About() {
     <>
       <Header />
       <main className="mx-auto max-w-3xl px-4 py-10">
-        <h1 className="font-display text-2xl font-black text-ink">
-          このサイトについて
-        </h1>
+        <h1 className="font-display text-2xl font-black text-ink">このサイトについて</h1>
 
         <div className="mt-6 space-y-6 text-sm leading-relaxed text-ink">
           <section>
-            <h2 className="font-display text-lg font-bold text-ink">
-              「セール偏差値」とは
-            </h2>
+            <h2 className="font-display text-lg font-bold text-ink">「セール偏差値」とは</h2>
             <p className="mt-2">
               Steamでは常に多数のタイトルがセール中ですが、単純な割引率だけでは
               「本当にお得なセールか」は分かりません。評価の低い作品が90%オフに
@@ -35,9 +32,7 @@ export default function About() {
           </section>
 
           <section>
-            <h2 className="font-display text-lg font-bold text-ink">
-              データの更新頻度
-            </h2>
+            <h2 className="font-display text-lg font-bold text-ink">データの更新頻度</h2>
             <p className="mt-2">
               Steamの公開APIから自動取得しており、6時間ごとに更新しています。
               価格や割引率は変動する可能性があるため、購入前には必ずSteam公式
@@ -46,12 +41,26 @@ export default function About() {
           </section>
 
           <section>
-            <h2 className="font-display text-lg font-bold text-ink">
-              運営者について
-            </h2>
+            <h2 className="font-display text-lg font-bold text-ink">運営者について</h2>
             <p className="mt-2">
-              本サイトは個人が趣味で運営しているファンサイトです。
+              本サイトは、大学生が個人で運営しているファンサイトです。
               Valve CorporationおよびSteamとは一切関係ありません。
+            </p>
+            <p className="mt-2">
+              コードの一部はAI（Claude）の力を借りながら、企画・デザインの
+              方向性やスコアリングの仕組みなどは自分で考えて作っています。
+              開発の経緯や裏側については、コラムの
+              <Link href="/blog/about-me-student-developer" className="underline underline-offset-4 hover:text-hanko">
+                「大学生がSteamセールサイトを個人開発した話」
+              </Link>
+              で詳しく書いているので、興味があれば読んでみてください。
+            </p>
+            <p className="mt-2">
+              サイトの変更点は
+              <Link href="/updates" className="underline underline-offset-4 hover:text-hanko">
+                更新情報ページ
+              </Link>
+              にまとめています。
             </p>
           </section>
         </div>
