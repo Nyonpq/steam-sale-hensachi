@@ -23,6 +23,9 @@ export default function Header() {
           <Link href="/blog" className="border-2 border-hanko bg-hanko px-3 py-1.5 font-display font-bold text-paper transition-transform hover:-translate-y-0.5">
             コラム
           </Link>
+          <Link href="/updates" className="text-ink-muted underline underline-offset-4 hover:text-hanko">
+            更新情報
+          </Link>
           <Link href="/about" className="text-ink-muted underline underline-offset-4 hover:text-hanko">
             このサイトについて
           </Link>
