@@ -1,54 +1,31 @@
 {
-  "fetchedAt": "2026-07-14T04:39:50.104Z",
+  "fetchedAt": "2026-07-14T07:24:54.881Z",
   "currency": "JPY",
-  "count": 38,
-  "averageDiscount": 27.6,
+  "count": 33,
+  "averageDiscount": 23.7,
   "deals": [
     {
-      "appid": 1174180,
-      "name": "Red Dead Redemption 2",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
-      "discountPercent": 75,
-      "initialPriceCents": 861800,
-      "finalPriceCents": 215400,
-      "reviewPositiveRate": 92.4,
-      "reviewCount": 896401,
-      "storeUrl": "https://store.steampowered.com/app/1174180/",
+      "appid": 275850,
+      "name": "No Man's Sky",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/dd8237b8ab283a8225a6ba3fc0dee7e1b135cbee/header_alt_assets_25.jpg?t=1779908213",
+      "discountPercent": 60,
+      "initialPriceCents": 650000,
+      "finalPriceCents": 260000,
+      "reviewPositiveRate": 84.9,
+      "reviewCount": 411668,
+      "storeUrl": "https://store.steampowered.com/app/275850/",
       "genres": [
+        "サバイバル",
         "アクション",
         "アドベンチャー"
       ],
       "supportsJapanese": true,
-      "releaseYear": 2019,
-      "shortDescription": "アーサーとダッチギャングは逃亡を続ける無法者だった。連邦捜査官と賞金稼ぎに追われる中、ギャングたちが生き延びるためには荒野で強奪、暴力、盗みを働くしかなかった。",
-      "reviewSnippet": "ゲーム自体は楽しいのですが、馬での移動だけどうにかできないかと思いTrainer等を導入したらゲーム速度の変更で実質移動…",
-      "rawScore": 86.09,
-      "hensachi": 69,
+      "releaseYear": 2016,
+      "shortDescription": "『No Man's Sky』は自動生成される無限の宇宙を舞台とする、探索と生存をテーマとしたSFゲームです。",
+      "reviewSnippet": "宇宙をテーマにしたあれやこれやを遊べるゲーム 色んな事が出来るけど１個１個は結構浅い、MOD入れまくったマイクラみたいな…",
+      "rawScore": 76.715,
+      "hensachi": 66.3,
       "rank": 1
-    },
-    {
-      "appid": 1336490,
-      "name": "Against the Storm アゲインスト・ザ・ストーム",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1336490/header_japanese.jpg?t=1783603754",
-      "discountPercent": 70,
-      "initialPriceCents": 298000,
-      "finalPriceCents": 89400,
-      "reviewPositiveRate": 94.5,
-      "reviewCount": 36698,
-      "storeUrl": "https://store.steampowered.com/app/1336490/",
-      "genres": [
-        "ローグライク",
-        "サバイバル",
-        "シミュレーション",
-        "ストラテジー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2023,
-      "shortDescription": "『Against the Storm』は永遠に降り注ぐ雨に苦しむ世界に、都市を再構築するダークファンタジー・シティビルダー。女王の命を受けた「総督」として、人間、ビーバー、リザード、キツネ、ハーピーを率いて荒野を開拓しよう。文明最後の生き残りをかけて、未来への道を切り拓け。",
-      "reviewSnippet": "無料期間中に遊びました。無料期間が終わりました。買います。",
-      "rawScore": 81.80011030359907,
-      "hensachi": 67.2,
-      "rank": 2
     },
     {
       "appid": 3240220,
@@ -58,7 +35,7 @@
       "initialPriceCents": 648000,
       "finalPriceCents": 285100,
       "reviewPositiveRate": 83.2,
-      "reviewCount": 200771,
+      "reviewCount": 200819,
       "storeUrl": "https://store.steampowered.com/app/3240220/",
       "genres": [
         "アクション",
@@ -70,8 +47,8 @@
       "shortDescription": "大ヒットの『グランド・セフト・オートV』と「GTAオンライン」を体験しよう - 新世代用に美麗なグラフィック、短縮されたロード時間、3Dオーディオなどのアップグレード。さらに、「GTAオンライン」プレイヤー用の限定コンテンツなど。",
       "reviewSnippet": "神ゲーです オンラインにチーターが多いことを除けば...",
       "rawScore": 74.32,
-      "hensachi": 64.1,
-      "rank": 3
+      "hensachi": 65.3,
+      "rank": 2
     },
     {
       "appid": 526870,
@@ -81,7 +58,7 @@
       "initialPriceCents": 450000,
       "finalPriceCents": 315000,
       "reviewPositiveRate": 97.3,
-      "reviewCount": 275232,
+      "reviewCount": 275239,
       "storeUrl": "https://store.steampowered.com/app/526870/",
       "genres": [
         "サバイバル",
@@ -95,8 +72,8 @@
       "shortDescription": "『Satisfactory』は、探検と戦闘の要素を併せ持つ、オープンワールドの一人称視点工場建設ゲームです。1人または友達と一緒に、未知の惑星を探索し、複数階層の工場を建設し、ベルトコンベアが織りなす理想の生産拠点を作りましょう！",
       "reviewSnippet": "工場自動化ゲーとしてまっさきに名前が挙げられる当ゲーム、間違いなく面白い １つだけ希望がある 次元デポの並べ替えを実装し…",
       "rawScore": 67.555,
-      "hensachi": 61.2,
-      "rank": 4
+      "hensachi": 62.3,
+      "rank": 3
     },
     {
       "appid": 1984270,
@@ -116,8 +93,8 @@
       "shortDescription": "「デジモンストーリー」シリーズ最新作が遂に登場。今作は、世界崩壊の謎を追う中で、人間世界と異世界を跨ぐ冒険、多種多様なデジモンの収集と育成を楽しめるRPGです。",
       "reviewSnippet": "オープンワールドではない。思い出補正がかかっているので楽しめているが、ストーリーは単調でおつかいの繰り返し。懐かしい以外…",
       "rawScore": 67.08153393813058,
-      "hensachi": 61,
-      "rank": 5
+      "hensachi": 62.1,
+      "rank": 4
     },
     {
       "appid": 1623730,
@@ -127,7 +104,7 @@
       "initialPriceCents": 340000,
       "finalPriceCents": 238000,
       "reviewPositiveRate": 94.3,
-      "reviewCount": 433857,
+      "reviewCount": 434020,
       "storeUrl": "https://store.steampowered.com/app/1623730/",
       "genres": [
         "サバイバル",
@@ -141,8 +118,8 @@
       "shortDescription": "広大な世界で不思議な生物『パル』を集めて、戦闘・建築・農業を行わせたり、工場で労働させたりする全く新しいマルチ対応のオープンワールドサバイバルクラフトゲームです。",
       "reviewSnippet": "このゲームになにか問題があるとするなら、それはプレイヤーキャラクターのデザインが微妙というぐらいですｗ",
       "rawScore": 66.505,
-      "hensachi": 60.8,
-      "rank": 6
+      "hensachi": 61.8,
+      "rank": 5
     },
     {
       "appid": 346110,
@@ -152,7 +129,7 @@
       "initialPriceCents": 170000,
       "finalPriceCents": 112200,
       "reviewPositiveRate": 83.3,
-      "reviewCount": 772373,
+      "reviewCount": 772386,
       "storeUrl": "https://store.steampowered.com/app/346110/",
       "genres": [
         "サバイバル",
@@ -167,8 +144,8 @@
       "shortDescription": "Stranded on the shores of a mysterious island, you must learn to survive. Use your cunning to kill or tame the primeval creatures roaming the land, and encounter other players to survive, dominate... and escape!",
       "reviewSnippet": "個人的に、サバイバルゲームの頂点に君臨している作品だと思います。 恐竜のテイム、育成、建築、探索、ボス討伐など、出来る事…",
       "rawScore": 64.455,
-      "hensachi": 59.9,
-      "rank": 7
+      "hensachi": 60.9,
+      "rank": 6
     },
     {
       "appid": 1671210,
@@ -178,7 +155,7 @@
       "initialPriceCents": 398000,
       "finalPriceCents": 318400,
       "reviewPositiveRate": 98.2,
-      "reviewCount": 120891,
+      "reviewCount": 120927,
       "storeUrl": "https://store.steampowered.com/app/1671210/",
       "genres": [
         "弾幕",
@@ -189,32 +166,9 @@
       "releaseYear": 2025,
       "shortDescription": "『UNDERTALE』のパラレルストーリー、『DELTARUNE』！　アクション満載のバトルは、戦うのも敵を逃がすのもキミ次第。初めて出会う顔、おなじみの面々…　愛すべきキャラクターたちと、ナゾの世界を旅しよう。Chapter 1～5まで配信中。つづきは無料アップデートとして追加！",
       "reviewSnippet": "チャプター5が出てから明確に「このゲームをやっていて良かった」と言えるようになりました 弾幕の回避やアクションなど、救済…",
-      "rawScore": 62.54885872632168,
-      "hensachi": 59.1,
-      "rank": 8
-    },
-    {
-      "appid": 4622010,
-      "name": "Road Defense Racing",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4622010/43c759fe8dfc7d89783f90e5bb250c2bc9f44258/header.jpg?t=1783962484",
-      "discountPercent": 40,
-      "initialPriceCents": 53000,
-      "finalPriceCents": 31800,
-      "reviewPositiveRate": 100,
-      "reviewCount": 10,
-      "storeUrl": "https://store.steampowered.com/app/4622010/",
-      "genres": [
-        "アクション",
-        "インディー",
-        "レース"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "Road Defense: Outsiders の世界を舞台にした高速車両戦闘レース。30の挑戦的なコースで車を運転し、撃ち、破壊し、強化しよう。武装したライバルと戦い、敵対的な観客の攻撃を生き延びながら資金を稼ぎ、愛車をアップグレードしよう。",
-      "reviewSnippet": "",
-      "rawScore": 56.9297837175782,
-      "hensachi": 56.8,
-      "rank": 9
+      "rawScore": 62.54934668013932,
+      "hensachi": 60.1,
+      "rank": 7
     },
     {
       "appid": 3822530,
@@ -239,52 +193,8 @@
       "shortDescription": "協力型サバイバルホラーゲーム。[ /b] 4人の友人が、常に変化する森の中で致命的なクリーチャーから生き延びながら、車両を修理し、資源を集める必要があります。",
       "reviewSnippet": "",
       "rawScore": 55.637622657871766,
-      "hensachi": 56.2,
-      "rank": 10
-    },
-    {
-      "appid": 4856010,
-      "name": "GigaGoth",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856010/7ba0afc24eef0832e370aecf9164b46039871f19/header.jpg?t=1783962437",
-      "discountPercent": 40,
-      "initialPriceCents": 13500,
-      "finalPriceCents": 8100,
-      "reviewPositiveRate": 100,
-      "reviewCount": 1,
-      "storeUrl": "https://store.steampowered.com/app/4856010/",
-      "genres": [
-        "インディー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "Experience a day with Kuroshi, your 293 cm tall, yandere, goth, mega-sadistic girlfriend who treats you as her personal slave, pet, and fucktoy.",
-      "reviewSnippet": "",
-      "rawScore": 54.135962247788605,
-      "hensachi": 55.6,
-      "rank": 11
-    },
-    {
-      "appid": 4878870,
-      "name": "The Sadist Club",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4878870/47f2626aeb6b353eea21abd9a946074c76442fc6/header.jpg?t=1783962409",
-      "discountPercent": 40,
-      "initialPriceCents": 13500,
-      "finalPriceCents": 8100,
-      "reviewPositiveRate": 100,
-      "reviewCount": 1,
-      "storeUrl": "https://store.steampowered.com/app/4878870/",
-      "genres": [
-        "インディー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "Chie, your 202 cm tall, big-breasted, sadistic professor, dominates you after catching you sneaking around the university after hours.",
-      "reviewSnippet": "",
-      "rawScore": 54.135962247788605,
-      "hensachi": 55.6,
-      "rank": 12
+      "hensachi": 57.1,
+      "rank": 8
     },
     {
       "appid": 3908810,
@@ -306,8 +216,8 @@
       "shortDescription": "『Stackflow』は、ピースを完璧に組み合わせる「快感」に没頭する、戦略型ローグライクゲームです。ユニークなブロックを発見し、爽快な連鎖を引き起こし、ドーパミンが爆発するコンボを決めましょう。巧みな戦略と絶妙なタイミングで目標スコアを突破し、レベルごとに高まる難易度に挑戦してください。",
       "reviewSnippet": "普通のテトリスしかやったことないが、ステージ6が全然クリアできない。俺のセンスがないだけなのかな。ツイッターとかではコン…",
       "rawScore": 52.31570289966896,
-      "hensachi": 54.8,
-      "rank": 13
+      "hensachi": 55.6,
+      "rank": 9
     },
     {
       "appid": 3886130,
@@ -328,53 +238,8 @@
       "shortDescription": "Metamancer is a Roguelike video game that uses procedural generation for every sprite, item, map and faction making for a unique playing experience each time!",
       "reviewSnippet": "",
       "rawScore": 50.7297837175782,
-      "hensachi": 54.2,
-      "rank": 14
-    },
-    {
-      "appid": 4380490,
-      "name": "にゃんこ郵便局",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/fbe36099e801fade4388a30e888908ea469314c5/header_japanese.jpg?t=1783683473",
-      "discountPercent": 15,
-      "initialPriceCents": 190000,
-      "finalPriceCents": 161500,
-      "reviewPositiveRate": 90.2,
-      "reviewCount": 1685,
-      "storeUrl": "https://store.steampowered.com/app/4380490/",
-      "genres": [
-        "インディー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "ゆったりと時間が流れるネコの郵便局が、あなたの職場。毎日やってくる船で届いた荷物を降ろしたら、仕分けて整頓しよう。夜が訪れると、月に照らされた荷物が秘密を教えてくれる。溜まった荷物を片付けて、住民のネコたちを郵送でお手伝いして、新しい技能や目的地を広げてゆこう。",
-      "reviewSnippet": "ゲーム自体はとても面白くて満足しています。 ですが、まだ日本語に最適化されておらず郵便物を受け取りに来た方の名前と、郵便…",
-      "rawScore": 50.49682101995745,
-      "hensachi": 54.1,
-      "rank": 15
-    },
-    {
-      "appid": 2697940,
-      "name": "アセンドトゥゼロ",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/0f9da503775173e4284cd9b5eba98a8e3d64c85e/header_japanese.jpg?t=1784002409",
-      "discountPercent": 20,
-      "initialPriceCents": 160000,
-      "finalPriceCents": 128000,
-      "reviewPositiveRate": 95.8,
-      "reviewCount": 143,
-      "storeUrl": "https://store.steampowered.com/app/2697940/",
-      "genres": [
-        "アクション",
-        "RPG",
-        "ストラテジー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "時間を止めることができたらどうなるか、考えたことはありますか？『アセンドトゥゼロ』は、時間を制御するローグライクゲームで、特別な能力を使って時間を止め、効率的に戦いを進めていきます。",
-      "reviewSnippet": "体験版で鬼のようにハマり、正式発売を心待ちにしてました。 速攻で買い、プレイしていますが大変満足です。 永続強化系のロー…",
-      "rawScore": 50.674764121114144,
-      "hensachi": 54.1,
-      "rank": 16
+      "hensachi": 55,
+      "rank": 10
     },
     {
       "appid": 3683050,
@@ -384,7 +249,7 @@
       "initialPriceCents": 145000,
       "finalPriceCents": 101500,
       "reviewPositiveRate": 100,
-      "reviewCount": 2,
+      "reviewCount": 3,
       "storeUrl": "https://store.steampowered.com/app/3683050/",
       "genres": [
         "カジュアル",
@@ -396,9 +261,78 @@
       "releaseYear": 2026,
       "shortDescription": "タイルを配置し、デッキを最適化し、資源を管理して宇宙コロニーを建設し、過酷な環境を生き抜くSF都市建設ゲーム。カジュアルなサンドボックスでリラックスするか、戦略を練って他プレイヤーのスコアを上回り、リーダーボードを駆け上がろう。",
       "reviewSnippet": "",
-      "rawScore": 50.30045756497986,
-      "hensachi": 54,
-      "rank": 17
+      "rawScore": 50.77192449557722,
+      "hensachi": 55,
+      "rank": 11
+    },
+    {
+      "appid": 2697940,
+      "name": "アセンドトゥゼロ",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/0f9da503775173e4284cd9b5eba98a8e3d64c85e/header_japanese.jpg?t=1784002409",
+      "discountPercent": 20,
+      "initialPriceCents": 160000,
+      "finalPriceCents": 128000,
+      "reviewPositiveRate": 94.9,
+      "reviewCount": 157,
+      "storeUrl": "https://store.steampowered.com/app/2697940/",
+      "genres": [
+        "アクション",
+        "RPG",
+        "ストラテジー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "時間を止めることができたらどうなるか、考えたことはありますか？『アセンドトゥゼロ』は、時間を制御するローグライクゲームで、特別な能力を使って時間を止め、効率的に戦いを進めていきます。",
+      "reviewSnippet": "体験版で鬼のようにハマり、正式発売を心待ちにしてました。 速攻で買い、プレイしていますが大変満足です。 永続強化系のロー…",
+      "rawScore": 50.51181919605443,
+      "hensachi": 54.9,
+      "rank": 12
+    },
+    {
+      "appid": 4380490,
+      "name": "にゃんこ郵便局",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/fbe36099e801fade4388a30e888908ea469314c5/header_japanese.jpg?t=1783683473",
+      "discountPercent": 15,
+      "initialPriceCents": 190000,
+      "finalPriceCents": 161500,
+      "reviewPositiveRate": 90.3,
+      "reviewCount": 1719,
+      "storeUrl": "https://store.steampowered.com/app/4380490/",
+      "genres": [
+        "インディー",
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "ゆったりと時間が流れるネコの郵便局が、あなたの職場。毎日やってくる船で届いた荷物を降ろしたら、仕分けて整頓しよう。夜が訪れると、月に照らされた荷物が秘密を教えてくれる。溜まった荷物を片付けて、住民のネコたちを郵送でお手伝いして、新しい技能や目的地を広げてゆこう。",
+      "reviewSnippet": "ゲーム自体はとても面白くて満足しています。 ですが、まだ日本語に最適化されておらず郵便物を受け取りに来た方の名前と、郵便…",
+      "rawScore": 50.56454130908509,
+      "hensachi": 54.9,
+      "rank": 13
+    },
+    {
+      "appid": 3946120,
+      "name": "黎明探検隊 / CTD",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946120/0f44380f29211e2f5daf1250cf10ec294cfabf66/header.jpg?t=1783995174",
+      "discountPercent": 20,
+      "initialPriceCents": 115000,
+      "finalPriceCents": 92000,
+      "reviewPositiveRate": 100,
+      "reviewCount": 5,
+      "storeUrl": "https://store.steampowered.com/app/3946120/",
+      "genres": [
+        "アドベンチャー",
+        "カジュアル",
+        "インディー",
+        "ストラテジー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "『黎明探検隊』は、ドット絵で描かれたローグライク要素満載な「運と戦略」のストラテジーRPG！ 危険が待ち受けるダンジョンに挑み、あなたの知恵と「運」を駆使して、数々のピンチを切り抜けよう！キャラクターたちを導いて、ダンジョンの最深部を目指せ！ アイテムやルーンを上手に組み合わせてリスクをコントロール。たくさんの資源を持ち帰って、大切な拠点を復興させよう！ 運命は、「ワンタップ」で変わる！",
+      "reviewSnippet": "",
+      "rawScore": 46.93641981276846,
+      "hensachi": 53.3,
+      "rank": 14
     },
     {
       "appid": 4265920,
@@ -422,8 +356,8 @@
       "shortDescription": "Co-Drive Chaosは、1台の車を複数のプレイヤーで操作する、カオスな協力ドライビングゲームです。ソロまたはオンラインで2～4人でプレイし、緊張感あるホラー風の道を生き延び、障害物を避け、協力してゴールを目指しましょう。",
       "reviewSnippet": "",
       "rawScore": 45.84404920760097,
-      "hensachi": 52.1,
-      "rank": 18
+      "hensachi": 52.8,
+      "rank": 15
     },
     {
       "appid": 4642990,
@@ -446,8 +380,8 @@
       "shortDescription": "Dawnhold is a top-down action base-defense game where you gather resources, build up your defenses, and survive relentless enemy waves. Strike back by assaulting enemy strongholds and defeating powerful bosses in a fight to protect the Sunstone.",
       "reviewSnippet": "",
       "rawScore": 45.80045756497986,
-      "hensachi": 52.1,
-      "rank": 19
+      "hensachi": 52.8,
+      "rank": 16
     },
     {
       "appid": 4634560,
@@ -456,8 +390,8 @@
       "discountPercent": 20,
       "initialPriceCents": 70000,
       "finalPriceCents": 56000,
-      "reviewPositiveRate": 86.3,
-      "reviewCount": 51,
+      "reviewPositiveRate": 83.9,
+      "reviewCount": 62,
       "storeUrl": "https://store.steampowered.com/app/4634560/",
       "genres": [
         "インディー",
@@ -467,33 +401,31 @@
       "releaseYear": 2026,
       "shortDescription": "絨毯を洗ってお金を稼ぎ、強化してさらに稼ぐインクリメンタルゲーム。 こすって、流して、かき集めろ――時間が巻き戻るその時まで。",
       "reviewSnippet": "楽しい。 インクリメンタルなお掃除ゲームで、 どんどん強くなる洗いパワーと謎のストーリーの相乗効果でぐいぐい遊んでしまう…",
-      "rawScore": 45.68048431560301,
-      "hensachi": 52,
-      "rank": 20
+      "rawScore": 45.154964337560685,
+      "hensachi": 52.5,
+      "rank": 17
     },
     {
-      "appid": 3946120,
-      "name": "黎明探検隊 / CTD",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946120/0f44380f29211e2f5daf1250cf10ec294cfabf66/header.jpg?t=1783995174",
+      "appid": 4645200,
+      "name": "ローグレルム：ガーディアン・グリッド",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4645200/40d2fedea8210bbb0ba5c722f837219558bb1b17/header.jpg?t=1784002946",
       "discountPercent": 20,
-      "initialPriceCents": 115000,
-      "finalPriceCents": 92000,
+      "initialPriceCents": 125000,
+      "finalPriceCents": 100000,
       "reviewPositiveRate": 100,
       "reviewCount": 1,
-      "storeUrl": "https://store.steampowered.com/app/3946120/",
+      "storeUrl": "https://store.steampowered.com/app/4645200/",
       "genres": [
-        "アドベンチャー",
-        "カジュアル",
         "インディー",
         "ストラテジー"
       ],
       "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "『黎明探検隊』は、ドット絵で描かれたローグライク要素満載な「運と戦略」のストラテジーRPG！ 危険が待ち受けるダンジョンに挑み、あなたの知恵と「運」を駆使して、数々のピンチを切り抜けよう！キャラクターたちを導いて、ダンジョンの最深部を目指せ！ アイテムやルーンを上手に組み合わせてリスクをコントロール。たくさんの資源を持ち帰って、大切な拠点を復興させよう！ 運命は、「ワンタップ」で変わる！",
+      "shortDescription": "『ローグレルム：ガーディアン・グリッド』はタワーディフェンスとローグライク要素を融合した中世ファンタジーです。 グリッド上で防御を構築し、資源を管理し、進化する敵に挑みます。",
       "reviewSnippet": "",
       "rawScore": 45.135962247788605,
-      "hensachi": 51.8,
-      "rank": 21
+      "hensachi": 52.5,
+      "rank": 18
     },
     {
       "appid": 4245500,
@@ -513,8 +445,8 @@
       "shortDescription": "Start as Santa. Unlock a pig, a cop and more. Beat each other senseless in a chaotic 2.5D brawler, with proximity chat, so you can hear them suffer. New fighters every season with a free season pass. Best of five. May the most unhinged player win.",
       "reviewSnippet": "",
       "rawScore": 44.00045756497986,
-      "hensachi": 51.3,
-      "rank": 22
+      "hensachi": 52,
+      "rank": 19
     },
     {
       "appid": 4883300,
@@ -534,29 +466,32 @@
       "shortDescription": "A social-deduction platformer for 4 to 8 players where a team secretly steers a shared robot to the exit while hidden saboteurs try to make the run fail.",
       "reviewSnippet": "",
       "rawScore": 42.885962247788605,
-      "hensachi": 50.9,
-      "rank": 23
+      "hensachi": 51.5,
+      "rank": 20
     },
     {
-      "appid": 4682660,
-      "name": "Femme Fatality",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4682660/d7a15706caa114d3d82538a07e0c4bf17d0b01f2/header.jpg?t=1783996011",
+      "appid": 4533370,
+      "name": "DiDiDiG",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4533370/afe729e443e3a79dc330de8f5eeac1dc29ad122f/header.jpg?t=1783987495",
       "discountPercent": 10,
-      "initialPriceCents": 105000,
-      "finalPriceCents": 94500,
+      "initialPriceCents": 115000,
+      "finalPriceCents": 103500,
       "reviewPositiveRate": 100,
-      "reviewCount": 2,
-      "storeUrl": "https://store.steampowered.com/app/4682660/",
+      "reviewCount": 1,
+      "storeUrl": "https://store.steampowered.com/app/4533370/",
       "genres": [
-        "シミュレーション"
+        "アクション",
+        "アドベンチャー",
+        "カジュアル",
+        "インディー"
       ],
-      "supportsJapanese": false,
+      "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "You are a serial killer who exclusively targets men. For a fee. To afford nice things. It's legal and you're good at it.",
+      "shortDescription": "月で鉱石を採掘することが目的です。 鉱石を採掘して地球へ送り、お金を稼ぎ、スキルコアを購入して能力を強化しましょう。 さまざまな装備の力を借りることができ、犬もあなたのそばにいます。 月に隠された秘密を解き明かしましょう。",
       "reviewSnippet": "",
-      "rawScore": 41.30045756497986,
-      "hensachi": 50.2,
-      "rank": 24
+      "rawScore": 40.635962247788605,
+      "hensachi": 50.5,
+      "rank": 21
     },
     {
       "appid": 4766230,
@@ -579,29 +514,29 @@
       "shortDescription": "Pong... But it's a roguelite! Pick a class, pick a ball blessing, then paddle your way through three acts of devious enemy paddles. Stack relics, find synergies, survive floor modifiers warping the ball mid-rally. PONG! IT! UP!",
       "reviewSnippet": "",
       "rawScore": 40.635962247788605,
-      "hensachi": 49.9,
-      "rank": 25
+      "hensachi": 50.5,
+      "rank": 22
     },
     {
-      "appid": 4836650,
-      "name": "Penguin Lifter",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836650/625d2ea606c1fd487b8405ff2540ba4402353873/header.jpg?t=1783962637",
+      "appid": 4682660,
+      "name": "Femme Fatality",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4682660/d7a15706caa114d3d82538a07e0c4bf17d0b01f2/header.jpg?t=1783996011",
       "discountPercent": 10,
-      "initialPriceCents": 65500,
-      "finalPriceCents": 58900,
-      "reviewPositiveRate": 90.9,
-      "reviewCount": 11,
-      "storeUrl": "https://store.steampowered.com/app/4836650/",
+      "initialPriceCents": 105000,
+      "finalPriceCents": 94500,
+      "reviewPositiveRate": 75,
+      "reviewCount": 4,
+      "storeUrl": "https://store.steampowered.com/app/4682660/",
       "genres": [
         "シミュレーション"
       ],
-      "supportsJapanese": true,
+      "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "ペンギンリフターは、ペンギンリフターとして働くゲームです。文明から遠く離れた屋外で、可愛らしい生き物たち、つまりペンギンたちに囲まれて働きます。そこにあるのは、あなたと雪とペンギンたちだけです…。",
+      "shortDescription": "You are a serial killer who exclusively targets men. For a fee. To afford nice things. It's legal and you're good at it.",
       "reviewSnippet": "",
-      "rawScore": 40.38738206055707,
-      "hensachi": 49.8,
-      "rank": 26
+      "rawScore": 33.387622657871766,
+      "hensachi": 47.4,
+      "rank": 23
     },
     {
       "appid": 4825080,
@@ -622,52 +557,74 @@
       "shortDescription": "現実のプレッシャーが私に不安と焦りを感じさせる。だから私は夢の中で散歩し、反省する。リラックスし、自由に歩き、感じる。環境に没入し、心の平穏を徐々に取り戻す旅に出る。",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 40.4,
+      "hensachi": 40.7,
+      "rank": 24
+    },
+    {
+      "appid": 4331100,
+      "name": "Warena",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4331100/deb0ad8d2c015602b51cb49048bc7ea0e972cbd9/header.jpg?t=1784012909",
+      "discountPercent": 20,
+      "initialPriceCents": 100000,
+      "finalPriceCents": 80000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4331100/",
+      "genres": [
+        "インディー",
+        "ストラテジー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "Warenaはリアルタイムのカードバトラー。両プレイヤーが同時に動く。ユニットを展開し、呪文を唱え、敵の本拠地に攻め込む。相手も同じことを仕掛けてくる。マナを管理し、相手を読み、カウンターを当てろ。1v1 PvPとシングルプレイヤーキャンペーンを収録。",
+      "reviewSnippet": "",
+      "rawScore": 9,
+      "hensachi": 36.7,
+      "rank": 25
+    },
+    {
+      "appid": 3685900,
+      "name": "Creepy Support",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3685900/dbdeb90d096f03f7a9c7890223ef5e536431c5eb/header.jpg?t=1784012440",
+      "discountPercent": 20,
+      "initialPriceCents": 65500,
+      "finalPriceCents": 52400,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/3685900/",
+      "genres": [
+        "アドベンチャー",
+        "インディー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Save people from terrible paranormal dangers as a support operator of a secret SCP-like organization! Ask questions, give advice and watch the consequences of your choices... multiple endings in each story ;-)",
+      "reviewSnippet": "",
+      "rawScore": 9,
+      "hensachi": 36.7,
+      "rank": 26
+    },
+    {
+      "appid": 4429120,
+      "name": "Ambitious Road",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4429120/d1a03a89b62265192d4cbb33de76bdcacb710282/header.jpg?t=1784012362",
+      "discountPercent": 20,
+      "initialPriceCents": 190000,
+      "finalPriceCents": 152000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4429120/",
+      "genres": [
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "進め、野望の道を…！青年士官ミッシェルの立身出世を描く、伝統的スタイルの戦記物SRPG。ナポレオンやジュリアン・ソレルを彷彿とさせる華麗で壮大なサクセスストーリーと、一手の判断が命運を分ける伝統的なストラテジーが融合。魅力的なヒロインたちと共に、乱世の頂点を目指して駆け上がれ！",
+      "reviewSnippet": "",
+      "rawScore": 9,
+      "hensachi": 36.7,
       "rank": 27
-    },
-    {
-      "appid": 4889190,
-      "name": "Fijian Dominatrixes Are the Best",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4889190/0083bc3b00a2a67f011be4e075a1cc0fe58879bd/header.jpg?t=1783962420",
-      "discountPercent": 40,
-      "initialPriceCents": 13500,
-      "finalPriceCents": 8100,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4889190/",
-      "genres": [
-        "インディー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "Experience a session with Goddess Miriama, the giant, sadistic, wealthy, playful, and dominant Fijian dominatrix as she uses her 202 cm height to bully, torment, and humiliate you.",
-      "reviewSnippet": "",
-      "rawScore": 18,
-      "hensachi": 40.4,
-      "rank": 28
-    },
-    {
-      "appid": 4884110,
-      "name": "Ni-Vanuatu Dominatrixes Are the Best",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4884110/974e47bc5d19e0ea29be0a4b67f3c4aa8e68b668/header.jpg?t=1783962417",
-      "discountPercent": 40,
-      "initialPriceCents": 13500,
-      "finalPriceCents": 8100,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4884110/",
-      "genres": [
-        "インディー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "Experience a brutal session with Goddess Marie as she uses you as her personal stress relief and punching bag while showering you with relentless verbal abuse.",
-      "reviewSnippet": "",
-      "rawScore": 18,
-      "hensachi": 40.4,
-      "rank": 29
     },
     {
       "appid": 4298100,
@@ -687,75 +644,8 @@
       "shortDescription": "自律ロックダウン下で漂流するコロニー船の中、あなたはたった一人で目を覚ます。重要システムを復旧し、連動するパズルを解き明かし、あなた自身とあなたに頼る入植者たちが虚空に消える前に、「ソラリ・プロトコル」に隠された真実を突き止めろ。",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 36.6,
-      "rank": 30
-    },
-    {
-      "appid": 4022260,
-      "name": "Catch the Light",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4022260/5e29e8c7ce5fb3e4eab9ada633fd25f76a0d64f3/header.jpg?t=1783963463",
-      "discountPercent": 20,
-      "initialPriceCents": 130000,
-      "finalPriceCents": 104000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4022260/",
-      "genres": [
-        "カジュアル"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Catch the Light は視覚と読書のためのやさしい日常練習です。短いセッションが注意力と視覚習慣を支えます。暗点や半盲など視野に違いのある方に適しています。医療目的のアプリではありません。",
-      "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 36.6,
-      "rank": 31
-    },
-    {
-      "appid": 4488570,
-      "name": "フレッシュフードマージ",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488570/0b1e7b52a56be80b3e9cda1c7708373912d14b1e/header.jpg?t=1783963447",
-      "discountPercent": 20,
-      "initialPriceCents": 150000,
-      "finalPriceCents": 120000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4488570/",
-      "genres": [
-        "アクション",
-        "カジュアル",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "飛んでくる障害物を避けながら食べ物を積み上げます。同じ食べ物を合体させて、より巨大な果物나野菜を作りましょう。多様な相互作用でステータスを管理し、食べ物を縮小してスペースを確保できます。世界中のプレイヤーとランキングを共有しましょう。",
-      "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 36.6,
-      "rank": 32
-    },
-    {
-      "appid": 4034890,
-      "name": "Dropt",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4034890/7a9b9637f0a2ab8322320e9c19778d81daae83b3/header.jpg?t=1783962433",
-      "discountPercent": 20,
-      "initialPriceCents": 40500,
-      "finalPriceCents": 32400,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4034890/",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "ストラテジー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Dropt blends match-3 and falling-block mechanics. Create massive combos, plan without time pressure, and compete for top scores on online leaderboards.",
-      "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 36.6,
-      "rank": 33
+      "hensachi": 36.7,
+      "rank": 28
     },
     {
       "appid": 4624560,
@@ -765,7 +655,7 @@
       "initialPriceCents": 65500,
       "finalPriceCents": 55600,
       "reviewPositiveRate": 0,
-      "reviewCount": 0,
+      "reviewCount": 1,
       "storeUrl": "https://store.steampowered.com/app/4624560/",
       "genres": [
         "カジュアル",
@@ -777,9 +667,31 @@
       "releaseYear": 2026,
       "shortDescription": "宝箱を破壊すると、アイテム効果が即座に発動して戦闘に反映され、敵と戦うインクリメンタル戦闘ゲーム。 深淵の宝箱にかけられたすべての封印を解き、世界を救う大いなる存在を解放せよ！",
       "reviewSnippet": "",
-      "rawScore": 6.75,
-      "hensachi": 35.6,
-      "rank": 34
+      "rawScore": 7.885962247788608,
+      "hensachi": 36.2,
+      "rank": 29
+    },
+    {
+      "appid": 3436350,
+      "name": "全裸取り調べシミュレーター",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3436350/736c65b841f420cf2c6c826b44c5b66600ef9ef6/header_japanese.jpg?t=1784012754",
+      "discountPercent": 10,
+      "initialPriceCents": 77000,
+      "finalPriceCents": 69300,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/3436350/",
+      "genres": [
+        "カジュアル",
+        "RPG"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "万引きGメンの職権を悪用するおさわりゲームです。 取り調べと称して少しくらい触っても問題ないはず! 相手は複数のキャラクターから好みで選べます。 女性キャラフルボイス。 アニメーションでおっぱいが揺れます!",
+      "reviewSnippet": "",
+      "rawScore": 4.5,
+      "hensachi": 34.8,
+      "rank": 30
     },
     {
       "appid": 4633420,
@@ -802,8 +714,8 @@
       "shortDescription": "死神となって連鎖反応により「事故死」を作り出す物理ベースのパズルゲーム。シナリオを複数の方法で解決するか、致命的な罠で満ちた環境から生き残って脱出せよ。",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 34.7,
-      "rank": 35
+      "hensachi": 34.8,
+      "rank": 31
     },
     {
       "appid": 2071100,
@@ -823,32 +735,8 @@
       "shortDescription": "Guide poor Golem through the Mad Wizard's weird, hard dungeons filled with platforms, traps, enemies and puzzles. Recover lost madn-- knowledge at -ALL- cost ! (golems are just molded clay after all)",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 34.7,
-      "rank": 36
-    },
-    {
-      "appid": 4533370,
-      "name": "DiDiDiG",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4533370/afe729e443e3a79dc330de8f5eeac1dc29ad122f/header.jpg?t=1783987495",
-      "discountPercent": 10,
-      "initialPriceCents": 115000,
-      "finalPriceCents": 103500,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4533370/",
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "カジュアル",
-        "インディー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "月で鉱石を採掘することが目的です。 鉱石を採掘して地球へ送り、お金を稼ぎ、スキルコアを購入して能力を強化しましょう。 さまざまな装備の力を借りることができ、犬もあなたのそばにいます。 月に隠された秘密を解き明かしましょう。",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 34.7,
-      "rank": 37
+      "hensachi": 34.8,
+      "rank": 32
     },
     {
       "appid": 4897540,
@@ -872,8 +760,8 @@
       "shortDescription": "採掘。構築。生存。今度は友達と戦おう。 金を掘り、タワーやドローンを建設し、怪物たちとの戦いも——さらに他のプレイヤーと1対1のオンラインバトルができるようになった、スピード感ある2Dサバイバルゲーム。無料デモあり。",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 34.7,
-      "rank": 38
+      "hensachi": 34.8,
+      "rank": 33
     }
   ]
 }
