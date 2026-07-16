@@ -27,6 +27,9 @@ export const metadata: Metadata = {
   title: "セール偏差値 | Steamセールお得度ランキング",
   description:
     "Steamで今セール中のゲームを「偏差値」でランキング化。割引率だけでなくレビュー評価・人気度も加味した独自指標でお得なセールを発見。",
+  alternates: {
+    canonical: "/",
+  },
 };
 
 export default function RootLayout({
