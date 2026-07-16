@@ -33,7 +33,7 @@ export default function Privacy() {
               へアクセスした際の情報に基づいて、Google及びそのパートナーが適切な
               広告を表示します。ユーザーは
               
-                href="https://adssettings.google.com/"
+             <a href="https://adssettings.google.com/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="underline underline-offset-4 hover:text-hanko"
@@ -76,7 +76,7 @@ export default function Privacy() {
             </p>
             <p className="mt-2 font-mono">
               
-                href="mailto:steam.sale.hensachi@gmail.com"
+               <a href="mailto:steam.sale.hensachi@gmail.com"
                 className="underline underline-offset-4 hover:text-hanko"
               >
                 steam.sale.hensachi@gmail.com
