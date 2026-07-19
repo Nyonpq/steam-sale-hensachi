@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-07-19T07:51:21.149Z",
+  "fetchedAt": "2026-07-19T15:34:18.130Z",
   "currency": "JPY",
-  "count": 32,
-  "averageDiscount": 29.1,
+  "count": 30,
+  "averageDiscount": 29.4,
   "deals": [
     {
       "appid": 504230,
@@ -12,7 +12,7 @@
       "initialPriceCents": 230000,
       "finalPriceCents": 57500,
       "reviewPositiveRate": 97.4,
-      "reviewCount": 144117,
+      "reviewCount": 144132,
       "storeUrl": "https://store.steampowered.com/app/504230/",
       "genres": [
         "プラットフォーマー",
@@ -24,7 +24,7 @@
       "releaseYear": 2018,
       "shortDescription": "心の闇と戦う少女マデリンとともに、セレステ山の頂上を目指せ。気軽に遊べて奥が深い、手に汗握るアクションゲーム。数百におよぶ難関に立ち向かい、聖山の怪しげな秘密を探り、謎に迫れ。",
       "reviewSnippet": "B面、C面になると小学生が考えた最強のステージ的なのをプレイさせられる",
-      "rawScore": 87.30686123231428,
+      "rawScore": 87.30703179690238,
       "hensachi": 70.3,
       "rank": 1
     },
@@ -36,7 +36,7 @@
       "initialPriceCents": 438000,
       "finalPriceCents": 219000,
       "reviewPositiveRate": 82.4,
-      "reviewCount": 204974,
+      "reviewCount": 205147,
       "storeUrl": "https://store.steampowered.com/app/3240220/",
       "genres": [
         "アクション",
@@ -48,7 +48,7 @@
       "shortDescription": "大ヒットの『グランド・セフト・オートV』と「GTAオンライン」を体験しよう - 新世代用に美麗なグラフィック、短縮されたロード時間、3Dオーディオなどのアップグレード。さらに、「GTAオンライン」プレイヤー用の限定コンテンツなど。",
       "reviewSnippet": "神ゲーです オンラインにチーターが多いことを除けば...",
       "rawScore": 71.34,
-      "hensachi": 63.1,
+      "hensachi": 63.2,
       "rank": 2
     },
     {
@@ -59,7 +59,7 @@
       "initialPriceCents": 450000,
       "finalPriceCents": 315000,
       "reviewPositiveRate": 97.3,
-      "reviewCount": 275646,
+      "reviewCount": 275677,
       "storeUrl": "https://store.steampowered.com/app/526870/",
       "genres": [
         "サバイバル",
@@ -73,7 +73,7 @@
       "shortDescription": "『Satisfactory』は、探検と戦闘の要素を併せ持つ、オープンワールドの一人称視点工場建設ゲームです。1人または友達と一緒に、未知の惑星を探索し、複数階層の工場を建設し、ベルトコンベアが織りなす理想の生産拠点を作りましょう！",
       "reviewSnippet": "工場自動化ゲーとしてまっさきに名前が挙げられる当ゲーム、間違いなく面白い １つだけ希望がある 次元デポの並べ替えを実装し…",
       "rawScore": 67.555,
-      "hensachi": 61.4,
+      "hensachi": 61.5,
       "rank": 3
     },
     {
@@ -84,7 +84,7 @@
       "initialPriceCents": 340000,
       "finalPriceCents": 238000,
       "reviewPositiveRate": 94.3,
-      "reviewCount": 442967,
+      "reviewCount": 443534,
       "storeUrl": "https://store.steampowered.com/app/1623730/",
       "genres": [
         "サバイバル",
@@ -98,8 +98,31 @@
       "shortDescription": "広大な世界で不思議な生物『パル』を集めて、戦闘・建築・農業を行わせたり、工場で労働させたりする全く新しいマルチ対応のオープンワールドサバイバルクラフトゲームです。",
       "reviewSnippet": "このゲームになにか問題があるとするなら、それはプレイヤーキャラクターのデザインが微妙というぐらいですｗ",
       "rawScore": 66.505,
-      "hensachi": 60.9,
+      "hensachi": 61,
       "rank": 4
+    },
+    {
+      "appid": 739630,
+      "name": "Phasmophobia",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/c227a2855aba60f3657bc0c3a46515b8c41fb2b6/header.jpg?t=1782311537",
+      "discountPercent": 30,
+      "initialPriceCents": 230000,
+      "finalPriceCents": 161000,
+      "reviewPositiveRate": 94.4,
+      "reviewCount": 834326,
+      "storeUrl": "https://store.steampowered.com/app/739630/",
+      "genres": [
+        "アクション",
+        "インディー",
+        "早期アクセス"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2020,
+      "shortDescription": "Phasmophobia is a 4 player online co-op psychological horror. Paranormal activity is on the rise and it’s up to you and your team to use all the ghost-hunting equipment at your disposal in order to gather as much evidence as you can.",
+      "reviewSnippet": "大型アプデなんてなかった。思い出の中でじっとしていてくれ。",
+      "rawScore": 66.53999999999999,
+      "hensachi": 61,
+      "rank": 5
     },
     {
       "appid": 346110,
@@ -109,7 +132,7 @@
       "initialPriceCents": 170000,
       "finalPriceCents": 112200,
       "reviewPositiveRate": 83.3,
-      "reviewCount": 772955,
+      "reviewCount": 772989,
       "storeUrl": "https://store.steampowered.com/app/346110/",
       "genres": [
         "サバイバル",
@@ -124,8 +147,8 @@
       "shortDescription": "Stranded on the shores of a mysterious island, you must learn to survive. Use your cunning to kill or tame the primeval creatures roaming the land, and encounter other players to survive, dominate... and escape!",
       "reviewSnippet": "個人的に、サバイバルゲームの頂点に君臨している作品だと思います。 恐竜のテイム、育成、建築、探索、ボス討伐など、出来る事…",
       "rawScore": 64.455,
-      "hensachi": 60,
-      "rank": 5
+      "hensachi": 60.1,
+      "rank": 6
     },
     {
       "appid": 3101040,
@@ -135,7 +158,7 @@
       "initialPriceCents": 350000,
       "finalPriceCents": 280000,
       "reviewPositiveRate": 96.5,
-      "reviewCount": 32536,
+      "reviewCount": 32554,
       "storeUrl": "https://store.steampowered.com/app/3101040/",
       "genres": [
         "アドベンチャー",
@@ -146,9 +169,9 @@
       "releaseYear": 2025,
       "shortDescription": "少女たちが目覚めると、そこは見知らぬ牢屋敷――。来るべき「魔女裁判」に向け、牢屋敷を捜査して、少女に混ざりこんだ魔女を炙り出せ。魔女の魔法と嘘を暴き、処刑せよ。「Acacia」が送る魔法議論×ADVミステリー。",
       "reviewSnippet": "ボロボロ泣きます、最高のノベルゲームです。全裁判の全選択肢を聞いていたら１１６時間かかってしまいましたが通常プレイでは２…",
-      "rawScore": 59.80283965023747,
-      "hensachi": 57.9,
-      "rank": 6
+      "rawScore": 59.80374603653931,
+      "hensachi": 58,
+      "rank": 7
     },
     {
       "appid": 2968420,
@@ -158,7 +181,7 @@
       "initialPriceCents": 297000,
       "finalPriceCents": 222700,
       "reviewPositiveRate": 91.2,
-      "reviewCount": 11277,
+      "reviewCount": 11284,
       "storeUrl": "https://store.steampowered.com/app/2968420/",
       "genres": [
         "カジュアル",
@@ -169,32 +192,8 @@
       "releaseYear": 2025,
       "shortDescription": "PowerWash Simulatorが帰ってきた！新たなロケーション、優れた清掃機材、魅力的な機能も新登場！汚れた場所をピカピカに綺麗にして、心癒される景色へと変貌させよう。一人でも友達と一緒でも楽しめる！スプレーひと吹き爽快気分でリフレッシュ！",
       "reviewSnippet": "リリース当初はバグ多めだったけど前作でストレスに感じていた部分がかなり改善されたように感じる 広い平面を自由に移動できる…",
-      "rawScore": 58.46144185000881,
-      "hensachi": 57.3,
-      "rank": 7
-    },
-    {
-      "appid": 2195120,
-      "name": "Go-Go Town!",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2195120/f6246e7ab8ceb5ec049b6d379ad42c4d0b28d11b/header_alt_assets_5.jpg?t=1784246414",
-      "discountPercent": 25,
-      "initialPriceCents": 320000,
-      "finalPriceCents": 240000,
-      "reviewPositiveRate": 93.8,
-      "reviewCount": 2262,
-      "storeUrl": "https://store.steampowered.com/app/2195120/",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "シミュレーション",
-        "ストラテジー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "実践主義の町長となり、ゼロから町を作り上げよう。地域の設計を決め、物流を自動化して、コミュニティを育てよう。はたらく人たちやインフラ、日々の色々な混乱に対処しながら夢の町づくり。ソロプレイで全てを思い通りにするもよし、友達と一緒に協力プレイで騒ぐもよし。",
-      "reviewSnippet": "街づくり版どうぶつの森＋牧場物語って感じです。 日本語対応していて嬉しい。 金はめっちゃ貯まります。 ちょっと街をふらつ…",
-      "rawScore": 56.73918699605558,
-      "hensachi": 56.5,
+      "rawScore": 58.46245872986333,
+      "hensachi": 57.4,
       "rank": 8
     },
     {
@@ -205,7 +204,7 @@
       "initialPriceCents": 90500,
       "finalPriceCents": 54300,
       "reviewPositiveRate": 100,
-      "reviewCount": 2,
+      "reviewCount": 3,
       "storeUrl": "https://store.steampowered.com/app/4819490/",
       "genres": [
         "アドベンチャー",
@@ -215,8 +214,8 @@
       "releaseYear": 2026,
       "shortDescription": "『クラッシュ・ポジション』は大人向けの恋愛ビジュアルノベルです。808便が空から墜ちて四か月後、主任エンジニアのブルックス・ハロランは同じ機体を作り直さなければなりません。その間にも、一人の未亡人、調査官、そして試験飛行士が、彼を葬りもすれば潔白も証明しうる真実へと引き寄せていきます。",
       "reviewSnippet": "",
-      "rawScore": 54.80045756497986,
-      "hensachi": 55.6,
+      "rawScore": 55.27192449557722,
+      "hensachi": 56,
       "rank": 9
     },
     {
@@ -240,30 +239,8 @@
       "shortDescription": "とある夏の日、二人の少女と村で遊ぶことに 的あて、水鉄砲、虫相撲、縄跳び、鬼ごっこ、花火… しかし夜になると、突然一人だけいなくなってしまい… いろんな遊び満載の、とある夏の日の出来事",
       "reviewSnippet": "",
       "rawScore": 54.135962247788605,
-      "hensachi": 55.3,
+      "hensachi": 55.5,
       "rank": 10
-    },
-    {
-      "appid": 3426430,
-      "name": "LOVE Hotel Simulator 🏩",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3426430/473b7f0960e3424bb1f02b80284942ecf451fd19/header.jpg?t=1784416561",
-      "discountPercent": 38,
-      "initialPriceCents": 240000,
-      "finalPriceCents": 148800,
-      "reviewPositiveRate": 85.3,
-      "reviewCount": 68,
-      "storeUrl": "https://store.steampowered.com/app/3426430/",
-      "genres": [
-        "シミュレーション",
-        "無料プレイ"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "LOVE Hotel Simulator 🏩は、ホテルをゼロから築く楽しい経営ゲーム！スタッフを雇い、顧客を満足させ、部屋をカスタマイズし、ビジネスを拡大しながらスキルを成長させよう。一人称視点で没入感あふれる体験を楽しめる！",
-      "reviewSnippet": "",
-      "rawScore": 53.894053172593416,
-      "hensachi": 55.2,
-      "rank": 11
     },
     {
       "appid": 4210580,
@@ -272,8 +249,8 @@
       "discountPercent": 25,
       "initialPriceCents": 170000,
       "finalPriceCents": 127500,
-      "reviewPositiveRate": 93.3,
-      "reviewCount": 374,
+      "reviewPositiveRate": 92,
+      "reviewCount": 415,
       "storeUrl": "https://store.steampowered.com/app/4210580/",
       "genres": [
         "インディー",
@@ -282,10 +259,10 @@
       "supportsJapanese": true,
       "releaseYear": 2026,
       "shortDescription": "Ore Factory Squadは、協力プレイが可能な鉱山採掘と工場建設ゲームで、手続き的な採掘と楽しさがその核心にあります！一人で遊ぶことも友達と一緒に遊ぶこともでき、物件を購入し、貴重な資源を求めて深く掘り進み、契約を完了させ、生産ラインをアップグレードし自動化し、ゼロから産業へと工場を成長させましょう！",
-      "reviewSnippet": "DEMO版やって馴れたからといってチュートリアルでパソコン操作の時に変にボタン押すと進行不可の状態になる不具合があるので…",
-      "rawScore": 53.61832553859516,
+      "reviewSnippet": "ほりほり欲が解消されるとてもいいゲーム",
+      "rawScore": 53.33337105896884,
       "hensachi": 55.1,
-      "rank": 12
+      "rank": 11
     },
     {
       "appid": 3844970,
@@ -295,7 +272,7 @@
       "initialPriceCents": 120000,
       "finalPriceCents": 96000,
       "reviewPositiveRate": 85.2,
-      "reviewCount": 3960,
+      "reviewCount": 3968,
       "storeUrl": "https://store.steampowered.com/app/3844970/",
       "genres": [
         "アクション",
@@ -305,32 +282,31 @@
       "releaseYear": 2026,
       "shortDescription": "小さなノームとなって家に忍び込み、大騒ぎを巻き起こすオンライン協力ゲーム。危険を回避し、盗んだ日用アイテムを再利用し、タスクを完了してノーム長老の要求を満たそう。装備をクラフトし、家をアップグレードして、任務をもっと簡単に成功させよう。",
       "reviewSnippet": "とっても馬鹿げていて面白い でも爺に追いかけられるのが思ってた以上に怖い 仲間とワイワイやるのが良い",
-      "rawScore": 52.39662204680865,
-      "hensachi": 54.5,
-      "rank": 13
+      "rawScore": 52.39992867512137,
+      "hensachi": 54.7,
+      "rank": 12
     },
     {
-      "appid": 4685790,
-      "name": "Hentai Nectar",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4685790/95d62d3659c37b9e320737d57f431af87b64f559/header.jpg?t=1784341368",
-      "discountPercent": 30,
-      "initialPriceCents": 39500,
-      "finalPriceCents": 27600,
-      "reviewPositiveRate": 100,
-      "reviewCount": 5,
-      "storeUrl": "https://store.steampowered.com/app/4685790/",
+      "appid": 3426430,
+      "name": "LOVE Hotel Simulator 🏩",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3426430/473b7f0960e3424bb1f02b80284942ecf451fd19/header.jpg?t=1784416561",
+      "discountPercent": 38,
+      "initialPriceCents": 240000,
+      "finalPriceCents": 148800,
+      "reviewPositiveRate": 79,
+      "reviewCount": 81,
+      "storeUrl": "https://store.steampowered.com/app/3426430/",
       "genres": [
-        "カジュアル",
-        "インディー",
-        "シミュレーション"
+        "シミュレーション",
+        "無料プレイ"
       ],
       "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "「Hentai Nectar」でリラックスできる官能的なパズルの旅に出かけましょう。穏やかなレベルがあなたの心を優しく癒してくれます。",
+      "shortDescription": "LOVE Hotel Simulator 🏩は、ホテルをゼロから築く楽しい経営ゲーム！スタッフを雇い、顧客を満足させ、部屋をカスタマイズし、ビジネスを拡大しながらスキルを成長させよう。一人称視点で没入感あふれる体験を楽しめる！",
       "reviewSnippet": "",
-      "rawScore": 51.43641981276846,
-      "hensachi": 54.1,
-      "rank": 14
+      "rawScore": 51.97193906559893,
+      "hensachi": 54.5,
+      "rank": 13
     },
     {
       "appid": 4563880,
@@ -340,7 +316,7 @@
       "initialPriceCents": 26500,
       "finalPriceCents": 21200,
       "reviewPositiveRate": 100,
-      "reviewCount": 76,
+      "reviewCount": 93,
       "storeUrl": "https://store.steampowered.com/app/4563880/",
       "genres": [
         "アドベンチャー",
@@ -351,31 +327,128 @@
       "supportsJapanese": true,
       "releaseYear": 2026,
       "shortDescription": "it's about walking",
+      "reviewSnippet": "すべてが一画面におさまるミニゲーム集で、鳥がかわいいです",
+      "rawScore": 51.44576548528188,
+      "hensachi": 54.3,
+      "rank": 14
+    },
+    {
+      "appid": 4358430,
+      "name": "DarkRay",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358430/686d863a65a4b470c1818ecb0f08c0fd5197c112/header.jpg?t=1784453901",
+      "discountPercent": 20,
+      "initialPriceCents": 135000,
+      "finalPriceCents": 108000,
+      "reviewPositiveRate": 100,
+      "reviewCount": 10,
+      "storeUrl": "https://store.steampowered.com/app/4358430/",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "インディー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "The world was destroyed overnight. Under the ruins of the city are dark catacombs, radioactive sewers and mutated creatures that have made the dungeon their home. You're a cat. And you need to get out.",
       "reviewSnippet": "",
-      "rawScore": 51.11883292517918,
-      "hensachi": 53.9,
+      "rawScore": 47.9297837175782,
+      "hensachi": 52.7,
       "rank": 15
     },
     {
-      "appid": 4902050,
-      "name": "Pomodoro: Focus Timer",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4902050/ae62d2360b8b2aa68d96dd1d63133aefc7b7c998/header.jpg?t=1784355502",
-      "discountPercent": 30,
-      "initialPriceCents": 47000,
-      "finalPriceCents": 32900,
+      "appid": 4414210,
+      "name": "Dice Carnival",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4414210/e840629f12374b35f30e1cd8196f778b3f26709e/header.jpg?t=1784379496",
+      "discountPercent": 20,
+      "initialPriceCents": 60000,
+      "finalPriceCents": 48000,
       "reviewPositiveRate": 100,
-      "reviewCount": 2,
-      "storeUrl": "https://store.steampowered.com/app/4902050/",
+      "reviewCount": 10,
+      "storeUrl": "https://store.steampowered.com/app/4414210/",
       "genres": [
-        "ユーティリティ"
+        "カジュアル",
+        "インディー",
+        "ストラテジー"
       ],
       "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "勉強や集中作業のための美しいポモドーロ・タイマー。ポモドーロ・テクニックで時間を区切って集中し、しっかり休憩し、雨や波などの自然音を再生します。先延ばしを減らし、勉強、ADHD、自閉症の人をサポート。6つのテーマ、10種類の環境音、6言語、完全オフライン。",
-      "reviewSnippet": "",
-      "rawScore": 50.30045756497986,
-      "hensachi": 53.6,
+      "shortDescription": "Dice Carnivalは、サイコロを振り、バンクし、爆発的なコンボへと繋げるローグライクのスコアアタックゲームです。強力なトークンを集め、ツアーを選び、章のボスを粉砕し、スコアを限界の彼方へ押し進めよう。",
+      "reviewSnippet": "サイコロを転がして大きな数字を出してノルマの数を超える これだけのシンプルなゲーム性ですが、ローグライクの楽しさがつまっ…",
+      "rawScore": 47.9297837175782,
+      "hensachi": 52.7,
       "rank": 16
+    },
+    {
+      "appid": 3712080,
+      "name": "Funnel Runners",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3712080/5e03554f7fd68edf54813a8d5a576a8791672227/header.jpg?t=1784232579",
+      "discountPercent": 10,
+      "initialPriceCents": 150000,
+      "finalPriceCents": 135000,
+      "reviewPositiveRate": 83.9,
+      "reviewCount": 901,
+      "storeUrl": "https://store.steampowered.com/app/3712080/",
+      "genres": [
+        "アクション",
+        "インディー",
+        "シミュレーション",
+        "早期アクセス"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Trapped in a doomed city, you and up to 7 friends must scavenge parts, fix your van, and escape the brutal tornado that approaches. A first-person co-op survival game with escalating disasters and total environmental destruction.",
+      "reviewSnippet": "一番恐ろしいのは竜巻より自分に友達がいないって現実",
+      "rawScore": 45.01672278317713,
+      "hensachi": 51.4,
+      "rank": 17
+    },
+    {
+      "appid": 4789860,
+      "name": "Furry Adventure 3 - Big Boobas!",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4789860/4e3a313082a86291096c55402f6d4af4c5b8d6ef/header.jpg?t=1784418018",
+      "discountPercent": 15,
+      "initialPriceCents": 53000,
+      "finalPriceCents": 45000,
+      "reviewPositiveRate": 100,
+      "reviewCount": 3,
+      "storeUrl": "https://store.steampowered.com/app/4789860/",
+      "genres": [
+        "アドベンチャー",
+        "カジュアル",
+        "インディー",
+        "RPG",
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "Furry Adventureは、新たなリラックス系パズルチャプターとして続きます。EasyまたはHardの難易度を選び、シンプルなパズルを完成させ、美しいfurryガールのイラストをアンロックしましょう。",
+      "reviewSnippet": "",
+      "rawScore": 44.02192449557722,
+      "hensachi": 51,
+      "rank": 18
+    },
+    {
+      "appid": 4745780,
+      "name": "Desk Kanojo",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4745780/225a84bd01e93ac48d53db4e490ee2dc0ecfd217/header.jpg?t=1784431644",
+      "discountPercent": 10,
+      "initialPriceCents": 135000,
+      "finalPriceCents": 121500,
+      "reviewPositiveRate": 100,
+      "reviewCount": 2,
+      "storeUrl": "https://store.steampowered.com/app/4745780/",
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "かわいい3Dアニメ少女がデスクトップに住みつく。ダンスを眺め、カーソルにキーホルダーみたいにぶら下げ、泡風呂に入れて、ライブ壁紙に設定——VRMで自分の推しも連れてこられる。かわいくて、なめらかで、PCにやさしい。",
+      "reviewSnippet": "",
+      "rawScore": 41.30045756497986,
+      "hensachi": 49.8,
+      "rank": 19
     },
     {
       "appid": 4782520,
@@ -384,8 +457,8 @@
       "discountPercent": 30,
       "initialPriceCents": 46400,
       "finalPriceCents": 32400,
-      "reviewPositiveRate": 100,
-      "reviewCount": 1,
+      "reviewPositiveRate": 50,
+      "reviewCount": 2,
       "storeUrl": "https://store.steampowered.com/app/4782520/",
       "genres": [
         "アドベンチャー",
@@ -397,130 +470,14 @@
       "releaseYear": 2026,
       "shortDescription": "『Cozy Radiation Cleaner』は、危険地帯を調査し、放射性物質を発見し、特殊な装備や放射線検出ツールを使って汚染された環境を浄化していく、ダークなポストアポカリプス探索・清掃ゲームです。",
       "reviewSnippet": "",
-      "rawScore": 49.635962247788605,
-      "hensachi": 53.3,
-      "rank": 17
-    },
-    {
-      "appid": 4868150,
-      "name": "仙门守护者",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4868150/9c3fdf0df7960838984b79edbe83874d76e638b7/header.jpg?t=1784384318",
-      "discountPercent": 30,
-      "initialPriceCents": 53000,
-      "finalPriceCents": 37100,
-      "reviewPositiveRate": 100,
-      "reviewCount": 1,
-      "storeUrl": "https://store.steampowered.com/app/4868150/",
-      "genres": [
-        "インディー",
-        "RPG",
-        "ストラテジー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "An oriental xianxia tower defense strategy game where you build magical immortal towers and cultivate powerful cultivators to defend your sect against hordes of invading demons, featuring character cultivation, formation construction and real-time tactical defense",
-      "reviewSnippet": "",
-      "rawScore": 49.635962247788605,
-      "hensachi": 53.3,
-      "rank": 18
-    },
-    {
-      "appid": 1959020,
-      "name": "ERODE",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1959020/b14f34e4eee39038a6129f8ad0158beb06de170e/header.jpg?t=1784360394",
-      "discountPercent": 25,
-      "initialPriceCents": 19800,
-      "finalPriceCents": 14800,
-      "reviewPositiveRate": 100,
-      "reviewCount": 4,
-      "storeUrl": "https://store.steampowered.com/app/1959020/",
-      "genres": [
-        "アクション",
-        "カジュアル",
-        "インディー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "『ERODE』は、元素要素を融合させたROUGEゲームです。4つの元素石は異なる組み合わせ方式によって、様々な武器と装備を合成できます。遊び方やアートスタイルが進化しています。",
-      "reviewSnippet": "",
-      "rawScore": 48.887622657871766,
-      "hensachi": 52.9,
-      "rank": 19
-    },
-    {
-      "appid": 4414210,
-      "name": "Dice Carnival",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4414210/e840629f12374b35f30e1cd8196f778b3f26709e/header.jpg?t=1784379496",
-      "discountPercent": 20,
-      "initialPriceCents": 60000,
-      "finalPriceCents": 48000,
-      "reviewPositiveRate": 100,
-      "reviewCount": 8,
-      "storeUrl": "https://store.steampowered.com/app/4414210/",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "ストラテジー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "Dice Carnivalは、サイコロを振り、バンクし、爆発的なコンボへと繋げるローグライクのスコアアタックゲームです。強力なトークンを集め、ツアーを選び、章のボスを粉砕し、スコアを限界の彼方へ押し進めよう。",
-      "reviewSnippet": "サイコロを転がして大きな数字を出してノルマの数を超える これだけのシンプルなゲーム性ですが、ローグライクの楽しさがつまっ…",
-      "rawScore": 47.600915129959716,
-      "hensachi": 52.3,
+      "rawScore": 32.80045756497986,
+      "hensachi": 46,
       "rank": 20
-    },
-    {
-      "appid": 3712080,
-      "name": "Funnel Runners",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3712080/5e03554f7fd68edf54813a8d5a576a8791672227/header.jpg?t=1784232579",
-      "discountPercent": 10,
-      "initialPriceCents": 150000,
-      "finalPriceCents": 135000,
-      "reviewPositiveRate": 84.1,
-      "reviewCount": 845,
-      "storeUrl": "https://store.steampowered.com/app/3712080/",
-      "genres": [
-        "アクション",
-        "インディー",
-        "シミュレーション",
-        "早期アクセス"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Trapped in a doomed city, you and up to 7 friends must scavenge parts, fix your van, and escape the brutal tornado that approaches. A first-person co-op survival game with escalating disasters and total environmental destruction.",
-      "reviewSnippet": "Coopゲーして面白いけど、まだまだ早期アクセスとしての粗やコンテンツ不足が目立つ。 友人と4人で難易度Hardを遊んだ…",
-      "rawScore": 44.981680615241594,
-      "hensachi": 51.2,
-      "rank": 21
-    },
-    {
-      "appid": 3586450,
-      "name": "エルフと世界樹の牧場",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3586450/12f05d640cbf5de40dbfa9cdc4cc19da16b5a22f/header_japanese.jpg?t=1784343604",
-      "discountPercent": 10,
-      "initialPriceCents": 198000,
-      "finalPriceCents": 178200,
-      "reviewPositiveRate": 85.7,
-      "reviewCount": 14,
-      "storeUrl": "https://store.steampowered.com/app/3586450/",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "記憶を失ったあなたは、世界樹を祀るエルフの村で目覚めます。 時間に追われることなく、のんびりとスローライフを送りましょう!",
-      "reviewSnippet": "ゲーム自体は面白いのですが、迷いの森探検ツアーを開始しようとすると暗転してそのまま進まなくなるんですが 不具合なのかこち…",
-      "rawScore": 38.93308022285163,
-      "hensachi": 48.4,
-      "rank": 22
     },
     {
       "appid": 915680,
       "name": "Jaws of Hell",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/915680/1e9311ff25712fc46259b78c033d488fe3cdf14f/header.jpg?t=1784446018",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/915680/1e9311ff25712fc46259b78c033d488fe3cdf14f/header.jpg?t=1784473019",
       "discountPercent": 40,
       "initialPriceCents": 170000,
       "finalPriceCents": 102000,
@@ -534,11 +491,11 @@
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "A psychological boomer shooter set before The Hive Pandemic. Play as Clark—ex-farmer, husband, and future bounty hunter—who escapes to Mars after losing everything. But when alien tech surfaces and visions of your ex-wife Angela pull you into the Hive, reality begins to fracture.",
+      "shortDescription": "A psychological FPS-Puzzle-Adventure-boomer shooter set before The Hive Pandemic. Clark is an ex-farmer, husband, and future bounty hunter-who escapes to Mars after losing everything. But when alien tech surfaces and visions of your ex-wife Angela pull you into the Hive, reality begins to fracture.",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 39,
-      "rank": 23
+      "hensachi": 39.4,
+      "rank": 21
     },
     {
       "appid": 4907970,
@@ -559,8 +516,8 @@
       "shortDescription": "Experience the beginning of a brand-new monster girl visual novel series set in a world where humans and monsters have learned to coexist... even if some beastgirls still enjoy picking on the occasional human.",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 39,
-      "rank": 24
+      "hensachi": 39.4,
+      "rank": 22
     },
     {
       "appid": 3428870,
@@ -584,8 +541,8 @@
       "shortDescription": "80年代から90年代のパンク・ポスターから着想を得た、印象的なモノクロのアートスタイルを採用しており、各ステージでは、迫力あるリアルタイムのプラットフォームアクションと、雰囲気たっぷりのストーリーテリングが見事に融合しています。",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 39,
-      "rank": 25
+      "hensachi": 39.4,
+      "rank": 23
     },
     {
       "appid": 4773130,
@@ -605,8 +562,8 @@
       "shortDescription": "Over a century ago, you and 99 other passengers left Earth aboard a colony ship in stasis. Now, the ship has awakened you early and you find only you and 26 other passengers remain. Make repairs and keep yourself alive while you investigate what happened to the rest of the passengers.",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 39,
-      "rank": 26
+      "hensachi": 39.4,
+      "rank": 24
     },
     {
       "appid": 57805,
@@ -624,8 +581,30 @@
       "shortDescription": "",
       "reviewSnippet": "",
       "rawScore": 13.5,
-      "hensachi": 36.9,
-      "rank": 27
+      "hensachi": 37.4,
+      "rank": 25
+    },
+    {
+      "appid": 4848950,
+      "name": "Whisker Tales",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4848950/bc8e2ffe9a41408b96afdbe9010145c85706af77/header.jpg?t=1784462766",
+      "discountPercent": 30,
+      "initialPriceCents": 53000,
+      "finalPriceCents": 37100,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4848950/",
+      "genres": [
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Join wise cats in an ancient, peaceful library! Click to gather knowledge crumbs, expand your library, bring color to a gray world, and send your cats into epic battles in the mysterious Sakura Room. A heartwarming, fully automated cozy/idle adventure awaits you!",
+      "reviewSnippet": "",
+      "rawScore": 13.5,
+      "hensachi": 37.4,
+      "rank": 26
     },
     {
       "appid": 4862920,
@@ -645,7 +624,29 @@
       "shortDescription": "Chessferatu is a chess opening training game where you study, battle, and improve by playing real opening lines against themed opponents, then keep fighting when theory ends with live move evaluation and engine refutations.",
       "reviewSnippet": "",
       "rawScore": 11.25,
-      "hensachi": 35.9,
+      "hensachi": 36.4,
+      "rank": 27
+    },
+    {
+      "appid": 4794980,
+      "name": "Funge",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4794980/d3d16e128c6c98b9735f327d22220f2bdc177c4c/header.jpg?t=1784463016",
+      "discountPercent": 20,
+      "initialPriceCents": 65500,
+      "finalPriceCents": 52400,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4794980/",
+      "genres": [
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "A minimalist programming puzzle game based on a modified version of the esolang Befunge. Learn its unique rules, execute your code, and conquer mind-bending logic challenges.",
+      "reviewSnippet": "",
+      "rawScore": 9,
+      "hensachi": 35.4,
       "rank": 28
     },
     {
@@ -667,33 +668,8 @@
       "shortDescription": "An arcade racing game with big 40-car grids, 50+ tracks, adjustable AI, single-race and championship modes, where elbows-out action and precise racing lead to victory. Demo available soon.",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 34.9,
+      "hensachi": 35.4,
       "rank": 29
-    },
-    {
-      "appid": 4789860,
-      "name": "Furry Adventure 3 - Big Boobas!",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4789860/4e3a313082a86291096c55402f6d4af4c5b8d6ef/header.jpg?t=1784418018",
-      "discountPercent": 15,
-      "initialPriceCents": 53000,
-      "finalPriceCents": 45000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4789860/",
-      "genres": [
-        "アドベンチャー",
-        "カジュアル",
-        "インディー",
-        "RPG",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "Furry Adventureは、新たなリラックス系パズルチャプターとして続きます。EasyまたはHardの難易度を選び、シンプルなパズルを完成させ、美しいfurryガールのイラストをアンロックしましょう。",
-      "reviewSnippet": "",
-      "rawScore": 6.75,
-      "hensachi": 33.9,
-      "rank": 30
     },
     {
       "appid": 4656180,
@@ -715,31 +691,8 @@
       "shortDescription": "Again Faster is a fast-paced 2D precision platformer where every second matters. Choose and upgrade your character, master dangerous maps, avoid hazards, and climb the leaderboards with your fastest runs.",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 33.9,
-      "rank": 31
-    },
-    {
-      "appid": 4745780,
-      "name": "Desk Kanojo",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4745780/225a84bd01e93ac48d53db4e490ee2dc0ecfd217/header.jpg?t=1784431644",
-      "discountPercent": 10,
-      "initialPriceCents": 135000,
-      "finalPriceCents": 121500,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4745780/",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "かわいい3Dアニメ少女がデスクトップに住みつく。ダンスを眺め、カーソルにキーホルダーみたいにぶら下げ、泡風呂に入れて、ライブ壁紙に設定——VRMで自分の推しも連れてこられる。かわいくて、なめらかで、PCにやさしい。",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 32.9,
-      "rank": 32
+      "hensachi": 34.4,
+      "rank": 30
     }
   ]
 }
