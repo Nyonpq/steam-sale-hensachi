@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-07-19T15:34:18.130Z",
+  "fetchedAt": "2026-07-19T20:31:29.458Z",
   "currency": "JPY",
-  "count": 30,
-  "averageDiscount": 29.4,
+  "count": 31,
+  "averageDiscount": 30.8,
   "deals": [
     {
       "appid": 504230,
@@ -12,7 +12,7 @@
       "initialPriceCents": 230000,
       "finalPriceCents": 57500,
       "reviewPositiveRate": 97.4,
-      "reviewCount": 144132,
+      "reviewCount": 144153,
       "storeUrl": "https://store.steampowered.com/app/504230/",
       "genres": [
         "プラットフォーマー",
@@ -24,9 +24,31 @@
       "releaseYear": 2018,
       "shortDescription": "心の闇と戦う少女マデリンとともに、セレステ山の頂上を目指せ。気軽に遊べて奥が深い、手に汗握るアクションゲーム。数百におよぶ難関に立ち向かい、聖山の怪しげな秘密を探り、謎に迫れ。",
       "reviewSnippet": "B面、C面になると小学生が考えた最強のステージ的なのをプレイさせられる",
-      "rawScore": 87.30703179690238,
-      "hensachi": 70.3,
+      "rawScore": 87.30727055750687,
+      "hensachi": 68.5,
       "rank": 1
+    },
+    {
+      "appid": 1174180,
+      "name": "Red Dead Redemption 2",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
+      "discountPercent": 75,
+      "initialPriceCents": 861800,
+      "finalPriceCents": 215400,
+      "reviewPositiveRate": 92.4,
+      "reviewCount": 898866,
+      "storeUrl": "https://store.steampowered.com/app/1174180/",
+      "genres": [
+        "アクション",
+        "アドベンチャー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2019,
+      "shortDescription": "アーサーとダッチギャングは逃亡を続ける無法者だった。連邦捜査官と賞金稼ぎに追われる中、ギャングたちが生き延びるためには荒野で強奪、暴力、盗みを働くしかなかった。",
+      "reviewSnippet": "ゲーム自体は楽しいのですが、馬での移動だけどうにかできないかと思いTrainer等を導入したらゲーム速度の変更で実質移動…",
+      "rawScore": 86.09,
+      "hensachi": 67.9,
+      "rank": 2
     },
     {
       "appid": 3240220,
@@ -36,7 +58,7 @@
       "initialPriceCents": 438000,
       "finalPriceCents": 219000,
       "reviewPositiveRate": 82.4,
-      "reviewCount": 205147,
+      "reviewCount": 205282,
       "storeUrl": "https://store.steampowered.com/app/3240220/",
       "genres": [
         "アクション",
@@ -48,8 +70,8 @@
       "shortDescription": "大ヒットの『グランド・セフト・オートV』と「GTAオンライン」を体験しよう - 新世代用に美麗なグラフィック、短縮されたロード時間、3Dオーディオなどのアップグレード。さらに、「GTAオンライン」プレイヤー用の限定コンテンツなど。",
       "reviewSnippet": "神ゲーです オンラインにチーターが多いことを除けば...",
       "rawScore": 71.34,
-      "hensachi": 63.2,
-      "rank": 2
+      "hensachi": 61.6,
+      "rank": 3
     },
     {
       "appid": 526870,
@@ -59,7 +81,7 @@
       "initialPriceCents": 450000,
       "finalPriceCents": 315000,
       "reviewPositiveRate": 97.3,
-      "reviewCount": 275677,
+      "reviewCount": 275699,
       "storeUrl": "https://store.steampowered.com/app/526870/",
       "genres": [
         "サバイバル",
@@ -73,8 +95,8 @@
       "shortDescription": "『Satisfactory』は、探検と戦闘の要素を併せ持つ、オープンワールドの一人称視点工場建設ゲームです。1人または友達と一緒に、未知の惑星を探索し、複数階層の工場を建設し、ベルトコンベアが織りなす理想の生産拠点を作りましょう！",
       "reviewSnippet": "工場自動化ゲーとしてまっさきに名前が挙げられる当ゲーム、間違いなく面白い １つだけ希望がある 次元デポの並べ替えを実装し…",
       "rawScore": 67.555,
-      "hensachi": 61.5,
-      "rank": 3
+      "hensachi": 59.9,
+      "rank": 4
     },
     {
       "appid": 1623730,
@@ -84,7 +106,7 @@
       "initialPriceCents": 340000,
       "finalPriceCents": 238000,
       "reviewPositiveRate": 94.3,
-      "reviewCount": 443534,
+      "reviewCount": 443991,
       "storeUrl": "https://store.steampowered.com/app/1623730/",
       "genres": [
         "サバイバル",
@@ -98,31 +120,31 @@
       "shortDescription": "広大な世界で不思議な生物『パル』を集めて、戦闘・建築・農業を行わせたり、工場で労働させたりする全く新しいマルチ対応のオープンワールドサバイバルクラフトゲームです。",
       "reviewSnippet": "このゲームになにか問題があるとするなら、それはプレイヤーキャラクターのデザインが微妙というぐらいですｗ",
       "rawScore": 66.505,
-      "hensachi": 61,
-      "rank": 4
+      "hensachi": 59.5,
+      "rank": 5
     },
     {
-      "appid": 739630,
-      "name": "Phasmophobia",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/c227a2855aba60f3657bc0c3a46515b8c41fb2b6/header.jpg?t=1782311537",
-      "discountPercent": 30,
-      "initialPriceCents": 230000,
-      "finalPriceCents": 161000,
-      "reviewPositiveRate": 94.4,
-      "reviewCount": 834326,
-      "storeUrl": "https://store.steampowered.com/app/739630/",
+      "appid": 3892270,
+      "name": "Gamble With Your Friends",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg?t=1782258835",
+      "discountPercent": 38,
+      "initialPriceCents": 92000,
+      "finalPriceCents": 57000,
+      "reviewPositiveRate": 89.6,
+      "reviewCount": 16804,
+      "storeUrl": "https://store.steampowered.com/app/3892270/",
       "genres": [
-        "アクション",
+        "アドベンチャー",
         "インディー",
-        "早期アクセス"
+        "シミュレーション"
       ],
-      "supportsJapanese": true,
-      "releaseYear": 2020,
-      "shortDescription": "Phasmophobia is a 4 player online co-op psychological horror. Paranormal activity is on the rise and it’s up to you and your team to use all the ghost-hunting equipment at your disposal in order to gather as much evidence as you can.",
-      "reviewSnippet": "大型アプデなんてなかった。思い出の中でじっとしていてくれ。",
-      "rawScore": 66.53999999999999,
-      "hensachi": 61,
-      "rank": 5
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "An online 1-6 player co-op &quot;casino crawler&quot; where you and your friends share one bank account and one massive debt. Gamble, buy sketchy items, make terrible decisions, and climb an ominous casino tower to hit your loan shark’s daily quota in 5 minutes - or face the consequences.",
+      "reviewSnippet": "このゲームは、ぬいぐるみでキャッチボールをするゲームです。 キャッチボールでは、フライキャッチの練習やショートバウンド処…",
+      "rawScore": 64.4050510068132,
+      "hensachi": 58.6,
+      "rank": 6
     },
     {
       "appid": 346110,
@@ -132,7 +154,7 @@
       "initialPriceCents": 170000,
       "finalPriceCents": 112200,
       "reviewPositiveRate": 83.3,
-      "reviewCount": 772989,
+      "reviewCount": 773013,
       "storeUrl": "https://store.steampowered.com/app/346110/",
       "genres": [
         "サバイバル",
@@ -147,8 +169,31 @@
       "shortDescription": "Stranded on the shores of a mysterious island, you must learn to survive. Use your cunning to kill or tame the primeval creatures roaming the land, and encounter other players to survive, dominate... and escape!",
       "reviewSnippet": "個人的に、サバイバルゲームの頂点に君臨している作品だと思います。 恐竜のテイム、育成、建築、探索、ボス討伐など、出来る事…",
       "rawScore": 64.455,
-      "hensachi": 60.1,
-      "rank": 6
+      "hensachi": 58.6,
+      "rank": 7
+    },
+    {
+      "appid": 1671210,
+      "name": "DELTARUNE",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/7ccda5b1631d2e60cc756a3271e845dbb9168821/header.jpg?t=1782314340",
+      "discountPercent": 20,
+      "initialPriceCents": 398000,
+      "finalPriceCents": 318400,
+      "reviewPositiveRate": 98.1,
+      "reviewCount": 122842,
+      "storeUrl": "https://store.steampowered.com/app/1671210/",
+      "genres": [
+        "弾幕",
+        "インディー",
+        "RPG"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2025,
+      "shortDescription": "『UNDERTALE』のパラレルストーリー、『DELTARUNE』！　アクション満載のバトルは、戦うのも敵を逃がすのもキミ次第。初めて出会う顔、おなじみの面々…　愛すべきキャラクターたちと、ナゾの世界を旅しよう。Chapter 1～5まで配信中。つづきは無料アップデートとして追加！",
+      "reviewSnippet": "チャプター5が出てから明確に「このゲームをやっていて良かった」と言えるようになりました 弾幕の回避やアクションなど、救済…",
+      "rawScore": 62.54009590183671,
+      "hensachi": 57.7,
+      "rank": 8
     },
     {
       "appid": 3101040,
@@ -158,7 +203,7 @@
       "initialPriceCents": 350000,
       "finalPriceCents": 280000,
       "reviewPositiveRate": 96.5,
-      "reviewCount": 32554,
+      "reviewCount": 32568,
       "storeUrl": "https://store.steampowered.com/app/3101040/",
       "genres": [
         "アドベンチャー",
@@ -169,9 +214,9 @@
       "releaseYear": 2025,
       "shortDescription": "少女たちが目覚めると、そこは見知らぬ牢屋敷――。来るべき「魔女裁判」に向け、牢屋敷を捜査して、少女に混ざりこんだ魔女を炙り出せ。魔女の魔法と嘘を暴き、処刑せよ。「Acacia」が送る魔法議論×ADVミステリー。",
       "reviewSnippet": "ボロボロ泣きます、最高のノベルゲームです。全裁判の全選択肢を聞いていたら１１６時間かかってしまいましたが通常プレイでは２…",
-      "rawScore": 59.80374603653931,
-      "hensachi": 58,
-      "rank": 7
+      "rawScore": 59.80445065725593,
+      "hensachi": 56.6,
+      "rank": 9
     },
     {
       "appid": 2968420,
@@ -181,7 +226,7 @@
       "initialPriceCents": 297000,
       "finalPriceCents": 222700,
       "reviewPositiveRate": 91.2,
-      "reviewCount": 11284,
+      "reviewCount": 11290,
       "storeUrl": "https://store.steampowered.com/app/2968420/",
       "genres": [
         "カジュアル",
@@ -192,9 +237,9 @@
       "releaseYear": 2025,
       "shortDescription": "PowerWash Simulatorが帰ってきた！新たなロケーション、優れた清掃機材、魅力的な機能も新登場！汚れた場所をピカピカに綺麗にして、心癒される景色へと変貌させよう。一人でも友達と一緒でも楽しめる！スプレーひと吹き爽快気分でリフレッシュ！",
       "reviewSnippet": "リリース当初はバグ多めだったけど前作でストレスに感じていた部分がかなり改善されたように感じる 広い平面を自由に移動できる…",
-      "rawScore": 58.46245872986333,
-      "hensachi": 57.4,
-      "rank": 8
+      "rawScore": 58.463329839257426,
+      "hensachi": 56,
+      "rank": 10
     },
     {
       "appid": 4819490,
@@ -215,8 +260,8 @@
       "shortDescription": "『クラッシュ・ポジション』は大人向けの恋愛ビジュアルノベルです。808便が空から墜ちて四か月後、主任エンジニアのブルックス・ハロランは同じ機体を作り直さなければなりません。その間にも、一人の未亡人、調査官、そして試験飛行士が、彼を葬りもすれば潔白も証明しうる真実へと引き寄せていきます。",
       "reviewSnippet": "",
       "rawScore": 55.27192449557722,
-      "hensachi": 56,
-      "rank": 9
+      "hensachi": 54.6,
+      "rank": 11
     },
     {
       "appid": 4856670,
@@ -239,8 +284,8 @@
       "shortDescription": "とある夏の日、二人の少女と村で遊ぶことに 的あて、水鉄砲、虫相撲、縄跳び、鬼ごっこ、花火… しかし夜になると、突然一人だけいなくなってしまい… いろんな遊び満載の、とある夏の日の出来事",
       "reviewSnippet": "",
       "rawScore": 54.135962247788605,
-      "hensachi": 55.5,
-      "rank": 10
+      "hensachi": 54.1,
+      "rank": 12
     },
     {
       "appid": 4210580,
@@ -249,8 +294,8 @@
       "discountPercent": 25,
       "initialPriceCents": 170000,
       "finalPriceCents": 127500,
-      "reviewPositiveRate": 92,
-      "reviewCount": 415,
+      "reviewPositiveRate": 91.8,
+      "reviewCount": 453,
       "storeUrl": "https://store.steampowered.com/app/4210580/",
       "genres": [
         "インディー",
@@ -260,9 +305,9 @@
       "releaseYear": 2026,
       "shortDescription": "Ore Factory Squadは、協力プレイが可能な鉱山採掘と工場建設ゲームで、手続き的な採掘と楽しさがその核心にあります！一人で遊ぶことも友達と一緒に遊ぶこともでき、物件を購入し、貴重な資源を求めて深く掘り進み、契約を完了させ、生産ラインをアップグレードし自動化し、ゼロから産業へと工場を成長させましょう！",
       "reviewSnippet": "ほりほり欲が解消されるとてもいいゲーム",
-      "rawScore": 53.33337105896884,
-      "hensachi": 55.1,
-      "rank": 11
+      "rawScore": 53.40662585983812,
+      "hensachi": 53.8,
+      "rank": 13
     },
     {
       "appid": 3844970,
@@ -271,8 +316,8 @@
       "discountPercent": 20,
       "initialPriceCents": 120000,
       "finalPriceCents": 96000,
-      "reviewPositiveRate": 85.2,
-      "reviewCount": 3968,
+      "reviewPositiveRate": 85.1,
+      "reviewCount": 3980,
       "storeUrl": "https://store.steampowered.com/app/3844970/",
       "genres": [
         "アクション",
@@ -282,9 +327,9 @@
       "releaseYear": 2026,
       "shortDescription": "小さなノームとなって家に忍び込み、大騒ぎを巻き起こすオンライン協力ゲーム。危険を回避し、盗んだ日用アイテムを再利用し、タスクを完了してノーム長老の要求を満たそう。装備をクラフトし、家をアップグレードして、任務をもっと簡単に成功させよう。",
       "reviewSnippet": "とっても馬鹿げていて面白い でも爺に追いかけられるのが思ってた以上に怖い 仲間とワイワイやるのが良い",
-      "rawScore": 52.39992867512137,
-      "hensachi": 54.7,
-      "rank": 12
+      "rawScore": 52.36987614182678,
+      "hensachi": 53.3,
+      "rank": 14
     },
     {
       "appid": 3426430,
@@ -293,8 +338,8 @@
       "discountPercent": 38,
       "initialPriceCents": 240000,
       "finalPriceCents": 148800,
-      "reviewPositiveRate": 79,
-      "reviewCount": 81,
+      "reviewPositiveRate": 79.1,
+      "reviewCount": 91,
       "storeUrl": "https://store.steampowered.com/app/3426430/",
       "genres": [
         "シミュレーション",
@@ -304,9 +349,9 @@
       "releaseYear": 2026,
       "shortDescription": "LOVE Hotel Simulator 🏩は、ホテルをゼロから築く楽しい経営ゲーム！スタッフを雇い、顧客を満足させ、部屋をカスタマイズし、ビジネスを拡大しながらスキルを成長させよう。一人称視点で没入感あふれる体験を楽しめる！",
       "reviewSnippet": "",
-      "rawScore": 51.97193906559893,
-      "hensachi": 54.5,
-      "rank": 13
+      "rawScore": 52.19552010319077,
+      "hensachi": 53.3,
+      "rank": 15
     },
     {
       "appid": 4563880,
@@ -316,7 +361,7 @@
       "initialPriceCents": 26500,
       "finalPriceCents": 21200,
       "reviewPositiveRate": 100,
-      "reviewCount": 93,
+      "reviewCount": 97,
       "storeUrl": "https://store.steampowered.com/app/4563880/",
       "genres": [
         "アドベンチャー",
@@ -328,9 +373,9 @@
       "releaseYear": 2026,
       "shortDescription": "it's about walking",
       "reviewSnippet": "すべてが一画面におさまるミニゲーム集で、鳥がかわいいです",
-      "rawScore": 51.44576548528188,
-      "hensachi": 54.3,
-      "rank": 14
+      "rawScore": 51.514060662990545,
+      "hensachi": 53,
+      "rank": 16
     },
     {
       "appid": 4358430,
@@ -340,7 +385,7 @@
       "initialPriceCents": 135000,
       "finalPriceCents": 108000,
       "reviewPositiveRate": 100,
-      "reviewCount": 10,
+      "reviewCount": 11,
       "storeUrl": "https://store.steampowered.com/app/4358430/",
       "genres": [
         "アクション",
@@ -351,9 +396,9 @@
       "releaseYear": 2026,
       "shortDescription": "The world was destroyed overnight. Under the ruins of the city are dark catacombs, radioactive sewers and mutated creatures that have made the dungeon their home. You're a cat. And you need to get out.",
       "reviewSnippet": "",
-      "rawScore": 47.9297837175782,
-      "hensachi": 52.7,
-      "rank": 15
+      "rawScore": 48.072382060557075,
+      "hensachi": 51.5,
+      "rank": 17
     },
     {
       "appid": 4414210,
@@ -363,7 +408,7 @@
       "initialPriceCents": 60000,
       "finalPriceCents": 48000,
       "reviewPositiveRate": 100,
-      "reviewCount": 10,
+      "reviewCount": 12,
       "storeUrl": "https://store.steampowered.com/app/4414210/",
       "genres": [
         "カジュアル",
@@ -374,33 +419,31 @@
       "releaseYear": 2026,
       "shortDescription": "Dice Carnivalは、サイコロを振り、バンクし、爆発的なコンボへと繋げるローグライクのスコアアタックゲームです。強力なトークンを集め、ツアーを選び、章のボスを粉砕し、スコアを限界の彼方へ押し進めよう。",
       "reviewSnippet": "サイコロを転がして大きな数字を出してノルマの数を超える これだけのシンプルなゲーム性ですが、ローグライクの楽しさがつまっ…",
-      "rawScore": 47.9297837175782,
-      "hensachi": 52.7,
-      "rank": 16
+      "rawScore": 48.2035598200258,
+      "hensachi": 51.5,
+      "rank": 18
     },
     {
-      "appid": 3712080,
-      "name": "Funnel Runners",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3712080/5e03554f7fd68edf54813a8d5a576a8791672227/header.jpg?t=1784232579",
-      "discountPercent": 10,
-      "initialPriceCents": 150000,
-      "finalPriceCents": 135000,
-      "reviewPositiveRate": 83.9,
-      "reviewCount": 901,
-      "storeUrl": "https://store.steampowered.com/app/3712080/",
+      "appid": 4794980,
+      "name": "Funge",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4794980/d3d16e128c6c98b9735f327d22220f2bdc177c4c/header.jpg?t=1784463016",
+      "discountPercent": 20,
+      "initialPriceCents": 65500,
+      "finalPriceCents": 52400,
+      "reviewPositiveRate": 100,
+      "reviewCount": 1,
+      "storeUrl": "https://store.steampowered.com/app/4794980/",
       "genres": [
-        "アクション",
-        "インディー",
-        "シミュレーション",
-        "早期アクセス"
+        "カジュアル",
+        "インディー"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "Trapped in a doomed city, you and up to 7 friends must scavenge parts, fix your van, and escape the brutal tornado that approaches. A first-person co-op survival game with escalating disasters and total environmental destruction.",
-      "reviewSnippet": "一番恐ろしいのは竜巻より自分に友達がいないって現実",
-      "rawScore": 45.01672278317713,
-      "hensachi": 51.4,
-      "rank": 17
+      "shortDescription": "A minimalist programming puzzle game based on a modified version of the esolang Befunge. Learn its unique rules, execute your code, and conquer mind-bending logic challenges.",
+      "reviewSnippet": "",
+      "rawScore": 45.135962247788605,
+      "hensachi": 50.2,
+      "rank": 19
     },
     {
       "appid": 4789860,
@@ -424,8 +467,8 @@
       "shortDescription": "Furry Adventureは、新たなリラックス系パズルチャプターとして続きます。EasyまたはHardの難易度を選び、シンプルなパズルを完成させ、美しいfurryガールのイラストをアンロックしましょう。",
       "reviewSnippet": "",
       "rawScore": 44.02192449557722,
-      "hensachi": 51,
-      "rank": 18
+      "hensachi": 49.7,
+      "rank": 20
     },
     {
       "appid": 4745780,
@@ -447,8 +490,8 @@
       "shortDescription": "かわいい3Dアニメ少女がデスクトップに住みつく。ダンスを眺め、カーソルにキーホルダーみたいにぶら下げ、泡風呂に入れて、ライブ壁紙に設定——VRMで自分の推しも連れてこられる。かわいくて、なめらかで、PCにやさしい。",
       "reviewSnippet": "",
       "rawScore": 41.30045756497986,
-      "hensachi": 49.8,
-      "rank": 19
+      "hensachi": 48.5,
+      "rank": 21
     },
     {
       "appid": 4782520,
@@ -471,8 +514,8 @@
       "shortDescription": "『Cozy Radiation Cleaner』は、危険地帯を調査し、放射性物質を発見し、特殊な装備や放射線検出ツールを使って汚染された環境を浄化していく、ダークなポストアポカリプス探索・清掃ゲームです。",
       "reviewSnippet": "",
       "rawScore": 32.80045756497986,
-      "hensachi": 46,
-      "rank": 20
+      "hensachi": 44.9,
+      "rank": 22
     },
     {
       "appid": 915680,
@@ -482,7 +525,7 @@
       "initialPriceCents": 170000,
       "finalPriceCents": 102000,
       "reviewPositiveRate": 0,
-      "reviewCount": 0,
+      "reviewCount": 1,
       "storeUrl": "https://store.steampowered.com/app/915680/",
       "genres": [
         "アクション",
@@ -493,9 +536,9 @@
       "releaseYear": 2026,
       "shortDescription": "A psychological FPS-Puzzle-Adventure-boomer shooter set before The Hive Pandemic. Clark is an ex-farmer, husband, and future bounty hunter-who escapes to Mars after losing everything. But when alien tech surfaces and visions of your ex-wife Angela pull you into the Hive, reality begins to fracture.",
       "reviewSnippet": "",
-      "rawScore": 18,
-      "hensachi": 39.4,
-      "rank": 21
+      "rawScore": 19.13596224778861,
+      "hensachi": 38.9,
+      "rank": 23
     },
     {
       "appid": 4907970,
@@ -516,8 +559,8 @@
       "shortDescription": "Experience the beginning of a brand-new monster girl visual novel series set in a world where humans and monsters have learned to coexist... even if some beastgirls still enjoy picking on the occasional human.",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 39.4,
-      "rank": 22
+      "hensachi": 38.4,
+      "rank": 24
     },
     {
       "appid": 3428870,
@@ -541,29 +584,8 @@
       "shortDescription": "80年代から90年代のパンク・ポスターから着想を得た、印象的なモノクロのアートスタイルを採用しており、各ステージでは、迫力あるリアルタイムのプラットフォームアクションと、雰囲気たっぷりのストーリーテリングが見事に融合しています。",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 39.4,
-      "rank": 23
-    },
-    {
-      "appid": 4773130,
-      "name": "27 Survivors",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4773130/c3b411a54e120c5798ccbfea44bb2e258bbe5806/header.jpg?t=1784358281",
-      "discountPercent": 40,
-      "initialPriceCents": 131900,
-      "finalPriceCents": 79100,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4773130/",
-      "genres": [
-        "インディー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Over a century ago, you and 99 other passengers left Earth aboard a colony ship in stasis. Now, the ship has awakened you early and you find only you and 26 other passengers remain. Make repairs and keep yourself alive while you investigate what happened to the rest of the passengers.",
-      "reviewSnippet": "",
-      "rawScore": 18,
-      "hensachi": 39.4,
-      "rank": 24
+      "hensachi": 38.4,
+      "rank": 25
     },
     {
       "appid": 57805,
@@ -581,8 +603,8 @@
       "shortDescription": "",
       "reviewSnippet": "",
       "rawScore": 13.5,
-      "hensachi": 37.4,
-      "rank": 25
+      "hensachi": 36.5,
+      "rank": 26
     },
     {
       "appid": 4848950,
@@ -603,8 +625,8 @@
       "shortDescription": "Join wise cats in an ancient, peaceful library! Click to gather knowledge crumbs, expand your library, bring color to a gray world, and send your cats into epic battles in the mysterious Sakura Room. A heartwarming, fully automated cozy/idle adventure awaits you!",
       "reviewSnippet": "",
       "rawScore": 13.5,
-      "hensachi": 37.4,
-      "rank": 26
+      "hensachi": 36.5,
+      "rank": 27
     },
     {
       "appid": 4862920,
@@ -624,30 +646,29 @@
       "shortDescription": "Chessferatu is a chess opening training game where you study, battle, and improve by playing real opening lines against themed opponents, then keep fighting when theory ends with live move evaluation and engine refutations.",
       "reviewSnippet": "",
       "rawScore": 11.25,
-      "hensachi": 36.4,
-      "rank": 27
+      "hensachi": 35.5,
+      "rank": 28
     },
     {
-      "appid": 4794980,
-      "name": "Funge",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4794980/d3d16e128c6c98b9735f327d22220f2bdc177c4c/header.jpg?t=1784463016",
+      "appid": 4858420,
+      "name": "Tutor's Gentle Trap",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4858420/52487a09fbc53afa63fd53eb4f24bc96a3d3e06e/header.jpg?t=1784458682",
       "discountPercent": 20,
-      "initialPriceCents": 65500,
-      "finalPriceCents": 52400,
+      "initialPriceCents": 135000,
+      "finalPriceCents": 108000,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4794980/",
+      "storeUrl": "https://store.steampowered.com/app/4858420/",
       "genres": [
-        "カジュアル",
-        "インディー"
+        "RPG"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "A minimalist programming puzzle game based on a modified version of the esolang Befunge. Learn its unique rules, execute your code, and conquer mind-bending logic challenges.",
+      "shortDescription": "At the age of 22, Thomas was killed with hatred after his stepmother and aunt conspired to seize his inheritance. However, he was reborn as a super digital life form. He recalled his past with his tutor, Elena, from innocence to madness three years ago...",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 35.4,
-      "rank": 28
+      "hensachi": 34.5,
+      "rank": 29
     },
     {
       "appid": 4303210,
@@ -668,8 +689,8 @@
       "shortDescription": "An arcade racing game with big 40-car grids, 50+ tracks, adjustable AI, single-race and championship modes, where elbows-out action and precise racing lead to victory. Demo available soon.",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 35.4,
-      "rank": 29
+      "hensachi": 34.5,
+      "rank": 30
     },
     {
       "appid": 4656180,
@@ -691,8 +712,8 @@
       "shortDescription": "Again Faster is a fast-paced 2D precision platformer where every second matters. Choose and upgrade your character, master dangerous maps, avoid hazards, and climb the leaderboards with your fastest runs.",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 34.4,
-      "rank": 30
+      "hensachi": 33.6,
+      "rank": 31
     }
   ]
 }
