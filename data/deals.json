@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-07-26T08:00:44.500Z",
+  "fetchedAt": "2026-07-26T15:48:31.474Z",
   "currency": "JPY",
   "count": 33,
-  "averageDiscount": 30.1,
+  "averageDiscount": 30.4,
   "deals": [
     {
       "appid": 504230,
@@ -12,7 +12,7 @@
       "initialPriceCents": 230000,
       "finalPriceCents": 57500,
       "reviewPositiveRate": 97.4,
-      "reviewCount": 144611,
+      "reviewCount": 144623,
       "storeUrl": "https://store.steampowered.com/app/504230/",
       "genres": [
         "プラットフォーマー",
@@ -24,8 +24,8 @@
       "releaseYear": 2018,
       "shortDescription": "心の闇と戦う少女マデリンとともに、セレステ山の頂上を目指せ。気軽に遊べて奥が深い、手に汗握るアクションゲーム。数百におよぶ難関に立ち向かい、聖山の怪しげな秘密を探り、謎に迫れ。",
       "reviewSnippet": "リスポーンが素早く、難易度も徐々に上がっていくので自分の上達を感じられやりごたえのある素晴らしいゲームだった。メインスト…",
-      "rawScore": 87.31246917924136,
-      "hensachi": 68.5,
+      "rawScore": 87.31260516622244,
+      "hensachi": 67,
       "rank": 1
     },
     {
@@ -36,7 +36,7 @@
       "initialPriceCents": 280000,
       "finalPriceCents": 84000,
       "reviewPositiveRate": 98,
-      "reviewCount": 306629,
+      "reviewCount": 306645,
       "storeUrl": "https://store.steampowered.com/app/1145360/",
       "genres": [
         "ローグライト",
@@ -50,7 +50,7 @@
       "shortDescription": "死者の国の神に背き、戦いを切り抜けて冥界から脱せよ。『Bastion』、『Transistor』、『Pyre』のクリエイターによるローグライク・ダンジョンアドベンチャー。",
       "reviewSnippet": "初クリア記念に。わかりやすく言うと「Slay the Spire』のアクション版。失敗すると初めから、永続強化も微妙に見…",
       "rawScore": 85.8,
-      "hensachi": 67.8,
+      "hensachi": 66.4,
       "rank": 2
     },
     {
@@ -61,7 +61,7 @@
       "initialPriceCents": 248000,
       "finalPriceCents": 124000,
       "reviewPositiveRate": 97,
-      "reviewCount": 181981,
+      "reviewCount": 181996,
       "storeUrl": "https://store.steampowered.com/app/588650/",
       "genres": [
         "メトロイドヴァニア",
@@ -74,8 +74,8 @@
       "releaseYear": 2018,
       "shortDescription": "『Dead Cells』は、ローグライトとメトロイドヴァニアにインスピレーションを得たアクションプラットフォーマー。プレイヤーは、無秩序に広がり絶えず変化する城を探索することになる…むろん2Dのソウルライクな戦闘で戦って、番人を通過することができたらの話だが。チェックポイントなし。殺して、死んで、学ぶ。その繰り返しだ",
       "reviewSnippet": "慣れるまで難しいと思いますが、おすすめです。 動作が軽快で操作感もとても良く、かなり作り込まれていると思いました。 マッ…",
-      "rawScore": 76.29916390060157,
-      "hensachi": 63.3,
+      "rawScore": 76.29929897821066,
+      "hensachi": 62.4,
       "rank": 3
     },
     {
@@ -86,7 +86,7 @@
       "initialPriceCents": 438000,
       "finalPriceCents": 219000,
       "reviewPositiveRate": 82.4,
-      "reviewCount": 208075,
+      "reviewCount": 208225,
       "storeUrl": "https://store.steampowered.com/app/3240220/",
       "genres": [
         "アクション",
@@ -98,7 +98,7 @@
       "shortDescription": "大ヒットの『グランド・セフト・オートV』と「GTAオンライン」を体験しよう - 新世代用に美麗なグラフィック、短縮されたロード時間、3Dオーディオなどのアップグレード。さらに、「GTAオンライン」プレイヤー用の限定コンテンツなど。",
       "reviewSnippet": "自由度が高くソロでもマルチでも楽しめる",
       "rawScore": 71.34,
-      "hensachi": 60.9,
+      "hensachi": 60.4,
       "rank": 4
     },
     {
@@ -109,7 +109,7 @@
       "initialPriceCents": 499000,
       "finalPriceCents": 249500,
       "reviewPositiveRate": 82.6,
-      "reviewCount": 77357,
+      "reviewCount": 77370,
       "storeUrl": "https://store.steampowered.com/app/1364780/",
       "genres": [
         "アクション",
@@ -119,8 +119,8 @@
       "releaseYear": 2023,
       "shortDescription": "シリーズ最新作『ストリートファイター6』が2023年6月2日に発売決定！ RE ENGINEで開発された本作は、大型モード「ワールドツアー」や「ファイティンググラウンド」、「バトルハブ」で構成され、新たな「ストリートファイター」はこれまでのシリーズにはない全く新しい体験が待ち受けている。",
       "reviewSnippet": "アンガーマネジメントに失敗してコントローラ破壊、机の凹み、左手の拳の骨にひびが入りました 治療費や修理費は自腹になるので…",
-      "rawScore": 69.85718955867036,
-      "hensachi": 60.2,
+      "rawScore": 69.85746494353512,
+      "hensachi": 59.8,
       "rank": 5
     },
     {
@@ -131,7 +131,7 @@
       "initialPriceCents": 120000,
       "finalPriceCents": 78000,
       "reviewPositiveRate": 96.1,
-      "reviewCount": 412429,
+      "reviewCount": 412499,
       "storeUrl": "https://store.steampowered.com/app/3241660/",
       "genres": [
         "サバイバル",
@@ -143,8 +143,33 @@
       "shortDescription": "An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.",
       "reviewSnippet": "CosmeticBoxコンプまでプレイしました。神ゲーです。正式リリースと今後のアップデートを期待しています。",
       "rawScore": 69.38499999999999,
-      "hensachi": 60,
+      "hensachi": 59.6,
       "rank": 6
+    },
+    {
+      "appid": 526870,
+      "name": "Satisfactory",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/header.jpg?t=1780413533",
+      "discountPercent": 30,
+      "initialPriceCents": 450000,
+      "finalPriceCents": 315000,
+      "reviewPositiveRate": 97.3,
+      "reviewCount": 276270,
+      "storeUrl": "https://store.steampowered.com/app/526870/",
+      "genres": [
+        "サバイバル",
+        "アドベンチャー",
+        "インディー",
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2024,
+      "shortDescription": "『Satisfactory』は、探検と戦闘の要素を併せ持つ、オープンワールドの一人称視点工場建設ゲームです。1人または友達と一緒に、未知の惑星を探索し、複数階層の工場を建設し、ベルトコンベアが織りなす理想の生産拠点を作りましょう！",
+      "reviewSnippet": "デフォルトでクリアした後は何度もModを入れて最初からプレイしなおしました。 多くのModが公開されておりますが、Mod…",
+      "rawScore": 67.555,
+      "hensachi": 58.8,
+      "rank": 7
     },
     {
       "appid": 1984270,
@@ -154,7 +179,7 @@
       "initialPriceCents": 1100000,
       "finalPriceCents": 660000,
       "reviewPositiveRate": 89.6,
-      "reviewCount": 22023,
+      "reviewCount": 22024,
       "storeUrl": "https://store.steampowered.com/app/1984270/",
       "genres": [
         "RPG"
@@ -162,10 +187,10 @@
       "supportsJapanese": true,
       "releaseYear": 2025,
       "shortDescription": "「デジモンストーリー」シリーズ最新作が遂に登場。今作は、世界崩壊の謎を追う中で、人間世界と異世界を跨ぐ冒険、多種多様なデジモンの収集と育成を楽しめるRPGです。",
-      "reviewSnippet": "オープンワールドではない。思い出補正がかかっているので楽しめているが、ストーリーは単調でおつかいの繰り返し。懐かしい以外…",
-      "rawScore": 65.74828754107651,
-      "hensachi": 58.2,
-      "rank": 7
+      "reviewSnippet": "今のところヤスダスズヒトの絵が動いてるってだけで嬉しいです。あとはちょっとだけデジモン知ってる人間ですが、育成してると愛…",
+      "rawScore": 65.7483619512607,
+      "hensachi": 58.1,
+      "rank": 8
     },
     {
       "appid": 3892270,
@@ -175,7 +200,7 @@
       "initialPriceCents": 92000,
       "finalPriceCents": 57000,
       "reviewPositiveRate": 89.6,
-      "reviewCount": 17573,
+      "reviewCount": 17604,
       "storeUrl": "https://store.steampowered.com/app/3892270/",
       "genres": [
         "アドベンチャー",
@@ -186,9 +211,9 @@
       "releaseYear": 2026,
       "shortDescription": "最大6人の仲間と、銀行口座と莫大な借金を共有しながらギャンブルに挑む、オンライン協力型「カジノクローラー」。怪しげなアイテムを買い、最悪の選択を重ね、不吉なカジノタワーを登れ。5分以内に課されたノルマを達成しなければ――そのツケを払うことになる。",
       "reviewSnippet": "まず友達と縁を切ることは確定します。 さいころの点を充てるゲームがありますが、サイコロを置きに行くことができるので途中か…",
-      "rawScore": 64.47837970590658,
+      "rawScore": 64.4812680354951,
       "hensachi": 57.6,
-      "rank": 8
+      "rank": 9
     },
     {
       "appid": 2246340,
@@ -198,7 +223,7 @@
       "initialPriceCents": 899000,
       "finalPriceCents": 377500,
       "reviewPositiveRate": 48.9,
-      "reviewCount": 325441,
+      "reviewCount": 325483,
       "storeUrl": "https://store.steampowered.com/app/2246340/",
       "genres": [
         "ソウルライク",
@@ -212,7 +237,7 @@
       "reviewSnippet": "世界観好き、 片手強すぎませんか？、笛はこれが一番いいね ハンマーもいいね ランスも面白い好きかも しぬけど ライズ/サ…",
       "rawScore": 63.215,
       "hensachi": 57,
-      "rank": 9
+      "rank": 10
     },
     {
       "appid": 4518040,
@@ -221,8 +246,8 @@
       "discountPercent": 38,
       "initialPriceCents": 240000,
       "finalPriceCents": 148800,
-      "reviewPositiveRate": 93.9,
-      "reviewCount": 49,
+      "reviewPositiveRate": 93.2,
+      "reviewCount": 59,
       "storeUrl": "https://store.steampowered.com/app/4518040/",
       "genres": [
         "アドベンチャー",
@@ -233,9 +258,9 @@
       "releaseYear": 2026,
       "shortDescription": "呪われたゴブリンとしてプレイする、大人向けのユーモラスなファンタジーアドベンチャー。パズルを解き、ミニゲームをプレイし、キャラクターと出会いながら、珍しいトロフィーを集めて少し刺激的なシーンをアンロックしましょう。😏",
       "reviewSnippet": "",
-      "rawScore": 56.37620756353215,
-      "hensachi": 53.8,
-      "rank": 10
+      "rawScore": 56.43000471842885,
+      "hensachi": 54.2,
+      "rank": 11
     },
     {
       "appid": 4704690,
@@ -245,7 +270,7 @@
       "initialPriceCents": 79000,
       "finalPriceCents": 67100,
       "reviewPositiveRate": 87.2,
-      "reviewCount": 74312,
+      "reviewCount": 74600,
       "storeUrl": "https://store.steampowered.com/app/4704690/",
       "genres": [
         "カジュアル"
@@ -254,9 +279,9 @@
       "releaseYear": 2026,
       "shortDescription": "自分を塗って、景色に溶け込め！『めっちゃカメレオン』は真っ白な自分の体に絵を描いてステージに擬態する新感覚かくれんぼゲームです。隠れ場所、ポーズ、そして何より「画力」が生存の鍵。カメレオン顔負けの技術で鬼の目を欺き、制限時間を逃げ切りましょう！野良マルチや視聴者参加型配信も手軽に楽しめます。",
       "reviewSnippet": "はじめのうちは懸命に隠れ場所を探していた。石や葉の裏にいる虫のように。 でもそれでは物足りなくなった。 試しに物陰に隠れ…",
-      "rawScore": 55.65137658126504,
-      "hensachi": 53.4,
-      "rank": 11
+      "rawScore": 55.65771565688867,
+      "hensachi": 53.9,
+      "rank": 12
     },
     {
       "appid": 4824150,
@@ -277,8 +302,8 @@
       "shortDescription": "陸地から1500マイル。致命的な事故の影が差す深海採掘船で、三人の女性の中から一人を選び、歩み寄れ。別居中のエンジニアの妻か、採掘を止められるオブザーバーか、あるいは自ら育てたパイロットか。悲しみ、権力、そして深淵が織りなすアダルト・ロマンスVN。",
       "reviewSnippet": "",
       "rawScore": 54.135962247788605,
-      "hensachi": 52.7,
-      "rank": 12
+      "hensachi": 53.3,
+      "rank": 13
     },
     {
       "appid": 4409050,
@@ -287,8 +312,8 @@
       "discountPercent": 80,
       "initialPriceCents": 205000,
       "finalPriceCents": 41000,
-      "reviewPositiveRate": 33.3,
-      "reviewCount": 15,
+      "reviewPositiveRate": 31.3,
+      "reviewCount": 16,
       "storeUrl": "https://store.steampowered.com/app/4409050/",
       "genres": [
         "アクション",
@@ -302,31 +327,8 @@
       "releaseYear": 2026,
       "shortDescription": "Use limited resources to try to acquire more equipment, and then continuously explore the scene to survive.",
       "reviewSnippet": "",
-      "rawScore": 52.198848991154435,
-      "hensachi": 51.8,
-      "rank": 13
-    },
-    {
-      "appid": 3894850,
-      "name": "空港の保安検査シミュレーター",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3894850/ff0a5a8fa8cc2d624b406e31d02e33d65c0c13b9/header_japanese.jpg?t=1784974637",
-      "discountPercent": 30,
-      "initialPriceCents": 120000,
-      "finalPriceCents": 84000,
-      "reviewPositiveRate": 89.5,
-      "reviewCount": 57,
-      "storeUrl": "https://store.steampowered.com/app/3894850/",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "保安検査場へようこそ！ここであなたは手荷物をスキャンし、身分証を確認し、隠しポケットを探し出す。影はソーセージか起爆装置か？観察眼を鍛えよう。退屈な立ち番はなく、あるのは間違い探しの爽快感と驚きだけ。押収品を換金して設備を強化し、保安検査場を自分だけの基地に作り替えよう。",
-      "reviewSnippet": "",
-      "rawScore": 51.47944525872807,
-      "hensachi": 51.4,
+      "rawScore": 51.598203476899144,
+      "hensachi": 52.2,
       "rank": 14
     },
     {
@@ -348,8 +350,31 @@
       "shortDescription": "Sneaky Fishy is a 2D puzzle platformer where the player is a fish with legs whose goal is to disable an oil rig that polluted its home.",
       "reviewSnippet": "",
       "rawScore": 51.43641981276846,
-      "hensachi": 51.4,
+      "hensachi": 52.2,
       "rank": 15
+    },
+    {
+      "appid": 3894850,
+      "name": "空港の保安検査シミュレーター",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3894850/ff0a5a8fa8cc2d624b406e31d02e33d65c0c13b9/header_japanese.jpg?t=1784974637",
+      "discountPercent": 30,
+      "initialPriceCents": 120000,
+      "finalPriceCents": 84000,
+      "reviewPositiveRate": 86.6,
+      "reviewCount": 67,
+      "storeUrl": "https://store.steampowered.com/app/3894850/",
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "保安検査場へようこそ！ここであなたは手荷物をスキャンし、身分証を確認し、隠しポケットを探し出す。影はソーセージか起爆装置か？観察眼を鍛えよう。退屈な立ち番はなく、あるのは間違い探しの爽快感と驚きだけ。押収品を換金して設備を強化し、保安検査場を自分だけの基地に作り替えよう。",
+      "reviewSnippet": "〇作業ゲーとしては百点満点！！ 入国審査ゲーに引けを取らない！！ キャラのイラストも可愛い！！ ×警備員を呼び出すと『ピ…",
+      "rawScore": 50.72512797247636,
+      "hensachi": 51.9,
+      "rank": 16
     },
     {
       "appid": 3722330,
@@ -358,8 +383,8 @@
       "discountPercent": 10,
       "initialPriceCents": 135000,
       "finalPriceCents": 121500,
-      "reviewPositiveRate": 90.7,
-      "reviewCount": 2721,
+      "reviewPositiveRate": 90.1,
+      "reviewCount": 2914,
       "storeUrl": "https://store.steampowered.com/app/3722330/",
       "genres": [
         "インディー",
@@ -369,30 +394,8 @@
       "releaseYear": 2026,
       "shortDescription": "最大3人でオンライン協力プレイを楽しめる、探偵ホラーゲーム。ランダムに生成されたシフトで力を合わせて客を調査し、誰が人間になりすましているかを突き止めよう。一つでもミスをすれば、建物に立てこもって罠を仕掛け、身を隠さなければならない。",
       "reviewSnippet": "バグがいくつかあったので箇条書きしときます ・ポスターで長文をコピペするとゲームが落ちる ・初めのおじさんに話しかけると…",
-      "rawScore": 49.20684196553704,
-      "hensachi": 50.4,
-      "rank": 16
-    },
-    {
-      "appid": 4395030,
-      "name": "B-Prison Unchain",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4395030/cece63d67940d08ef8aa5f86494d6fcff5ed7a58/header.jpg?t=1784942677",
-      "discountPercent": 20,
-      "initialPriceCents": 115000,
-      "finalPriceCents": 92000,
-      "reviewPositiveRate": 100,
-      "reviewCount": 19,
-      "storeUrl": "https://store.steampowered.com/app/4395030/",
-      "genres": [
-        "アドベンチャー",
-        "RPG"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "このターン制RPGでは、魔界最強と称される女兵士ミーサとなり、伝説のインキュバス・アスモデウスを追い詰めていく。サキュバスの監獄を舞台に戦いを繰り広げ、仲間を集め、数々の悪質な罠を乗り越えろ……だが油断は禁物。あなたの前に立ちはだかる敵たちは、行く手を阻むためのあらゆる策を用意している。",
-      "reviewSnippet": "",
-      "rawScore": 48.90954715344898,
-      "hensachi": 50.2,
+      "rawScore": 49.109107770169935,
+      "hensachi": 51.2,
       "rank": 17
     },
     {
@@ -414,7 +417,7 @@
       "shortDescription": "一撃で仕留める。通貨は時間だけだ。高速で途切れない一人称メレーアクション——ダッシュ、ウォールジャンプ、ワイヤーで刻々と変化する地獄のアリーナを駆け抜け、敵を切り裂き、タイムを削れ。ルートを曲げろ、足を止めるな。",
       "reviewSnippet": "",
       "rawScore": 48.52192449557722,
-      "hensachi": 50,
+      "hensachi": 51,
       "rank": 18
     },
     {
@@ -437,7 +440,7 @@
       "shortDescription": "🐾 猫がいっぱいのテーマスポットで、最もかわいい冒険に参加しよう！ 😻 魅力的な手描きのアートを探索して、ゲーム全体に隠された100匹のかわいい猫を見つけてみよう。 🐈🕵️‍♂️ すべて見つけられるかな？ 🕵️‍♂️🐈",
       "reviewSnippet": "",
       "rawScore": 47.385962247788605,
-      "hensachi": 49.5,
+      "hensachi": 50.5,
       "rank": 19
     },
     {
@@ -447,8 +450,8 @@
       "discountPercent": 10,
       "initialPriceCents": 90500,
       "finalPriceCents": 81400,
-      "reviewPositiveRate": 91.9,
-      "reviewCount": 484,
+      "reviewPositiveRate": 89.7,
+      "reviewCount": 514,
       "storeUrl": "https://store.steampowered.com/app/4699920/",
       "genres": [
         "アドベンチャー",
@@ -461,8 +464,8 @@
       "releaseYear": 2026,
       "shortDescription": "《Inner Scales 1:Choice》is a first-person FMV. Set in a sealed cage. It pushes survival, humanity, emotion and moral dilemmas to the extreme. You will face surveillance, cages, and the fates of eight trapped women—every choice you make decides life and death for others and yourself.",
       "reviewSnippet": "",
-      "rawScore": 46.79987448529156,
-      "hensachi": 49.2,
+      "rawScore": 46.128234826570534,
+      "hensachi": 50,
       "rank": 20
     },
     {
@@ -472,8 +475,8 @@
       "discountPercent": 10,
       "initialPriceCents": 235000,
       "finalPriceCents": 211500,
-      "reviewPositiveRate": 88.4,
-      "reviewCount": 716,
+      "reviewPositiveRate": 87.5,
+      "reviewCount": 734,
       "storeUrl": "https://store.steampowered.com/app/2699230/",
       "genres": [
         "アクション",
@@ -484,32 +487,31 @@
       "supportsJapanese": true,
       "releaseYear": 2026,
       "shortDescription": "Fangs of Asterkarn is our largest addition to the apocalyptic fantasy world of Grim Dawn, introducing players to the mighty Kurn tribes of Asterkarn as they contend with Ch'thonic corruption. Customize your potions, awaken the true power of Epic items, and enable the challenging new Ascendant mode.",
-      "reviewSnippet": "敵がかなり”アクションRPG”してる性能で割と楽しかった。フェイスタンクで勝てるビルドあるのか？ FoAのモグ叔父と戦っ…",
-      "rawScore": 46.215543983652076,
-      "hensachi": 48.9,
+      "reviewSnippet": "前回のDLCから随分経ち、今頃まさかの新DLC出たので久々にプレイしたところ、UI大きくすると時間経過で文字化けする不具…",
+      "rawScore": 45.941178638053564,
+      "hensachi": 49.9,
       "rank": 21
     },
     {
-      "appid": 1913120,
-      "name": "Tears of Metal",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1913120/9c62adaca165c8bc1a78990419e2cb35dd940b6b/header.jpg?t=1784995292",
+      "appid": 3837350,
+      "name": "Staffer Retro: 超能力推理クエスト",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3837350/c25c6ce250036bf411ae3a0d1015652ce115d8b6/header_japanese.jpg?t=1784887839",
       "discountPercent": 10,
-      "initialPriceCents": 315000,
-      "finalPriceCents": 283500,
-      "reviewPositiveRate": 85.4,
-      "reviewCount": 1016,
-      "storeUrl": "https://store.steampowered.com/app/1913120/",
+      "initialPriceCents": 350000,
+      "finalPriceCents": 315000,
+      "reviewPositiveRate": 89.2,
+      "reviewCount": 437,
+      "storeUrl": "https://store.steampowered.com/app/3837350/",
       "genres": [
-        "アクション",
-        "インディー",
-        "早期アクセス"
+        "アドベンチャー",
+        "インディー"
       ],
       "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "Tears of Metalは、中世のハックアンドスラッシュ協力型ローグライクゲームです。強力なスコットランド大隊の助けを借りて、敵の大群を切り裂きながら島を取り戻してください。塹壕を深く進むにつれて、神秘的なドラゴンメテオと危険な敵の侵攻についての情報が明らかになります。",
-      "reviewSnippet": "他の方も書いていますが、無双系に見せかけたローグライク 結構難易度が高く最初のボスですらかなり強い 回復がシビアで、大体…",
-      "rawScore": 45.73838095442545,
-      "hensachi": 48.7,
+      "shortDescription": "『Staffer Retro（ステッパー・レトロ）』は、超能力に関わる過去の事件を追っていく推理アドベンチャーゲームです。 プレイヤーは、超能力に関連する資料やその痕跡が残るさまざまな文書を組み合わせながら、物語の主人公・ヴェリータ・レトロの選択を共にしていきます。 超常現象を引き起こす物質「マナ」の過去を辿ってください。 そしてその果てで、ヴェリータとあなたの選択は、どんな決断を下すのでしょうか？",
+      "reviewSnippet": "ヴェリータ迫真の表情差分がいつでも見られるギャラリーモード、ください。",
+      "rawScore": 45.68782683209094,
+      "hensachi": 49.8,
       "rank": 22
     },
     {
@@ -535,52 +537,31 @@
       "shortDescription": "Chat with rats and defeat demons in this story-rich roguelite. Discover the puzzling possibilities of Match-3 combat!",
       "reviewSnippet": "",
       "rawScore": 45.6797837175782,
-      "hensachi": 48.7,
+      "hensachi": 49.8,
       "rank": 23
     },
     {
-      "appid": 3837350,
-      "name": "Staffer Retro: 超能力推理クエスト",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3837350/c25c6ce250036bf411ae3a0d1015652ce115d8b6/header_japanese.jpg?t=1784887839",
+      "appid": 1913120,
+      "name": "Tears of Metal",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1913120/9c62adaca165c8bc1a78990419e2cb35dd940b6b/header.jpg?t=1784995292",
       "discountPercent": 10,
-      "initialPriceCents": 350000,
-      "finalPriceCents": 315000,
-      "reviewPositiveRate": 89.2,
-      "reviewCount": 389,
-      "storeUrl": "https://store.steampowered.com/app/3837350/",
+      "initialPriceCents": 315000,
+      "finalPriceCents": 283500,
+      "reviewPositiveRate": 84.6,
+      "reviewCount": 1073,
+      "storeUrl": "https://store.steampowered.com/app/1913120/",
       "genres": [
-        "アドベンチャー",
-        "インディー"
+        "アクション",
+        "インディー",
+        "早期アクセス"
       ],
       "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "『Staffer Retro（ステッパー・レトロ）』は、超能力に関わる過去の事件を追っていく推理アドベンチャーゲームです。 プレイヤーは、超能力に関連する資料やその痕跡が残るさまざまな文書を組み合わせながら、物語の主人公・ヴェリータ・レトロの選択を共にしていきます。 超常現象を引き起こす物質「マナ」の過去を辿ってください。 そしてその果てで、ヴェリータとあなたの選択は、どんな決断を下すのでしょうか？",
-      "reviewSnippet": "ストーリー、システム、サウンドどれも最高でした！ 続編にも期待しています！",
-      "rawScore": 45.49760229066604,
-      "hensachi": 48.6,
+      "shortDescription": "Tears of Metalは、中世のハックアンドスラッシュ協力型ローグライクゲームです。強力なスコットランド大隊の助けを借りて、敵の大群を切り裂きながら島を取り戻してください。塹壕を深く進むにつれて、神秘的なドラゴンメテオと危険な敵の侵攻についての情報が明らかになります。",
+      "reviewSnippet": "今どきのゲームには珍しく回復手段がホント乏しい、というより購入アイテム・スキルに対して金が手に入らなさすぎる。強化にも金…",
+      "rawScore": 45.547752005145426,
+      "hensachi": 49.7,
       "rank": 24
-    },
-    {
-      "appid": 4608690,
-      "name": "Birds",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4608690/381b7789e3fd403089f88a107642265bda70405d/header.jpg?t=1784962816",
-      "discountPercent": 16,
-      "initialPriceCents": 65900,
-      "finalPriceCents": 55300,
-      "reviewPositiveRate": 100,
-      "reviewCount": 1,
-      "storeUrl": "https://store.steampowered.com/app/4608690/",
-      "genres": [
-        "アクション",
-        "カジュアル"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Fight For Your Flag. Get The Bomb and Drop it onto the Enemy Ship. Get the Bomb, Escort the Bomb, Drop the Bomb. Protect Your Fleet From the Opposing Team. Objective: Destroy the Enemy Ship. Protect Your Ship.",
-      "reviewSnippet": "",
-      "rawScore": 43.33596224778861,
-      "hensachi": 47.6,
-      "rank": 25
     },
     {
       "appid": 4601340,
@@ -603,51 +584,8 @@
       "shortDescription": "139の実在する国から代表チームを選び、選手を育成し、若き才能を発掘して、大陸大会からワールドカップまで勝ち進もう。本格的なスポーツマネジメントシミュレーションで、あなたの国を世界の頂点へ導こう。",
       "reviewSnippet": "",
       "rawScore": 42.885962247788605,
-      "hensachi": 47.4,
-      "rank": 26
-    },
-    {
-      "appid": 4572730,
-      "name": "Box Office Mayhem: Theatre Tycoon",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4572730/0b4f408b52fbdde09cd65df001380c10ccfb12c2/header.jpg?t=1785003692",
-      "discountPercent": 10,
-      "initialPriceCents": 120000,
-      "finalPriceCents": 108000,
-      "reviewPositiveRate": 92.3,
-      "reviewCount": 13,
-      "storeUrl": "https://store.steampowered.com/app/4572730/",
-      "genres": [
-        "シミュレーション",
-        "ストラテジー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "Box Office Mayhemは、自分の映画館経営をシミュレートする経営管理ゲームです。映画の契約締結や日々の運営管理をこなしながら、予測不能な観客たちの行動に立ち向かいましょう。AIの競合相手を相手にソロでプレイしたり、オンラインで友達と対戦したりすることもできます!",
-      "reviewSnippet": "",
-      "rawScore": 41.13001145538958,
-      "hensachi": 46.5,
-      "rank": 27
-    },
-    {
-      "appid": 4565560,
-      "name": "Princess Knight Concedes to Cum",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4565560/6412da8908e33d98450258ae77828adb7b7c2f12/header.jpg?t=1784926708",
-      "discountPercent": 20,
-      "initialPriceCents": 138000,
-      "finalPriceCents": 110400,
-      "reviewPositiveRate": 50,
-      "reviewCount": 4,
-      "storeUrl": "https://store.steampowered.com/app/4565560/",
-      "genres": [
-        "カジュアル"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Long time ago, our protagonist here: Was wandering down a long and lonesome road. All of a sudden, there stood a one-eyed demon in the middle of the road… who was quickly cut down by a hot ‘n’ sexy babe wielding a lightning sword! A classic fateful encounter to start a classic fantasy visual novel!",
-      "reviewSnippet": "",
-      "rawScore": 29.13762265787177,
-      "hensachi": 40.8,
-      "rank": 28
+      "hensachi": 48.6,
+      "rank": 25
     },
     {
       "appid": 3848460,
@@ -657,7 +595,7 @@
       "initialPriceCents": 65500,
       "finalPriceCents": 39300,
       "reviewPositiveRate": 0,
-      "reviewCount": 0,
+      "reviewCount": 1,
       "storeUrl": "https://store.steampowered.com/app/3848460/",
       "genres": [
         "アクション",
@@ -669,9 +607,30 @@
       "releaseYear": 2026,
       "shortDescription": "3D Rogue Game Space Battleship Rogue Game light Tactical System, Inertia System, Drift System DIY Weapons: Flexible weapon customization with independent cooldowns. Weapons can be destroyed.",
       "reviewSnippet": "",
-      "rawScore": 18,
-      "hensachi": 35.5,
-      "rank": 29
+      "rawScore": 19.13596224778861,
+      "hensachi": 38.8,
+      "rank": 26
+    },
+    {
+      "appid": 4856940,
+      "name": "Conglomerate Illegitimate Daughter Serves Hero",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856940/f6528ddc0a57e7aec0edb039c916e3756147f4d4/header.jpg?t=1785063363",
+      "discountPercent": 20,
+      "initialPriceCents": 135000,
+      "finalPriceCents": 108000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4856940/",
+      "genres": [
+        "RPG"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "The super digital life, Liu Zihua, caused the death of 3,876 people due to his recklessness. To promote the survivor plan, his consciousness split into an ant colony, infiltrated Europe and America, possessed the bookseller Masato, and engaged in a battle with the villains to uncover the truth.",
+      "reviewSnippet": "",
+      "rawScore": 9,
+      "hensachi": 34.6,
+      "rank": 27
     },
     {
       "appid": 4892140,
@@ -692,7 +651,53 @@
       "shortDescription": "Hentai Hot Milf - ふう、彼女たちはとてもホットです！！パズルをプレイしてリラックス！すべての画像を集めましょう。夜を過ごすのに最適な方法です。お好みの難易度を選び、あなたの注意力を試しましょう。",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 31.2,
+      "hensachi": 34.6,
+      "rank": 28
+    },
+    {
+      "appid": 4923640,
+      "name": "NOVAE: Last Light",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4923640/b74e0e568ce1b6bef2867773f4486d12413541d5/header.jpg?t=1785062950",
+      "discountPercent": 15,
+      "initialPriceCents": 79000,
+      "finalPriceCents": 67100,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4923640/",
+      "genres": [
+        "アクション",
+        "インディー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "A universe is dying — and you are its last spark. Blast through procedurally generated constellations in this fast neon action roguelite. Claim powers from fallen enemies, defeat the Guardians, and carry your heritage into every new run.",
+      "reviewSnippet": "",
+      "rawScore": 6.75,
+      "hensachi": 33.7,
+      "rank": 29
+    },
+    {
+      "appid": 4543060,
+      "name": "DISPATCHED",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4543060/59c612a01c3e5c027337ceb05082aaf1a7381057/header.jpg?t=1785064353",
+      "discountPercent": 15,
+      "initialPriceCents": 79000,
+      "finalPriceCents": 67100,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4543060/",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "インディー",
+        "ストラテジー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "You are Operator #15 at Pinefall Emergency Dispatch. Answer 911 calls, send the right units, and survive the shift. But the static is rising, your units aren't coming back, and some callers don't sound human. A roguelike horror dispatcher with CRT aesthetics.",
+      "reviewSnippet": "",
+      "rawScore": 6.75,
+      "hensachi": 33.7,
       "rank": 30
     },
     {
@@ -717,26 +722,30 @@
       "shortDescription": "A real-time MPE performance environment. Pressure, pitch bend and timbre drive 21 live AURA visual engines, CASCADE note-rain and the FORGE depth engine, plus keyboard, staff and expression analysis modules. Not a visualizer: a space where sound and image share one data stream.",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 30.2,
+      "hensachi": 33.7,
       "rank": 31
     },
     {
-      "appid": 57805,
-      "name": "Palworld + Core Keeper",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/57805/7ssdhrewc7zm4qsb/4be71fd7c34dfb9ad027cabe7b1f5d634dfb6c9e/header_ratio.jpg?t=1758520233",
-      "discountPercent": 12,
-      "initialPriceCents": 570000,
-      "finalPriceCents": 450900,
+      "appid": 4567580,
+      "name": "Locostation",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4567580/da24f95a26e9a129ec261c08ec07cd346700df7a/header.jpg?t=1785038615",
+      "discountPercent": 10,
+      "initialPriceCents": 39500,
+      "finalPriceCents": 35500,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/57805/",
-      "genres": [],
-      "supportsJapanese": false,
-      "releaseYear": null,
-      "shortDescription": "",
+      "storeUrl": "https://store.steampowered.com/app/4567580/",
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "ストラテジー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "Locostationはインクリメンタルゲームです。電車を運転し、貨物を運び、盗賊を撃退してアップグレードしましょう。",
       "reviewSnippet": "",
-      "rawScore": 5.4,
-      "hensachi": 29.5,
+      "rawScore": 4.5,
+      "hensachi": 32.8,
       "rank": 32
     },
     {
@@ -761,7 +770,7 @@
       "shortDescription": "Run a shop where time is the world's currency. Serve customers, earn time, and expand your business by collecting and upgrading powerful ability cards. Take risks in the casino by wagering your time for a chance to earn even greater rewards in this business simulation game.",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 29.1,
+      "hensachi": 32.8,
       "rank": 33
     }
   ]
