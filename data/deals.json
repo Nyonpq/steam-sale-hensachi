@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-04T01:51:34.181Z",
+  "fetchedAt": "2026-08-04T08:26:30.265Z",
   "currency": "JPY",
-  "count": 33,
-  "averageDiscount": 29.7,
+  "count": 30,
+  "averageDiscount": 32.6,
   "deals": [
     {
       "appid": 292030,
@@ -12,7 +12,7 @@
       "initialPriceCents": 558800,
       "finalPriceCents": 111700,
       "reviewPositiveRate": 96.8,
-      "reviewCount": 880064,
+      "reviewCount": 880084,
       "storeUrl": "https://store.steampowered.com/app/292030/",
       "genres": [
         "RPG"
@@ -33,7 +33,7 @@
       "initialPriceCents": 439900,
       "finalPriceCents": 109900,
       "reviewPositiveRate": 92.4,
-      "reviewCount": 372456,
+      "reviewCount": 372474,
       "storeUrl": "https://store.steampowered.com/app/489830/",
       "genres": [
         "RPG"
@@ -43,7 +43,7 @@
       "shortDescription": "200以上のGame of the Yearアワードを獲得した『The Elder Scrolls V: Skyrim Special Edition』は、詳細にわたる描写で無限のファンタジーに命を吹き込みます。Special Editionには高い評価を受けた基本ゲームやアドオンに加え、新しい機能が含まれます。",
       "reviewSnippet": "MODで遊ぼうとすると環境構築が超めんどくさいけど、そこさえ乗り越えればトップクラスの自由度を誇るゲームと成る",
       "rawScore": 86.09,
-      "hensachi": 65.1,
+      "hensachi": 64.9,
       "rank": 2
     },
     {
@@ -54,7 +54,7 @@
       "initialPriceCents": 877800,
       "finalPriceCents": 263300,
       "reviewPositiveRate": 86.7,
-      "reviewCount": 966320,
+      "reviewCount": 966480,
       "storeUrl": "https://store.steampowered.com/app/1091500/",
       "genres": [
         "RPG"
@@ -64,7 +64,7 @@
       "shortDescription": "『サイバーパンク2077』――未来の巨大都市ナイトシティを舞台にしたオープンワールド・アクションアドベンチャーRPG",
       "reviewSnippet": "映像も奇麗だし面白かった。 ただ個人的にはサブクエストよりメインクエストをもっと増やしてほしかった。",
       "rawScore": 81.845,
-      "hensachi": 63.6,
+      "hensachi": 63.1,
       "rank": 3
     },
     {
@@ -75,7 +75,7 @@
       "initialPriceCents": 759000,
       "finalPriceCents": 303600,
       "reviewPositiveRate": 96,
-      "reviewCount": 137125,
+      "reviewCount": 137187,
       "storeUrl": "https://store.steampowered.com/app/1817070/",
       "genres": [
         "アクション",
@@ -86,9 +86,31 @@
       "releaseYear": 2022,
       "shortDescription": "ピーター・パーカーの私生活とヒーローとしての生活がぶつかり合う、アクション満載の完全オリジナルストーリー。 経験豊富なスパイダーマン、ピーター・パーカーとなって、オープンワールドで描かれるマーベル世界のニューヨークを縦横無尽に駆け巡り、犯罪や巨大な陰謀と戦おう。",
       "reviewSnippet": "「ゲームは構成ファイルを作成しません。保存が不完全です」というエラーが出るのが気になるが、対処方法を調べて対応すればエラ…",
-      "rawScore": 79.98535776495926,
-      "hensachi": 62.9,
+      "rawScore": 79.98609858403539,
+      "hensachi": 62.3,
       "rank": 4
+    },
+    {
+      "appid": 1817190,
+      "name": "Marvel’s Spider-Man: Miles Morales",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/header_japanese.jpg?t=1763569499",
+      "discountPercent": 60,
+      "initialPriceCents": 649000,
+      "finalPriceCents": 259600,
+      "reviewPositiveRate": 93.2,
+      "reviewCount": 54500,
+      "storeUrl": "https://store.steampowered.com/app/1817190/",
+      "genres": [
+        "アクション",
+        "アドベンチャー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2022,
+      "shortDescription": "『Marvel’s Spider-Man Remastered』の出来事のあと、高校生になったマイルズ・モラレスは引っ越し先での新しい生活に順応しながら、ピーター・パーカーに導かれて、もう一人のスパイダーマンとしての道を歩み始める。だが、強大な力のぶつかり合いで自分の街が危機にさらされたとき、マイルズはスパイダーマンのスーツに身を包み、真のスパイダーマンにならねばならない。",
+      "reviewSnippet": "相変わらずスイングは気持ちいいし、安定した面白さ。 でもメインストーリーはちょっとボリューム不足を感じる。 あまり寄り道…",
+      "rawScore": 77.49322441852689,
+      "hensachi": 61.2,
+      "rank": 5
     },
     {
       "appid": 588650,
@@ -98,7 +120,7 @@
       "initialPriceCents": 248000,
       "finalPriceCents": 124000,
       "reviewPositiveRate": 97,
-      "reviewCount": 182253,
+      "reviewCount": 182268,
       "storeUrl": "https://store.steampowered.com/app/588650/",
       "genres": [
         "メトロイドヴァニア",
@@ -111,9 +133,9 @@
       "releaseYear": 2018,
       "shortDescription": "『Dead Cells』は、ローグライトとメトロイドヴァニアにインスピレーションを得たアクションプラットフォーマー。プレイヤーは、無秩序に広がり絶えず変化する城を探索することになる…むろん2Dのソウルライクな戦闘で戦って、番人を通過することができたらの話だが。チェックポイントなし。殺して、死んで、学ぶ。その繰り返しだ",
       "reviewSnippet": "慣れるまで難しいと思いますが、おすすめです。 動作が軽快で操作感もとても良く、かなり作り込まれていると思いました。 マッ…",
-      "rawScore": 76.3016115800977,
-      "hensachi": 61.6,
-      "rank": 5
+      "rawScore": 76.30174645612219,
+      "hensachi": 60.7,
+      "rank": 6
     },
     {
       "appid": 252490,
@@ -123,7 +145,7 @@
       "initialPriceCents": 460000,
       "finalPriceCents": 230000,
       "reviewPositiveRate": 86.8,
-      "reviewCount": 1386689,
+      "reviewCount": 1386735,
       "storeUrl": "https://store.steampowered.com/app/252490/",
       "genres": [
         "サバイバル",
@@ -138,8 +160,8 @@
       "shortDescription": "『Rust』における唯一の目的は、生き残ること。島の野生生物、そこに住む他の者たち、自然環境、そして他の生存者たち——あらゆるものがプレイヤーの命を狙う。どんな手を使ってでも、次の夜を生き延びろ。",
       "reviewSnippet": "神げーではあると思います。 一応中一ですが頑張ればそれなりに装備も整えられます。 ですが同じ年代の人たちがいないのが残念…",
       "rawScore": 72.88,
-      "hensachi": 60.3,
-      "rank": 6
+      "hensachi": 59.2,
+      "rank": 7
     },
     {
       "appid": 1086940,
@@ -149,7 +171,7 @@
       "initialPriceCents": 849900,
       "finalPriceCents": 594900,
       "reviewPositiveRate": 96.8,
-      "reviewCount": 850772,
+      "reviewCount": 850833,
       "storeUrl": "https://store.steampowered.com/app/1086940/",
       "genres": [
         "アドベンチャー",
@@ -161,8 +183,8 @@
       "shortDescription": "Baldur’s Gate 3 is a story-rich, party-based RPG set in the universe of Dungeons &amp; Dragons, where your choices shape a tale of fellowship and betrayal, survival and sacrifice, and the lure of absolute power.",
       "reviewSnippet": "細かい分岐は多いですが話の大筋はほぼ変わらないので完璧主義者でも楽しく遊べます そしてそのメインストーリーがとても面白い…",
       "rawScore": 67.38,
-      "hensachi": 58.3,
-      "rank": 7
+      "hensachi": 56.9,
+      "rank": 8
     },
     {
       "appid": 2138330,
@@ -172,7 +194,7 @@
       "initialPriceCents": 430900,
       "finalPriceCents": 258500,
       "reviewPositiveRate": 90.1,
-      "reviewCount": 23554,
+      "reviewCount": 23556,
       "storeUrl": "https://store.steampowered.com/app/2138330/",
       "genres": [
         "RPG"
@@ -181,9 +203,9 @@
       "releaseYear": 2023,
       "shortDescription": "『サイバーパンク2077』に、スパイスリラーをテーマとした拡張パック「仮初めの自由」が新登場。ナイトシティで生きる傭兵、Vに待つ新たな任務とは？スパイのソロモン・リードと共に、踏みにじまれた忠誠心と熾烈な権力闘争が絡み合うスパイの世界へと身を投じろ",
       "reviewSnippet": "本編含めすべての結末がよかったが、ソミてめぇだけは死ね 月に逃げても追いかけて殺す",
-      "rawScore": 66.0334268248085,
-      "hensachi": 57.8,
-      "rank": 8
+      "rawScore": 66.03356596957862,
+      "hensachi": 56.3,
+      "rank": 9
     },
     {
       "appid": 2436940,
@@ -193,7 +215,7 @@
       "initialPriceCents": 170000,
       "finalPriceCents": 102000,
       "reviewPositiveRate": 93.5,
-      "reviewCount": 7030,
+      "reviewCount": 7072,
       "storeUrl": "https://store.steampowered.com/app/2436940/",
       "genres": [
         "ローグライト",
@@ -207,14 +229,14 @@
       "releaseYear": 2026,
       "shortDescription": "『Dungreed』開発陣が贈る、見下ろし型アクションRPGローグライト。塔の奥深くを探索し、アーティファクトを集めて強化。押し寄せる悪魔の大群を退け、危機に瀕したウサギの村を守り抜こう。",
       "reviewSnippet": "狙ったビルドを組む難易度は低いほうかと思います。 慣れてくると、旅立つときに「今回はこの構成を目指す！」って決めて出発す…",
-      "rawScore": 65.24204565258624,
-      "hensachi": 57.6,
-      "rank": 9
+      "rawScore": 65.2518062569149,
+      "hensachi": 56,
+      "rank": 10
     },
     {
       "appid": 4230350,
       "name": "Project: AFTERSHOCK",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4230350/a168c0d05d4026aa0ce89de6ad7ce1a80092eb35/header.jpg?t=1785778345",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4230350/a168c0d05d4026aa0ce89de6ad7ce1a80092eb35/header.jpg?t=1785825943",
       "discountPercent": 50,
       "initialPriceCents": 19900,
       "finalPriceCents": 9900,
@@ -234,8 +256,8 @@
       "shortDescription": "システムを構築したのはお前だ。今度はそれを破壊しろ。 Project: AFTERSHOCKは、ディストピアな未来を舞台にした物語主導型のアーケードハッキング・ローグライトです。忘れ去られたバンカーからレジーム（体制）のファイアウォールを突破し、真実を暴き、汚名を晴らしてください。",
       "reviewSnippet": "",
       "rawScore": 62.63859560761356,
-      "hensachi": 56.6,
-      "rank": 10
+      "hensachi": 54.8,
+      "rank": 11
     },
     {
       "appid": 2651280,
@@ -245,7 +267,7 @@
       "initialPriceCents": 759000,
       "finalPriceCents": 508500,
       "reviewPositiveRate": 82.7,
-      "reviewCount": 42177,
+      "reviewCount": 42222,
       "storeUrl": "https://store.steampowered.com/app/2651280/",
       "genres": [
         "アクション",
@@ -255,55 +277,9 @@
       "releaseYear": 2025,
       "shortDescription": "Be Greater. Together. ピーター・パーカーとマイルズ・モラレスは、人々を救うという使命と、日常生活や友人関係とのバランスを取りながら、恐るべきシンビオートとの死闘に臨む。大人気「Marvel's Spider-Man」シリーズの続編がPCに登場。",
       "reviewSnippet": "いいゲームだった ストーリーも満足 めずらしく現時点でハッピーエンドに近いじゃんとおもった続編に期待",
-      "rawScore": 61.248154650863896,
-      "hensachi": 56.1,
-      "rank": 11
-    },
-    {
-      "appid": 3156770,
-      "name": "Witchfire",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3156770/3e222a764e93b6f5c10d114a8a82d71f221a7cd9/header.jpg?t=1785478776",
-      "discountPercent": 20,
-      "initialPriceCents": 450000,
-      "finalPriceCents": 360000,
-      "reviewPositiveRate": 91.6,
-      "reviewCount": 16863,
-      "storeUrl": "https://store.steampowered.com/app/3156770/",
-      "genres": [
-        "ローグライト",
-        "ソウルライク",
-        "アクション",
-        "早期アクセス"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2024,
-      "shortDescription": "『Witchfire』は一人称視点のダークファンタジーシューティングRPGです。かつては悪しき罪人だった男が魔女を狩る者となり、救いに至るため、最後の任務に挑みます。",
-      "reviewSnippet": "魔女の山、Torment VIIIまでクリア 武器はすべて個性的で3つの装飾品と2つの魔法の組み合わせを考えるのが楽しい…",
-      "rawScore": 57.01079469257529,
-      "hensachi": 54.6,
+      "rawScore": 61.249902216095506,
+      "hensachi": 54.2,
       "rank": 12
-    },
-    {
-      "appid": 3096230,
-      "name": "DOGENSTEIN",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3096230/b3d33b249c1412bd4d6e92d6987676e15c612e88/header.jpg?t=1785776315",
-      "discountPercent": 40,
-      "initialPriceCents": 50000,
-      "finalPriceCents": 30000,
-      "reviewPositiveRate": 95.7,
-      "reviewCount": 23,
-      "storeUrl": "https://store.steampowered.com/app/3096230/",
-      "genres": [
-        "アクション",
-        "インディー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "&quot;WOKE&quot; NO MORE !!! Take on the crazy &quot;WOKE&quot; activists destroying the world and enforcing their absurd ideology in this hilariously fast-paced retro FPS. Control the fearless BULLDOG and fight back for common sense against political correctness!",
-      "reviewSnippet": "",
-      "rawScore": 56.70334430834568,
-      "hensachi": 54.5,
-      "rank": 13
     },
     {
       "appid": 1368140,
@@ -312,8 +288,8 @@
       "discountPercent": 25,
       "initialPriceCents": 398000,
       "finalPriceCents": 298500,
-      "reviewPositiveRate": 87.9,
-      "reviewCount": 1230,
+      "reviewPositiveRate": 87.6,
+      "reviewCount": 1271,
       "storeUrl": "https://store.steampowered.com/app/1368140/",
       "genres": [
         "シミュレーション",
@@ -322,9 +298,30 @@
       "supportsJapanese": true,
       "releaseYear": 2026,
       "shortDescription": "広大な海賊のアジトをつくり上げ、艦隊を編成して大海原を探検し、王国に立ち向かい、海賊の時代を守り抜こう。エールからフリントロック銃、小悪党から凄腕剣士まで、複雑な生産ラインを管理し、荒くれ者の乗組員たちをまとめ上げて海の覇者となれ！",
-      "reviewSnippet": "チュートリアルが終わったのでレビュー。 週末の暇つぶしで返金も視野に購入しましたが、返金はせずこのまま遊ぶことにしました…",
-      "rawScore": 53.67635114313704,
-      "hensachi": 53.4,
+      "reviewSnippet": "面白いとは思うけど、一つ一つの建築物がデカすぎる 街づくりRTSって画面内で息づくNPCを眺めながらプレイするのが醍醐味…",
+      "rawScore": 53.62504570306564,
+      "hensachi": 51,
+      "rank": 13
+    },
+    {
+      "appid": 4516830,
+      "name": "White Ward",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516830/bf2050ab5e8f1e26ed1ea86d0b82a92fd4a9de69/header.jpg?t=1785779950",
+      "discountPercent": 34,
+      "initialPriceCents": 39500,
+      "finalPriceCents": 26000,
+      "reviewPositiveRate": 100,
+      "reviewCount": 3,
+      "storeUrl": "https://store.steampowered.com/app/4516830/",
+      "genres": [
+        "インディー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "You Are Trapped In A Endless White Hospital Ward. The Nurse Asks You To Wait Patiently, But Something Tells You That Is A Bad Idea. Examine Each Ward Carefully To Escape The White Ward.",
+      "reviewSnippet": "",
+      "rawScore": 52.571924495577214,
+      "hensachi": 50.5,
       "rank": 14
     },
     {
@@ -349,29 +346,8 @@
       "shortDescription": "ネオンライト、ヤシの木、シンセウェーブ、果てしないハイウェイを疾走する 80 年代のスーパーカー... Retrowave の世界へようこそ!",
       "reviewSnippet": "基本的な事は前作と変わりません すなわち、イケてる音楽と80年代な背景の中、カッコイイ車でかっ飛ばす それだけです レー…",
       "rawScore": 51.95261681350787,
-      "hensachi": 52.7,
+      "hensachi": 50.3,
       "rank": 15
-    },
-    {
-      "appid": 4516830,
-      "name": "White Ward",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516830/bf2050ab5e8f1e26ed1ea86d0b82a92fd4a9de69/header.jpg?t=1785779950",
-      "discountPercent": 34,
-      "initialPriceCents": 39500,
-      "finalPriceCents": 26000,
-      "reviewPositiveRate": 100,
-      "reviewCount": 1,
-      "storeUrl": "https://store.steampowered.com/app/4516830/",
-      "genres": [
-        "インディー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "You Are Trapped In A Endless White Hospital Ward. The Nurse Asks You To Wait Patiently, But Something Tells You That Is A Bad Idea. Examine Each Ward Carefully To Escape The White Ward.",
-      "reviewSnippet": "",
-      "rawScore": 51.4359622477886,
-      "hensachi": 52.5,
-      "rank": 16
     },
     {
       "appid": 1022980,
@@ -380,8 +356,8 @@
       "discountPercent": 20,
       "initialPriceCents": 260000,
       "finalPriceCents": 208000,
-      "reviewPositiveRate": 80.5,
-      "reviewCount": 2779,
+      "reviewPositiveRate": 80.4,
+      "reviewCount": 2785,
       "storeUrl": "https://store.steampowered.com/app/1022980/",
       "genres": [
         "サバイバル",
@@ -393,9 +369,9 @@
       "releaseYear": 2026,
       "shortDescription": "『Ostranauts』はハードコアなノワール宇宙生活シム。船上での生活を管理し、あらゆる決定にともなうコストに注意しておこう。廃材を漁り探索し、船を造り、構築し、カスタマイズしていく。クルーを雇うのもいいが、死と税金の徴収以外に確実なものはないことは忘れないように。",
       "reviewSnippet": "",
-      "rawScore": 50.171395456294626,
-      "hensachi": 52.1,
-      "rank": 17
+      "rawScore": 50.13992872486017,
+      "hensachi": 49.5,
+      "rank": 16
     },
     {
       "appid": 2958140,
@@ -405,7 +381,7 @@
       "initialPriceCents": 100000,
       "finalPriceCents": 80000,
       "reviewPositiveRate": 100,
-      "reviewCount": 32,
+      "reviewCount": 33,
       "storeUrl": "https://store.steampowered.com/app/2958140/",
       "genres": [
         "インディー",
@@ -416,8 +392,30 @@
       "releaseYear": 2026,
       "shortDescription": "NET.CRAWL is a grid-building roguelike about a White Rabbit trapped in an unfriendly cyberspace. Dive deep into a bizarre digital world where levels are built with the nodes you drafted. Short runs, satisfying combos, dozens of unique bosses, and a ton of replayability.",
       "reviewSnippet": "",
-      "rawScore": 49.73024128255807,
-      "hensachi": 51.9,
+      "rawScore": 49.77916572468776,
+      "hensachi": 49.3,
+      "rank": 17
+    },
+    {
+      "appid": 4650490,
+      "name": "Idle Immortal Sentinel",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4650490/6016b70db9112dd07cf0fed80b34677afd19f2c0/header.jpg?t=1785808817",
+      "discountPercent": 20,
+      "initialPriceCents": 39500,
+      "finalPriceCents": 31600,
+      "reviewPositiveRate": 100,
+      "reviewCount": 4,
+      "storeUrl": "https://store.steampowered.com/app/4650490/",
+      "genres": [
+        "カジュアル",
+        "ストラテジー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Only one last female cultivator remains in the Cyber Immortal Realm, waiting for your protection. Against endless hordes of enemies, the grand sect-protecting formation stands as your last line of defense.",
+      "reviewSnippet": "",
+      "rawScore": 46.637622657871766,
+      "hensachi": 48,
       "rank": 18
     },
     {
@@ -441,7 +439,7 @@
       "shortDescription": "Warped Reality is a gritty, hard-boiled cyberpunk visual novel set in a future where chrome skyscrapers bathed in the light of holographic adverts tower over alleyways of blood and grime.",
       "reviewSnippet": "",
       "rawScore": 43.55045756497986,
-      "hensachi": 49.7,
+      "hensachi": 46.6,
       "rank": 19
     },
     {
@@ -452,7 +450,7 @@
       "initialPriceCents": 23400,
       "finalPriceCents": 21000,
       "reviewPositiveRate": 100,
-      "reviewCount": 8,
+      "reviewCount": 9,
       "storeUrl": "https://store.steampowered.com/app/4487490/",
       "genres": [
         "インディー"
@@ -461,36 +459,39 @@
       "releaseYear": 2026,
       "shortDescription": "Dispel Dark —— 松明が光源であり、同時に武器でもあるゲーム。敵を倒し、コインを集め、アップグレードを購入し、ますます危険になるレベルで生き延びましょう。あなたの光はどこまで持ちこたえられるでしょうか？",
       "reviewSnippet": "",
-      "rawScore": 43.100915129959716,
-      "hensachi": 49.5,
+      "rawScore": 43.27358490566038,
+      "hensachi": 46.5,
       "rank": 20
     },
     {
-      "appid": 4403260,
-      "name": "スウォーム・バンカー：機欲防衛線",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4403260/54fa1706fe240b6857615f8bea7fad39808e7810/header_japanese.jpg?t=1785775551",
+      "appid": 4336570,
+      "name": "Usurper Reborn",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336570/3fcb9a0153cd9f4ecfc5fc823ae85760f60a04d9/header.jpg?t=1785827451",
       "discountPercent": 10,
-      "initialPriceCents": 149900,
-      "finalPriceCents": 134900,
-      "reviewPositiveRate": 95,
-      "reviewCount": 20,
-      "storeUrl": "https://store.steampowered.com/app/4403260/",
+      "initialPriceCents": 65500,
+      "finalPriceCents": 58900,
+      "reviewPositiveRate": 95.5,
+      "reviewCount": 22,
+      "storeUrl": "https://store.steampowered.com/app/4336570/",
       "genres": [
         "アクション",
-        "ストラテジー"
+        "アドベンチャー",
+        "カジュアル",
+        "インディー",
+        "RPG"
       ],
-      "supportsJapanese": true,
+      "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "火力を指揮し、蟲の群れを木っ端微塵に轟殺せよ！この成人向けドット絵タワーディフェンスで、無敵の防衛ラインを構築・強化し、圧倒的な弾幕で敵を蹂躙する究極の快感を味わおう。あなたの勇敢な戦績は、夜に3人の隊員たちからの熱い『慰労（ご奉仕）』へと変わる。過激なフルアニメーションHシーンを解禁し、アドレナリンと原始的な欲望を同時に爆発させろ――これぞ男の戦いだ！",
-      "reviewSnippet": "世界にエロゲーを広げるために エッチでいいゲームにいいねをしている者です いいね！ (翻訳も良好でエッチでゲームもいい感…",
-      "rawScore": 42.739506772580825,
-      "hensachi": 49.4,
+      "shortDescription": "Wake with no memory. Descend 100 dungeon floors. Build relationships, start a family, lose companions forever. A text-based RPG remake of the 1993 BBS classic—with a living world and multiple endings shaped by your choices.",
+      "reviewSnippet": "",
+      "rawScore": 43.06359560761356,
+      "hensachi": 46.4,
       "rank": 21
     },
     {
       "appid": 4936190,
       "name": "The Outskirts",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4936190/8693155fc6530dbc62235368729d84c5d8cf8249/header.jpg?t=1785795720",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4936190/8693155fc6530dbc62235368729d84c5d8cf8249/header.jpg?t=1785814671",
       "discountPercent": 15,
       "initialPriceCents": 65500,
       "finalPriceCents": 55600,
@@ -505,7 +506,7 @@
       "shortDescription": "You wake up in a dense fog, standing in the middle of a desolate four-way intersection at the edge of town. Trapped in an endlessly repeating neighborhood, you must carefully determine which of the four roads is the safe route.",
       "reviewSnippet": "",
       "rawScore": 42.885962247788605,
-      "hensachi": 49.4,
+      "hensachi": 46.4,
       "rank": 22
     },
     {
@@ -526,8 +527,75 @@
       "shortDescription": "Hopping Out is a tile-based puzzle game where you hop 2 tiles at a time. Play as Frog and use your tongue to move boxes, press buttons to create lily pads, all to catch many flies!",
       "reviewSnippet": "",
       "rawScore": 42.137622657871766,
-      "hensachi": 49.2,
+      "hensachi": 46,
       "rank": 23
+    },
+    {
+      "appid": 4403260,
+      "name": "スウォーム・バンカー：機欲防衛線",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4403260/54fa1706fe240b6857615f8bea7fad39808e7810/header_japanese.jpg?t=1785775551",
+      "discountPercent": 10,
+      "initialPriceCents": 149900,
+      "finalPriceCents": 134900,
+      "reviewPositiveRate": 89.5,
+      "reviewCount": 38,
+      "storeUrl": "https://store.steampowered.com/app/4403260/",
+      "genres": [
+        "アクション",
+        "ストラテジー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "火力を指揮し、蟲の群れを木っ端微塵に轟殺せよ！この成人向けドット絵タワーディフェンスで、無敵の防衛ラインを構築・強化し、圧倒的な弾幕で敵を蹂躙する究極の快感を味わおう。あなたの勇敢な戦績は、夜に3人の隊員たちからの熱い『慰労（ご奉仕）』へと変わる。過激なフルアニメーションHシーンを解禁し、アドレナリンと原始的な欲望を同時に爆発させろ――これぞ男の戦いだ！",
+      "reviewSnippet": "世界にエロゲーを広げるために エッチでいいゲームにいいねをしている者です いいね！ (翻訳も良好でエッチでゲームもいい感…",
+      "rawScore": 41.82901738500566,
+      "hensachi": 45.9,
+      "rank": 24
+    },
+    {
+      "appid": 4920590,
+      "name": "Meridian",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4920590/219a5181916d4b5ae7bd060854f424bbe19fdd6a/header.jpg?t=1785779054",
+      "discountPercent": 10,
+      "initialPriceCents": 135000,
+      "finalPriceCents": 121500,
+      "reviewPositiveRate": 100,
+      "reviewCount": 1,
+      "storeUrl": "https://store.steampowered.com/app/4920590/",
+      "genres": [
+        "インディー",
+        "RPG"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "A choice-driven cyberpunk RPG with tactical turn-based combat. Talk, sneak, hack, or fight your way through branching jobs. Solve every job your way, and pay for each upgrade with a piece of who you are.",
+      "reviewSnippet": "",
+      "rawScore": 40.635962247788605,
+      "hensachi": 45.4,
+      "rank": 25
+    },
+    {
+      "appid": 4953760,
+      "name": "Huiyu Image Tools",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4953760/ce732105ddf8b315e25cabc2991755509f7bc9e3/header.jpg?t=1785791821",
+      "discountPercent": 40,
+      "initialPriceCents": 39500,
+      "finalPriceCents": 23700,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4953760/",
+      "genres": [
+        "デザイン & イラストレーション",
+        "写真編集",
+        "トレーニング"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "Image Toolkit: 16 image tools in one app — resize, crop, compress, watermark removal, collage, color picker, and more. All-in-one solution. Local processing, privacy-protected, lightweight and clean.",
+      "reviewSnippet": "",
+      "rawScore": 18,
+      "hensachi": 35.7,
+      "rank": 26
     },
     {
       "appid": 4920190,
@@ -548,29 +616,8 @@
       "shortDescription": "Catch and dodge game. A movable basket, restricted to left-and-right movement along the bottom edge of the screen. Catch cash to increase your score. Unlock new levels and upgrades. Adjust the number of falling objects, movement speed, and other features.",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 40.4,
-      "rank": 24
-    },
-    {
-      "appid": 4816770,
-      "name": "jumpcutGG",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4816770/26f984b80ac6c1012891e19279e7336b00cf8bc8/header.jpg?t=1785804959",
-      "discountPercent": 34,
-      "initialPriceCents": 160000,
-      "finalPriceCents": 105600,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4816770/",
-      "genres": [
-        "ビデオ制作"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Stop scrubbing and start clipping: Auto-transcribe your videos and clip straight from the words, no scrubbing required. Build the cuts on the timeline, customize the layout, layer captions and overlays then export to any aspect ratio. Runs local on your PC. Buy it once, no subscription.",
-      "reviewSnippet": "",
-      "rawScore": 15.3,
-      "hensachi": 39.4,
-      "rank": 25
+      "hensachi": 35.7,
+      "rank": 27
     },
     {
       "appid": 4753280,
@@ -592,8 +639,30 @@
       "shortDescription": "サイバーパンク風の宇宙ステーション端末を、デスクトップの片隅に接続しましょう。GUIでアイソメトリックな居住モジュールを飾り、CLIから音楽や作業ツールを操作できます。滞在するほどステーションが広がり、フレンドの部屋も訪問できるデスクトップコンパニオンです。",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 36.3,
-      "rank": 26
+      "hensachi": 30.9,
+      "rank": 28
+    },
+    {
+      "appid": 4968450,
+      "name": "DEADLINE",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968450/671b0d3d8d616bf8fc33877b45b8293ba4c9f284/header.jpg?t=1785830206",
+      "discountPercent": 10,
+      "initialPriceCents": 39500,
+      "finalPriceCents": 35500,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4968450/",
+      "genres": [
+        "アクション",
+        "インディー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "DEADLINE is a brutal top-down neon shooter. Blast through waves of enemies, crush deadly bosses, and chain kills for massive combos. Dash past bullets, tear apart destructible arenas, and survive on a single life. No checkpoints. No mercy. How deep can you go?",
+      "reviewSnippet": "",
+      "rawScore": 4.5,
+      "hensachi": 29.9,
+      "rank": 29
     },
     {
       "appid": 3651470,
@@ -614,144 +683,8 @@
       "shortDescription": "ビッグ・スペース・ガンは、銃弾を避けながら巨大なボタンを踏んで大砲を扱う協力型弾幕ローグライクゲームです。",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 35.5,
-      "rank": 27
-    },
-    {
-      "appid": 4920590,
-      "name": "Meridian",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4920590/219a5181916d4b5ae7bd060854f424bbe19fdd6a/header.jpg?t=1785779054",
-      "discountPercent": 10,
-      "initialPriceCents": 135000,
-      "finalPriceCents": 121500,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4920590/",
-      "genres": [
-        "インディー",
-        "RPG"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "A choice-driven cyberpunk RPG with tactical turn-based combat. Talk, sneak, hack, or fight your way through branching jobs. Solve every job your way, and pay for each upgrade with a piece of who you are.",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 35.5,
-      "rank": 28
-    },
-    {
-      "appid": 4155080,
-      "name": "Flats Full of Cats: Stars & Oysters",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4155080/dc8c32ec54fef131d2bdf22cd6f5b6a03bf3c244/header.jpg?t=1785776537",
-      "discountPercent": 10,
-      "initialPriceCents": 23500,
-      "finalPriceCents": 21100,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4155080/",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "無料プレイ"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "Stars &amp; Oysters DLC は、料理、海、宇宙に着想を得た料理＆宇宙フロアを追加します。",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 35.5,
-      "rank": 29
-    },
-    {
-      "appid": 4155100,
-      "name": "Flats Full of Cats: Gold & Candles",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4155100/03ae67cb73b3565a53ba5644de5c9cbca9a65369/header.jpg?t=1785776513",
-      "discountPercent": 10,
-      "initialPriceCents": 23500,
-      "finalPriceCents": 21100,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4155100/",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "無料プレイ"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "Gold &amp; Candles DLC は、精神性、王族、素朴な生活に焦点を当てたフロアを追加します。",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 35.5,
+      "hensachi": 29.9,
       "rank": 30
-    },
-    {
-      "appid": 4155090,
-      "name": "Flats Full of Cats: Bugs & Bolts",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4155090/82268ec7302a25ae1d1bfbd47352a1d006b13725/header.jpg?t=1785776496",
-      "discountPercent": 10,
-      "initialPriceCents": 23500,
-      "finalPriceCents": 21100,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4155090/",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "無料プレイ"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "Bugs &amp; Bolts DLC は、古典的なモンスターやレトロホラーの魅力に着想を得た、かわいくて不気味なフロアを追加します。",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 35.5,
-      "rank": 31
-    },
-    {
-      "appid": 4515950,
-      "name": "Pulslink",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4515950/4d16644a090286bba466c85d3f296b13c47dc057/header.jpg?t=1785776347",
-      "discountPercent": 10,
-      "initialPriceCents": 90500,
-      "finalPriceCents": 81400,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4515950/",
-      "genres": [
-        "インディー",
-        "シミュレーション",
-        "ストラテジー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "人類は天網との戦争で敗北寸前まで追い込まれた。だが、人体と武器を融合させることで反撃を開始する。パルス信号を発するコアと武器を接続し、融合モジュールを起動。無限の弾幕で押し寄せる敵を殲滅せよ。",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 35.5,
-      "rank": 32
-    },
-    {
-      "appid": 4847570,
-      "name": "『ウイングスパン』バードパック「アジアの鳥類追加パック」",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847570/218f466b70ca115580f4d2745a62c777e741f53d/header_japanese.jpg?t=1785775558",
-      "discountPercent": 10,
-      "initialPriceCents": 71000,
-      "finalPriceCents": 63900,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4847570/",
-      "genres": [
-        "インディー",
-        "ストラテジー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "25種類のアジアの鳥カード＋ポートレイトで保護区を拡大しましょう",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 35.5,
-      "rank": 33
     }
   ]
 }
