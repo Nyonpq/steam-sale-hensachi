@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-04T19:22:30.327Z",
+  "fetchedAt": "2026-08-05T01:52:04.308Z",
   "currency": "JPY",
-  "count": 31,
-  "averageDiscount": 30.2,
+  "count": 26,
+  "averageDiscount": 35.8,
   "deals": [
     {
       "appid": 292030,
@@ -12,7 +12,7 @@
       "initialPriceCents": 558800,
       "finalPriceCents": 111700,
       "reviewPositiveRate": 96.8,
-      "reviewCount": 880144,
+      "reviewCount": 880172,
       "storeUrl": "https://store.steampowered.com/app/292030/",
       "genres": [
         "RPG"
@@ -22,7 +22,7 @@
       "shortDescription": "怪物狩りを生業とするウィッチャー、「リヴィアのゲラルト」となり、〈予言の子〉を見つけ出す冒険へと身を投じよう。ストーリー重視のオープンワールドRPG『ウィッチャー３ ワイルドハント』では、重大な結果に繋がる様々な決断を下しながら、戦争と怪物たちの恐怖に晒された大陸を旅していくことになる。",
       "reviewSnippet": "自分は、難易度デスマーチでやってるんですが、序盤はなかなか難しくとにかく時間をかけてプレイするゲームだと思います。特にじ…",
       "rawScore": 89.88,
-      "hensachi": 67.2,
+      "hensachi": 65.3,
       "rank": 1
     },
     {
@@ -33,7 +33,7 @@
       "initialPriceCents": 439900,
       "finalPriceCents": 109900,
       "reviewPositiveRate": 92.4,
-      "reviewCount": 372519,
+      "reviewCount": 372554,
       "storeUrl": "https://store.steampowered.com/app/489830/",
       "genres": [
         "RPG"
@@ -43,7 +43,7 @@
       "shortDescription": "200以上のGame of the Yearアワードを獲得した『The Elder Scrolls V: Skyrim Special Edition』は、詳細にわたる描写で無限のファンタジーに命を吹き込みます。Special Editionには高い評価を受けた基本ゲームやアドオンに加え、新しい機能が含まれます。",
       "reviewSnippet": "MODで遊ぼうとすると環境構築が超めんどくさいけど、そこさえ乗り越えればトップクラスの自由度を誇るゲームと成る",
       "rawScore": 86.09,
-      "hensachi": 65.6,
+      "hensachi": 63.8,
       "rank": 2
     },
     {
@@ -54,7 +54,7 @@
       "initialPriceCents": 877800,
       "finalPriceCents": 263300,
       "reviewPositiveRate": 86.7,
-      "reviewCount": 966746,
+      "reviewCount": 966880,
       "storeUrl": "https://store.steampowered.com/app/1091500/",
       "genres": [
         "RPG"
@@ -62,9 +62,9 @@
       "supportsJapanese": true,
       "releaseYear": 2020,
       "shortDescription": "『サイバーパンク2077』――未来の巨大都市ナイトシティを舞台にしたオープンワールド・アクションアドベンチャーRPG",
-      "reviewSnippet": "最高のゲームの１つ。 コンソールも含めて現在３週目だけど、まだ楽しい。 別のゲームをやってても帰った来たくなる魅力がある…",
+      "reviewSnippet": "映像も奇麗だし面白かった。 ただ個人的にはサブクエストよりメインクエストをもっと増やしてほしかった。",
       "rawScore": 81.845,
-      "hensachi": 63.9,
+      "hensachi": 62.1,
       "rank": 3
     },
     {
@@ -75,7 +75,7 @@
       "initialPriceCents": 759000,
       "finalPriceCents": 303600,
       "reviewPositiveRate": 96,
-      "reviewCount": 137307,
+      "reviewCount": 137401,
       "storeUrl": "https://store.steampowered.com/app/1817070/",
       "genres": [
         "アクション",
@@ -86,9 +86,32 @@
       "releaseYear": 2022,
       "shortDescription": "ピーター・パーカーの私生活とヒーローとしての生活がぶつかり合う、アクション満載の完全オリジナルストーリー。 経験豊富なスパイダーマン、ピーター・パーカーとなって、オープンワールドで描かれるマーベル世界のニューヨークを縦横無尽に駆け巡り、犯罪や巨大な陰謀と戦おう。",
       "reviewSnippet": "「ゲームは構成ファイルを作成しません。保存が不完全です」というエラーが出るのが気になるが、対処方法を調べて対応すればエラ…",
-      "rawScore": 79.98753147678946,
-      "hensachi": 63.2,
+      "rawScore": 79.98865303504039,
+      "hensachi": 61.4,
       "rank": 4
+    },
+    {
+      "appid": 1462040,
+      "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/header.jpg?t=1773895755",
+      "discountPercent": 65,
+      "initialPriceCents": 547800,
+      "finalPriceCents": 191700,
+      "reviewPositiveRate": 87.1,
+      "reviewCount": 50852,
+      "storeUrl": "https://store.steampowered.com/app/1462040/",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "RPG"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2022,
+      "shortDescription": "バスターソードを背負う元ソルジャー・クラウドが魔晄都市ミッドガルに降り立つ。 最先端技術が駆使されたグラフィック映像、戦略性と直感的アクションが融合するバトル―― 不朽の名作『FINAL FANTASY VII』の世界が「新たな物語」として生まれ変わる。",
+      "reviewSnippet": "FF7のファンディスク的存在。 ゲームである必要はあったのだろうかというくらい、プレイフィールが悪い。 ただし、FF7の…",
+      "rawScore": 77.49468520225022,
+      "hensachi": 60.4,
+      "rank": 5
     },
     {
       "appid": 588650,
@@ -98,7 +121,7 @@
       "initialPriceCents": 248000,
       "finalPriceCents": 124000,
       "reviewPositiveRate": 97,
-      "reviewCount": 182291,
+      "reviewCount": 182301,
       "storeUrl": "https://store.steampowered.com/app/588650/",
       "genres": [
         "メトロイドヴァニア",
@@ -111,35 +134,32 @@
       "releaseYear": 2018,
       "shortDescription": "『Dead Cells』は、ローグライトとメトロイドヴァニアにインスピレーションを得たアクションプラットフォーマー。プレイヤーは、無秩序に広がり絶えず変化する城を探索することになる…むろん2Dのソウルライクな戦闘で戦って、番人を通過することができたらの話だが。チェックポイントなし。殺して、死んで、学ぶ。その繰り返しだ",
       "reviewSnippet": "慣れるまで難しいと思いますが、おすすめです。 動作が軽快で操作感もとても良く、かなり作り込まれていると思いました。 マッ…",
-      "rawScore": 76.30195324446973,
-      "hensachi": 61.6,
-      "rank": 5
+      "rawScore": 76.30204314430912,
+      "hensachi": 59.9,
+      "rank": 6
     },
     {
-      "appid": 252490,
-      "name": "Rust",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg?t=1781536981",
-      "discountPercent": 50,
-      "initialPriceCents": 460000,
-      "finalPriceCents": 230000,
-      "reviewPositiveRate": 86.8,
-      "reviewCount": 1386924,
-      "storeUrl": "https://store.steampowered.com/app/252490/",
+      "appid": 2909400,
+      "name": "FINAL FANTASY VII REBIRTH",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/header.jpg?t=1775124617",
+      "discountPercent": 60,
+      "initialPriceCents": 657800,
+      "finalPriceCents": 263100,
+      "reviewPositiveRate": 75.3,
+      "reviewCount": 33921,
+      "storeUrl": "https://store.steampowered.com/app/2909400/",
       "genres": [
-        "サバイバル",
         "アクション",
         "アドベンチャー",
-        "インディー",
-        "MM（Massively Multiplayer）",
         "RPG"
       ],
       "supportsJapanese": true,
-      "releaseYear": 2018,
-      "shortDescription": "『Rust』における唯一の目的は、生き残ること。島の野生生物、そこに住む他の者たち、自然環境、そして他の生存者たち——あらゆるものがプレイヤーの命を狙う。どんな手を使ってでも、次の夜を生き延びろ。",
-      "reviewSnippet": "神げーではあると思います。 一応中一ですが頑張ればそれなりに装備も整えられます。 ですが同じ年代の人たちがいないのが残念…",
-      "rawScore": 72.88,
-      "hensachi": 60.3,
-      "rank": 6
+      "releaseYear": 2025,
+      "shortDescription": "魔晄都市ミッドガルを脱出したクラウドたちは広大な世界に旅立つ。 新たに語られるストーリー、広大な世界での自由な冒険、仲間との絆が深まるバトル―― 『FINAL FANTASY VII REMAKE』から、さらに進化したゲーム体験が再誕する。",
+      "reviewSnippet": "とにかく戦闘が面白過ぎる。仲間との会話も面白い。ワールドマップやサブクエの量が多すぎず少なすぎずぐらいのいい塩梅だった。",
+      "rawScore": 70.45115641439904,
+      "hensachi": 57.6,
+      "rank": 7
     },
     {
       "appid": 1086940,
@@ -149,7 +169,7 @@
       "initialPriceCents": 849900,
       "finalPriceCents": 594900,
       "reviewPositiveRate": 96.8,
-      "reviewCount": 850937,
+      "reviewCount": 850988,
       "storeUrl": "https://store.steampowered.com/app/1086940/",
       "genres": [
         "アドベンチャー",
@@ -161,8 +181,8 @@
       "shortDescription": "Baldur’s Gate 3 is a story-rich, party-based RPG set in the universe of Dungeons &amp; Dragons, where your choices shape a tale of fellowship and betrayal, survival and sacrifice, and the lure of absolute power.",
       "reviewSnippet": "細かい分岐は多いですが話の大筋はほぼ変わらないので完璧主義者でも楽しく遊べます そしてそのメインストーリーがとても面白い…",
       "rawScore": 67.38,
-      "hensachi": 58,
-      "rank": 7
+      "hensachi": 56.3,
+      "rank": 8
     },
     {
       "appid": 2138330,
@@ -172,7 +192,7 @@
       "initialPriceCents": 430900,
       "finalPriceCents": 258500,
       "reviewPositiveRate": 90.1,
-      "reviewCount": 23562,
+      "reviewCount": 23565,
       "storeUrl": "https://store.steampowered.com/app/2138330/",
       "genres": [
         "RPG"
@@ -181,9 +201,9 @@
       "releaseYear": 2023,
       "shortDescription": "『サイバーパンク2077』に、スパイスリラーをテーマとした拡張パック「仮初めの自由」が新登場。ナイトシティで生きる傭兵、Vに待つ新たな任務とは？スパイのソロモン・リードと共に、踏みにじまれた忠誠心と熾烈な権力闘争が絡み合うスパイの世界へと身を投じろ",
       "reviewSnippet": "本編含めすべての結末がよかったが、ソミてめぇだけは死ね 月に逃げても追いかけて殺す",
-      "rawScore": 66.0339833330193,
-      "hensachi": 57.5,
-      "rank": 8
+      "rawScore": 66.03419197488783,
+      "hensachi": 55.8,
+      "rank": 9
     },
     {
       "appid": 2436940,
@@ -193,7 +213,7 @@
       "initialPriceCents": 170000,
       "finalPriceCents": 102000,
       "reviewPositiveRate": 93.4,
-      "reviewCount": 7228,
+      "reviewCount": 7278,
       "storeUrl": "https://store.steampowered.com/app/2436940/",
       "genres": [
         "ローグライト",
@@ -207,9 +227,9 @@
       "releaseYear": 2026,
       "shortDescription": "『Dungreed』開発陣が贈る、見下ろし型アクションRPGローグライト。塔の奥深くを探索し、アーティファクトを集めて強化。押し寄せる悪魔の大群を退け、危機に瀕したウサギの村を守り抜こう。",
       "reviewSnippet": "狙ったビルドを組む難易度は低いほうかと思います。 慣れてくると、旅立つときに「今回はこの構成を目指す！」って決めて出発す…",
-      "rawScore": 65.25255933866781,
-      "hensachi": 57.1,
-      "rank": 9
+      "rawScore": 65.26385554483016,
+      "hensachi": 55.5,
+      "rank": 10
     },
     {
       "appid": 2651280,
@@ -218,8 +238,8 @@
       "discountPercent": 33,
       "initialPriceCents": 759000,
       "finalPriceCents": 508500,
-      "reviewPositiveRate": 82.8,
-      "reviewCount": 42318,
+      "reviewPositiveRate": 82.7,
+      "reviewCount": 42362,
       "storeUrl": "https://store.steampowered.com/app/2651280/",
       "genres": [
         "アクション",
@@ -229,9 +249,9 @@
       "releaseYear": 2025,
       "shortDescription": "Be Greater. Together. ピーター・パーカーとマイルズ・モラレスは、人々を救うという使命と、日常生活や友人関係とのバランスを取りながら、恐るべきシンビオートとの死闘に臨む。大人気「Marvel's Spider-Man」シリーズの続編がPCに登場。",
       "reviewSnippet": "いいゲームだった ストーリーも満足 めずらしく現時点でハッピーエンドに近いじゃんとおもった続編に期待",
-      "rawScore": 61.28862413867524,
-      "hensachi": 55.5,
-      "rank": 10
+      "rawScore": 61.255327199041226,
+      "hensachi": 53.9,
+      "rank": 11
     },
     {
       "appid": 1843840,
@@ -240,8 +260,8 @@
       "discountPercent": 50,
       "initialPriceCents": 190000,
       "finalPriceCents": 95000,
-      "reviewPositiveRate": 68.4,
-      "reviewCount": 1068,
+      "reviewPositiveRate": 67.7,
+      "reviewCount": 1082,
       "storeUrl": "https://store.steampowered.com/app/1843840/",
       "genres": [
         "アクション"
@@ -250,32 +270,8 @@
       "releaseYear": 2026,
       "shortDescription": "『Rogue Point』へようこそ！『Rogue Point』は４人まで同時プレイ可能な、チームワークが試されるシューティングゲーム。進化する目標をパワフルにアップグレードしてクリアする、苛烈なミッションに参加しよう。計画、対処、そして突破。チームの生存はすべてその３つにかかっている。",
       "reviewSnippet": "Good game for coop shooting! But we need more map to fight. …",
-      "rawScore": 57.87010454795765,
-      "hensachi": 54.1,
-      "rank": 11
-    },
-    {
-      "appid": 3156770,
-      "name": "Witchfire",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3156770/3e222a764e93b6f5c10d114a8a82d71f221a7cd9/header.jpg?t=1785478776",
-      "discountPercent": 20,
-      "initialPriceCents": 450000,
-      "finalPriceCents": 360000,
-      "reviewPositiveRate": 91.6,
-      "reviewCount": 16888,
-      "storeUrl": "https://store.steampowered.com/app/3156770/",
-      "genres": [
-        "ローグライト",
-        "ソウルライク",
-        "アクション",
-        "早期アクセス"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2024,
-      "shortDescription": "『Witchfire』は一人称視点のダークファンタジーシューティングRPGです。かつては悪しき罪人だった男が魔女を狩る者となり、救いに至るため、最後の任務に挑みます。",
-      "reviewSnippet": "魔女の山、Torment VIIIまでクリア 武器はすべて個性的で3つの装飾品と2つの魔法の組み合わせを考えるのが楽しい…",
-      "rawScore": 57.01322239885505,
-      "hensachi": 53.8,
+      "rawScore": 57.64642813820876,
+      "hensachi": 52.5,
       "rank": 12
     },
     {
@@ -285,8 +281,8 @@
       "discountPercent": 25,
       "initialPriceCents": 398000,
       "finalPriceCents": 298500,
-      "reviewPositiveRate": 87.6,
-      "reviewCount": 1373,
+      "reviewPositiveRate": 87.3,
+      "reviewCount": 1413,
       "storeUrl": "https://store.steampowered.com/app/1368140/",
       "genres": [
         "シミュレーション",
@@ -296,8 +292,8 @@
       "releaseYear": 2026,
       "shortDescription": "広大な海賊のアジトをつくり上げ、艦隊を編成して大海原を探検し、王国に立ち向かい、海賊の時代を守り抜こう。エールからフリントロック銃、小悪党から凄腕剣士まで、複雑な生産ラインを管理し、荒くれ者の乗組員たちをまとめ上げて海の覇者となれ！",
       "reviewSnippet": "ストーリーは建築を同時に多く立てすぎると詰むので気を付けた方がいい 序盤のチュートリアルストーリーで戦利品しか手に入らな…",
-      "rawScore": 53.75145936876804,
-      "hensachi": 52.5,
+      "rawScore": 53.69348833758822,
+      "hensachi": 50.9,
       "rank": 13
     },
     {
@@ -307,8 +303,8 @@
       "discountPercent": 25,
       "initialPriceCents": 230000,
       "finalPriceCents": 172500,
-      "reviewPositiveRate": 83.2,
-      "reviewCount": 446,
+      "reviewPositiveRate": 85.5,
+      "reviewCount": 1144,
       "storeUrl": "https://store.steampowered.com/app/1478500/",
       "genres": [
         "アドベンチャー"
@@ -317,32 +313,30 @@
       "releaseYear": 2026,
       "shortDescription": "親しい友人たちと広大な世界を探索したり、迷子になったりしてみよう。『Untitled Goose Game』の開発陣が贈る、協力型オンライン通信ゲーム。",
       "reviewSnippet": "実にオモシロ ただできる限り集団で動かないと見逃す要素等があるのがちょっと惜しい それを誘導するためかマイクがめちゃくち…",
-      "rawScore": 50.37116046464882,
-      "hensachi": 51.1,
+      "rawScore": 52.71766221387134,
+      "hensachi": 50.5,
       "rank": 14
     },
     {
       "appid": 4547970,
       "name": "Pih 2",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4547970/707dd5291fd506ef4d3775a25cab19b19435b5a2/header.jpg?t=1785862571",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4547970/707dd5291fd506ef4d3775a25cab19b19435b5a2/header.jpg?t=1785873328",
       "discountPercent": 20,
       "initialPriceCents": 135000,
       "finalPriceCents": 108000,
-      "reviewPositiveRate": 100,
-      "reviewCount": 47,
+      "reviewPositiveRate": 95.3,
+      "reviewCount": 107,
       "storeUrl": "https://store.steampowered.com/app/4547970/",
       "genres": [
         "アクション",
-        "インディー",
-        "MM（Massively Multiplayer）",
-        "ストラテジー"
+        "インディー"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
       "shortDescription": "世界で唯一、GTA VI以上に待ち望まれているゲーム。Pih 2は、一撃で決着するコメディFPSだ。ますますバカげていく状況で、さまざまな敵のブタやボスと戦い、即死をかわし、すべてが台無しになってもキレないように耐えろ。",
       "reviewSnippet": "",
-      "rawScore": 50.34430655613429,
-      "hensachi": 51.1,
+      "rawScore": 50.02829719051679,
+      "hensachi": 49.4,
       "rank": 15
     },
     {
@@ -353,7 +347,7 @@
       "initialPriceCents": 119900,
       "finalPriceCents": 95900,
       "reviewPositiveRate": 100,
-      "reviewCount": 4,
+      "reviewCount": 12,
       "storeUrl": "https://store.steampowered.com/app/2371060/",
       "genres": [
         "アクション"
@@ -362,8 +356,8 @@
       "releaseYear": 2026,
       "shortDescription": "It Consumes is a frantic arena shooter that takes place in the dark. See by beating your heart to reveal your foes. Choose your preferred playstyle with both roguelite and classic modes, or use the extensive custom games editor to create your own game modes with unique rules and modifiers.",
       "reviewSnippet": "",
-      "rawScore": 46.637622657871766,
-      "hensachi": 49.6,
+      "rawScore": 48.2035598200258,
+      "hensachi": 48.7,
       "rank": 16
     },
     {
@@ -374,7 +368,7 @@
       "initialPriceCents": 58000,
       "finalPriceCents": 46400,
       "reviewPositiveRate": 100,
-      "reviewCount": 4,
+      "reviewCount": 7,
       "storeUrl": "https://store.steampowered.com/app/3115310/",
       "genres": [
         "アクション",
@@ -387,30 +381,30 @@
       "releaseYear": 2026,
       "shortDescription": "You are a Lunar Knight of the blood moon, and tonight is your night. It's time for violence. Slay the twisted horrors conjured by the moon in this horde survival roguelite. Gain experience, grow stronger, and synergize your weapons to crush the enemy forces and survive the night.",
       "reviewSnippet": "",
-      "rawScore": 46.637622657871766,
-      "hensachi": 49.6,
+      "rawScore": 47.40788674336582,
+      "hensachi": 48.4,
       "rank": 17
     },
     {
-      "appid": 4078420,
-      "name": "Quantum Breach",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078420/af6effa21f63bd57d2c0a7986f39e77ef4802a6c/header.jpg?t=1785852249",
-      "discountPercent": 20,
-      "initialPriceCents": 90500,
-      "finalPriceCents": 72400,
+      "appid": 4896230,
+      "name": "Petri Panic",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4896230/757a56b8ea7ed3dc12e2a67a63e9a6a5c436da95/header.jpg?t=1785862849",
+      "discountPercent": 15,
+      "initialPriceCents": 26500,
+      "finalPriceCents": 22500,
       "reviewPositiveRate": 100,
-      "reviewCount": 1,
-      "storeUrl": "https://store.steampowered.com/app/4078420/",
+      "reviewCount": 3,
+      "storeUrl": "https://store.steampowered.com/app/4896230/",
       "genres": [
-        "インディー",
-        "シミュレーション"
+        "カジュアル",
+        "インディー"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "ターミナルベースのハッキングゲーム。金欠ハッカーとなって銀行をハックし大金を手に入れよう。",
+      "shortDescription": "Stack and merge wriggling bacteria up to the dreaded SUPERBUG in a physics-driven petri-dish puzzler — race the contamination timer across Classic, Survival, and chaos-fueled Arcade modes.",
       "reviewSnippet": "",
-      "rawScore": 45.135962247788605,
-      "hensachi": 48.9,
+      "rawScore": 44.02192449557722,
+      "hensachi": 47,
       "rank": 18
     },
     {
@@ -421,7 +415,7 @@
       "initialPriceCents": 135000,
       "finalPriceCents": 114700,
       "reviewPositiveRate": 100,
-      "reviewCount": 1,
+      "reviewCount": 2,
       "storeUrl": "https://store.steampowered.com/app/4620430/",
       "genres": [
         "アクション"
@@ -430,98 +424,9 @@
       "releaseYear": 2026,
       "shortDescription": "Meet Me in the Wellは、最大4人で遊べるハイテンポなアリーナシューターです。ローカルまたはSteam Remote Play Togetherでオンラインプレイに対応。特殊効果を持つ6発の弾丸を装填したリボルバーで、ランダムな一発ごとのカオスを楽しもう。",
       "reviewSnippet": "",
-      "rawScore": 42.885962247788605,
-      "hensachi": 48,
+      "rawScore": 43.55045756497986,
+      "hensachi": 46.8,
       "rank": 19
-    },
-    {
-      "appid": 3409660,
-      "name": "Spinning Scarecrow",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3409660/b9c523490a779dd513ac893bb5396e977d717d37/header.jpg?t=1785854705",
-      "discountPercent": 15,
-      "initialPriceCents": 90500,
-      "finalPriceCents": 76900,
-      "reviewPositiveRate": 100,
-      "reviewCount": 1,
-      "storeUrl": "https://store.steampowered.com/app/3409660/",
-      "genres": [
-        "カジュアル",
-        "インディー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "手描きのダークな世界で、回転し続けるカカシが致命的な罠とグロテスクなミニゲーム、精密さが問われるチャレンジに挑むアーケードパズル。 回ってみる勇気、ある？",
-      "reviewSnippet": "",
-      "rawScore": 42.885962247788605,
-      "hensachi": 48,
-      "rank": 20
-    },
-    {
-      "appid": 4917720,
-      "name": "2187",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4917720/591c49d0526690c250f49212b1c71d2773233c24/header.jpg?t=1785854625",
-      "discountPercent": 15,
-      "initialPriceCents": 33000,
-      "finalPriceCents": 28000,
-      "reviewPositiveRate": 100,
-      "reviewCount": 1,
-      "storeUrl": "https://store.steampowered.com/app/4917720/",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "ストラテジー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "The classic 2048, reborn in three dimensions. Slide, stack and merge glowing number-cubes across boards from 3D up to 6D. Adjust dimensions and size, pick your theme and soundtrack, then export any run as an MP4 baked with background and music. Cloud saves, achievements and Workshop included.",
-      "reviewSnippet": "",
-      "rawScore": 42.885962247788605,
-      "hensachi": 48,
-      "rank": 21
-    },
-    {
-      "appid": 3578980,
-      "name": "Lovecraft Locker 2: Tentacle Breach",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3578980/4540477966b96a4bcb60d8da8fbb68830ddf30e3/header.jpg?t=1785852704",
-      "discountPercent": 15,
-      "initialPriceCents": 65500,
-      "finalPriceCents": 55600,
-      "reviewPositiveRate": 100,
-      "reviewCount": 1,
-      "storeUrl": "https://store.steampowered.com/app/3578980/",
-      "genres": [
-        "ストラテジー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "You take the role of a Tentacle Monster contained as an anomaly in a research facility. As scientists, researchers, and guards go against you, will you be able to escape your containment through your tentacle lockers?",
-      "reviewSnippet": "",
-      "rawScore": 42.885962247788605,
-      "hensachi": 48,
-      "rank": 22
-    },
-    {
-      "appid": 3399900,
-      "name": "HellSlave II: Judgment of the Archon",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3399900/53131b59c4ce37807820c39c929bfec101edd91c/header.jpg?t=1785851484",
-      "discountPercent": 15,
-      "initialPriceCents": 250000,
-      "finalPriceCents": 212500,
-      "reviewPositiveRate": 77.8,
-      "reviewCount": 27,
-      "storeUrl": "https://store.steampowered.com/app/3399900/",
-      "genres": [
-        "アドベンチャー",
-        "インディー",
-        "RPG"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "天界はこれ以上待たない。このダークファンタジーダンジョン探索ゲームでは、アルコンが降臨し、悪魔の戦争に終止符を打つ。『Hellslave II』で立ち向かえ。これまで以上に没入感に溢れ、過酷で、カスタマイズ可能な世界が待っている。裁きの時がやってきた。",
-      "reviewSnippet": "",
-      "rawScore": 39.44097370317818,
-      "hensachi": 46.6,
-      "rank": 23
     },
     {
       "appid": 4619420,
@@ -530,8 +435,8 @@
       "discountPercent": 10,
       "initialPriceCents": 65500,
       "finalPriceCents": 58900,
-      "reviewPositiveRate": 85.7,
-      "reviewCount": 7,
+      "reviewPositiveRate": 80,
+      "reviewCount": 25,
       "storeUrl": "https://store.steampowered.com/app/4619420/",
       "genres": [
         "カジュアル",
@@ -541,9 +446,9 @@
       "releaseYear": 2026,
       "shortDescription": "Slot Grind is an incremental slot machine game where you spin, earn money, and put it back into upgrades. Unlock new machines with better payouts, improve them, and automate your slots as your profits grow, until you finally pay off your debts.",
       "reviewSnippet": "",
-      "rawScore": 37.902886743365826,
-      "hensachi": 46,
-      "rank": 24
+      "rawScore": 37.83952206781441,
+      "hensachi": 44.5,
+      "rank": 20
     },
     {
       "appid": 4815250,
@@ -552,8 +457,8 @@
       "discountPercent": 20,
       "initialPriceCents": 39500,
       "finalPriceCents": 31600,
-      "reviewPositiveRate": 50,
-      "reviewCount": 8,
+      "reviewPositiveRate": 56.3,
+      "reviewCount": 16,
       "storeUrl": "https://store.steampowered.com/app/4815250/",
       "genres": [
         "アドベンチャー",
@@ -564,28 +469,31 @@
       "releaseYear": 2026,
       "shortDescription": "A narrative‑driven visual novel that explores a woman’s psychological descent when her hidden desires are awakened under duress.",
       "reviewSnippet": "",
-      "rawScore": 30.100915129959716,
+      "rawScore": 33.348203476899144,
       "hensachi": 42.8,
-      "rank": 25
+      "rank": 21
     },
     {
-      "appid": 78920,
-      "name": "Big Walk and PEAK\t",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/78920/my04uwve5ivnm8lt/c0d0045e79b05e38bda73e37952b6f2529ea48dd/header_ratio.jpg?t=1785847914",
-      "discountPercent": 32,
-      "initialPriceCents": 318000,
-      "finalPriceCents": 194800,
+      "appid": 4871670,
+      "name": "ペイ・フォー・プレイ",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4871670/066c03a38a8c9554922ab03e0c191ea4f03486f1/header.jpg?t=1785867044",
+      "discountPercent": 40,
+      "initialPriceCents": 90500,
+      "finalPriceCents": 54300,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/78920/",
-      "genres": [],
-      "supportsJapanese": false,
-      "releaseYear": null,
-      "shortDescription": "",
+      "storeUrl": "https://store.steampowered.com/app/4871670/",
+      "genres": [
+        "アドベンチャー",
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "『ペイ・フォー・プレイ』は、大学アメフト界で初めて選手への報酬支払いが解禁されたシーズンを舞台にした、大人向け恋愛ビジュアルノベルです。アスレチック・ディレクターのレット・バノバーとして、3つの親密な関係をナビゲートしながら、選手の死が隠蔽工作を暴こうとする危機に立ち向かいます。",
       "reviewSnippet": "",
-      "rawScore": 14.4,
-      "hensachi": 36.4,
-      "rank": 26
+      "rawScore": 18,
+      "hensachi": 36.6,
+      "rank": 22
     },
     {
       "appid": 4106240,
@@ -605,8 +513,8 @@
       "shortDescription": "Horingar: Darkside is a hand-drawn adult dark fantasy RPG with turn-based combat, talents, crafting, and a semi-open world. Play Prince Reiner as you fight, sneak, and solve puzzles, pursue erotic romances, and explore story driven sexual content that shapes power, pleasure, and the kingdom’s fate.",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 34.2,
-      "rank": 27
+      "hensachi": 33,
+      "rank": 23
     },
     {
       "appid": 4785390,
@@ -628,8 +536,33 @@
       "shortDescription": "A psychological horror sim where you play a low-level researcher, who has to banish demonic entities back to where they came from. While having to keep the entitles in your peripheral vision, you must use the Rune Operation Manual to input the right runes, and send them back.",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 34.2,
-      "rank": 28
+      "hensachi": 33,
+      "rank": 24
+    },
+    {
+      "appid": 4393720,
+      "name": "放置恶魔",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4393720/516a349c3fe6691efbd266cb7ac264991359be37/header.jpg?t=1785889779",
+      "discountPercent": 18,
+      "initialPriceCents": 79000,
+      "finalPriceCents": 64700,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4393720/",
+      "genres": [
+        "アドベンチャー",
+        "カジュアル",
+        "インディー",
+        "RPG",
+        "ストラテジー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Idle Inferno is a desktop idle looter with deep Build elements. Free your hands and let auto-combat sweep the Inferno! Features highly flexible skills, rich gear crafting &amp; diverse progression. Tweak your Build, challenge tougher foes, and enjoy screen-filling loot!",
+      "reviewSnippet": "",
+      "rawScore": 8.1,
+      "hensachi": 32.7,
+      "rank": 25
     },
     {
       "appid": 3649860,
@@ -650,51 +583,8 @@
       "shortDescription": "A Good Day Fishing は、現実のタスクをこなしながら魚を釣る、ゲーム感覚の集中支援ツールです。新しい魚種を釣り上げて記録し、お気に入りの居心地のよい釣り場を飾り付け、サウンドスケープをカスタマイズして、自分だけの雰囲気を作り出しましょう。リラックスしながら集中力を高められます。",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 32.4,
-      "rank": 29
-    },
-    {
-      "appid": 4851580,
-      "name": "Rewinded",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4851580/4ea30d63d407ae91bd6f73b7c0e4cefdd4e2962b/header.jpg?t=1785856392",
-      "discountPercent": 10,
-      "initialPriceCents": 39500,
-      "finalPriceCents": 35500,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4851580/",
-      "genres": [
-        "インディー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Rewinded is a puzzle platformer game where you play as an android robot rewinding time to undo a catastrophic project failure. Record your actions and replay them to complete your mission!",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 32.4,
-      "rank": 30
-    },
-    {
-      "appid": 4886420,
-      "name": "令和もぐんまのやぼう -あなたのまちも ぐんまけん-",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4886420/202ff96225df70d186dde9262bde505bf074cf42/header_japanese.jpg?t=1785855730",
-      "discountPercent": 10,
-      "initialPriceCents": 29800,
-      "finalPriceCents": 26800,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4886420/",
-      "genres": [
-        "カジュアル",
-        "インディー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "「ぐんまのやぼう」は、 特産品を収穫して「G」を稼ぎ、 全ての都道府県を制圧して、群馬県にすることを目標とするゲームです。",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 32.4,
-      "rank": 31
+      "hensachi": 31.2,
+      "rank": 26
     }
   ]
 }
