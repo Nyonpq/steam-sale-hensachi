@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-09T06:42:58.723Z",
+  "fetchedAt": "2026-08-09T12:35:46.954Z",
   "currency": "JPY",
-  "count": 37,
-  "averageDiscount": 30.3,
+  "count": 32,
+  "averageDiscount": 29.7,
   "deals": [
     {
       "appid": 292030,
@@ -12,7 +12,7 @@
       "initialPriceCents": 558800,
       "finalPriceCents": 111700,
       "reviewPositiveRate": 96.8,
-      "reviewCount": 880698,
+      "reviewCount": 880737,
       "storeUrl": "https://store.steampowered.com/app/292030/",
       "genres": [
         "RPG"
@@ -22,31 +22,8 @@
       "shortDescription": "怪物狩りを生業とするウィッチャー、「リヴィアのゲラルト」となり、〈予言の子〉を見つけ出す冒険へと身を投じよう。ストーリー重視のオープンワールドRPG『ウィッチャー３ ワイルドハント』では、重大な結果に繋がる様々な決断を下しながら、戦争と怪物たちの恐怖に晒された大陸を旅していくことになる。",
       "reviewSnippet": "自分は、難易度デスマーチでやってるんですが、序盤はなかなか難しくとにかく時間をかけてプレイするゲームだと思います。特にじ…",
       "rawScore": 89.88,
-      "hensachi": 68.5,
+      "hensachi": 70.1,
       "rank": 1
-    },
-    {
-      "appid": 460930,
-      "name": "Tom Clancy's Ghost Recon® Wildlands",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460930/4e333b557f84cdb9916576b234e507f7111e143b/header_alt_assets_0_japanese.jpg?t=1786116240",
-      "discountPercent": 95,
-      "initialPriceCents": 660000,
-      "finalPriceCents": 33000,
-      "reviewPositiveRate": 79.2,
-      "reviewCount": 107176,
-      "storeUrl": "https://store.steampowered.com/app/460930/",
-      "genres": [
-        "サバイバル",
-        "アクション",
-        "アドベンチャー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2017,
-      "shortDescription": "このタクティカルTPSで、精鋭のゴースト部隊を率いて戦おう。ボリビアとそこに済む人々を救うため、広大なオープンワールドを探索し、凶悪なカルテル「サンタ・ブランカ」に潜入し、壊滅させよう。",
-      "reviewSnippet": "神ゲー とんでもなく広いオープンワールドを分隊率いてドンパチしながら回れるゲーム ステルスゲーがダルイ、主人公ソロゲーが…",
-      "rawScore": 89.45151545851344,
-      "hensachi": 68.3,
-      "rank": 2
     },
     {
       "appid": 489830,
@@ -56,7 +33,7 @@
       "initialPriceCents": 439900,
       "finalPriceCents": 109900,
       "reviewPositiveRate": 92.4,
-      "reviewCount": 373002,
+      "reviewCount": 373029,
       "storeUrl": "https://store.steampowered.com/app/489830/",
       "genres": [
         "RPG"
@@ -64,10 +41,10 @@
       "supportsJapanese": true,
       "releaseYear": 2016,
       "shortDescription": "200以上のGame of the Yearアワードを獲得した『The Elder Scrolls V: Skyrim Special Edition』は、詳細にわたる描写で無限のファンタジーに命を吹き込みます。Special Editionには高い評価を受けた基本ゲームやアドオンに加え、新しい機能が含まれます。",
-      "reviewSnippet": "自由なゲーム。感動乞食ムービーもない。熱すぎる展開もない。うざいエンドロールもない。なのに、なんかエモい。気づいたら自然…",
+      "reviewSnippet": "MODで遊ぼうとすると環境構築が超めんどくさいけど、そこさえ乗り越えればトップクラスの自由度を誇るゲームと成る",
       "rawScore": 86.09,
-      "hensachi": 66.8,
-      "rank": 3
+      "hensachi": 68.1,
+      "rank": 2
     },
     {
       "appid": 1091500,
@@ -77,7 +54,7 @@
       "initialPriceCents": 877800,
       "finalPriceCents": 263300,
       "reviewPositiveRate": 86.8,
-      "reviewCount": 969051,
+      "reviewCount": 969171,
       "storeUrl": "https://store.steampowered.com/app/1091500/",
       "genres": [
         "RPG"
@@ -87,8 +64,8 @@
       "shortDescription": "『サイバーパンク2077』――未来の巨大都市ナイトシティを舞台にしたオープンワールド・アクションアドベンチャーRPG",
       "reviewSnippet": "映像も奇麗だし面白かった。 ただ個人的にはサブクエストよりメインクエストをもっと増やしてほしかった。",
       "rawScore": 81.88,
-      "hensachi": 64.9,
-      "rank": 4
+      "hensachi": 65.9,
+      "rank": 3
     },
     {
       "appid": 252490,
@@ -98,7 +75,7 @@
       "initialPriceCents": 460000,
       "finalPriceCents": 230000,
       "reviewPositiveRate": 86.8,
-      "reviewCount": 1388980,
+      "reviewCount": 1389038,
       "storeUrl": "https://store.steampowered.com/app/252490/",
       "genres": [
         "サバイバル",
@@ -113,8 +90,8 @@
       "shortDescription": "『Rust』における唯一の目的は、生き残ること。島の野生生物、そこに住む他の者たち、自然環境、そして他の生存者たち——あらゆるものがプレイヤーの命を狙う。どんな手を使ってでも、次の夜を生き延びろ。",
       "reviewSnippet": "神げーではあると思います。 一応中一ですが頑張ればそれなりに装備も整えられます。 ですが同じ年代の人たちがいないのが残念…",
       "rawScore": 72.88,
-      "hensachi": 60.8,
-      "rank": 5
+      "hensachi": 61.3,
+      "rank": 4
     },
     {
       "appid": 1465260,
@@ -137,8 +114,8 @@
       "shortDescription": "Cyberpunk SFX is a third-person sci-fi action game set in a world where artificial intelligence has been outlawed. Fight with futuristic weapons, shields, invisibility, and time manipulation to defend synthetic life's right to exist.",
       "reviewSnippet": "",
       "rawScore": 72.07190478892244,
-      "hensachi": 60.4,
-      "rank": 6
+      "hensachi": 60.9,
+      "rank": 5
     },
     {
       "appid": 2138330,
@@ -148,7 +125,7 @@
       "initialPriceCents": 430900,
       "finalPriceCents": 258500,
       "reviewPositiveRate": 90.1,
-      "reviewCount": 23616,
+      "reviewCount": 23618,
       "storeUrl": "https://store.steampowered.com/app/2138330/",
       "genres": [
         "RPG"
@@ -157,8 +134,34 @@
       "releaseYear": 2023,
       "shortDescription": "『サイバーパンク2077』に、スパイスリラーをテーマとした拡張パック「仮初めの自由」が新登場。ナイトシティで生きる傭兵、Vに待つ新たな任務とは？スパイのソロモン・リードと共に、踏みにじまれた忠誠心と熾烈な権力闘争が絡み合うスパイの世界へと身を投じろ",
       "reviewSnippet": "本編含めすべての結末がよかったが、ソミてめぇだけは死ね 月に逃げても追いかけて殺す",
-      "rawScore": 66.03773482865839,
-      "hensachi": 57.7,
+      "rawScore": 66.03787360815728,
+      "hensachi": 57.8,
+      "rank": 6
+    },
+    {
+      "appid": 2436940,
+      "name": "セフィリア",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2436940/21b1476794fd8a2e0a3076448d28929e8139aad0/header_alt_assets_0.jpg?t=1785481238",
+      "discountPercent": 40,
+      "initialPriceCents": 170000,
+      "finalPriceCents": 102000,
+      "reviewPositiveRate": 93.6,
+      "reviewCount": 8374,
+      "storeUrl": "https://store.steampowered.com/app/2436940/",
+      "genres": [
+        "ローグライト",
+        "ローグライク",
+        "アクション",
+        "アドベンチャー",
+        "インディー",
+        "RPG"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "『Dungreed』開発陣が贈る、見下ろし型アクションRPGローグライト。塔の奥深くを探索し、アーティファクトを集めて強化。押し寄せる悪魔の大群を退け、危機に瀕したウサギの村を守り抜こう。",
+      "reviewSnippet": "ローグライクは基本進めていくと 1.最低限のバランスを保ったまま 2.ゲームが崩壊する の2つに分かれるが、セフィリアは…",
+      "rawScore": 65.5637162856939,
+      "hensachi": 57.5,
       "rank": 7
     },
     {
@@ -169,7 +172,7 @@
       "initialPriceCents": 390000,
       "finalPriceCents": 312000,
       "reviewPositiveRate": 97.9,
-      "reviewCount": 244322,
+      "reviewCount": 244335,
       "storeUrl": "https://store.steampowered.com/app/294100/",
       "genres": [
         "サバイバル",
@@ -182,7 +185,7 @@
       "shortDescription": "知性のあるAIストーリーテラーによって織りなされるSFコロニーシミュレーションゲームです。人の性格、自然環境、銃撃戦、近接戦、気候、バイオーム、外交、対人関係、芸術、医学、貿易などをシミュレートし、ストーリーを生成します。",
       "reviewSnippet": "コロニーの拡大が面白い。いつの間にか区画整理のために最初に作った建物をぶっ壊すときには悲しみを覚える。しかし歴史を感じる…",
       "rawScore": 63.265,
-      "hensachi": 56.4,
+      "hensachi": 56.3,
       "rank": 8
     },
     {
@@ -193,7 +196,7 @@
       "initialPriceCents": 198000,
       "finalPriceCents": 148500,
       "reviewPositiveRate": 98.6,
-      "reviewCount": 4567,
+      "reviewCount": 4827,
       "storeUrl": "https://store.steampowered.com/app/2950790/",
       "genres": [
         "アクション",
@@ -204,8 +207,8 @@
       "releaseYear": 2026,
       "shortDescription": "『IRON NEST』は、巨大な戦車で戦場を制圧する、過激なディーゼル・パンクヘビーアサルトゲームだ。 受信した座標をマップで確認し、油圧システムをフル稼働させて大砲の照準を合わせ、敵に壊滅的な一撃を放て！！⟹オペレーター諸君、最高司令部命令に従うか？",
       "reviewSnippet": "面白くはあるが、中盤以降が明らかにボリューム不足 弾の種類が無駄にどんどん増えていくが、 それよりもnest本体にギミッ…",
-      "rawScore": 59.57028715184072,
-      "hensachi": 54.8,
+      "rawScore": 59.66100853368042,
+      "hensachi": 54.5,
       "rank": 9
     },
     {
@@ -215,8 +218,8 @@
       "discountPercent": 25,
       "initialPriceCents": 230000,
       "finalPriceCents": 172500,
-      "reviewPositiveRate": 91.5,
-      "reviewCount": 7756,
+      "reviewPositiveRate": 91.7,
+      "reviewCount": 8138,
       "storeUrl": "https://store.steampowered.com/app/1478500/",
       "genres": [
         "アドベンチャー"
@@ -225,76 +228,9 @@
       "releaseYear": 2026,
       "shortDescription": "親しい友人たちと広大な世界を探索したり、迷子になったりしてみよう。『Untitled Goose Game』の開発陣が贈る、協力型オンライン通信ゲーム。",
       "reviewSnippet": "5人でやった 友達いないとできねーから気をつけろ！ ゲーム内VCの音量が改善されて聞き取りやすくなった 10時間くらいで…",
-      "rawScore": 57.95308977903466,
-      "hensachi": 54,
+      "rawScore": 58.10187188106135,
+      "hensachi": 53.7,
       "rank": 10
-    },
-    {
-      "appid": 4657570,
-      "name": "SEXOPHOBIA 🔞",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4657570/ae4802341f1a3ef0a383c875fb0c32eeb91d2510/header.jpg?t=1786197292",
-      "discountPercent": 38,
-      "initialPriceCents": 235000,
-      "finalPriceCents": 145700,
-      "reviewPositiveRate": 96.6,
-      "reviewCount": 29,
-      "storeUrl": "https://store.steampowered.com/app/4657570/",
-      "genres": [
-        "カジュアル",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "日常と未知が交差するカード型デーティングシム。関係を築き、デッキを構築し、選択によって運命が変わる隠された現実を解き明かそう。",
-      "reviewSnippet": "",
-      "rawScore": 56.48404247064023,
-      "hensachi": 53.4,
-      "rank": 11
-    },
-    {
-      "appid": 4991980,
-      "name": "Cape Warrior",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4991980/3460803a18170c6af48c07dc8f283e4f75784c40/header.jpg?t=1786143275",
-      "discountPercent": 40,
-      "initialPriceCents": 39500,
-      "finalPriceCents": 23700,
-      "reviewPositiveRate": 100,
-      "reviewCount": 4,
-      "storeUrl": "https://store.steampowered.com/app/4991980/",
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "インディー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Top down shooter where you control cape warrior. Mission to kill different enemies and main boss spider and collect star to finish level",
-      "reviewSnippet": "",
-      "rawScore": 55.637622657871766,
-      "hensachi": 53,
-      "rank": 12
-    },
-    {
-      "appid": 4875600,
-      "name": "選択バイアス",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4875600/aa3aec05e979ec27868eacc0baf98878ea22d359/header.jpg?t=1786135266",
-      "discountPercent": 40,
-      "initialPriceCents": 90500,
-      "finalPriceCents": 54300,
-      "reviewPositiveRate": 100,
-      "reviewCount": 4,
-      "storeUrl": "https://store.steampowered.com/app/4875600/",
-      "genres": [
-        "アドベンチャー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "ロサンゼルスの生殖医療ラボで、科学者エイドリアン・セイアは「インデックス」——「確信」として売られた胚ランキングアルゴリズム——を作り上げた。旗艦児がモデルでは「ほぼゼロリスク」とされた疾患と診断されたとき、三人の女性がそれぞれ葬り去られた真実の一片を握り、それぞれに異なる形のロマンスを差し出す。",
-      "reviewSnippet": "",
-      "rawScore": 55.637622657871766,
-      "hensachi": 53,
-      "rank": 13
     },
     {
       "appid": 2142790,
@@ -304,7 +240,7 @@
       "initialPriceCents": 160000,
       "finalPriceCents": 144000,
       "reviewPositiveRate": 97.5,
-      "reviewCount": 30413,
+      "reviewCount": 30466,
       "storeUrl": "https://store.steampowered.com/app/2142790/",
       "genres": [
         "インディー",
@@ -315,9 +251,31 @@
       "releaseYear": 2026,
       "shortDescription": "今すぐ夢の生活をスタート！可能性に満ちた世界を探検しながら、理想の農場を築きましょう。魔法に、ロマンスに、冒険に。どこか懐かしいこの農場ライフシムRPGでは、これらすべてがあなたを待っています！",
       "reviewSnippet": "デザインが好きでしたが、有志の方による日本語化MODが上手く動かず、公式日本語化を待ってました！ 初めてビックリ！主人公…",
-      "rawScore": 55.54225864757376,
-      "hensachi": 52.9,
-      "rank": 14
+      "rawScore": 55.54511204742997,
+      "hensachi": 52.4,
+      "rank": 11
+    },
+    {
+      "appid": 4657570,
+      "name": "SEXOPHOBIA 🔞",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4657570/ae4802341f1a3ef0a383c875fb0c32eeb91d2510/header.jpg?t=1786197292",
+      "discountPercent": 38,
+      "initialPriceCents": 235000,
+      "finalPriceCents": 145700,
+      "reviewPositiveRate": 91.8,
+      "reviewCount": 49,
+      "storeUrl": "https://store.steampowered.com/app/4657570/",
+      "genres": [
+        "カジュアル",
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "日常と未知が交差するカード型デーティングシム。関係を築き、デッキを構築し、選択によって運命が変わる隠された現実を解き明かそう。",
+      "reviewSnippet": "",
+      "rawScore": 55.64120756353214,
+      "hensachi": 52.4,
+      "rank": 12
     },
     {
       "appid": 4876190,
@@ -327,7 +285,7 @@
       "initialPriceCents": 135000,
       "finalPriceCents": 81000,
       "reviewPositiveRate": 100,
-      "reviewCount": 3,
+      "reviewCount": 4,
       "storeUrl": "https://store.steampowered.com/app/4876190/",
       "genres": [
         "カジュアル"
@@ -336,9 +294,9 @@
       "releaseYear": 2026,
       "shortDescription": "A fast-paced arcade game about surviving game development. Write code, gather assets, satisfy marketing, ship the build, and try not to fall apart before release.",
       "reviewSnippet": "",
-      "rawScore": 55.27192449557722,
-      "hensachi": 52.8,
-      "rank": 15
+      "rawScore": 55.637622657871766,
+      "hensachi": 52.4,
+      "rank": 13
     },
     {
       "appid": 4943170,
@@ -348,7 +306,7 @@
       "initialPriceCents": 135000,
       "finalPriceCents": 81000,
       "reviewPositiveRate": 100,
-      "reviewCount": 3,
+      "reviewCount": 4,
       "storeUrl": "https://store.steampowered.com/app/4943170/",
       "genres": [
         "カジュアル",
@@ -358,9 +316,9 @@
       "releaseYear": 2026,
       "shortDescription": "Catetris is a captivating puzzle game where players must place falling pieces of various shapes to fill horizontal lines on the board.",
       "reviewSnippet": "",
-      "rawScore": 55.27192449557722,
-      "hensachi": 52.8,
-      "rank": 16
+      "rawScore": 55.637622657871766,
+      "hensachi": 52.4,
+      "rank": 14
     },
     {
       "appid": 1368140,
@@ -369,8 +327,8 @@
       "discountPercent": 25,
       "initialPriceCents": 398000,
       "finalPriceCents": 298500,
-      "reviewPositiveRate": 86.5,
-      "reviewCount": 2072,
+      "reviewPositiveRate": 86.4,
+      "reviewCount": 2112,
       "storeUrl": "https://store.steampowered.com/app/1368140/",
       "genres": [
         "シミュレーション",
@@ -380,9 +338,9 @@
       "releaseYear": 2026,
       "shortDescription": "広大な海賊のアジトをつくり上げ、艦隊を編成して大海原を探検し、王国に立ち向かい、海賊の時代を守り抜こう。エールからフリントロック銃、小悪党から凄腕剣士まで、複雑な生産ラインを管理し、荒くれ者の乗組員たちをまとめ上げて海の覇者となれ！",
       "reviewSnippet": "久節にシムをやってみた。アジトを作るだけでなく、RPGのようにスキルツリーやストーリーもあって、昔よくあったただ作るだけ…",
-      "rawScore": 54.04046906450513,
-      "hensachi": 52.2,
-      "rank": 17
+      "rawScore": 54.03679055491439,
+      "hensachi": 51.6,
+      "rank": 15
     },
     {
       "appid": 3812600,
@@ -391,8 +349,8 @@
       "discountPercent": 10,
       "initialPriceCents": 199900,
       "finalPriceCents": 179900,
-      "reviewPositiveRate": 97.4,
-      "reviewCount": 2208,
+      "reviewPositiveRate": 97.1,
+      "reviewCount": 2403,
       "storeUrl": "https://store.steampowered.com/app/3812600/",
       "genres": [
         "インディー",
@@ -401,32 +359,32 @@
       "supportsJapanese": true,
       "releaseYear": 2026,
       "shortDescription": "時代は2000年代半ばの東京。あなたは電子機器修理屋を経営しています。ゲーム機、携帯電話、音楽プレーヤーなどの懐かしいデバイスを修理し、お店を運営していきます。訪れるお客さんと話しながら、様々な物語に耳を傾け、選択し、その選択が彼らの人生と自分のお店へ影響を与える様子を見守りましょう。",
-      "reviewSnippet": "とにかくコツコツ修理するゲームです。 ライセンスを取得し、修理できるアイテムを増やしていきます。 ヒントも出るので、詰ま…",
-      "rawScore": 51.20960647498654,
-      "hensachi": 51,
-      "rank": 18
+      "reviewSnippet": "１０時間ほどプレイした感想として、とにかく時間が溶ける。黙々と熱中してプレイしていると気が付いたら「もうこんな時間？！」…",
+      "rawScore": 51.243243257851695,
+      "hensachi": 50.1,
+      "rank": 16
     },
     {
-      "appid": 3995840,
-      "name": "FerryMan",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3995840/c4c13ad79eae8dfa03e82a4769fba22c8133744e/header.jpg?t=1786135025",
-      "discountPercent": 25,
-      "initialPriceCents": 13500,
-      "finalPriceCents": 10100,
-      "reviewPositiveRate": 100,
-      "reviewCount": 4,
-      "storeUrl": "https://store.steampowered.com/app/3995840/",
+      "appid": 4108000,
+      "name": "Machine Party",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/00ae7d0e0fd0ad72635bddb1dd80ee68cc94eed5/header.jpg?t=1785909320",
+      "discountPercent": 15,
+      "initialPriceCents": 95000,
+      "finalPriceCents": 80700,
+      "reviewPositiveRate": 87.8,
+      "reviewCount": 2704,
+      "storeUrl": "https://store.steampowered.com/app/4108000/",
       "genres": [
         "アクション",
-        "カジュアル"
+        "インディー"
       ],
-      "supportsJapanese": false,
+      "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "Revolt against death itself. Every outcome by the roll of your dice. Sacrifice boons given to you from your crow companion and tip the odds in your favor. Die, grow stronger, unlock more boons, and fight toward the Reaper who bound you to this endless cycle.",
-      "reviewSnippet": "",
-      "rawScore": 48.887622657871766,
-      "hensachi": 49.9,
-      "rank": 19
+      "shortDescription": "「マシン・パーティー」は、失敗が死に直結する、危険なパーティーゲーム集です。仲間を集め、命懸けの極限状況に挑み、自分だけが生き残る価値を示しましょう。生還は望めない。",
+      "reviewSnippet": "ソロはできないですが、複数人でのプレイはかなりカオスになり笑いが止まりません。 笑いつかれて長い時間プレイできない。。。",
+      "rawScore": 50.43157460167014,
+      "hensachi": 49.7,
+      "rank": 17
     },
     {
       "appid": 2682270,
@@ -436,7 +394,7 @@
       "initialPriceCents": 53000,
       "finalPriceCents": 42400,
       "reviewPositiveRate": 100,
-      "reviewCount": 14,
+      "reviewCount": 21,
       "storeUrl": "https://store.steampowered.com/app/2682270/",
       "genres": [
         "カジュアル",
@@ -446,9 +404,9 @@
       "releaseYear": 2026,
       "shortDescription": "Pight は、マインクラフトのレッドストーンシステムにインスパイアされたミニマルなパズルゲームです。ピストンや様々な種類のブロックを駆使して、明かりを灯すことを目指します。約10レベルごとに追加される新しいギミックにより、奥深いパズル体験を楽しむことができます。",
       "reviewSnippet": "",
-      "rawScore": 48.438080222851625,
-      "hensachi": 49.7,
-      "rank": 20
+      "rawScore": 49.065745965366816,
+      "hensachi": 49,
+      "rank": 18
     },
     {
       "appid": 3682550,
@@ -471,8 +429,8 @@
       "shortDescription": "Birb Game is a multiplayer first racing game with unique perspective of being a bird. Customize your bird with the selection of hats and race against your friends in online multiplayer, or just fly alone and try to beat your best time.",
       "reviewSnippet": "",
       "rawScore": 48.52192449557722,
-      "hensachi": 49.7,
-      "rank": 21
+      "hensachi": 48.7,
+      "rank": 19
     },
     {
       "appid": 4685470,
@@ -494,8 +452,8 @@
       "shortDescription": "Dinosaurs return in this on-rails action shooter with a feral twist!",
       "reviewSnippet": "",
       "rawScore": 48.05045756497986,
-      "hensachi": 49.5,
-      "rank": 22
+      "hensachi": 48.5,
+      "rank": 20
     },
     {
       "appid": 3389490,
@@ -515,57 +473,8 @@
       "shortDescription": "You’re a perky penguin who must find a suitable new place to live as your current surroundings are over-crowded. You’ve heard news of another flock just over the horizon, but it’s cold out there so watch out that you don’t freeze!",
       "reviewSnippet": "",
       "rawScore": 47.385962247788605,
-      "hensachi": 49.2,
-      "rank": 23
-    },
-    {
-      "appid": 4823590,
-      "name": "PS Maker",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4823590/56729cb43819ecb63f0bff118c83ebf54caca2ef/header.jpg?t=1786199782",
-      "discountPercent": 20,
-      "initialPriceCents": 555000,
-      "finalPriceCents": 444000,
-      "reviewPositiveRate": 100,
-      "reviewCount": 3,
-      "storeUrl": "https://store.steampowered.com/app/4823590/",
-      "genres": [
-        "アドベンチャー",
-        "インディー",
-        "RPG",
-        "デザイン & イラストレーション",
-        "教育",
-        "ゲーム開発"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Create 2D top-down story-driven exploration games without writing any code! PS Maker lets you build maps, add characters, write dialogue, set up puzzles, and trigger cutscenes to tell your story. Once it's ready, share your games instantly with friends!",
-      "reviewSnippet": "",
-      "rawScore": 46.27192449557722,
-      "hensachi": 48.7,
-      "rank": 24
-    },
-    {
-      "appid": 4450620,
-      "name": "GRAIN ROT",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4450620/4731734487b93af4b7edaecab28a6ac348ee5f02/header_alt_assets_0.jpg?t=1786114521",
-      "discountPercent": 10,
-      "initialPriceCents": 115000,
-      "finalPriceCents": 103500,
-      "reviewPositiveRate": 88.8,
-      "reviewCount": 446,
-      "storeUrl": "https://store.steampowered.com/app/4450620/",
-      "genres": [
-        "アクション",
-        "インディー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "協力型ホラー脱出系建築ゲーム、爆誕。全てが燃える焦土の荒野でフレンドを道連れに、形を変えていく遺跡へと降り立ち、家具をもぎ取って、戦利品を漁り、「腐敗」が迫る前に脱出だ。生還したら前哨基地を再建して、次の遺跡潜りの成功率を高めよう。",
-      "reviewSnippet": "2026/8/8 一度失敗すると部屋を立て直さない限りクエスト目標がマップに湧かなくなる不具合あり。 キャラエディット設…",
-      "rawScore": 45.58116046464882,
-      "hensachi": 48.4,
-      "rank": 25
+      "hensachi": 48.2,
+      "rank": 21
     },
     {
       "appid": 4145350,
@@ -574,8 +483,8 @@
       "discountPercent": 10,
       "initialPriceCents": 220000,
       "finalPriceCents": 198000,
-      "reviewPositiveRate": 95,
-      "reviewCount": 40,
+      "reviewPositiveRate": 93,
+      "reviewCount": 43,
       "storeUrl": "https://store.steampowered.com/app/4145350/",
       "genres": [
         "アドベンチャー",
@@ -586,9 +495,31 @@
       "releaseYear": 2026,
       "shortDescription": "脱出アドベンチャーゲーム。お茶会の途中、悪魔に作られた世界に囚われてしまったアリスたちは果たしてこの世界から無事に脱出することはできるのか。",
       "reviewSnippet": "",
-      "rawScore": 43.83597681781032,
-      "hensachi": 47.6,
-      "rank": 26
+      "rawScore": 43.251708213155425,
+      "hensachi": 46,
+      "rank": 22
+    },
+    {
+      "appid": 4980680,
+      "name": "BLUE SHIP",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4980680/0ef73c0b9ea269d5f0dcca73a71d37f2e083eae4/header.jpg?t=1786234872",
+      "discountPercent": 15,
+      "initialPriceCents": 31000,
+      "finalPriceCents": 26300,
+      "reviewPositiveRate": 100,
+      "reviewCount": 1,
+      "storeUrl": "https://store.steampowered.com/app/4980680/",
+      "genres": [
+        "アクション",
+        "インディー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Choose from ships with distinct combat styles, unleash devastating skills, and carve a path through relentless enemy barrages. BLUE SHIP is a compact, high-intensity 2D vertical-scrolling shoot ’em up featuring Story, Boss Practice, Time Attack, and Endless modes.",
+      "reviewSnippet": "",
+      "rawScore": 42.885962247788605,
+      "hensachi": 45.8,
+      "rank": 23
     },
     {
       "appid": 5032240,
@@ -610,8 +541,8 @@
       "shortDescription": "This premium wallpaper pack for **SEXOPHOBIA - Wallpapers 🔞** features **12 high-quality images** capturing the game’s most bold, provocative, and visually striking moments.",
       "reviewSnippet": "",
       "rawScore": 42.885962247788605,
-      "hensachi": 47.2,
-      "rank": 27
+      "hensachi": 45.8,
+      "rank": 24
     },
     {
       "appid": 4071500,
@@ -620,8 +551,8 @@
       "discountPercent": 20,
       "initialPriceCents": 143000,
       "finalPriceCents": 114400,
-      "reviewPositiveRate": 80,
-      "reviewCount": 20,
+      "reviewPositiveRate": 81.8,
+      "reviewCount": 22,
       "storeUrl": "https://store.steampowered.com/app/4071500/",
       "genres": [
         "カジュアル"
@@ -630,9 +561,9 @@
       "releaseYear": 2026,
       "shortDescription": "元気いっぱいの悪魔少女リリムを助け、この放置系クリッカーゲームで、彼女の頭をなでなでして魔力を回復させよう。能力を強化し、進行を自動化しながら、さまざまな楽しいやり取りを解放しよう。ちょっぴり生意気な悪魔との同居生活を楽しもう！",
       "reviewSnippet": "なんかじぇみじぇみしていきた なんかPVとスクショだとずっと口を開けてて違和感がすごいけど 普通に口閉じます シーンは1…",
-      "rawScore": 41.989506772580825,
-      "hensachi": 46.8,
-      "rank": 28
+      "rawScore": 42.768595607613555,
+      "hensachi": 45.8,
+      "rank": 25
     },
     {
       "appid": 3282300,
@@ -641,8 +572,8 @@
       "discountPercent": 10,
       "initialPriceCents": 315000,
       "finalPriceCents": 283500,
-      "reviewPositiveRate": 62.6,
-      "reviewCount": 10132,
+      "reviewPositiveRate": 62.4,
+      "reviewCount": 10266,
       "storeUrl": "https://store.steampowered.com/app/3282300/",
       "genres": [
         "アクション",
@@ -652,9 +583,9 @@
       "releaseYear": 2026,
       "shortDescription": "『Mistfall Hunter』は、ダークファンタジー脱出アクションゲームです。 クラスごとにスキルやタレント、装備を組み上げ、三人称視点による緊迫のアクションバトルを体おどらせろ！チームで連携するか、あるいはソロとして戦場に赴くか――死線を潜り抜けた者だけが、すべての富を手にできる。ゴールドハンターよ、健闘を祈る。",
       "reviewSnippet": "おもろかったです、ラグで相手のスキル多段ヒットして死ぬまでスタンして金装備を失うまでは、、、あとチーターいますスキル無限…",
-      "rawScore": 41.52599261377897,
-      "hensachi": 46.6,
-      "rank": 29
+      "rawScore": 41.477522875555,
+      "hensachi": 45.1,
+      "rank": 26
     },
     {
       "appid": 4866640,
@@ -674,8 +605,8 @@
       "shortDescription": "FEEL WHAT IT'S LIKE TO FLY FPV Trippy Plains is an FPV drone simulator built for both total beginners and experienced pilots. Strap into the cockpit of a 5&quot; freestyle quad, a racing drone, a collective-pitch helicopter or a tiny whoop then fly anywhere you want across 15 distinct worlds.",
       "reviewSnippet": "",
       "rawScore": 41.30045756497986,
-      "hensachi": 46.5,
-      "rank": 30
+      "hensachi": 45,
+      "rank": 27
     },
     {
       "appid": 2310260,
@@ -697,8 +628,8 @@
       "shortDescription": "&quot;Super Smash Asteroids&quot; is a high-speed, twin-stick, top-down, rogue-like space shooter. Choose from 6 unique ships, upgrade with 70+ items &amp; blast through epic bosses. Level up for intense, action-packed battles in a futuristic universe. Buckle up for a thrilling journey to glory!",
       "reviewSnippet": "",
       "rawScore": 35.43641981276846,
-      "hensachi": 43.8,
-      "rank": 31
+      "hensachi": 42,
+      "rank": 28
     },
     {
       "appid": 4838500,
@@ -718,8 +649,8 @@
       "shortDescription": "ホラー、コメディ、没入型フォトモードを同時に楽しめる一作！",
       "reviewSnippet": "",
       "rawScore": 26.050457564979858,
-      "hensachi": 39.5,
-      "rank": 32
+      "hensachi": 37.2,
+      "rank": 29
     },
     {
       "appid": 78920,
@@ -737,32 +668,35 @@
       "shortDescription": "",
       "reviewSnippet": "",
       "rawScore": 14.4,
-      "hensachi": 34.2,
-      "rank": 33
+      "hensachi": 31.1,
+      "rank": 30
     },
     {
-      "appid": 5000920,
-      "name": "暗黒城の魔女　オリジナル・サウンドトラック",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5000920/07a1c126a5ede01784f2820023e24fb1c78a233b/header_japanese.jpg?t=1786201300",
-      "discountPercent": 10,
-      "initialPriceCents": 183300,
-      "finalPriceCents": 164900,
+      "appid": 3905230,
+      "name": "专注契约",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3905230/45bdfde44f9524405e7956cd0f4ced399db49bc6/header.jpg?t=1786259539",
+      "discountPercent": 20,
+      "initialPriceCents": 105000,
+      "finalPriceCents": 84000,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5000920/",
-      "genres": [],
-      "supportsJapanese": false,
+      "storeUrl": "https://store.steampowered.com/app/3905230/",
+      "genres": [
+        "インディー",
+        "ユーティリティ"
+      ],
+      "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "古典ゲームブックの魅力を現代に蘇らせたゲームブックRPG『ヴェリタステイルズ：暗黒城の魔女』のオリジナル・サウンドトラック。崎元仁が手がけた劇伴音楽全13曲を収録。",
+      "shortDescription": "集中契約は、本気で自己管理に取り組むためのゲーム型ツールです。集中して契約コインを獲得し、娯楽時間と交換できます。",
       "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 29.7,
-      "rank": 34
+      "rawScore": 9,
+      "hensachi": 28.4,
+      "rank": 31
     },
     {
       "appid": 4961730,
       "name": "Accident Investigator Simulator: Black Box",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4961730/34d3276073a100f4a7cf8a7d17fb671a4034bb8f/header.jpg?t=1786175899",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4961730/34d3276073a100f4a7cf8a7d17fb671a4034bb8f/header.jpg?t=1786275639",
       "discountPercent": 10,
       "initialPriceCents": 170000,
       "finalPriceCents": 153000,
@@ -779,53 +713,8 @@
       "shortDescription": "連邦調査官となり、あらゆる事故の裏に潜む真実を暴け。ブラックボックスを回収し、証拠を照合し、矛盾を暴き、無実の人が濡れ衣を着せられる前に真の原因を突き止めろ。どんでん返し満載の緊迫の捜査シミュレーション。",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 29.7,
-      "rank": 35
-    },
-    {
-      "appid": 4983940,
-      "name": "Terra Physics & Money",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4983940/d47f214fc5af096d5a73c3b4b3fc7013732bbc06/header.jpg?t=1786143841",
-      "discountPercent": 10,
-      "initialPriceCents": 60500,
-      "finalPriceCents": 54400,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4983940/",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "シミュレーション",
-        "ストラテジー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "物理演算で動く数百万個のブロックで構成された、完全に破壊可能なプロシージャル世界を探索しよう。水、溶岩、蒸気をシミュレートし、資源を採掘して自由に建設・取引。ランダムなシードごとに唯一無二の体験が生まれます。",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 29.7,
-      "rank": 36
-    },
-    {
-      "appid": 3644170,
-      "name": "Shirohebi and The Tower of Mercy",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3644170/1d52842048d495630b993d7e74aa66c52598c554/header.jpg?t=1786135739",
-      "discountPercent": 10,
-      "initialPriceCents": 135000,
-      "finalPriceCents": 121500,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/3644170/",
-      "genres": [
-        "RPG"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "In this roguelite RPG, Nemesis climbs the Tower of Mercy and discovers its secrets. He can meet and team up with other characters, and learn their reasons for climbing the tower. However, he needs to be cautious as he continues, since an entity is taking his strength away.",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 29.7,
-      "rank": 37
+      "hensachi": 26,
+      "rank": 32
     }
   ]
 }
