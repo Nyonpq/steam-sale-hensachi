@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-16T00:52:39.245Z",
+  "fetchedAt": "2026-08-16T06:27:39.743Z",
   "currency": "JPY",
   "count": 26,
-  "averageDiscount": 31.7,
+  "averageDiscount": 31,
   "deals": [
     {
       "appid": 1687950,
@@ -12,7 +12,7 @@
       "initialPriceCents": 767800,
       "finalPriceCents": 230300,
       "reviewPositiveRate": 96.4,
-      "reviewCount": 137116,
+      "reviewCount": 137146,
       "storeUrl": "https://store.steampowered.com/app/1687950/",
       "genres": [
         "ターン制ストラテジー",
@@ -23,8 +23,8 @@
       "releaseYear": 2022,
       "shortDescription": "奪え、その意志で。",
       "reviewSnippet": "とてもいいRPGだ。ストーリーがすごくおもしろかった。絵も大好きだ。キャラクターもそれぞれ個性があって、よくできている。…",
-      "rawScore": 84.62525019886702,
-      "hensachi": 65.8,
+      "rawScore": 84.62560872505523,
+      "hensachi": 66,
       "rank": 1
     },
     {
@@ -35,7 +35,7 @@
       "initialPriceCents": 767800,
       "finalPriceCents": 268700,
       "reviewPositiveRate": 94.4,
-      "reviewCount": 61473,
+      "reviewCount": 61491,
       "storeUrl": "https://store.steampowered.com/app/2161700/",
       "genres": [
         "ターン制ストラテジー",
@@ -47,9 +47,9 @@
       "supportsJapanese": true,
       "releaseYear": 2024,
       "shortDescription": "『ペルソナ３』が、装いを新たに現行最新ハードにて生まれ変わる！",
-      "reviewSnippet": "めちゃくちゃ神ゲー ストーリーもキャラもBGMもかなり好み ペルソナ5Rも好みのゲームでしたが同じくらい面白い タルタロ…",
-      "rawScore": 80.36053385955708,
-      "hensachi": 64.2,
+      "reviewSnippet": "神ゲーです！！！！！！！！！ 序盤から中盤はストーリー的には少し単調気味という意見もよく聞きますが、自分はそこまで感じま…",
+      "rawScore": 80.36101365475312,
+      "hensachi": 64.4,
       "rank": 2
     },
     {
@@ -60,7 +60,7 @@
       "initialPriceCents": 748000,
       "finalPriceCents": 224400,
       "reviewPositiveRate": 86.4,
-      "reviewCount": 11370,
+      "reviewCount": 11379,
       "storeUrl": "https://store.steampowered.com/app/2552430/",
       "genres": [
         "ハクスラ",
@@ -72,8 +72,8 @@
       "releaseYear": 2024,
       "shortDescription": "「キングダム ハーツ」シリーズの原点となる1作目から根幹となる6作品を収録した、『KINGDOM HEARTS -HD 1.5+2.5 ReMIX-』がSteamに登場！ 今、夢のような冒険へ。",
       "reviewSnippet": "ＫＨ２が一番面白いです。 相変わらず面白いゲームで本当に大好きなシリーズなのですが、Ｂｂｓに関してオマ環かもしれませんが…",
-      "rawScore": 77.04490060200936,
-      "hensachi": 63,
+      "rawScore": 77.04619721531718,
+      "hensachi": 63.3,
       "rank": 3
     },
     {
@@ -84,7 +84,7 @@
       "initialPriceCents": 968000,
       "finalPriceCents": 290400,
       "reviewPositiveRate": 90.6,
-      "reviewCount": 2776,
+      "reviewCount": 2777,
       "storeUrl": "https://store.steampowered.com/app/2552450/",
       "genres": [
         "ハクスラ",
@@ -96,8 +96,8 @@
       "releaseYear": 2024,
       "shortDescription": "１作目から続いた“ダークシーカー編”の完結を描くシリーズ最新作。ディズニーの世界を舞台に物語が展開し、本作ではピクサーなどの新たなワールドが加わったことにより、より壮大な世界観へと発展しました。また、本作のクライマックスの裏側で起きていた、もう一つの物語「Re Mind」も収録しています。",
       "reviewSnippet": "最高のストーリー！！！",
-      "rawScore": 76.20462596132172,
-      "hensachi": 62.7,
+      "rawScore": 76.20521600528905,
+      "hensachi": 63,
       "rank": 4
     },
     {
@@ -108,7 +108,7 @@
       "initialPriceCents": 88000,
       "finalPriceCents": 44000,
       "reviewPositiveRate": 94.6,
-      "reviewCount": 350805,
+      "reviewCount": 351088,
       "storeUrl": "https://store.steampowered.com/app/3527290/",
       "genres": [
         "アクション",
@@ -120,7 +120,7 @@
       "shortDescription": "『PEAK』は、わずかなミスが命取りになる協力登山ゲームだ。道を失った自然探検隊（ソロまたはマルチ）としてプレイ。この不思議な島から脱出するには、島の中心にある山を登るしかない。君はその山頂に到達できるだろうか？",
       "reviewSnippet": "アプデが入ったということで二人でしました。 登頂まで2時間くらいで行けました。 ちょうどよい難易度で面白かったです。",
       "rawScore": 75.61,
-      "hensachi": 62.5,
+      "hensachi": 62.8,
       "rank": 5
     },
     {
@@ -131,7 +131,7 @@
       "initialPriceCents": 759000,
       "finalPriceCents": 531300,
       "reviewPositiveRate": 96.5,
-      "reviewCount": 1205465,
+      "reviewCount": 1205515,
       "storeUrl": "https://store.steampowered.com/app/2358720/",
       "genres": [
         "ソウルライク",
@@ -145,7 +145,7 @@
       "shortDescription": "『黒神話：悟空』は中国神話を背景にしたアクションRPGゲームです。プレイヤーは「天命人」と呼ばれるキャラクターとなり、古い伝説に隠された真相を究明するため、険しくも不思議な西遊の旅路を辿ります。",
       "reviewSnippet": "色々と足りない箇所はあるがボス戦をひたすらやるのが向いていれば楽しいと感じると思います。",
       "rawScore": 67.275,
-      "hensachi": 59.4,
+      "hensachi": 59.8,
       "rank": 6
     },
     {
@@ -156,7 +156,7 @@
       "initialPriceCents": 148000,
       "finalPriceCents": 96200,
       "reviewPositiveRate": 97.8,
-      "reviewCount": 1129,
+      "reviewCount": 1196,
       "storeUrl": "https://store.steampowered.com/app/2764460/",
       "genres": [
         "シミュレーション",
@@ -167,8 +167,8 @@
       "releaseYear": 2026,
       "shortDescription": "すべてを破壊できる世界を探索し、資源を採掘しよう。複雑さを増していく生産チェーンを自動化し、地中深くへ掘り進んで、古代文明が遺した大いなる秘密を解き明かせ。砂さえ愛おしくなる、あらゆるピクセルが貴重な資源となる工場自動化ゲーム！",
       "reviewSnippet": "結構前に体験版やってたけど、日本語対応したのもあって結構遊びやすくなったと感じた。買って絶対に損はしない。",
-      "rawScore": 61.50105073012611,
-      "hensachi": 57.3,
+      "rawScore": 61.59544962417513,
+      "hensachi": 57.8,
       "rank": 7
     },
     {
@@ -179,7 +179,7 @@
       "initialPriceCents": 198000,
       "finalPriceCents": 148500,
       "reviewPositiveRate": 98.1,
-      "reviewCount": 9675,
+      "reviewCount": 9793,
       "storeUrl": "https://store.steampowered.com/app/2950790/",
       "genres": [
         "アクション",
@@ -190,8 +190,8 @@
       "releaseYear": 2026,
       "shortDescription": "『IRON NEST』は、巨大な戦車で戦場を制圧する、過激なディーゼル・パンクヘビーアサルトゲームだ。 受信した座標をマップで確認し、油圧システムをフル稼働させて大砲の照準を合わせ、敵に壊滅的な一撃を放て！！⟹オペレーター諸君、最高司令部命令に従うか？",
       "reviewSnippet": "いつか見た潜水艦で魚雷撃つゲームの頭使ってる感に憧れていたが、あれは私には難しすぎた。 これは 地図で敵位置計算(割と簡…",
-      "rawScore": 60.62536173467865,
-      "hensachi": 57,
+      "rawScore": 60.64522679125358,
+      "hensachi": 57.4,
       "rank": 8
     },
     {
@@ -201,8 +201,8 @@
       "discountPercent": 25,
       "initialPriceCents": 230000,
       "finalPriceCents": 172500,
-      "reviewPositiveRate": 93.8,
-      "reviewCount": 16067,
+      "reviewPositiveRate": 93.9,
+      "reviewCount": 16441,
       "storeUrl": "https://store.steampowered.com/app/1478500/",
       "genres": [
         "アドベンチャー"
@@ -211,8 +211,8 @@
       "releaseYear": 2026,
       "shortDescription": "親しい友人たちと広大な世界を探索したり、迷子になったりしてみよう。『Untitled Goose Game』の開発陣が贈る、協力型オンライン通信ゲーム。",
       "reviewSnippet": "正直、、、ギリギリ高評価といったところ。まず、友達は必須でぼっちお断りです。オープンワールドを自由に探索しパズルを解くゲ…",
-      "rawScore": 59.95155404928164,
-      "hensachi": 56.7,
+      "rawScore": 60.02426280705332,
+      "hensachi": 57.2,
       "rank": 9
     },
     {
@@ -223,7 +223,7 @@
       "initialPriceCents": 242000,
       "finalPriceCents": 150000,
       "reviewPositiveRate": 100,
-      "reviewCount": 45,
+      "reviewCount": 49,
       "storeUrl": "https://store.steampowered.com/app/4588700/",
       "genres": [
         "アドベンチャー",
@@ -234,8 +234,8 @@
       "releaseYear": 2026,
       "shortDescription": "モンスターたちの大学を舞台にした成人向けビジュアルノベル。欲望が生存を左右します。インキュバスの宿主となり、「熱」を管理しながら恋愛と人間関係を築きましょう。探索、能力強化、シーン解放を楽しめます。🔞",
       "reviewSnippet": "",
-      "rawScore": 58.374557855402166,
-      "hensachi": 56.2,
+      "rawScore": 58.511207563532146,
+      "hensachi": 56.7,
       "rank": 10
     },
     {
@@ -257,52 +257,8 @@
       "shortDescription": "この冒険に参加して、手作りのアテネの風景の中に隠れている101匹の子猫🐾を見つけよう。🏆たくさんの実績を獲得しよう。何匹見つけられるかな😺？🔎急いで！⏱️",
       "reviewSnippet": "",
       "rawScore": 54.135962247788605,
-      "hensachi": 54.6,
+      "hensachi": 55.1,
       "rank": 11
-    },
-    {
-      "appid": 4395020,
-      "name": "クラムス島の開拓者～淫らな魔物と娼館酒場～",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4395020/81e0481c80729d596ec02f5489dd7485df327927/header_japanese.jpg?t=1786764069",
-      "discountPercent": 20,
-      "initialPriceCents": 242000,
-      "finalPriceCents": 193600,
-      "reviewPositiveRate": 92.3,
-      "reviewCount": 13,
-      "storeUrl": "https://store.steampowered.com/app/4395020/",
-      "genres": [
-        "アドベンチャー",
-        "RPG"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "このRPGでは、漂流してクラムス島に流れ着いた新人冒険者のエイミとして物語を進めます。モンスターと戦い、クエストをこなし、装備を強化し、島の住人たちと出会いながら冒険を広げていきましょう。一流冒険者として頂点に登り詰めるか……それとも、純潔を失いながら堕ちていくか。すべては、あなたの選択次第です。",
-      "reviewSnippet": "",
-      "rawScore": 45.63001145538958,
-      "hensachi": 51.5,
-      "rank": 12
-    },
-    {
-      "appid": 4240150,
-      "name": "妹、他者、パラノイア",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4240150/8d9c133cbced1a1b3011ce3b263bb7d89dd82165/header_japanese.jpg?t=1786811025",
-      "discountPercent": 20,
-      "initialPriceCents": 120000,
-      "finalPriceCents": 96000,
-      "reviewPositiveRate": 79.1,
-      "reviewCount": 201,
-      "storeUrl": "https://store.steampowered.com/app/4240150/",
-      "genres": [
-        "アドベンチャー",
-        "インディー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "世界的な評価を得ているクリエイター「nyalra」による、ダークなビジュアルノベル。 主人公は他人の感情を読むことができるラノベ作家の青年。他人の感情に敏感すぎる彼の唯一の心の拠り所は、共に引きこもり続けてくれるギフテッドの妹だけだった……。",
-      "reviewSnippet": "サクッと読めるサブカル文学がお好きならまあオススメ、 ただ露悪的な表現もあるのでそういうの苦手な方にはオススメできないか…",
-      "rawScore": 45.38443912998726,
-      "hensachi": 51.4,
-      "rank": 13
     },
     {
       "appid": 3236900,
@@ -311,8 +267,8 @@
       "discountPercent": 10,
       "initialPriceCents": 210000,
       "finalPriceCents": 189000,
-      "reviewPositiveRate": 89.3,
-      "reviewCount": 168,
+      "reviewPositiveRate": 89.6,
+      "reviewCount": 182,
       "storeUrl": "https://store.steampowered.com/app/3236900/",
       "genres": [
         "アドベンチャー",
@@ -323,9 +279,9 @@
       "releaseYear": 2026,
       "shortDescription": "思いがけない死の果てに、あなたは二度目の人生を与えられます。 神の計らいにより、静かな中世の町で小さなパブの主人として転生します。 新たな世界で冒険に出かけ、魅力的な少女たちと出会い、宝を探して危機に瀕したパブを救いましょう。",
       "reviewSnippet": "体験版引き続ぐと、ストーリー03が埋まりませんよ コンプしたい方はご注意ください。",
-      "rawScore": 44.16211964005159,
-      "hensachi": 51,
-      "rank": 14
+      "rawScore": 44.39755128200162,
+      "hensachi": 51.7,
+      "rank": 12
     },
     {
       "appid": 4787190,
@@ -334,8 +290,8 @@
       "discountPercent": 20,
       "initialPriceCents": 65500,
       "finalPriceCents": 52400,
-      "reviewPositiveRate": 78.2,
-      "reviewCount": 78,
+      "reviewPositiveRate": 77.4,
+      "reviewCount": 84,
       "storeUrl": "https://store.steampowered.com/app/4787190/",
       "genres": [
         "カジュアル",
@@ -346,9 +302,9 @@
       "releaseYear": 2026,
       "shortDescription": "そびえ立つ2D要塞を建設し、拡張し、武装させて、地上と空から押し寄せる終わりなき攻撃の波に耐え抜こう。 名もなき辺境の村を舞台に、あまりにも長く続いた包囲戦が伝説となった世界で、『The Legend of Mala Tokmachka』は生存を神話へと変える。",
       "reviewSnippet": "",
-      "rawScore": 43.53085694826582,
-      "hensachi": 50.7,
-      "rank": 15
+      "rawScore": 43.37082613477092,
+      "hensachi": 51.3,
+      "rank": 13
     },
     {
       "appid": 3816000,
@@ -357,8 +313,8 @@
       "discountPercent": 10,
       "initialPriceCents": 170000,
       "finalPriceCents": 153000,
-      "reviewPositiveRate": 94.1,
-      "reviewCount": 34,
+      "reviewPositiveRate": 87.3,
+      "reviewCount": 55,
       "storeUrl": "https://store.steampowered.com/app/3816000/",
       "genres": [
         "インディー",
@@ -369,31 +325,30 @@
       "releaseYear": 2026,
       "shortDescription": "『Flowers and Deities』は、戦略的なデッキビルド・ローグライト。血塗られたリザードキンの軍勢を率い、激化するアリーナを戦い抜け。流された血の一滴までを魔法や召喚の糧とし、過酷な試練を生き延びて神々の加護を掴み取れ",
       "reviewSnippet": "",
-      "rawScore": 43.261671865472735,
-      "hensachi": 50.6,
-      "rank": 16
+      "rawScore": 41.65193595096679,
+      "hensachi": 50.7,
+      "rank": 14
     },
     {
-      "appid": 4936740,
-      "name": "Puzzles Frogs",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4936740/36c9accf3b0990d40a4e342cdd73b5f74eb12e72/header.jpg?t=1786801434",
-      "discountPercent": 40,
-      "initialPriceCents": 13500,
-      "finalPriceCents": 8100,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4936740/",
+      "appid": 4206840,
+      "name": "One Day To Live",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4206840/2d4fd6f482bb2bf409b4a112482a190c6d089b6b/header.jpg?t=1786841886",
+      "discountPercent": 10,
+      "initialPriceCents": 120000,
+      "finalPriceCents": 108000,
+      "reviewPositiveRate": 100,
+      "reviewCount": 1,
+      "storeUrl": "https://store.steampowered.com/app/4206840/",
       "genres": [
-        "カジュアル",
-        "インディー"
+        "アクション"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "This game is a classic puzzle game with multiple levels and beautiful graphics. Enjoy!",
+      "shortDescription": "The entire world is infected. Many have already turned. The booster shots can only hold off the infection for 24 hours at a time now. You only have one day to live, will you survive?",
       "reviewSnippet": "",
-      "rawScore": 18,
-      "hensachi": 41.4,
-      "rank": 17
+      "rawScore": 40.635962247788605,
+      "hensachi": 50.3,
+      "rank": 15
     },
     {
       "appid": 3982960,
@@ -416,8 +371,8 @@
       "shortDescription": "Solve tile-swapping puzzles to unveil pretty anime girls by the artist Luca Brasil.",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 41.4,
-      "rank": 18
+      "hensachi": 42.3,
+      "rank": 16
     },
     {
       "appid": 2529620,
@@ -440,8 +395,8 @@
       "shortDescription": "アーティスト、トモゼロ（Tomozero）によって描かれたかわいいアニメの女の子を明らかにするために、タイルスワップパズルを解いてください。",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 41.4,
-      "rank": 19
+      "hensachi": 42.3,
+      "rank": 17
     },
     {
       "appid": 78920,
@@ -459,7 +414,58 @@
       "shortDescription": "",
       "reviewSnippet": "",
       "rawScore": 14.4,
-      "hensachi": 40.1,
+      "hensachi": 41,
+      "rank": 18
+    },
+    {
+      "appid": 4977910,
+      "name": "Cosmic Crossover",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4977910/8ab040aad5fbce0b09ddc8bb5792dd55e8395745/header.jpg?t=1786850686",
+      "discountPercent": 25,
+      "initialPriceCents": 135000,
+      "finalPriceCents": 101200,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4977910/",
+      "genres": [
+        "インディー",
+        "RPG",
+        "シミュレーション",
+        "スポーツ",
+        "ストラテジー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Draft a ragtag squad of alien, mutant, robot, and human hoopers. Collect advanced alien gear. Stack game-breaking cosmic relics. Coach every quarter of a simulated 5v5 season. Build enough power to challenge The King for the Galactic Cup!",
+      "reviewSnippet": "",
+      "rawScore": 11.25,
+      "hensachi": 39.9,
+      "rank": 19
+    },
+    {
+      "appid": 4659330,
+      "name": "世紀末の目覚め",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4659330/ac240ea0ede849ccf6d3057fdcfcccdef00b937b/header_japanese.jpg?t=1786844813",
+      "discountPercent": 25,
+      "initialPriceCents": 65500,
+      "finalPriceCents": 49100,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4659330/",
+      "genres": [
+        "アドベンチャー",
+        "カジュアル",
+        "インディー",
+        "RPG",
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "これは未来生活育成ゲームです。あなたは病気のために冷凍睡眠に入っていた若者を演じ、2099年に目覚めます。ゲームは24ターンを制限として、時間を合理的に配分し、10の2Dシーンと3つの3Dシーンを自由に探索し、合成、社交、情報収集などの多様なプレイスタイルを体験します。異なる派閥の人物と恋愛したり、交流したり、取引や依頼任務を完遂することができます。3つの主要派閥への好感度が相互に影響し合い、最終的に8種類の異なるエンディングに導かれます。",
+      "reviewSnippet": "",
+      "rawScore": 11.25,
+      "hensachi": 39.9,
       "rank": 20
     },
     {
@@ -482,51 +488,53 @@
       "shortDescription": "美しい星空と流星の下で、落ちてくる文字を素早くタイピングして破壊せよ！アクティブスキルとマーキングシステムを駆使し、爆発、氷結減速、ボーナススコアなどの華麗な効果を発動させ、数十種類のユニークなステージに挑め！",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 38.1,
+      "hensachi": 39.1,
       "rank": 21
     },
     {
-      "appid": 4970270,
-      "name": "Angel Told Me",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4970270/ca657b1a0c8d1fcacff346afe6b8f76565f482c6/header.jpg?t=1786807806",
+      "appid": 5054000,
+      "name": "Monster Girls: You Can't Say No - Wallpapers🔞",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5054000/341f6236b22de47ae00b05b0120b9fd91052d828/header.jpg?t=1786805579",
       "discountPercent": 15,
-      "initialPriceCents": 170000,
-      "finalPriceCents": 144500,
+      "initialPriceCents": 39500,
+      "finalPriceCents": 33600,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4970270/",
+      "storeUrl": "https://store.steampowered.com/app/5054000/",
       "genres": [
-        "アクション",
-        "インディー",
-        "RPG"
+        "カジュアル",
+        "RPG",
+        "シミュレーション"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "The Angel spoke. I listened. A brutal retro FPS descent through the spawn of hell — three callings, many weapons, a loyal hound and an armored warhorse. Ride, cleave, conjure and repent. Forgive them all.",
+      "shortDescription": "Monster Girls: You Can't Say No - Wallpapers 🔞 brings together 11 visually rich scenes where monstrous charm meets irresistible temptation",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 37.3,
+      "hensachi": 38.3,
       "rank": 22
     },
     {
-      "appid": 4206840,
-      "name": "One Day To Live",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4206840/2d4fd6f482bb2bf409b4a112482a190c6d089b6b/header.jpg?t=1786840260",
+      "appid": 4883890,
+      "name": "Octo Armada",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4883890/abe83ca0132f94a23cc307e04752934c30790583/header.jpg?t=1786842413",
       "discountPercent": 10,
-      "initialPriceCents": 120000,
-      "finalPriceCents": 108000,
+      "initialPriceCents": 26500,
+      "finalPriceCents": 23800,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4206840/",
+      "storeUrl": "https://store.steampowered.com/app/4883890/",
       "genres": [
-        "アクション"
+        "アクション",
+        "カジュアル",
+        "インディー"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "The entire world is infected. Many have already turned. The booster shots can only hold off the infection for 24 hours at a time now. You only have one day to live, will you survive?",
+      "shortDescription": "Octo Armada is a fast-paced space survivor roguelite where you pilot a spaceship through relentless waves of Octos. Collect Crystals to unlock powerful upgrades and create devastating builds to survive the invasion.",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 36.4,
+      "hensachi": 37.5,
       "rank": 23
     },
     {
@@ -547,7 +555,7 @@
       "shortDescription": "2022年にNintendo Switchで発売された、東方Projectの世界を舞台にした農業スローライフシミュレーション。風見幽香となって季節の作物を育て、牛・羊・鶏の世話や釣り、料理、幻想郷の住人たちとの交流を自分のペースで楽しもう。",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 36.4,
+      "hensachi": 37.5,
       "rank": 24
     },
     {
@@ -571,7 +579,7 @@
       "shortDescription": "Metal Workshop Manager is a production management simulation where you run your own metalworking shop. Accept orders, buy materials, set up machines, manage tools and workers, avoid costly mistakes, and complete increasingly complex projects before their deadlines.",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 36.4,
+      "hensachi": 37.5,
       "rank": 25
     },
     {
@@ -595,7 +603,7 @@
       "shortDescription": "全身リズムフィットネスゲーム。バーチャルコーチに従い、音楽のビートに合わせてその場で動きましょう。VR不要 — パソコンの前に立つだけ。200以上の動作、150以上の曲、80以上のコーチ。自分の音楽をインポート、カスタムワークアウトを作成。運動を楽しく。",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 36.4,
+      "hensachi": 37.5,
       "rank": 26
     }
   ]
