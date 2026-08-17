@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-17T06:38:21.114Z",
+  "fetchedAt": "2026-08-17T12:28:50.747Z",
   "currency": "JPY",
-  "count": 22,
-  "averageDiscount": 30,
+  "count": 26,
+  "averageDiscount": 28.4,
   "deals": [
     {
       "appid": 1687950,
@@ -12,7 +12,7 @@
       "initialPriceCents": 767800,
       "finalPriceCents": 230300,
       "reviewPositiveRate": 96.4,
-      "reviewCount": 137251,
+      "reviewCount": 137264,
       "storeUrl": "https://store.steampowered.com/app/1687950/",
       "genres": [
         "ターン制ストラテジー",
@@ -23,34 +23,9 @@
       "releaseYear": 2022,
       "shortDescription": "奪え、その意志で。",
       "reviewSnippet": "とてもいいRPGだ。ストーリーがすごくおもしろかった。絵も大好きだ。キャラクターもそれぞれ個性があって、よくできている。…",
-      "rawScore": 84.6268629494078,
-      "hensachi": 65.9,
+      "rawScore": 84.62701816757158,
+      "hensachi": 67,
       "rank": 1
-    },
-    {
-      "appid": 2161700,
-      "name": "ペルソナ３ リロード",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/header.jpg?t=1764776430",
-      "discountPercent": 65,
-      "initialPriceCents": 767800,
-      "finalPriceCents": 268700,
-      "reviewPositiveRate": 94.4,
-      "reviewCount": 61562,
-      "storeUrl": "https://store.steampowered.com/app/2161700/",
-      "genres": [
-        "ターン制ストラテジー",
-        "ビジュアルノベル",
-        "アドベンチャー",
-        "RPG",
-        "ストラテジー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2024,
-      "shortDescription": "『ペルソナ３』が、装いを新たに現行最新ハードにて生まれ変わる！",
-      "reviewSnippet": "神ゲーです！！！！！！！！！ 序盤から中盤はストーリー的には少し単調気味という意見もよく聞きますが、自分はそこまで感じま…",
-      "rawScore": 80.36290481166864,
-      "hensachi": 64.3,
-      "rank": 2
     },
     {
       "appid": 2552430,
@@ -60,7 +35,7 @@
       "initialPriceCents": 748000,
       "finalPriceCents": 224400,
       "reviewPositiveRate": 86.4,
-      "reviewCount": 11435,
+      "reviewCount": 11445,
       "storeUrl": "https://store.steampowered.com/app/2552430/",
       "genres": [
         "ハクスラ",
@@ -72,8 +47,32 @@
       "releaseYear": 2024,
       "shortDescription": "「キングダム ハーツ」シリーズの原点となる1作目から根幹となる6作品を収録した、『KINGDOM HEARTS -HD 1.5+2.5 ReMIX-』がSteamに登場！ 今、夢のような冒険へ。",
       "reviewSnippet": "ゲームの内容は言わずもがな良いです。ただバグが少し目立ちます。 KH1→KH2→BbSと現在プレイしていますが、BbSの…",
-      "rawScore": 77.05424206296586,
-      "hensachi": 63.1,
+      "rawScore": 77.0556744964995,
+      "hensachi": 64.1,
+      "rank": 2
+    },
+    {
+      "appid": 2552450,
+      "name": "KINGDOM HEARTS III + Re Mind (DLC)",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2552450/header_japanese.jpg?t=1779418883",
+      "discountPercent": 70,
+      "initialPriceCents": 968000,
+      "finalPriceCents": 290400,
+      "reviewPositiveRate": 90.6,
+      "reviewCount": 2789,
+      "storeUrl": "https://store.steampowered.com/app/2552450/",
+      "genres": [
+        "ハクスラ",
+        "アクション",
+        "アドベンチャー",
+        "RPG"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2024,
+      "shortDescription": "１作目から続いた“ダークシーカー編”の完結を描くシリーズ最新作。ディズニーの世界を舞台に物語が展開し、本作ではピクサーなどの新たなワールドが加わったことにより、より壮大な世界観へと発展しました。また、本作のクライマックスの裏側で起きていた、もう一つの物語「Re Mind」も収録しています。",
+      "reviewSnippet": "最高のストーリー！！！",
+      "rawScore": 76.21228001235319,
+      "hensachi": 63.7,
       "rank": 3
     },
     {
@@ -84,7 +83,7 @@
       "initialPriceCents": 88000,
       "finalPriceCents": 44000,
       "reviewPositiveRate": 94.5,
-      "reviewCount": 352505,
+      "reviewCount": 352763,
       "storeUrl": "https://store.steampowered.com/app/3527290/",
       "genres": [
         "アクション",
@@ -96,7 +95,7 @@
       "shortDescription": "『PEAK』は、わずかなミスが命取りになる協力登山ゲームだ。道を失った自然探検隊（ソロまたはマルチ）としてプレイ。この不思議な島から脱出するには、島の中心にある山を登るしかない。君はその山頂に到達できるだろうか？",
       "reviewSnippet": "アプデが入ったということで二人でしました。 登頂まで2時間くらいで行けました。 ちょうどよい難易度で面白かったです。",
       "rawScore": 75.57499999999999,
-      "hensachi": 62.5,
+      "hensachi": 63.5,
       "rank": 4
     },
     {
@@ -107,7 +106,7 @@
       "initialPriceCents": 759000,
       "finalPriceCents": 531300,
       "reviewPositiveRate": 96.5,
-      "reviewCount": 1205773,
+      "reviewCount": 1205834,
       "storeUrl": "https://store.steampowered.com/app/2358720/",
       "genres": [
         "ソウルライク",
@@ -121,7 +120,7 @@
       "shortDescription": "『黒神話：悟空』は中国神話を背景にしたアクションRPGゲームです。プレイヤーは「天命人」と呼ばれるキャラクターとなり、古い伝説に隠された真相を究明するため、険しくも不思議な西遊の旅路を辿ります。",
       "reviewSnippet": "色々と足りない箇所はあるがボス戦をひたすらやるのが向いていれば楽しいと感じると思います。",
       "rawScore": 67.275,
-      "hensachi": 59.4,
+      "hensachi": 60.3,
       "rank": 5
     },
     {
@@ -132,7 +131,7 @@
       "initialPriceCents": 148000,
       "finalPriceCents": 96200,
       "reviewPositiveRate": 97.5,
-      "reviewCount": 1552,
+      "reviewCount": 1622,
       "storeUrl": "https://store.steampowered.com/app/2764460/",
       "genres": [
         "シミュレーション",
@@ -142,9 +141,9 @@
       "supportsJapanese": true,
       "releaseYear": 2026,
       "shortDescription": "すべてを破壊できる世界を探索し、資源を採掘しよう。複雑さを増していく生産チェーンを自動化し、地中深くへ掘り進んで、古代文明が遺した大いなる秘密を解き明かせ。砂さえ愛おしくなる、あらゆるピクセルが貴重な資源となる工場自動化ゲーム！",
-      "reviewSnippet": "EAなので途中までしかできないけど、すでに面白い ハマるゲームになりそうです",
-      "rawScore": 61.917156436711544,
-      "hensachi": 57.4,
+      "reviewSnippet": "めちゃくちゃおもろいです！ 強いて言えば火炎放射器のパーティクルに当たり判定が地味に嫌です…フリーズ銃がわちゃってなる（…",
+      "rawScore": 61.98940950877824,
+      "hensachi": 58.2,
       "rank": 6
     },
     {
@@ -155,7 +154,7 @@
       "initialPriceCents": 198000,
       "finalPriceCents": 148500,
       "reviewPositiveRate": 98,
-      "reviewCount": 10350,
+      "reviewCount": 10427,
       "storeUrl": "https://store.steampowered.com/app/2950790/",
       "genres": [
         "アクション",
@@ -166,8 +165,8 @@
       "releaseYear": 2026,
       "shortDescription": "『IRON NEST』は、巨大な戦車で戦場を制圧する、過激なディーゼル・パンクヘビーアサルトゲームだ。 受信した座標をマップで確認し、油圧システムをフル稼働させて大砲の照準を合わせ、敵に壊滅的な一撃を放て！！⟹オペレーター諸君、最高司令部命令に従うか？",
       "reviewSnippet": "[h3]良いヘッドフォン、良いスピーカーで近所迷惑を顧みず爆音で遊ぼう！ 軍隊レベルの聴力低下間違いなし！[/h3] 発…",
-      "rawScore": 60.70087663617163,
-      "hensachi": 56.9,
+      "rawScore": 60.7130227264011,
+      "hensachi": 57.7,
       "rank": 7
     },
     {
@@ -177,8 +176,8 @@
       "discountPercent": 25,
       "initialPriceCents": 230000,
       "finalPriceCents": 172500,
-      "reviewPositiveRate": 94,
-      "reviewCount": 17989,
+      "reviewPositiveRate": 94.1,
+      "reviewCount": 18262,
       "storeUrl": "https://store.steampowered.com/app/1478500/",
       "genres": [
         "アドベンチャー"
@@ -187,9 +186,33 @@
       "releaseYear": 2026,
       "shortDescription": "親しい友人たちと広大な世界を探索したり、迷子になったりしてみよう。『Untitled Goose Game』の開発陣が贈る、協力型オンライン通信ゲーム。",
       "reviewSnippet": "正直、、、ギリギリ高評価といったところ。まず、友達は必須でぼっちお断りです。オープンワールドを自由に探索しパズルを解くゲ…",
-      "rawScore": 60.206721371115286,
-      "hensachi": 56.7,
+      "rawScore": 60.26640422307349,
+      "hensachi": 57.6,
       "rank": 8
+    },
+    {
+      "appid": 5026560,
+      "name": "Worm In Rotating Land",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5026560/eca58b580005f9e52efcd516ead6b77b6f5ce8f1/header.jpg?t=1786958994",
+      "discountPercent": 40,
+      "initialPriceCents": 39500,
+      "finalPriceCents": 23700,
+      "reviewPositiveRate": 100,
+      "reviewCount": 2,
+      "storeUrl": "https://store.steampowered.com/app/5026560/",
+      "genres": [
+        "アドベンチャー",
+        "カジュアル",
+        "インディー",
+        "シミュレーション"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Third part of worm adventures and walking simulation and survival game as player worm and mission to find stars and avoid falling to water. So be brave worm and try to find all stars",
+      "reviewSnippet": "",
+      "rawScore": 54.80045756497986,
+      "hensachi": 55.5,
+      "rank": 9
     },
     {
       "appid": 4844810,
@@ -210,8 +233,8 @@
       "shortDescription": "アダルト・ロマンス・ビジュアルノベル。オンライン診療・減量スタートアップの創業者エリオット・フレイ医師となり、不当死亡を巡る調査、FDAの監視、そして埋められた真実の一片ずつを握る三人の女性に向き合う。三つのロマンスルートに、露骨な成人向けシーンを収録。",
       "reviewSnippet": "",
       "rawScore": 54.135962247788605,
-      "hensachi": 54.5,
-      "rank": 9
+      "hensachi": 55.2,
+      "rank": 10
     },
     {
       "appid": 4947950,
@@ -221,7 +244,7 @@
       "initialPriceCents": 39500,
       "finalPriceCents": 29600,
       "reviewPositiveRate": 100,
-      "reviewCount": 1,
+      "reviewCount": 2,
       "storeUrl": "https://store.steampowered.com/app/4947950/",
       "genres": [
         "カジュアル",
@@ -231,9 +254,9 @@
       "releaseYear": 2026,
       "shortDescription": "It's all fun and games... until the Jump Rope Owl shows up.",
       "reviewSnippet": "",
-      "rawScore": 47.385962247788605,
-      "hensachi": 51.9,
-      "rank": 10
+      "rawScore": 48.05045756497986,
+      "hensachi": 52.9,
+      "rank": 11
     },
     {
       "appid": 3236900,
@@ -242,8 +265,8 @@
       "discountPercent": 10,
       "initialPriceCents": 210000,
       "finalPriceCents": 189000,
-      "reviewPositiveRate": 91,
-      "reviewCount": 299,
+      "reviewPositiveRate": 91.3,
+      "reviewCount": 309,
       "storeUrl": "https://store.steampowered.com/app/3236900/",
       "genres": [
         "アドベンチャー",
@@ -254,9 +277,33 @@
       "releaseYear": 2026,
       "shortDescription": "思いがけない死の果てに、あなたは二度目の人生を与えられます。 神の計らいにより、静かな中世の町で小さなパブの主人として転生します。 新たな世界で冒険に出かけ、魅力的な少女たちと出会い、宝を探して危機に瀕したパブを救いましょう。",
       "reviewSnippet": "SDキャラも２次元絵もこの価格の割によくできてます。 好みの話になりますが全キャラほぼアヘ顔、ハート瞳しかないのが残念で…",
-      "rawScore": 45.69762737630061,
-      "hensachi": 51.3,
-      "rank": 11
+      "rawScore": 45.85636488239348,
+      "hensachi": 52,
+      "rank": 12
+    },
+    {
+      "appid": 3147720,
+      "name": "Dual Cat: Max",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3147720/header.jpg?t=1786950853",
+      "discountPercent": 20,
+      "initialPriceCents": 53000,
+      "finalPriceCents": 42400,
+      "reviewPositiveRate": 100,
+      "reviewCount": 1,
+      "storeUrl": "https://store.steampowered.com/app/3147720/",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "インディー",
+        "ストラテジー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "勇敢な心を持つ賢いネコ、マックスを導き、親友アーウィンを家に連れ戻す魅力あふれる救出アドベンチャーへ。",
+      "reviewSnippet": "",
+      "rawScore": 45.135962247788605,
+      "hensachi": 51.7,
+      "rank": 13
     },
     {
       "appid": 4867230,
@@ -280,18 +327,18 @@
       "shortDescription": "Easy・Hard・Expertのパズルに挑み、グラマラスな成人女性アスリートのイラストを解放して、熱いフィットネスギャラリーを完成させよう！",
       "reviewSnippet": "",
       "rawScore": 45.135962247788605,
-      "hensachi": 51.1,
-      "rank": 12
+      "hensachi": 51.7,
+      "rank": 14
     },
     {
       "appid": 4625810,
       "name": "インターネットサバイバーサバイバーズ",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4625810/f7886c163c567a2c3003f18882269a7284dd0cf8/header_japanese.jpg?t=1786878059",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4625810/f7886c163c567a2c3003f18882269a7284dd0cf8/header_japanese.jpg?t=1786954817",
       "discountPercent": 15,
       "initialPriceCents": 176000,
       "finalPriceCents": 149600,
       "reviewPositiveRate": 82.5,
-      "reviewCount": 80,
+      "reviewCount": 97,
       "storeUrl": "https://store.steampowered.com/app/4625810/",
       "genres": [
         "アクション",
@@ -302,33 +349,55 @@
       "releaseYear": 2026,
       "shortDescription": "フランちゃんが配信者になってインターネットで大暴れ！？東方Project二次創作・見下ろし型ローグライトアクション！イイネやコインを集めて武器を強化！視聴者数こそがライフだ！迫りくる大量の敵を倒して！どこまでも生き残れ～！",
       "reviewSnippet": "東方ヴァンサヴァ・・・だけど操作キャラクターが想像の５倍は強靭。 被弾してもすぐ回復、攻撃が広範囲で強力なので、ゲーム難…",
-      "rawScore": 42.82683025991943,
-      "hensachi": 50.2,
-      "rank": 13
+      "rawScore": 43.139060662990545,
+      "hensachi": 51,
+      "rank": 15
     },
     {
-      "appid": 3756930,
-      "name": "Sweet Clockwork",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3756930/a1a9b7e064d3c5c0a2ee01b558d78fb97484fd22/header.jpg?t=1786870862",
-      "discountPercent": 10,
-      "initialPriceCents": 180000,
-      "finalPriceCents": 162000,
-      "reviewPositiveRate": 100,
-      "reviewCount": 1,
-      "storeUrl": "https://store.steampowered.com/app/3756930/",
+      "appid": 4264950,
+      "name": "Farewells clicker",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4264950/c9ab7819f17ae57daea176373374cd10c8bd401f/header.jpg?t=1786955076",
+      "discountPercent": 15,
+      "initialPriceCents": 89300,
+      "finalPriceCents": 75800,
+      "reviewPositiveRate": 80,
+      "reviewCount": 5,
+      "storeUrl": "https://store.steampowered.com/app/4264950/",
       "genres": [
-        "アドベンチャー",
         "カジュアル",
         "インディー",
-        "シミュレーション"
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "Farewells Clickerは、クリッカーと街づくりゲームの中毒性のある融合です！島を拡張し、都市を発展させ、リソースを無限に生産しましょう。広大なスキルツリーを通じて建物とスキルをアップグレードし、どんどん進歩していきましょう！",
+      "reviewSnippet": "",
+      "rawScore": 37.68641981276846,
+      "hensachi": 48.9,
+      "rank": 16
+    },
+    {
+      "appid": 4579940,
+      "name": "Crownhold",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579940/2ec6116d551e53f917014451785271d860dbc665/header.jpg?t=1786950114",
+      "discountPercent": 15,
+      "initialPriceCents": 90500,
+      "finalPriceCents": 76900,
+      "reviewPositiveRate": 75,
+      "reviewCount": 12,
+      "storeUrl": "https://store.steampowered.com/app/4579940/",
+      "genres": [
+        "インディー",
+        "ストラテジー"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "&quot;To save you, I have repeated death thousands of times.&quot; A confession letter arrives on her birthday. At 6 PM, the place holds not love, but cold death. She wakes to the same morning and must uncover murderer &quot;X&quot; in a time loop to stop the tragedy. Sweet Clockwork: Mystery Romance VN",
+      "shortDescription": "Noble Rulers — grow your realm and expand your castle in this short incremental game! Manage resources, discover foreign lands and build up an army to lay siege to your enemies.",
       "reviewSnippet": "",
-      "rawScore": 40.635962247788605,
-      "hensachi": 49.4,
-      "rank": 14
+      "rawScore": 37.2035598200258,
+      "hensachi": 48.7,
+      "rank": 17
     },
     {
       "appid": 4382980,
@@ -337,8 +406,8 @@
       "discountPercent": 30,
       "initialPriceCents": 100000,
       "finalPriceCents": 70000,
-      "reviewPositiveRate": 16.7,
-      "reviewCount": 6,
+      "reviewPositiveRate": 14.3,
+      "reviewCount": 7,
       "storeUrl": "https://store.steampowered.com/app/4382980/",
       "genres": [
         "インディー",
@@ -349,9 +418,9 @@
       "releaseYear": 2026,
       "shortDescription": "《演义三国》是一款有独特三国味的国风策略卡牌游戏，采用了九宫格站位，技能吟唱施法的战斗方式。在这您将要招募良将组成梦幻队伍挑战风格迥异的三国名将。",
       "reviewSnippet": "",
-      "rawScore": 22.53404920760097,
-      "hensachi": 42.6,
-      "rank": 15
+      "rawScore": 21.912886743365824,
+      "hensachi": 42.8,
+      "rank": 18
     },
     {
       "appid": 78920,
@@ -369,31 +438,31 @@
       "shortDescription": "",
       "reviewSnippet": "",
       "rawScore": 14.4,
-      "hensachi": 39.5,
-      "rank": 16
+      "hensachi": 39.9,
+      "rank": 19
     },
     {
-      "appid": 3824090,
-      "name": "Peganomics",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3824090/c458d9325fecd7650350d666f70d9fba582922ce/header.jpg?t=1786866709",
-      "discountPercent": 30,
-      "initialPriceCents": 39500,
-      "finalPriceCents": 27600,
+      "appid": 4981470,
+      "name": "あそぶつり",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4981470/038b4b50a58e522ffa5bc50971aace7466214a19/header_japanese.jpg?t=1786950048",
+      "discountPercent": 20,
+      "initialPriceCents": 20000,
+      "finalPriceCents": 16000,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/3824090/",
+      "storeUrl": "https://store.steampowered.com/app/4981470/",
       "genres": [
         "カジュアル",
         "インディー",
-        "ストラテジー"
+        "シミュレーション"
       ],
-      "supportsJapanese": false,
+      "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "A roguelike pachinko about building outrageous synergies with pegs, balls, and buckets. Chase massive scores, discover chaotic combos, and break the economy of pegs in your quest for the ultimate run.",
+      "shortDescription": "空間に自由にアイテムを配置し、物理法則を利用してからくり装置を作り上げるパズルゲーム。ピタゴラ装置のようなギミックを自分で設計し、アクションボタンを押して動き出す瞬間の快感を楽しもう。ステージエディットで自分だけのステージ作りも可能。",
       "reviewSnippet": "",
-      "rawScore": 13.5,
-      "hensachi": 39.2,
-      "rank": 17
+      "rawScore": 9,
+      "hensachi": 37.8,
+      "rank": 20
     },
     {
       "appid": 5014260,
@@ -416,29 +485,8 @@
       "shortDescription": "This is a horror-themed anomaly-hunting game. As a black market cargo inspector, you must carefully check each item to ensure it’s normal. Please note that when I say “cargo,” I’m referring to… organs.",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 37.5,
-      "rank": 18
-    },
-    {
-      "appid": 4748510,
-      "name": "Horny Sister-in-Law's Midnight Demand",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4748510/16b28b698f7be78144580c3fffc4ce52072e020b/header.jpg?t=1786882649",
-      "discountPercent": 20,
-      "initialPriceCents": 135000,
-      "finalPriceCents": 108000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4748510/",
-      "genres": [
-        "RPG"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Wyatt goes home to visit his sick brother but is hinted by his family to help his sister-in-law continue the family line. He gets involved in a forbidden relationship with his sister-in-law Isabella. After Isabella gets pregnant, it triggers a family storm and his brother starts to take revenge.",
-      "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 37.5,
-      "rank": 19
+      "hensachi": 37.8,
+      "rank": 21
     },
     {
       "appid": 4968140,
@@ -460,30 +508,30 @@
       "shortDescription": "物理演算ならではの予測不能な投球、キャッチ、衝突、吹き飛びが楽しめる、2～24人対応のオンライン対戦ドッジボールゲームです。公開ルームやパスワード付きルームを作成し、ルーム一覧から検索して参加できます。写真を使ったキャラクター作成、体型・外観・ペイントのカスタマイズにも対応。校庭や体育館では、オフライン12対12のトレーニングも楽しめます。",
       "reviewSnippet": "",
       "rawScore": 7.65,
-      "hensachi": 37,
-      "rank": 20
+      "hensachi": 37.3,
+      "rank": 22
     },
     {
-      "appid": 2698100,
-      "name": "STEAM TRIGGER",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698100/header.jpg?t=1786888983",
-      "discountPercent": 10,
-      "initialPriceCents": 198000,
-      "finalPriceCents": 178200,
+      "appid": 3124200,
+      "name": "Moon and Away",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124200/header.jpg?t=1786934219",
+      "discountPercent": 15,
+      "initialPriceCents": 26500,
+      "finalPriceCents": 22500,
       "reviewPositiveRate": 0,
-      "reviewCount": 1,
-      "storeUrl": "https://store.steampowered.com/app/2698100/",
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/3124200/",
       "genres": [
-        "アクション",
-        "アドベンチャー"
+        "アドベンチャー",
+        "インディー"
       ],
-      "supportsJapanese": true,
+      "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "死んで、学び、反撃せよ。崩壊する機械都市を探索し、精密な2.5Dアクションで巨大ボスに挑む、高難度スチームパンク・メトロイドヴァニア。",
+      "shortDescription": "A short, atmospheric, story-driven experience about a young woman searching for meaning in a world that no longer feels familiar.",
       "reviewSnippet": "",
-      "rawScore": 5.635962247788608,
-      "hensachi": 36.2,
-      "rank": 21
+      "rawScore": 6.75,
+      "hensachi": 36.9,
+      "rank": 23
     },
     {
       "appid": 1408027,
@@ -501,8 +549,57 @@
       "shortDescription": "",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 35.8,
-      "rank": 22
+      "hensachi": 36,
+      "rank": 24
+    },
+    {
+      "appid": 4781450,
+      "name": "Echoes of the Deep : Incremental Endless Miner",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4781450/2119165849f1b2f86117ba5a76335b6ad135f0c6/header.jpg?t=1786951576",
+      "discountPercent": 10,
+      "initialPriceCents": 88000,
+      "finalPriceCents": 79100,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4781450/",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Incremental Endless Miner . Delve into the depths of Mount Olympus. You are Constantine , a miner set to discover the mountains secrets .",
+      "reviewSnippet": "",
+      "rawScore": 4.5,
+      "hensachi": 36,
+      "rank": 25
+    },
+    {
+      "appid": 4831290,
+      "name": "Crown&Sword",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4831290/faf26fe22582135a60e0c934d4ca65f8b5dc50f5/header.jpg?t=1786944879",
+      "discountPercent": 10,
+      "initialPriceCents": 53000,
+      "finalPriceCents": 47700,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4831290/",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "カジュアル",
+        "インディー",
+        "ストラテジー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "あなたの王国は危機に瀕しています。王冠を戴き、剣を手に取り、軍を集結させ、容赦なく押し寄せる闇に立ち向かえ！ Crown &amp; Sword は、拠点運営、軍隊育成、ウェーブサバイバル要素を融合した壮大な2DタクティカルアクションRPGです。昼夜が切り替わるダイナミックな世界で時間を管理しながら王国を発展させ、日が沈むと目覚める無数の敵と兵士たちと共に戦い抜きましょう。",
+      "reviewSnippet": "",
+      "rawScore": 4.5,
+      "hensachi": 36,
+      "rank": 26
     }
   ]
 }
