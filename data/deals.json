@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-19T00:49:11.355Z",
+  "fetchedAt": "2026-08-19T06:30:45.409Z",
   "currency": "JPY",
-  "count": 27,
-  "averageDiscount": 29.3,
+  "count": 22,
+  "averageDiscount": 33.2,
   "deals": [
     {
       "appid": 694280,
@@ -12,7 +12,7 @@
       "initialPriceCents": 550000,
       "finalPriceCents": 27500,
       "reviewPositiveRate": 86.3,
-      "reviewCount": 11189,
+      "reviewCount": 11203,
       "storeUrl": "https://store.steampowered.com/app/694280/",
       "genres": [
         "アクション"
@@ -21,8 +21,8 @@
       "releaseYear": 2021,
       "shortDescription": "Hitler’s hordes are back for more in this spine-chilling shooter from the makers of Sniper Elite 4! Abominable occult enemies, epic weapons and a harrowing new campaign for 1-4 players await in 1940s Europe, as you fight to save humankind from undead Armageddon!",
       "reviewSnippet": "ゾンビシューティングの最高峰とも言える作品。装備にもキャラにも成長する要素がある為プレイヤーによって多種多様な戦いができ…",
-      "rawScore": 88.23360410010699,
-      "hensachi": 68,
+      "rawScore": 88.23565320811898,
+      "hensachi": 64.9,
       "rank": 1
     },
     {
@@ -33,7 +33,7 @@
       "initialPriceCents": 767800,
       "finalPriceCents": 230300,
       "reviewPositiveRate": 96.4,
-      "reviewCount": 137407,
+      "reviewCount": 137430,
       "storeUrl": "https://store.steampowered.com/app/1687950/",
       "genres": [
         "ターン制ストラテジー",
@@ -44,8 +44,8 @@
       "releaseYear": 2022,
       "shortDescription": "奪え、その意志で。",
       "reviewSnippet": "とてもいいRPGだ。ストーリーがすごくおもしろかった。絵も大好きだ。キャラクターもそれぞれ個性があって、よくできている。…",
-      "rawScore": 84.62872459781184,
-      "hensachi": 66.7,
+      "rawScore": 84.628998892824,
+      "hensachi": 63.8,
       "rank": 2
     },
     {
@@ -56,7 +56,7 @@
       "initialPriceCents": 767800,
       "finalPriceCents": 268700,
       "reviewPositiveRate": 94.4,
-      "reviewCount": 61674,
+      "reviewCount": 61689,
       "storeUrl": "https://store.steampowered.com/app/2161700/",
       "genres": [
         "ターン制ストラテジー",
@@ -69,9 +69,32 @@
       "releaseYear": 2024,
       "shortDescription": "『ペルソナ３』が、装いを新たに現行最新ハードにて生まれ変わる！",
       "reviewSnippet": "神ゲーです！！！！！！！！！ 序盤から中盤はストーリー的には少し単調気味という意見もよく聞きますが、自分はそこまで感じま…",
-      "rawScore": 80.3658836157048,
-      "hensachi": 65.2,
+      "rawScore": 80.36628215186407,
+      "hensachi": 62.4,
       "rank": 3
+    },
+    {
+      "appid": 1771300,
+      "name": "Kingdom Come: Deliverance II",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg?t=1777975568",
+      "discountPercent": 60,
+      "initialPriceCents": 809000,
+      "finalPriceCents": 323600,
+      "reviewPositiveRate": 93.9,
+      "reviewCount": 192447,
+      "storeUrl": "https://store.steampowered.com/app/1771300/",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "RPG"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2025,
+      "shortDescription": "15世紀中世ヨーロッパの豊かなオープンワールドを舞台にした、スリリングなストーリー主導のアクションRPGで、若きヘンリーとして究極の中世の冒険に旅立とう。",
+      "reviewSnippet": "神ゲーなんだけど、２週目にボーナスとかあるとうれしいかも。 ステマックスまで鍛えたのに。。",
+      "rawScore": 79.80580529088455,
+      "hensachi": 62.2,
+      "rank": 4
     },
     {
       "appid": 2552430,
@@ -81,7 +104,7 @@
       "initialPriceCents": 748000,
       "finalPriceCents": 224400,
       "reviewPositiveRate": 86.5,
-      "reviewCount": 11534,
+      "reviewCount": 11546,
       "storeUrl": "https://store.steampowered.com/app/2552430/",
       "genres": [
         "ハクスラ",
@@ -93,9 +116,9 @@
       "releaseYear": 2024,
       "shortDescription": "「キングダム ハーツ」シリーズの原点となる1作目から根幹となる6作品を収録した、『KINGDOM HEARTS -HD 1.5+2.5 ReMIX-』がSteamに登場！ 今、夢のような冒険へ。",
       "reviewSnippet": "ゲームの内容は言わずもがな良いです。ただバグが少し目立ちます。 KH1→KH2→BbSと現在プレイしていますが、BbSの…",
-      "rawScore": 77.10336829757401,
-      "hensachi": 64.1,
-      "rank": 4
+      "rawScore": 77.10507232382737,
+      "hensachi": 61.3,
+      "rank": 5
     },
     {
       "appid": 2552450,
@@ -105,7 +128,7 @@
       "initialPriceCents": 968000,
       "finalPriceCents": 290400,
       "reviewPositiveRate": 90.6,
-      "reviewCount": 2812,
+      "reviewCount": 2817,
       "storeUrl": "https://store.steampowered.com/app/2552450/",
       "genres": [
         "ハクスラ",
@@ -117,9 +140,9 @@
       "releaseYear": 2024,
       "shortDescription": "１作目から続いた“ダークシーカー編”の完結を描くシリーズ最新作。ディズニーの世界を舞台に物語が展開し、本作ではピクサーなどの新たなワールドが加わったことにより、より壮大な世界観へと発展しました。また、本作のクライマックスの裏側で起きていた、もう一つの物語「Re Mind」も収録しています。",
       "reviewSnippet": "最高のストーリー！！！",
-      "rawScore": 76.22573483835924,
-      "hensachi": 63.8,
-      "rank": 5
+      "rawScore": 76.2286452406541,
+      "hensachi": 61,
+      "rank": 6
     },
     {
       "appid": 2358720,
@@ -129,7 +152,7 @@
       "initialPriceCents": 759000,
       "finalPriceCents": 531300,
       "reviewPositiveRate": 96.5,
-      "reviewCount": 1206169,
+      "reviewCount": 1206202,
       "storeUrl": "https://store.steampowered.com/app/2358720/",
       "genres": [
         "ソウルライク",
@@ -143,8 +166,8 @@
       "shortDescription": "『黒神話：悟空』は中国神話を背景にしたアクションRPGゲームです。プレイヤーは「天命人」と呼ばれるキャラクターとなり、古い伝説に隠された真相を究明するため、険しくも不思議な西遊の旅路を辿ります。",
       "reviewSnippet": "色々と足りない箇所はあるがボス戦をひたすらやるのが向いていれば楽しいと感じると思います。",
       "rawScore": 67.275,
-      "hensachi": 60.7,
-      "rank": 6
+      "hensachi": 58.2,
+      "rank": 7
     },
     {
       "appid": 2764460,
@@ -154,7 +177,7 @@
       "initialPriceCents": 148000,
       "finalPriceCents": 96200,
       "reviewPositiveRate": 97.3,
-      "reviewCount": 2015,
+      "reviewCount": 2051,
       "storeUrl": "https://store.steampowered.com/app/2764460/",
       "genres": [
         "シミュレーション",
@@ -164,10 +187,10 @@
       "supportsJapanese": true,
       "releaseYear": 2026,
       "shortDescription": "すべてを破壊できる世界を探索し、資源を採掘しよう。複雑さを増していく生産チェーンを自動化し、地中深くへ掘り進んで、古代文明が遺した大いなる秘密を解き明かせ。砂さえ愛おしくなる、あらゆるピクセルが貴重な資源となる工場自動化ゲーム！",
-      "reviewSnippet": "ベルトコンベアで土を運ぶと……楽しい！ 花粉以降のルートの説明が乏しくてわかり難いので、底だけ何とかして欲しい。",
-      "rawScore": 62.27477557650373,
-      "hensachi": 58.9,
-      "rank": 7
+      "reviewSnippet": "ベルトコンベアで土を運ぶと……楽しい！ 花粉以降のルートの説明が乏しくてわかり難いので、そこだけ何とかして欲しい。",
+      "rawScore": 62.30378247713124,
+      "hensachi": 56.6,
+      "rank": 8
     },
     {
       "appid": 2950790,
@@ -177,7 +200,7 @@
       "initialPriceCents": 198000,
       "finalPriceCents": 148500,
       "reviewPositiveRate": 98,
-      "reviewCount": 11018,
+      "reviewCount": 11085,
       "storeUrl": "https://store.steampowered.com/app/2950790/",
       "genres": [
         "アクション",
@@ -188,32 +211,8 @@
       "releaseYear": 2026,
       "shortDescription": "『IRON NEST』は、巨大な戦車で戦場を制圧する、過激なディーゼル・パンクヘビーアサルトゲームだ。 受信した座標をマップで確認し、油圧システムをフル稼働させて大砲の照準を合わせ、敵に壊滅的な一撃を放て！！⟹オペレーター諸君、最高司令部命令に従うか？",
       "reviewSnippet": "巨大砲塔を一人で運用し、目標への測距・主砲の装填・照準。発砲まで全工程を自分でこなす重砲兵シミュレーション。 敵の殲滅を…",
-      "rawScore": 60.803366728547005,
-      "hensachi": 58.4,
-      "rank": 8
-    },
-    {
-      "appid": 2966320,
-      "name": "スターサンド・アイランド",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2966320/10baa4271d938bcbe547cecf5d97c11e5a508951/header_japanese.jpg?t=1787059688",
-      "discountPercent": 20,
-      "initialPriceCents": 660000,
-      "finalPriceCents": 528000,
-      "reviewPositiveRate": 81.8,
-      "reviewCount": 6544,
-      "storeUrl": "https://store.steampowered.com/app/2966320/",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "RPG",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "大都会の喧噪から離れたいあなたへ。心安らぐ桃源郷「スターサンド・アイランド」へようこそ。この「深海に輝く星」と称される島で、のんびりとした田園生活を体験してみませんか？ゆっくり流れる時間中に、かわいいカピバラや猫、犬たちと触れ合い、釣りの喜びを満喫しましょう。蛍月の森に探検するか、ただ島の自然美に浸ったりするのもあなた次第です。しばらく退屈な都会生活から離れ、この桃源郷で生活の楽しみをもう一度感じましょう。",
-      "reviewSnippet": "",
-      "rawScore": 52.02965905995009,
-      "hensachi": 55.3,
+      "rawScore": 60.81330141228846,
+      "hensachi": 56.1,
       "rank": 9
     },
     {
@@ -223,8 +222,8 @@
       "discountPercent": 10,
       "initialPriceCents": 210000,
       "finalPriceCents": 189000,
-      "reviewPositiveRate": 92.8,
-      "reviewCount": 389,
+      "reviewPositiveRate": 92.6,
+      "reviewCount": 394,
       "storeUrl": "https://store.steampowered.com/app/3236900/",
       "genres": [
         "アドベンチャー",
@@ -235,31 +234,9 @@
       "releaseYear": 2026,
       "shortDescription": "思いがけない死の果てに、あなたは二度目の人生を与えられます。 神の計らいにより、静かな中世の町で小さなパブの主人として転生します。 新たな世界で冒険に出かけ、魅力的な少女たちと出会い、宝を探して危機に瀕したパブを救いましょう。",
       "reviewSnippet": "SDキャラも２次元絵もこの価格の割によくできてます。 好みの話になりますが全キャラほぼアヘ顔、ハート瞳しかないのが残念で…",
-      "rawScore": 46.75760229066603,
-      "hensachi": 53.5,
+      "rawScore": 46.70847960613759,
+      "hensachi": 51.5,
       "rank": 10
-    },
-    {
-      "appid": 4604680,
-      "name": "Tiny Tape Store",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4604680/b3b8748805e2cd1f7fc0fe9b40c5b3dbebfa9d95/header.jpg?t=1787072615",
-      "discountPercent": 10,
-      "initialPriceCents": 62500,
-      "finalPriceCents": 56200,
-      "reviewPositiveRate": 100,
-      "reviewCount": 5,
-      "storeUrl": "https://store.steampowered.com/app/4604680/",
-      "genres": [
-        "カジュアル",
-        "インディー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "A cozy, nostalgia-fueled idle game that lives in the corner of your screen. Reminisce the good old days and run your own little VHS store while using your PC for work, games or whatever. Play minigames or let your store run by itself, decorate it as you see fit!",
-      "reviewSnippet": "",
-      "rawScore": 42.43641981276846,
-      "hensachi": 52,
-      "rank": 11
     },
     {
       "appid": 4450570,
@@ -269,7 +246,7 @@
       "initialPriceCents": 65500,
       "finalPriceCents": 58900,
       "reviewPositiveRate": 100,
-      "reviewCount": 2,
+      "reviewCount": 7,
       "storeUrl": "https://store.steampowered.com/app/4450570/",
       "genres": [
         "カジュアル",
@@ -282,32 +259,34 @@
       "releaseYear": 2026,
       "shortDescription": "This Is Golf is a casual but challenging first-person golf game with randomly generated holes. Shot shaping and distance are based entirely on mouse motion. Play solo or in lobbies of up to 8 players, and enjoy a fun, competitive, and slightly goofy golfing experience.",
       "reviewSnippet": "",
-      "rawScore": 41.30045756497986,
-      "hensachi": 51.6,
-      "rank": 12
+      "rawScore": 42.90788674336582,
+      "hensachi": 50.3,
+      "rank": 11
     },
     {
-      "appid": 4259990,
-      "name": "Corner King: Boxing Tycoon",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259990/187e3d8ad166ce943d99a1fc370a93ae6d658ba5/header.jpg?t=1787084634",
-      "discountPercent": 10,
-      "initialPriceCents": 215000,
-      "finalPriceCents": 193500,
+      "appid": 4550500,
+      "name": "Journey",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4550500/29ba3302de6d69162cbeb0ac38278c046ffa6a65/header.jpg?t=1787088737",
+      "discountPercent": 15,
+      "initialPriceCents": 26500,
+      "finalPriceCents": 22500,
       "reviewPositiveRate": 100,
-      "reviewCount": 2,
-      "storeUrl": "https://store.steampowered.com/app/4259990/",
+      "reviewCount": 1,
+      "storeUrl": "https://store.steampowered.com/app/4550500/",
       "genres": [
+        "カジュアル",
+        "インディー",
+        "RPG",
         "シミュレーション",
-        "スポーツ",
         "ストラテジー"
       ],
-      "supportsJapanese": false,
+      "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "自分のジムを経営し、ファイターを栄光へ導こう。奥深いシミュレーションを極めろ：才能を発掘し、契約を交渉し、トレーニングを最適化する。そしてリングでは戦術的優位に立て。対戦相手を読み、コーナーから歴史を変える判断を下せ。",
+      "shortDescription": "勇敢な皇帝ペンギンであるケイタは、移住中に失われ、彼自身で並外れた氷の冒険を始めました。",
       "reviewSnippet": "",
-      "rawScore": 41.30045756497986,
-      "hensachi": 51.6,
-      "rank": 13
+      "rawScore": 42.885962247788605,
+      "hensachi": 50.3,
+      "rank": 12
     },
     {
       "appid": 4006420,
@@ -328,31 +307,8 @@
       "shortDescription": "A fishing-based desktop companion! Buy incremental upgrades to catch bigger and better fish!",
       "reviewSnippet": "",
       "rawScore": 40.635962247788605,
-      "hensachi": 51.3,
-      "rank": 14
-    },
-    {
-      "appid": 4329670,
-      "name": "Loot Dungeon",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4329670/4197a81a5568dfc61b50c2918648818283babd37/header.jpg?t=1787072871",
-      "discountPercent": 10,
-      "initialPriceCents": 90500,
-      "finalPriceCents": 81400,
-      "reviewPositiveRate": 27.3,
-      "reviewCount": 11,
-      "storeUrl": "https://store.steampowered.com/app/4329670/",
-      "genres": [
-        "インディー",
-        "RPG",
-        "ストラテジー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "「Loot Dungeon」は、死が進化となるダークファンタジーのローグライトARPGオートバトラー。致死的なダンジョンを探索し、戦利品を集め、パークを選び、そして死ね……より強くなるために。さらに深く潜り、新たなキャラクター、アップグレード、機能を解放せよ。あなたは死神と契約を交わすか？",
-      "reviewSnippet": "",
-      "rawScore": 18.127382060557075,
-      "hensachi": 43.5,
-      "rank": 15
+      "hensachi": 49.6,
+      "rank": 13
     },
     {
       "appid": 4931700,
@@ -374,123 +330,52 @@
       "shortDescription": "Top-down arcade space shooter with retro pixel-art style. Fight waves of alien invaders across world landmarks, buy upgrades between battles, collect power ups, participate in events &amp; missions, defeat epic bosses, and more.",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 43.4,
-      "rank": 16
+      "hensachi": 42.3,
+      "rank": 14
     },
     {
-      "appid": 4419460,
-      "name": "Inken",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4419460/6fb2445e71f8a4eefa743e280137390bb8727d0a/header.jpg?t=1787073434",
-      "discountPercent": 30,
-      "initialPriceCents": 105000,
-      "finalPriceCents": 73500,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4419460/",
-      "genres": [
-        "アドベンチャー",
-        "ストラテジー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Explore mysterious office building suspended in a desolate world! Inken is a multi-genre roguelike that can be a deckbuilder, topdown shooter, auto runner, puzzler, or idle game! Knowledge is the power that can slay the gods!",
-      "reviewSnippet": "",
-      "rawScore": 13.5,
-      "hensachi": 41.8,
-      "rank": 17
-    },
-    {
-      "appid": 4950510,
-      "name": "Cozy Drone",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4950510/3feb293d9b39233afa54a856806ebf4ceb7fedfd/header.jpg?t=1787072435",
+      "appid": 4991800,
+      "name": "Just Another Animal",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4991800/3280f1e08eef0ed312d1a52084e582ecae801edc/header.jpg?t=1787107806",
       "discountPercent": 30,
       "initialPriceCents": 39500,
       "finalPriceCents": 27600,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4950510/",
+      "storeUrl": "https://store.steampowered.com/app/4991800/",
       "genres": [
-        "アクション",
         "カジュアル",
-        "インディー",
-        "シミュレーション"
+        "インディー"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "A satirical cozy drone warfare simulator. Pilot a state-of-the-art fixed-wing drone over a cute world filled with cheerful folk. Surveil your area of operations to identify threats and prosecute targets of opportunity using precision munitions. Experience the new age of humane war!",
+      "shortDescription": "Just Another Animal is an online multiplayer hide-and-seek party game where players disguise themselves as farm animals and try to avoid being caught by Hunters.",
       "reviewSnippet": "",
       "rawScore": 13.5,
-      "hensachi": 41.8,
-      "rank": 18
+      "hensachi": 40.8,
+      "rank": 15
     },
     {
-      "appid": 4805080,
-      "name": "Funeral of Paradise - BL (Boys Love)",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4805080/f653c516318bb94f053e8f2031bc49e136f80a58/header.jpg?t=1787073134",
-      "discountPercent": 25,
-      "initialPriceCents": 105000,
-      "finalPriceCents": 78700,
+      "appid": 4976750,
+      "name": "LuluPaw",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4976750/2da1b506df3f1e814ce4de3ae79654ed4a2e35e4/header.jpg?t=1787103093",
+      "discountPercent": 20,
+      "initialPriceCents": 13500,
+      "finalPriceCents": 10800,
       "reviewPositiveRate": 0,
-      "reviewCount": 1,
-      "storeUrl": "https://store.steampowered.com/app/4805080/",
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4976750/",
       "genres": [
-        "アドベンチャー",
-        "インディー"
+        "カジュアル",
+        "無料プレイ"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "A dark BL visual novel about love, faith, control, and the cost of choosing yourself. Guide Dojun through a psychological story of obsession, trauma, forbidden romance, and multiple endings shaped by your choices.",
+      "shortDescription": "No complicated goals, no stressful pace. Farming, dressing up, and companionship—a simple pastoral life, all starting with one fluffy Lulu Rabbit.",
       "reviewSnippet": "",
-      "rawScore": 12.385962247788608,
-      "hensachi": 41.5,
-      "rank": 19
-    },
-    {
-      "appid": 3924150,
-      "name": "ANARIA: Reborn",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3924150/6c2fc006fc54651eb91346cdc6ec48ac135f00a9/header.jpg?t=1787072421",
-      "discountPercent": 25,
-      "initialPriceCents": 90500,
-      "finalPriceCents": 67800,
-      "reviewPositiveRate": 0,
-      "reviewCount": 1,
-      "storeUrl": "https://store.steampowered.com/app/3924150/",
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "インディー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "Something is watching you. Something is waiting. Step inside a fractured mind — and find out if you can ever leave.",
-      "reviewSnippet": "",
-      "rawScore": 12.385962247788608,
-      "hensachi": 41.5,
-      "rank": 20
-    },
-    {
-      "appid": 4866670,
-      "name": "PyxelAid",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4866670/d483cfa7d3a12a1fcbedb53270a8b75bb8331f42/header.jpg?t=1787070922",
-      "discountPercent": 25,
-      "initialPriceCents": 260000,
-      "finalPriceCents": 195000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4866670/",
-      "genres": [
-        "インディー",
-        "デザイン & イラストレーション",
-        "ユーティリティ",
-        "ゲーム開発"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "PyxelAidは、ピクセル化、クリーニング、修復、拡大・縮小、背景除去に対応した強力なピクセルアートツールです。独自のモジュールパイプラインを構築し、画像の一括処理やImage Poolでのファイル管理、Steam Workshopでのプリセットの作成・共有・検索ができます。",
-      "reviewSnippet": "",
-      "rawScore": 11.25,
-      "hensachi": 41.1,
-      "rank": 21
+      "rawScore": 9,
+      "hensachi": 39.3,
+      "rank": 16
     },
     {
       "appid": 4659340,
@@ -512,31 +397,30 @@
       "shortDescription": "Nullveinは短くて満足感のあるインクリメンタル採掘ゲームです。鉱石ブロックを砕き、スキルツリーで完璧な組み合わせを見つけ、非常にレアな炎石を掘り出し、究極のツルハシを鍛えよう。もう一撃！",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 40.3,
-      "rank": 22
+      "hensachi": 39.3,
+      "rank": 17
     },
     {
-      "appid": 5002930,
-      "name": "GOD CANDLE",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5002930/e7fd304028be05a140e417d14d11b0aacc443570/header.jpg?t=1787069836",
+      "appid": 4532490,
+      "name": "とぼとぼリカバリー",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4532490/9c1a111f4c27ace7dede535ba5f2b469d2b94359/header_japanese.jpg?t=1787106500",
       "discountPercent": 15,
-      "initialPriceCents": 135000,
-      "finalPriceCents": 114700,
+      "initialPriceCents": 50000,
+      "finalPriceCents": 42500,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5002930/",
+      "storeUrl": "https://store.steampowered.com/app/4532490/",
       "genres": [
-        "インディー",
-        "シミュレーション",
-        "ストラテジー"
+        "アドベンチャー",
+        "シミュレーション"
       ],
       "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "市場そのものがダンジョンで、同じ相場は二度とない。毎朝銘柄を選び、10日間を生き抜け。モメンタムに乗り、最大10倍のレバレッジを操り、FOMCやフラッシュクラッシュを出し抜き、鐘の合間にレリックを獲得せよ。GOD CANDLEを刻め——さもなくば清算だ。",
+      "shortDescription": "「どうしてこうなったんだろう」心身を崩した主人公はそう思います。そこから、ないがしろにしてきた自分の心と出会い直す日々が始まります。小さな行動を重ねて、ほんの少しずつ回復へと歩んでいくアドベンチャーゲームです。",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 39.5,
-      "rank": 23
+      "hensachi": 38.6,
+      "rank": 18
     },
     {
       "appid": 1408027,
@@ -554,8 +438,8 @@
       "shortDescription": "",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 38.7,
-      "rank": 24
+      "hensachi": 37.9,
+      "rank": 19
     },
     {
       "appid": 1707312,
@@ -573,8 +457,8 @@
       "shortDescription": "",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 38.7,
-      "rank": 25
+      "hensachi": 37.9,
+      "rank": 20
     },
     {
       "appid": 4884380,
@@ -594,8 +478,8 @@
       "shortDescription": "トロルとゴブリンにさらわれた宿屋の女主人たちを救い出そう！ 強力なデッキを構築し、危険な世界を探索しながら、多くの敵と戦う戦略性あふれるカードローグライクです。",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 38.7,
-      "rank": 26
+      "hensachi": 37.9,
+      "rank": 21
     },
     {
       "appid": 5037970,
@@ -615,8 +499,8 @@
       "shortDescription": "Restore fragmented memories in a fantasy sliding and swap puzzle. Solve challenges, earn stars, unlock fictional adult women, discover bonus puzzles and the Secret Goddess, and complete your Gallery with every restored image.",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 38.7,
-      "rank": 27
+      "hensachi": 37.9,
+      "rank": 22
     }
   ]
 }
