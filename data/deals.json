@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-21T00:53:02.048Z",
+  "fetchedAt": "2026-08-21T06:33:59.531Z",
   "currency": "JPY",
-  "count": 27,
-  "averageDiscount": 24,
+  "count": 32,
+  "averageDiscount": 22.1,
   "deals": [
     {
       "appid": 1687950,
@@ -12,7 +12,7 @@
       "initialPriceCents": 767800,
       "finalPriceCents": 230300,
       "reviewPositiveRate": 96.4,
-      "reviewCount": 137578,
+      "reviewCount": 137594,
       "storeUrl": "https://store.steampowered.com/app/1687950/",
       "genres": [
         "ターン制ストラテジー",
@@ -23,8 +23,8 @@
       "releaseYear": 2022,
       "shortDescription": "奪え、その意志で。",
       "reviewSnippet": "とてもいいRPGだ。ストーリーがすごくおもしろかった。絵も大好きだ。キャラクターもそれぞれ個性があって、よくできている。…",
-      "rawScore": 84.63076282427697,
-      "hensachi": 69.3,
+      "rawScore": 84.63095340589918,
+      "hensachi": 70.9,
       "rank": 1
     },
     {
@@ -35,7 +35,7 @@
       "initialPriceCents": 767800,
       "finalPriceCents": 268700,
       "reviewPositiveRate": 94.4,
-      "reviewCount": 61823,
+      "reviewCount": 61840,
       "storeUrl": "https://store.steampowered.com/app/2161700/",
       "genres": [
         "ターン制ストラテジー",
@@ -48,8 +48,8 @@
       "releaseYear": 2024,
       "shortDescription": "『ペルソナ３』が、装いを新たに現行最新ハードにて生まれ変わる！",
       "reviewSnippet": "神ゲーです！！！！！！！！！ 序盤から中盤はストーリー的には少し単調気味という意見もよく聞きますが、自分はそこまで感じま…",
-      "rawScore": 80.36983811471464,
-      "hensachi": 67.6,
+      "rawScore": 80.37028869330845,
+      "hensachi": 69.1,
       "rank": 2
     },
     {
@@ -60,7 +60,7 @@
       "initialPriceCents": 759000,
       "finalPriceCents": 531300,
       "reviewPositiveRate": 96.5,
-      "reviewCount": 1206636,
+      "reviewCount": 1206680,
       "storeUrl": "https://store.steampowered.com/app/2358720/",
       "genres": [
         "ソウルライク",
@@ -74,7 +74,7 @@
       "shortDescription": "『黒神話：悟空』は中国神話を背景にしたアクションRPGゲームです。プレイヤーは「天命人」と呼ばれるキャラクターとなり、古い伝説に隠された真相を究明するため、険しくも不思議な西遊の旅路を辿ります。",
       "reviewSnippet": "色々と足りない箇所はあるがボス戦をひたすらやるのが向いていれば楽しいと感じると思います。",
       "rawScore": 67.275,
-      "hensachi": 62.3,
+      "hensachi": 63.7,
       "rank": 3
     },
     {
@@ -85,7 +85,7 @@
       "initialPriceCents": 170000,
       "finalPriceCents": 110500,
       "reviewPositiveRate": 91.5,
-      "reviewCount": 13805,
+      "reviewCount": 13840,
       "storeUrl": "https://store.steampowered.com/app/2163330/",
       "genres": [
         "弾幕",
@@ -98,9 +98,9 @@
       "supportsJapanese": true,
       "releaseYear": 2026,
       "shortDescription": "群れが来るが、あなたは戦う準備ができている！ チームを組み立て、彼らの強化を決定し、何千ものアンデッドに対する最も効率的なシナジーを見つけよう。生き残れ。そして進化し、次にこの一見シンプルだが中毒性のあるリバース・バレット・ヘルで全ての限界を打ち破れ。",
-      "reviewSnippet": "正式版発売2日前に存在を知りました 体験版があまりにも面白かったので購入 ヴァンサバ系の中では一番ハマった 説明がとても…",
-      "rawScore": 63.39789761906523,
-      "hensachi": 60.8,
+      "reviewSnippet": "直近にやったのがソシャゲのヒロアカサバイバーで向こうはツモ対策でレベルアップ時の不正配牌のオンパレードなせいか、まともな…",
+      "rawScore": 63.40204705149522,
+      "hensachi": 62.1,
       "rank": 4
     },
     {
@@ -111,7 +111,7 @@
       "initialPriceCents": 148000,
       "finalPriceCents": 96200,
       "reviewPositiveRate": 97.4,
-      "reviewCount": 2582,
+      "reviewCount": 2608,
       "storeUrl": "https://store.steampowered.com/app/2764460/",
       "genres": [
         "シミュレーション",
@@ -122,8 +122,8 @@
       "releaseYear": 2026,
       "shortDescription": "すべてを破壊できる世界を探索し、資源を採掘しよう。複雑さを増していく生産チェーンを自動化し、地中深くへ掘り進んで、古代文明が遺した大いなる秘密を解き明かせ。砂さえ愛おしくなる、あらゆるピクセルが貴重な資源となる工場自動化ゲーム！",
       "reviewSnippet": "自動化ゲームなのに探索がめちゃたのしい 自動化ゲームなのにコンベアなどに素材が必要ないという思い切り でも実はそれが正解…",
-      "rawScore": 62.715941155371006,
-      "hensachi": 60.5,
+      "rawScore": 62.73235501547253,
+      "hensachi": 61.8,
       "rank": 5
     },
     {
@@ -133,8 +133,8 @@
       "discountPercent": 38,
       "initialPriceCents": 88000,
       "finalPriceCents": 54500,
-      "reviewPositiveRate": 96.3,
-      "reviewCount": 896,
+      "reviewPositiveRate": 96,
+      "reviewCount": 1299,
       "storeUrl": "https://store.steampowered.com/app/4001890/",
       "genres": [
         "アクション",
@@ -146,55 +146,33 @@
       "releaseYear": 2026,
       "shortDescription": "「How to Fish」は最大4人まで遊べる、物理演算ベースの釣りシミュレーターゲーム！ある日お酒を楽しみながらボートを走らせていたあなたは、ひょんなことから小さな島へ漂着してしまう。 家へ帰る方法はただひとつ…釣りをマスターすることだった。",
       "reviewSnippet": "とんでもないぐらい面白い わちゃわちゃ深夜にやるには最高 ノリで買ってそのままクリアまで通してやって朝が来た",
-      "rawScore": 61.94761299261921,
-      "hensachi": 60.2,
+      "rawScore": 62.45072963134655,
+      "hensachi": 61.7,
       "rank": 6
     },
     {
-      "appid": 4932460,
-      "name": "Earth Simulator",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4932460/4ffee6d4c14137a91211d78eaa78ddd8a4dd8c15/header.jpg?t=1787249034",
-      "discountPercent": 40,
-      "initialPriceCents": 13500,
-      "finalPriceCents": 8100,
-      "reviewPositiveRate": 100,
-      "reviewCount": 3,
-      "storeUrl": "https://store.steampowered.com/app/4932460/",
-      "genres": [
-        "シミュレーション",
-        "ストラテジー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Shape a planet. Watch history unfold.",
-      "reviewSnippet": "",
-      "rawScore": 55.27192449557722,
-      "hensachi": 57.5,
-      "rank": 7
-    },
-    {
-      "appid": 3345950,
-      "name": "Capote",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3345950/8823981b9b85ccdde4c7de1d500e77e760793b71/header_alt_assets_0.jpg?t=1787245465",
+      "appid": 1643320,
+      "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1643320/8d6dfc775c4bf305569ad3af9249bf561148a863/header_alt_assets_7_japanese.jpg?t=1787263142",
       "discountPercent": 30,
-      "initialPriceCents": 70000,
-      "finalPriceCents": 49000,
-      "reviewPositiveRate": 93.6,
-      "reviewCount": 173,
-      "storeUrl": "https://store.steampowered.com/app/3345950/",
+      "initialPriceCents": 795000,
+      "finalPriceCents": 556500,
+      "reviewPositiveRate": 79.8,
+      "reviewCount": 136359,
+      "storeUrl": "https://store.steampowered.com/app/1643320/",
       "genres": [
-        "カジュアル",
-        "インディー",
-        "シミュレーション",
-        "ストラテジー"
+        "サバイバル",
+        "アクション",
+        "アドベンチャー",
+        "RPG"
       ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "『Capote（カポテ）』は、ブラジルの伝統的なバーゲームに着想を得たマルチプレイカードゲームです。運、ブラフ、そして戦略が賑やかなバーの雰囲気でぶつかり合う。勝利は決して保証されず——たった1枚のカードが試合をひっくり返します。あなたは賭けを成功させられるのか、それとも大失敗するのか？",
-      "reviewSnippet": "",
-      "rawScore": 54.714902823707924,
-      "hensachi": 57.3,
-      "rank": 8
+      "supportsJapanese": true,
+      "releaseYear": 2024,
+      "shortDescription": "危険な敵、恐ろしいアノーマリー、強力なアーティファクトが存在する広大なチェルノブイリ立入禁止ゾーンを探索しよう。チェルノブイリの中心部に向かって進み、あなただけの壮大なストーリーを解き明かそう。進む道は慎重に選択しなければならないーあなたの運命と人類の未来がかかっているのだから。",
+      "reviewSnippet": "水分補給しながらマラソンしてたらたまに即死してスタート地点に戻るゲームです",
+      "rawScore": 60.806177330403216,
+      "hensachi": 61,
+      "rank": 7
     },
     {
       "appid": 4566700,
@@ -204,7 +182,7 @@
       "initialPriceCents": 135000,
       "finalPriceCents": 114700,
       "reviewPositiveRate": 100,
-      "reviewCount": 19,
+      "reviewCount": 23,
       "storeUrl": "https://store.steampowered.com/app/4566700/",
       "genres": [
         "アドベンチャー",
@@ -216,54 +194,53 @@
       "releaseYear": 2026,
       "shortDescription": "You are a corporate flesh object with no way to speak on your own trying to pose as a human by mimicking what other people say. Serve the corporation that owns you, complete your assignment.",
       "reviewSnippet": "",
-      "rawScore": 46.65954715344898,
-      "hensachi": 54,
-      "rank": 9
+      "rawScore": 46.95834430834569,
+      "hensachi": 55.3,
+      "rank": 8
     },
     {
-      "appid": 4294490,
-      "name": "KOTAMON: My Sis Found A Super-Rare Card In Her Cereal Box, So I Became A Garbage Man To Find The Entire Collection And Earn $1,000,000",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294490/41565686e1040c0f23aa1fe78666de2792f06d73/header.jpg?t=1787241636",
+      "appid": 2836990,
+      "name": "泥酔ローグとおしまいの吸血鬼",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2836990/9fe420a3d441f3fd457f93e38fe3911adaea0c08/header_japanese.jpg?t=1787285676",
       "discountPercent": 20,
-      "initialPriceCents": 90500,
-      "finalPriceCents": 72400,
-      "reviewPositiveRate": 80.1,
-      "reviewCount": 161,
-      "storeUrl": "https://store.steampowered.com/app/4294490/",
-      "genres": [
-        "インディー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "ゴミを片付けるのは、価格が急騰した超レアカードを見つけるともっと楽しい！掘れ、女将の命令をこなし、宝を探せ…そして全コタモンを集めろ！",
-      "reviewSnippet": "",
-      "rawScore": 45.37279250770804,
-      "hensachi": 53.5,
-      "rank": 10
-    },
-    {
-      "appid": 2796180,
-      "name": "SILENT BREATH",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2796180/00218c06ac91fd1815e07cf9787914c44c4f7120/header.jpg?t=1787247229",
-      "discountPercent": 20,
-      "initialPriceCents": 120000,
-      "finalPriceCents": 96000,
-      "reviewPositiveRate": 68.2,
-      "reviewCount": 1226,
-      "storeUrl": "https://store.steampowered.com/app/2796180/",
+      "initialPriceCents": 158000,
+      "finalPriceCents": 126400,
+      "reviewPositiveRate": 100,
+      "reviewCount": 1,
+      "storeUrl": "https://store.steampowered.com/app/2836990/",
       "genres": [
         "アドベンチャー",
         "インディー",
-        "シミュレーション"
+        "RPG"
       ],
       "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "Unpredictable horrors lurk around every corner, forcing you to find the missing people while desperately clinging to survival. In this experience even your own mind can become your enemy. Stay vigilant and keep your voice hushed, or risk becoming another victim of the forest's darkness",
+      "shortDescription": "飲んだくれローグ・リタと終焉の吸血鬼・エンドの賑やかな大冒険！トラップや魔物の襲撃を潜り抜け、ダンジョン最深部にあるという貴重なお酒を手に入れることはできるか？",
       "reviewSnippet": "",
-      "rawScore": 44.52601721783776,
-      "hensachi": 53.2,
-      "rank": 11
+      "rawScore": 45.135962247788605,
+      "hensachi": 54.5,
+      "rank": 9
+    },
+    {
+      "appid": 4276740,
+      "name": "Stuff It!",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4276740/8c4eefa5ac367a65920238845c4a3c69d3085ca4/header.jpg?t=1787292681",
+      "discountPercent": 15,
+      "initialPriceCents": 120000,
+      "finalPriceCents": 102000,
+      "reviewPositiveRate": 100,
+      "reviewCount": 3,
+      "storeUrl": "https://store.steampowered.com/app/4276740/",
+      "genres": [
+        "カジュアル"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Colorful dolls with voluptuous bodies can come to life, don't you know? All they need to do is meet their Maker. Are you ready?",
+      "reviewSnippet": "",
+      "rawScore": 44.02192449557722,
+      "hensachi": 54,
+      "rank": 10
     },
     {
       "appid": 4967710,
@@ -284,8 +261,8 @@
       "shortDescription": "A frantic, sci-fi, arcade-puzzle game. Weld coloured blocks into squares to absorb energy and build collapsing cascades for massive boosts. Climb your way to 10M energy, discover your purpose among the stars and take your place on the leaderboard.",
       "reviewSnippet": "",
       "rawScore": 44.02192449557722,
-      "hensachi": 53,
-      "rank": 12
+      "hensachi": 54,
+      "rank": 11
     },
     {
       "appid": 4315040,
@@ -294,8 +271,8 @@
       "discountPercent": 10,
       "initialPriceCents": 88000,
       "finalPriceCents": 79200,
-      "reviewPositiveRate": 82.7,
-      "reviewCount": 496,
+      "reviewPositiveRate": 81.5,
+      "reviewCount": 583,
       "storeUrl": "https://store.steampowered.com/app/4315040/",
       "genres": [
         "カジュアル",
@@ -306,32 +283,58 @@
       "releaseYear": 2026,
       "shortDescription": "資源を集め、気軽に計画し、自動で発展させ、少しずつ成長していく。小さな焚き火のある野営地から始まり、労働者を配置し、領地を広げ、ほかの都市国家と交易しながら、建築、技術、政策、さらには神秘的な魔法まで解放し、自分だけの「富の都」を大陸で最も強大な王国へと育て上げよう。",
       "reviewSnippet": "デモ版をプレイ、発売を楽しみにしておりました 暇つぶしにもってこい 建物は決められているが、こういうスタイルの街づくりゲ…",
-      "rawScore": 43.61992976880503,
-      "hensachi": 52.8,
+      "rawScore": 43.4642937626883,
+      "hensachi": 53.8,
+      "rank": 12
+    },
+    {
+      "appid": 4243330,
+      "name": "全网有点怪",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243330/e78a623a687db695671fa8d33c7943029966b704/header.jpg?t=1787277894",
+      "discountPercent": 12,
+      "initialPriceCents": 105000,
+      "finalPriceCents": 92400,
+      "reviewPositiveRate": 100,
+      "reviewCount": 3,
+      "storeUrl": "https://store.steampowered.com/app/4243330/",
+      "genres": [
+        "アドベンチャー",
+        "カジュアル",
+        "インディー",
+        "RPG",
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "&quot;CyberGhitch&quot; is a puzzle game: investigate online, explore mazes, build decks. You're student blogger Zhu Jue. Meet a girl in a disc, dive into a virtual adventure – grab your keyboard and fight back!",
+      "reviewSnippet": "",
+      "rawScore": 42.671924495577215,
+      "hensachi": 53.5,
       "rank": 13
     },
     {
-      "appid": 2836460,
-      "name": "Cozy Marbles ビー玉コロコロ大作戦",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2836460/46cd54ac47508fcd684c5a7d8eb3c8f09e41bc36/header_alt_assets_20_japanese.jpg?t=1787245773",
+      "appid": 3264440,
+      "name": "Hermes Library",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3264440/498c327e64cb9ba8f56408f08003b62c2d013c68/header.jpg?t=1787275613",
       "discountPercent": 10,
-      "initialPriceCents": 120000,
-      "finalPriceCents": 108000,
+      "initialPriceCents": 205000,
+      "finalPriceCents": 184500,
       "reviewPositiveRate": 100,
-      "reviewCount": 11,
-      "storeUrl": "https://store.steampowered.com/app/2836460/",
+      "reviewCount": 6,
+      "storeUrl": "https://store.steampowered.com/app/3264440/",
       "genres": [
         "カジュアル",
         "インディー",
-        "レース",
+        "RPG",
         "シミュレーション"
       ],
       "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "理想のビー玉コースターを作り上げましょう。カンペキに仕上げる必要はありません。ただビー玉を放って、コロコロと転がっていく光景をお楽しみあれ。",
+      "shortDescription": "ヘルメス図書館へようこそ。ここは、エウロパ連合王国で最も有名な学院、ヘファイストス学院の中核をなす中央図書館です。あなたは3年生のレイン・エコーとして、受付カウンター勤務の新任管理員となります。日々の業務をこなしながら、学院内で起こる数々の不可解な出来事を目の当たりにすることになるでしょう。",
       "reviewSnippet": "",
-      "rawScore": 43.572382060557075,
-      "hensachi": 52.8,
+      "rawScore": 42.689049207600966,
+      "hensachi": 53.5,
       "rank": 14
     },
     {
@@ -341,8 +344,8 @@
       "discountPercent": 10,
       "initialPriceCents": 230000,
       "finalPriceCents": 207000,
-      "reviewPositiveRate": 90.9,
-      "reviewCount": 55,
+      "reviewPositiveRate": 88.6,
+      "reviewCount": 70,
       "storeUrl": "https://store.steampowered.com/app/3196440/",
       "genres": [
         "カジュアル",
@@ -353,9 +356,57 @@
       "releaseYear": 2026,
       "shortDescription": "居心地の良いイタリアンバケーションカフェ 🏖️ タイマーなし、ストレスなし 😌 伝統料理を作り 🍝 アップグレードしてカスタマイズ 🏠 プロセッコを飲んで 🥂リラックスして、夢のカフェを成長させましょう ✨",
       "reviewSnippet": "",
-      "rawScore": 42.91193595096679,
-      "hensachi": 52.5,
+      "rawScore": 42.495880561204046,
+      "hensachi": 53.4,
       "rank": 15
+    },
+    {
+      "appid": 3192280,
+      "name": "エスケープ・ルーム～無知な彼女は今日も買われる～",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3192280/3f37f5ccc8d7f1c4d7e2270d523b96ecca6bd3f9/header_japanese.jpg?t=1787277827",
+      "discountPercent": 10,
+      "initialPriceCents": 198000,
+      "finalPriceCents": 178200,
+      "reviewPositiveRate": 100,
+      "reviewCount": 4,
+      "storeUrl": "https://store.steampowered.com/app/3192280/",
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "勇気を振り絞ってずっと片思いしていた幼馴染に告白したら、付き合うようになった。 気が付いたら、自分と彼女とほかの三人の男が謎の密室に閉じ込められた上に、ゲームで対決することになった。プレイヤーがゲームで負けたら、ほかの男性はポイントを使ってアリサの三日所有権を買う…",
+      "reviewSnippet": "",
+      "rawScore": 42.137622657871766,
+      "hensachi": 53.3,
+      "rank": 16
+    },
+    {
+      "appid": 3971650,
+      "name": "Lazy Witch's Factory レイジーウィッチーズファクトリー",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3971650/e8744ec3dbec0f38529af71c672e36b919a99443/header_japanese.jpg?t=1787281438",
+      "discountPercent": 10,
+      "initialPriceCents": 187000,
+      "finalPriceCents": 168300,
+      "reviewPositiveRate": 100,
+      "reviewCount": 2,
+      "storeUrl": "https://store.steampowered.com/app/3971650/",
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "シミュレーション",
+        "ストラテジー",
+        "早期アクセス"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "返済期限30分。借金地獄のドタバタ工場ビルダーゲーム。 契約でルールを捻じ曲げて、無茶なノルマを乗り切ろう。",
+      "reviewSnippet": "",
+      "rawScore": 41.30045756497986,
+      "hensachi": 52.9,
+      "rank": 17
     },
     {
       "appid": 4321510,
@@ -364,8 +415,8 @@
       "discountPercent": 10,
       "initialPriceCents": 330000,
       "finalPriceCents": 297000,
-      "reviewPositiveRate": 81.3,
-      "reviewCount": 75,
+      "reviewPositiveRate": 81,
+      "reviewCount": 84,
       "storeUrl": "https://store.steampowered.com/app/4321510/",
       "genres": [
         "インディー",
@@ -376,31 +427,55 @@
       "releaseYear": 2026,
       "shortDescription": "同棲恋愛シミュレーションゲーム『魔性の彼女と…』。 「まりな」と過ごす三週間。誘惑に満ちた彼女に翻弄される、胸高鳴る同棲生活があなたを待っている。",
       "reviewSnippet": "",
-      "rawScore": 40.05240978219167,
-      "hensachi": 51.4,
-      "rank": 16
+      "rawScore": 40.13082613477091,
+      "hensachi": 52.4,
+      "rank": 18
     },
     {
-      "appid": 4038080,
-      "name": "Entity Research Group",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4038080/0e67c7487b900eb6bfc6aa36ede545dce61707d9/header.jpg?t=1787246495",
+      "appid": 4796890,
+      "name": "Lo-Fi Laundromat",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4796890/d760f30b2b0d0a664164ea38d47d82ee555c25db/header.jpg?t=1787256069",
       "discountPercent": 10,
-      "initialPriceCents": 120000,
-      "finalPriceCents": 108000,
+      "initialPriceCents": 39500,
+      "finalPriceCents": 35500,
       "reviewPositiveRate": 50,
-      "reviewCount": 4,
-      "storeUrl": "https://store.steampowered.com/app/4038080/",
+      "reviewCount": 2,
+      "storeUrl": "https://store.steampowered.com/app/4796890/",
       "genres": [
-        "アクション",
-        "インディー"
+        "カジュアル",
+        "インディー",
+        "シミュレーション"
       ],
-      "supportsJapanese": true,
+      "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "Entity Research Group — 高リスクの異常存在を調査する特殊部隊の一員となる、協力型一人称ホラーゲームです。証拠やサンプルを集め、技術的な任務を遂行し、変化し続ける Backrooms のクラスターの中で生き延びてください。",
+      "shortDescription": "かわいいクリーチャーたちと一緒に、ご近所のコインランドリーを経営しましょう。洗濯、洗剤作り、衣類修繕を楽しみながら、のんびりアイドルで心温まるお店を育てていきましょう。",
       "reviewSnippet": "",
-      "rawScore": 24.63762265787177,
-      "hensachi": 45.2,
-      "rank": 17
+      "rawScore": 23.800457564979858,
+      "hensachi": 45.6,
+      "rank": 19
+    },
+    {
+      "appid": 4866370,
+      "name": "Hoop Empire",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4866370/76ca3065b48de072c2773fbb5bf3456e1269a9ca/header.jpg?t=1787285807",
+      "discountPercent": 40,
+      "initialPriceCents": 145000,
+      "finalPriceCents": 87000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4866370/",
+      "genres": [
+        "シミュレーション",
+        "スポーツ",
+        "ストラテジー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Draft rookies, negotiate trades, manage your cap, and create your dream franchise in this deep basketball management sim. Choose your path as a coach or an owner of one of 30 teams and build a championship dynasty one decision at a time. Customize rosters or draft classes for a unique experience.",
+      "reviewSnippet": "",
+      "rawScore": 18,
+      "hensachi": 43.2,
+      "rank": 20
     },
     {
       "appid": 5007970,
@@ -421,8 +496,8 @@
       "shortDescription": "ファンタジーな中世の鍛冶屋を舞台にした、シンプルで楽しい鍛冶ゲーム。材料を管理し、剣を鍛造し、店にやってくる冒険者たちに適切な武器を売って、毎週の家賃を払い、生き延びよう！",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 42.5,
-      "rank": 18
+      "hensachi": 43.2,
+      "rank": 21
     },
     {
       "appid": 4854040,
@@ -443,8 +518,8 @@
       "shortDescription": "Hentai Furry Dragony は、神秘的な野生の自然世界へあなたを連れていく ファンタジーパズルゲーム です。そこでは、ふわふわの耳、美しいしっぽ、そして魅惑的なまなざしを持つドラゴンガール があなたを待っています。",
       "reviewSnippet": "",
       "rawScore": 16.2,
-      "hensachi": 41.8,
-      "rank": 19
+      "hensachi": 42.5,
+      "rank": 22
     },
     {
       "appid": 3781890,
@@ -466,53 +541,102 @@
       "shortDescription": "How many critters could you care for at once? Mitobit is a chaotic arcade-like game inspired by virtual pets. Manage cute, self-replicating creatures over the course of 28 levels, while uncovering the stories behind your new cartridge collection.",
       "reviewSnippet": "",
       "rawScore": 14.85,
-      "hensachi": 41.2,
-      "rank": 20
+      "hensachi": 41.9,
+      "rank": 23
     },
     {
-      "appid": 4763580,
-      "name": "Still Rain: The Arrival",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4763580/296b470f8a769dbadb1d3cea2fa2d402833aad7c/header.jpg?t=1787245217",
-      "discountPercent": 15,
-      "initialPriceCents": 39500,
-      "finalPriceCents": 33500,
+      "appid": 4998500,
+      "name": "落命病棟 The Falling Hospital",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4998500/969b119958dac1ec1dbdf9ed1f29bc6332d5815e/header_japanese.jpg?t=1787265556",
+      "discountPercent": 20,
+      "initialPriceCents": 39000,
+      "finalPriceCents": 31200,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4763580/",
+      "storeUrl": "https://store.steampowered.com/app/4998500/",
       "genres": [
-        "アドベンチャー",
         "インディー"
       ],
-      "supportsJapanese": false,
+      "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "Ethan returns to his cousin's old family house, deep in the forest, a place he hasn't set foot in for five years, ever since the family who lived there vanished without a trace.",
+      "shortDescription": "目が覚めると、そこは記憶にない廃病院だった。 出口を探して長い廊下を歩くが、何度歩いても同じ景色――いや、何かが違う。 マイク必須、プレイ時間30分〜1時間の心理ホラー。",
       "reviewSnippet": "",
-      "rawScore": 6.75,
-      "hensachi": 38,
-      "rank": 21
+      "rawScore": 9,
+      "hensachi": 39.5,
+      "rank": 24
     },
     {
-      "appid": 4796890,
-      "name": "Lo-Fi Laundromat",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4796890/d760f30b2b0d0a664164ea38d47d82ee555c25db/header.jpg?t=1787256069",
-      "discountPercent": 10,
-      "initialPriceCents": 39500,
-      "finalPriceCents": 35500,
+      "appid": 3749320,
+      "name": "花滿樓",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3749320/44f94ee26f0ce3755d227b6a39a303f59d4a25e5/header.jpg?t=1787291920",
+      "discountPercent": 15,
+      "initialPriceCents": 145000,
+      "finalPriceCents": 123200,
       "reviewPositiveRate": 0,
-      "reviewCount": 1,
-      "storeUrl": "https://store.steampowered.com/app/4796890/",
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/3749320/",
       "genres": [
         "カジュアル",
-        "インディー",
-        "シミュレーション"
+        "RPG",
+        "シミュレーション",
+        "ストラテジー"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "かわいいクリーチャーたちと一緒に、ご近所のコインランドリーを経営しましょう。洗濯、洗剤作り、衣類修繕を楽しみながら、のんびりアイドルで心温まるお店を育てていきましょう。",
+      "shortDescription": "遊郭「花滿樓」を隠れ蓑に敵の首都に潜入し、才能豊かで美しい女性6人をスパイとして育成し、偵察や暗殺任務を遂行せよ。スキル開発を通して物語を進め、愛憎復讐の3つのエンディングを解き放て。",
       "reviewSnippet": "",
-      "rawScore": 5.635962247788608,
-      "hensachi": 37.5,
-      "rank": 22
+      "rawScore": 6.75,
+      "hensachi": 38.6,
+      "rank": 25
+    },
+    {
+      "appid": 304770,
+      "name": "IAH: INTERNET WAR",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304770/4b10885892384b9bcb7b8911726815adb6818514/header.jpg?t=1787271054",
+      "discountPercent": 10,
+      "initialPriceCents": 289900,
+      "finalPriceCents": 260900,
+      "reviewPositiveRate": 0,
+      "reviewCount": 2,
+      "storeUrl": "https://store.steampowered.com/app/304770/",
+      "genres": [
+        "アクション",
+        "インディー",
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "IAH: INTERNET WARは、ターン制ストラテジーと資源管理、リアルタイムの分隊戦闘を組み合わせたタクティカルローグライトです。ウェブサイトが存在する部屋で構成された迷宮を探索し、戦闘ボットをカスタマイズしてZENDAR CORPに挑みます。ソロまたは2～10人のオンライン協力プレイに対応。",
+      "reviewSnippet": "",
+      "rawScore": 6.300457564979858,
+      "hensachi": 38.4,
+      "rank": 26
+    },
+    {
+      "appid": 4542590,
+      "name": "フィッシュ スレイヤー",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4542590/78851ac01ee742aba038fa7ec8ad5d5b9697b87d/header_japanese.jpg?t=1787281344",
+      "discountPercent": 12,
+      "initialPriceCents": 53000,
+      "finalPriceCents": 46600,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4542590/",
+      "genres": [
+        "アクション",
+        "カジュアル",
+        "インディー",
+        "RPG",
+        "ストラテジー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "『フィッシュ スレイヤー』は、軽量ローグライクゲームです。複数のプレイモードと育成要素を備えています。プレイヤーは魚を狩る動物となり、ステータスやアイテムを選択して自身を強化し、より効率的に狩りを行います。しかし、海には危険な大きな魚も数多く生息しています。狩人から獲物にならないよう、注意が必要です。",
+      "reviewSnippet": "",
+      "rawScore": 5.4,
+      "hensachi": 38,
+      "rank": 27
     },
     {
       "appid": 1408027,
@@ -530,8 +654,8 @@
       "shortDescription": "",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 37.1,
-      "rank": 23
+      "hensachi": 37.6,
+      "rank": 28
     },
     {
       "appid": 1707312,
@@ -549,8 +673,8 @@
       "shortDescription": "",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 37.1,
-      "rank": 24
+      "hensachi": 37.6,
+      "rank": 29
     },
     {
       "appid": 4559060,
@@ -572,32 +696,31 @@
       "shortDescription": "カードを積み重ねて王国を築き、その軍勢を戦へ導くサバイバル・デッキビルダー。民を養い、自由に構築できるデッキを作り上げて使いこなし、命懸けの襲撃を退け、王冠を取り戻す道のりで厳しい決断を下そう。",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 37.1,
-      "rank": 25
+      "hensachi": 37.6,
+      "rank": 30
     },
     {
-      "appid": 304770,
-      "name": "IAH: INTERNET WAR",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304770/4b10885892384b9bcb7b8911726815adb6818514/header.jpg?t=1787271054",
+      "appid": 4303290,
+      "name": "Vivere Retro",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4303290/70bd132060481ca99256818e406cb6dbaeab558c/header.jpg?t=1787268961",
       "discountPercent": 10,
-      "initialPriceCents": 289900,
-      "finalPriceCents": 260900,
+      "initialPriceCents": 115000,
+      "finalPriceCents": 103500,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/304770/",
+      "storeUrl": "https://store.steampowered.com/app/4303290/",
       "genres": [
         "アクション",
-        "インディー",
-        "シミュレーション",
-        "ストラテジー"
+        "アドベンチャー",
+        "インディー"
       ],
-      "supportsJapanese": true,
+      "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "IAH: INTERNET WARは、ターン制ストラテジーと資源管理、リアルタイムの分隊戦闘を組み合わせたタクティカルローグライトです。ウェブサイトが存在する部屋で構成された迷宮を探索し、戦闘ボットをカスタマイズしてZENDAR CORPに挑みます。ソロまたは2～10人のオンライン協力プレイに対応。",
+      "shortDescription": "Vivere Retro is a psychological survival horror game about the origins of fear.",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 37.1,
-      "rank": 26
+      "hensachi": 37.6,
+      "rank": 31
     },
     {
       "appid": 5015520,
@@ -618,8 +741,8 @@
       "shortDescription": "Harvest Hand is a cozy turn-based strategy game where cards are your farming tools. Plant crops, manage water and energy, adapt to changing weather and threats, and build a powerful deck as you complete increasingly challenging orders.",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 37.1,
-      "rank": 27
+      "hensachi": 37.6,
+      "rank": 32
     }
   ]
 }
