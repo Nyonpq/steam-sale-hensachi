@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-22T00:48:46.936Z",
+  "fetchedAt": "2026-08-22T06:27:25.458Z",
   "currency": "JPY",
-  "count": 31,
-  "averageDiscount": 22,
+  "count": 30,
+  "averageDiscount": 22.3,
   "deals": [
     {
       "appid": 1687950,
@@ -12,7 +12,7 @@
       "initialPriceCents": 767800,
       "finalPriceCents": 230300,
       "reviewPositiveRate": 96.4,
-      "reviewCount": 137674,
+      "reviewCount": 137705,
       "storeUrl": "https://store.steampowered.com/app/1687950/",
       "genres": [
         "ターン制ストラテジー",
@@ -23,8 +23,8 @@
       "releaseYear": 2022,
       "shortDescription": "奪え、その意志で。",
       "reviewSnippet": "とてもいいRPGだ。ストーリーがすごくおもしろかった。絵も大好きだ。キャラクターもそれぞれ個性があって、よくできている。…",
-      "rawScore": 84.63190598171066,
-      "hensachi": 69,
+      "rawScore": 84.63227495604339,
+      "hensachi": 69.6,
       "rank": 1
     },
     {
@@ -35,7 +35,7 @@
       "initialPriceCents": 767800,
       "finalPriceCents": 268700,
       "reviewPositiveRate": 94.4,
-      "reviewCount": 61902,
+      "reviewCount": 61917,
       "storeUrl": "https://store.steampowered.com/app/2161700/",
       "genres": [
         "ターン制ストラテジー",
@@ -48,8 +48,8 @@
       "releaseYear": 2024,
       "shortDescription": "『ペルソナ３』が、装いを新たに現行最新ハードにて生まれ変わる！",
       "reviewSnippet": "神ゲーです！！！！！！！！！ 序盤から中盤はストーリー的には少し単調気味という意見もよく聞きますが、自分はそこまで感じま…",
-      "rawScore": 80.37193093097325,
-      "hensachi": 67.2,
+      "rawScore": 80.37232799942922,
+      "hensachi": 67.9,
       "rank": 2
     },
     {
@@ -60,7 +60,7 @@
       "initialPriceCents": 759000,
       "finalPriceCents": 531300,
       "reviewPositiveRate": 96.5,
-      "reviewCount": 1206897,
+      "reviewCount": 1206962,
       "storeUrl": "https://store.steampowered.com/app/2358720/",
       "genres": [
         "ソウルライク",
@@ -74,7 +74,7 @@
       "shortDescription": "『黒神話：悟空』は中国神話を背景にしたアクションRPGゲームです。プレイヤーは「天命人」と呼ばれるキャラクターとなり、古い伝説に隠された真相を究明するため、険しくも不思議な西遊の旅路を辿ります。",
       "reviewSnippet": "色々と足りない箇所はあるがボス戦をひたすらやるのが向いていれば楽しいと感じると思います。",
       "rawScore": 67.275,
-      "hensachi": 61.7,
+      "hensachi": 62.7,
       "rank": 3
     },
     {
@@ -84,8 +84,8 @@
       "discountPercent": 38,
       "initialPriceCents": 88000,
       "finalPriceCents": 54500,
-      "reviewPositiveRate": 95.2,
-      "reviewCount": 2912,
+      "reviewPositiveRate": 94.9,
+      "reviewCount": 3657,
       "storeUrl": "https://store.steampowered.com/app/4001890/",
       "genres": [
         "アクション",
@@ -96,9 +96,9 @@
       "supportsJapanese": true,
       "releaseYear": 2026,
       "shortDescription": "「How to Fish」は最大4人まで遊べる、物理演算ベースの釣りシミュレーターゲーム！ある日お酒を楽しみながらボートを走らせていたあなたは、ひょんなことから小さな島へ漂着してしまう。 家へ帰る方法はただひとつ…釣りをマスターすることだった。",
-      "reviewSnippet": "とんでもないぐらい面白い わちゃわちゃ深夜にやるには最高 ノリで買ってそのままクリアまで通してやって朝が来た",
-      "rawScore": 63.49298296085912,
-      "hensachi": 60.1,
+      "reviewSnippet": "セール時545円ならまぁおすすめ 定価の880円ならちょっと迷うぐらいのゲーム",
+      "rawScore": 63.76120264581283,
+      "hensachi": 61.3,
       "rank": 4
     },
     {
@@ -109,7 +109,7 @@
       "initialPriceCents": 170000,
       "finalPriceCents": 110500,
       "reviewPositiveRate": 91.5,
-      "reviewCount": 13938,
+      "reviewCount": 13964,
       "storeUrl": "https://store.steampowered.com/app/2163330/",
       "genres": [
         "弾幕",
@@ -123,8 +123,8 @@
       "releaseYear": 2026,
       "shortDescription": "群れが来るが、あなたは戦う準備ができている！ チームを組み立て、彼らの強化を決定し、何千ものアンデッドに対する最も効率的なシナジーを見つけよう。生き残れ。そして進化し、次にこの一見シンプルだが中毒性のあるリバース・バレット・ヘルで全ての限界を打ち破れ。",
       "reviewSnippet": "正式版発売2日前に存在を知りました 体験版があまりにも面白かったので購入 ヴァンサバ系の中では一番ハマった 説明がとても…",
-      "rawScore": 63.41360987958697,
-      "hensachi": 60,
+      "rawScore": 63.416663924668015,
+      "hensachi": 61.2,
       "rank": 5
     },
     {
@@ -135,7 +135,7 @@
       "initialPriceCents": 148000,
       "finalPriceCents": 96200,
       "reviewPositiveRate": 97.4,
-      "reviewCount": 2768,
+      "reviewCount": 2808,
       "storeUrl": "https://store.steampowered.com/app/2764460/",
       "genres": [
         "シミュレーション",
@@ -145,34 +145,10 @@
       "supportsJapanese": true,
       "releaseYear": 2026,
       "shortDescription": "すべてを破壊できる世界を探索し、資源を採掘しよう。複雑さを増していく生産チェーンを自動化し、地中深くへ掘り進んで、古代文明が遺した大いなる秘密を解き明かせ。砂さえ愛おしくなる、あらゆるピクセルが貴重な資源となる工場自動化ゲーム！",
-      "reviewSnippet": "自動化ゲームなのに探索がめちゃたのしい 自動化ゲームなのにコンベアなどに素材が必要ないという思い切り でも実はそれが正解…",
-      "rawScore": 62.82989794620971,
-      "hensachi": 59.8,
+      "reviewSnippet": "66時間で100万貯めれた。 心残りとして、時間で解決した部分が多いので次のアプデが来たらもっと良い自動化をしたい。 そ…",
+      "rawScore": 62.85340278943992,
+      "hensachi": 61,
       "rank": 6
-    },
-    {
-      "appid": 1643320,
-      "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1643320/8d6dfc775c4bf305569ad3af9249bf561148a863/header_alt_assets_7_japanese.jpg?t=1787314871",
-      "discountPercent": 30,
-      "initialPriceCents": 795000,
-      "finalPriceCents": 556500,
-      "reviewPositiveRate": 79.8,
-      "reviewCount": 136665,
-      "storeUrl": "https://store.steampowered.com/app/1643320/",
-      "genres": [
-        "サバイバル",
-        "アクション",
-        "アドベンチャー",
-        "RPG"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2024,
-      "shortDescription": "危険な敵、恐ろしいアノーマリー、強力なアーティファクトが存在する広大なチェルノブイリ立入禁止ゾーンを探索しよう。チェルノブイリの中心部に向かって進み、あなただけの壮大なストーリーを解き明かそう。進む道は慎重に選択しなければならないーあなたの運命と人類の未来がかかっているのだから。",
-      "reviewSnippet": "水分補給しながらマラソンしてたらたまに即死してスタート地点に戻るゲームです",
-      "rawScore": 60.809850881076365,
-      "hensachi": 58.9,
-      "rank": 7
     },
     {
       "appid": 5017470,
@@ -199,29 +175,8 @@
       "shortDescription": "TOYS 18+ - is a simple 2D game for adults in which you have to uncover hot images of beautiful ladies.",
       "reviewSnippet": "",
       "rawScore": 57.32501145538958,
-      "hensachi": 57.5,
-      "rank": 8
-    },
-    {
-      "appid": 4646020,
-      "name": "Crystal Breaker Inc",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4646020/df2bd07c4a9f82f1378b715028801eec248b6b4e/header.jpg?t=1787336138",
-      "discountPercent": 20,
-      "initialPriceCents": 65500,
-      "finalPriceCents": 52400,
-      "reviewPositiveRate": 97.1,
-      "reviewCount": 35,
-      "storeUrl": "https://store.steampowered.com/app/4646020/",
-      "genres": [
-        "カジュアル"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Crystal Breaker is a short incremental space game about flying, mining, and upgrading. Destroy crystal formations with your ship, unlock rare new upgrades, mine crystals and credits, and grow stronger through a skill tree.",
-      "reviewSnippet": "",
-      "rawScore": 48.857839625536926,
-      "hensachi": 53.9,
-      "rank": 9
+      "hensachi": 58.8,
+      "rank": 7
     },
     {
       "appid": 4945850,
@@ -231,7 +186,7 @@
       "initialPriceCents": 105000,
       "finalPriceCents": 78700,
       "reviewPositiveRate": 100,
-      "reviewCount": 2,
+      "reviewCount": 3,
       "storeUrl": "https://store.steampowered.com/app/4945850/",
       "genres": [
         "アクション",
@@ -245,53 +200,9 @@
       "releaseYear": 2026,
       "shortDescription": "パンチやキックでライバルを蹴落とし、障害物を乗り越えて頂上を目指そう。協力するか裏切るかはあなた次第。カオスなマルチプレイヤーパーティーゲーム『Galumb』にルールはない。",
       "reviewSnippet": "",
-      "rawScore": 48.05045756497986,
-      "hensachi": 53.6,
-      "rank": 10
-    },
-    {
-      "appid": 3817250,
-      "name": "CICADAMATA\"",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3817250/0ab8c0d1d01b867b09be8499a3079b38f0532631/header.jpg?t=1787331646",
-      "discountPercent": 10,
-      "initialPriceCents": 135000,
-      "finalPriceCents": 121500,
-      "reviewPositiveRate": 98.6,
-      "reviewCount": 216,
-      "storeUrl": "https://store.steampowered.com/app/3817250/",
-      "genres": [
-        "アクション",
-        "インディー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "+ follow the white rabbit + hop, skip, and jump to become one with joyeuse, until you are no longer you +",
-      "reviewSnippet": "",
-      "rawScore": 47.82682918433407,
-      "hensachi": 53.5,
-      "rank": 11
-    },
-    {
-      "appid": 4131730,
-      "name": "VHOLUME",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131730/1b262360aa9cfa7ce376b2677b3c641556a7254f/header.jpg?t=1787333844",
-      "discountPercent": 10,
-      "initialPriceCents": 100000,
-      "finalPriceCents": 90000,
-      "reviewPositiveRate": 97.3,
-      "reviewCount": 182,
-      "storeUrl": "https://store.steampowered.com/app/4131730/",
-      "genres": [
-        "カジュアル",
-        "インディー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "VHOLUME は、一人称視点のパルクールアドベンチャーです。ディストピア的なブルータリズム都市を舞台に、官僚主義が単純な手続きをひとつのオデッセイへと変えていく、メランコリックな物語を描きます。",
-      "reviewSnippet": "It's a very interesting game!",
-      "rawScore": 47.09255128200162,
-      "hensachi": 53.2,
-      "rank": 12
+      "rawScore": 48.52192449557722,
+      "hensachi": 55.3,
+      "rank": 8
     },
     {
       "appid": 4300950,
@@ -301,7 +212,7 @@
       "initialPriceCents": 53000,
       "finalPriceCents": 45000,
       "reviewPositiveRate": 100,
-      "reviewCount": 14,
+      "reviewCount": 17,
       "storeUrl": "https://store.steampowered.com/app/4300950/",
       "genres": [
         "カジュアル",
@@ -311,100 +222,78 @@
       "releaseYear": 2026,
       "shortDescription": "破壊が成長の糧となる、宇宙を舞台にしたインクリメンタル・シューティング。小惑星を殲滅して富を築き、巨大なアップグレードツリーを駆け上がれ。",
       "reviewSnippet": "",
-      "rawScore": 46.188080222851625,
-      "hensachi": 52.8,
-      "rank": 13
+      "rawScore": 46.48687737774833,
+      "hensachi": 54.5,
+      "rank": 9
     },
     {
-      "appid": 4026250,
-      "name": "Project P.I.T.T.",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4026250/066d9c477e4883dd31e5db4d3b0236a3c70cec3f/header.jpg?t=1787223275",
-      "discountPercent": 15,
-      "initialPriceCents": 135000,
-      "finalPriceCents": 114700,
-      "reviewPositiveRate": 82.4,
-      "reviewCount": 295,
-      "storeUrl": "https://store.steampowered.com/app/4026250/",
-      "genres": [
-        "アクション",
-        "カジュアル",
-        "インディー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "企業の虚無にラバーダックを捧げよう。物理演算の装置を組み上げ、コンボをつなげて利益を生み出せ。奈落はさらに飢え... さらに巨大化していく。ブルータリズム×PSX風の風刺と、一人称サンドボックスの混沌。",
-      "reviewSnippet": "やめどきを失うほど個人的には面白いです‼ 物がどう動くか理解できればめっちゃドパれます 進むにつれ穴がどんどん大きくなる…",
-      "rawScore": 44.91562909833562,
-      "hensachi": 52.2,
-      "rank": 14
-    },
-    {
-      "appid": 4651490,
-      "name": "Loot Gobblin' Together",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4651490/63ed88c05332f3ecc4997fd50726e8e7fe93963a/header.jpg?t=1787331613",
-      "discountPercent": 15,
-      "initialPriceCents": 88000,
-      "finalPriceCents": 74800,
-      "reviewPositiveRate": 94.1,
-      "reviewCount": 17,
-      "storeUrl": "https://store.steampowered.com/app/4651490/",
-      "genres": [
-        "アクション",
-        "アドベンチャー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "あなたとフレンドが欲深いゴブリンとなり、人間の家に侵入して戦利品を盗み、食べ尽くすオンライン協力ゲーム。登り、伸び、スタミナを管理しながら混沌の強奪を生き延び、ゴブリン王に食べ物を捧げましょう。",
-      "reviewSnippet": "",
-      "rawScore": 44.42187737774832,
-      "hensachi": 52,
-      "rank": 15
-    },
-    {
-      "appid": 4120790,
-      "name": "整理工房 The Sorting Bureau",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4120790/0b17bb3bb277bcbb6c328a8ab5bd3f668e5e251a/header_japanese.jpg?t=1787332434",
-      "discountPercent": 30,
-      "initialPriceCents": 135000,
-      "finalPriceCents": 94500,
-      "reviewPositiveRate": 73.7,
-      "reviewCount": 19,
-      "storeUrl": "https://store.steampowered.com/app/4120790/",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "東京の片隅にある小さな工房で、癒やし系のお片付けゲーム。お客さんから届く箱にはボタン、コイン、歯車、切手。ひとつずつ仕分けて、揃えて、組み立てる。心地よいASMRの音と共に、すべてをあるべき場所へ。時間制限なし。間違えても平気。片付けがくれる静かな満足感。",
-      "reviewSnippet": "",
-      "rawScore": 44.204547153448985,
-      "hensachi": 51.9,
-      "rank": 16
-    },
-    {
-      "appid": 3651890,
-      "name": "BURIED BELOW",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651890/88b803db1a19cb34b0060334b4934fb2ff5ff57a/header.jpg?t=1787331622",
-      "discountPercent": 15,
+      "appid": 4646020,
+      "name": "Crystal Breaker Inc",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4646020/df2bd07c4a9f82f1378b715028801eec248b6b4e/header.jpg?t=1787336138",
+      "discountPercent": 20,
       "initialPriceCents": 65500,
-      "finalPriceCents": 55600,
-      "reviewPositiveRate": 100,
-      "reviewCount": 3,
-      "storeUrl": "https://store.steampowered.com/app/3651890/",
+      "finalPriceCents": 52400,
+      "reviewPositiveRate": 88.1,
+      "reviewCount": 42,
+      "storeUrl": "https://store.steampowered.com/app/4646020/",
       "genres": [
-        "アドベンチャー",
-        "インディー"
+        "カジュアル"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "An old tape replays your worst memory. Tonight, you take control as it plays out. A camping trip. A storm. Your girlfriend, gone near an abandoned mine. Scour the forest for tools to breach the entrance, but something awaits you below. Can you survive and find her in the depths?",
+      "shortDescription": "Crystal Breaker is a short incremental space game about flying, mining, and upgrading. Destroy crystal formations with your ship, unlock rare new upgrades, mine crystals and credits, and grow stronger through a skill tree.",
       "reviewSnippet": "",
-      "rawScore": 44.02192449557722,
-      "hensachi": 51.9,
-      "rank": 17
+      "rawScore": 45.99903190784749,
+      "hensachi": 54.3,
+      "rank": 10
+    },
+    {
+      "appid": 3196440,
+      "name": "Vacation Cafe Simulator",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3196440/399e3b9c7d919cf8293ea97a27ba6f1e2226bc03/header.jpg?t=1787306679",
+      "discountPercent": 10,
+      "initialPriceCents": 230000,
+      "finalPriceCents": 207000,
+      "reviewPositiveRate": 91.4,
+      "reviewCount": 220,
+      "storeUrl": "https://store.steampowered.com/app/3196440/",
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "居心地の良いイタリアンバケーションカフェ 🏖️ タイマーなし、ストレスなし 😌 伝統料理を作り 🍝 アップグレードしてカスタマイズ 🏠 プロセッコを飲んで 🥂リラックスして、夢のカフェを成長させましょう ✨",
+      "reviewSnippet": "クッキングシミュレーションゲームで一番面白いし、時間制限もないし、お客さんも焦らせて来ないからのんびり遊べて最高！！ チ…",
+      "rawScore": 45.33676329692494,
+      "hensachi": 54,
+      "rank": 11
+    },
+    {
+      "appid": 3669490,
+      "name": "三國志 蜀漢伝",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669490/16a1974b685a736dece53fbec06eeaf563bbf954/header_japanese.jpg?t=1787364401",
+      "discountPercent": 20,
+      "initialPriceCents": 170000,
+      "finalPriceCents": 136000,
+      "reviewPositiveRate": 100,
+      "reviewCount": 1,
+      "storeUrl": "https://store.steampowered.com/app/3669490/",
+      "genres": [
+        "アドベンチャー",
+        "カジュアル",
+        "インディー",
+        "RPG",
+        "ストラテジー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "三国蜀漢伝』は伝統的なターン制ロールプレイングゲームで、劉備、關羽、張飛が桃園で義を結ぶところから始まり、北伐に成功して舊都に帰るまでの物語を描いています。60以上のユニークな名将を収集でき、數十冊の典籍を組み合わせて、あなたの心の中の最強チームを編成しましょう",
+      "reviewSnippet": "",
+      "rawScore": 45.135962247788605,
+      "hensachi": 53.9,
+      "rank": 12
     },
     {
       "appid": 3971650,
@@ -413,8 +302,8 @@
       "discountPercent": 10,
       "initialPriceCents": 187000,
       "finalPriceCents": 168300,
-      "reviewPositiveRate": 96.6,
-      "reviewCount": 29,
+      "reviewPositiveRate": 97.6,
+      "reviewCount": 41,
       "storeUrl": "https://store.steampowered.com/app/3971650/",
       "genres": [
         "カジュアル",
@@ -427,9 +316,33 @@
       "releaseYear": 2026,
       "shortDescription": "返済期限30分。借金地獄のドタバタ工場ビルダーゲーム。 契約でルールを捻じ曲げて、無茶なノルマを乗り切ろう。",
       "reviewSnippet": "コンベアに一次素材→二次素材→、と丁寧にラインを組んで流す必要がなく、適当にラインを引いて資源と納品先を繋ぎ、都度調整し…",
-      "rawScore": 43.88404247064023,
-      "hensachi": 51.8,
-      "rank": 18
+      "rawScore": 44.78546902036943,
+      "hensachi": 53.8,
+      "rank": 13
+    },
+    {
+      "appid": 4026250,
+      "name": "Project P.I.T.T.",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4026250/066d9c477e4883dd31e5db4d3b0236a3c70cec3f/header.jpg?t=1787223275",
+      "discountPercent": 15,
+      "initialPriceCents": 135000,
+      "finalPriceCents": 114700,
+      "reviewPositiveRate": 81.4,
+      "reviewCount": 317,
+      "storeUrl": "https://store.steampowered.com/app/4026250/",
+      "genres": [
+        "アクション",
+        "カジュアル",
+        "インディー",
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "企業の虚無にラバーダックを捧げよう。物理演算の装置を組み上げ、コンボをつなげて利益を生み出せ。奈落はさらに飢え... さらに巨大化していく。ブルータリズム×PSX風の風刺と、一人称サンドボックスの混沌。",
+      "reviewSnippet": "やめどきを失うほど個人的には面白いです‼ 物がどう動くか理解できればめっちゃドパれます 進むにつれ穴がどんどん大きくなる…",
+      "rawScore": 44.68312120748842,
+      "hensachi": 53.8,
+      "rank": 14
     },
     {
       "appid": 4315040,
@@ -438,8 +351,8 @@
       "discountPercent": 10,
       "initialPriceCents": 88000,
       "finalPriceCents": 79200,
-      "reviewPositiveRate": 80.3,
-      "reviewCount": 870,
+      "reviewPositiveRate": 80.4,
+      "reviewCount": 924,
       "storeUrl": "https://store.steampowered.com/app/4315040/",
       "genres": [
         "カジュアル",
@@ -450,31 +363,9 @@
       "releaseYear": 2026,
       "shortDescription": "資源を集め、気軽に計画し、自動で発展させ、少しずつ成長していく。小さな焚き火のある野営地から始まり、労働者を配置し、領地を広げ、ほかの都市国家と交易しながら、建築、技術、政策、さらには神秘的な魔法まで解放し、自分だけの「富の都」を大陸で最も強大な王国へと育て上げよう。",
       "reviewSnippet": "後半ある一部の機能が強すぎましたが、キレイで楽しいインクリメンタルでした",
-      "rawScore": 43.69940813210439,
-      "hensachi": 51.7,
-      "rank": 19
-    },
-    {
-      "appid": 4661900,
-      "name": "Sky Yacht - Waves of Desire",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661900/b57e1ccdf6f834d44ae7dc0cfcbbd4de518e249c/header.jpg?t=1787331671",
-      "discountPercent": 15,
-      "initialPriceCents": 135000,
-      "finalPriceCents": 114700,
-      "reviewPositiveRate": 100,
-      "reviewCount": 1,
-      "storeUrl": "https://store.steampowered.com/app/4661900/",
-      "genres": [
-        "アドベンチャー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "高級ヨットでのサマンサのバカンスは、誘惑たっぷりの美少女たちであふれていると知った瞬間から、一気に熱く激しく変わる！サマンサと一緒にワイルドな出会い、多彩な選択肢、セクシーなシーンを存分に堪能しよう。 この刺激的な航海に乗り込む準備はできてる？",
-      "reviewSnippet": "",
-      "rawScore": 42.885962247788605,
-      "hensachi": 51.4,
-      "rank": 20
+      "rawScore": 43.83298767071333,
+      "hensachi": 53.4,
+      "rank": 15
     },
     {
       "appid": 4738000,
@@ -483,8 +374,8 @@
       "discountPercent": 10,
       "initialPriceCents": 65500,
       "finalPriceCents": 58900,
-      "reviewPositiveRate": 87.2,
-      "reviewCount": 94,
+      "reviewPositiveRate": 88.5,
+      "reviewCount": 113,
       "storeUrl": "https://store.steampowered.com/app/4738000/",
       "genres": [
         "アクション",
@@ -496,30 +387,53 @@
       "releaseYear": 2026,
       "shortDescription": "Step into the enchanting world of My Sexy Fairies, where you become the trusted assistant of four charming fairy girls. Each fairy has her own unique personality, magical talents, and daily challenges — and it’s up to you to help them succeed.",
       "reviewSnippet": "",
-      "rawScore": 42.483107944486214,
-      "hensachi": 51.2,
-      "rank": 21
+      "rawScore": 43.23690509938291,
+      "hensachi": 53.2,
+      "rank": 16
     },
     {
-      "appid": 3994120,
-      "name": "AIドット絵バトル",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3994120/000f77a25172a5115c0607ebc3e6756819402667/header_japanese.jpg?t=1787298694",
+      "appid": 4243700,
+      "name": "27歳女教師 日常のひとコマ Chap.1",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243700/3c57fbd7737368cd2603c8aeaa2217e6d0bb7ba9/header_japanese.jpg?t=1787367604",
       "discountPercent": 10,
-      "initialPriceCents": 92000,
-      "finalPriceCents": 82800,
-      "reviewPositiveRate": 89.5,
-      "reviewCount": 19,
-      "storeUrl": "https://store.steampowered.com/app/3994120/",
+      "initialPriceCents": 132000,
+      "finalPriceCents": 118800,
+      "reviewPositiveRate": 100,
+      "reviewCount": 7,
+      "storeUrl": "https://store.steampowered.com/app/4243700/",
       "genres": [
-        "シミュレーション"
+        "インディー",
+        "RPG"
       ],
       "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "AIドット絵バトルは相手に勝てそうなモンスターを描いて戦うゲームです。描いたモンスターの見た目を元に、そのモンスターの能力や勝敗をAIが判定してくれます。創造力を発揮して、オリジナルのモンスターを生み出しましょう！",
-      "reviewSnippet": "神ゲー。今後のアップデートでもっと敵を増やしてほしい。 １時間くらいプレイしてみて特に不具合などなさそう。 フレンドとマ…",
-      "rawScore": 40.734547153448986,
-      "hensachi": 50.5,
-      "rank": 22
+      "shortDescription": "なんで校長先生、私の宿直の日に帰っちゃってるの…　 子宮の中の出すのを手伝って貰えると思ってたのにっ　一人で全部、出すの大変なんだよ… だって、いつもは病院の先生に手伝って貰ってるんだから… 校長に遊んでもらえなかったから深夜に校長室で過去の自分の動画を見ながらオナニーをする女教師。",
+      "reviewSnippet": "",
+      "rawScore": 42.90788674336582,
+      "hensachi": 53.1,
+      "rank": 17
+    },
+    {
+      "appid": 3998900,
+      "name": "Claws of Power",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3998900/89ccb250359de3656efe87940ef637257f3c03d8/header.jpg?t=1787363801",
+      "discountPercent": 20,
+      "initialPriceCents": 90500,
+      "finalPriceCents": 72400,
+      "reviewPositiveRate": 76.9,
+      "reviewCount": 13,
+      "storeUrl": "https://store.steampowered.com/app/3998900/",
+      "genres": [
+        "インディー",
+        "ストラテジー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "『クローズ・オブ・パワー』は、愛らしいビジュアルが特徴のリアルタイム対戦カードゲーム。隙間時間で気軽に遊べるカジュアルな作品です。能力や姿がそれぞれ異なる猫のカード。どの 1 枚も戦局を左右する鍵となります。デッキと装備の組み合わせを試し、各ステージを攻略して、大陸の頂点を目指しましょう！",
+      "reviewSnippet": "",
+      "rawScore": 40.24001145538958,
+      "hensachi": 52,
+      "rank": 18
     },
     {
       "appid": 4741750,
@@ -541,30 +455,95 @@
       "shortDescription": "Destroy, evolve, and grow until no skyscraper can stand in your way. How much of the city can you erase before the clock runs out?",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 40.9,
-      "rank": 23
+      "hensachi": 43.2,
+      "rank": 19
     },
     {
-      "appid": 4229150,
-      "name": "Negative Time",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4229150/b3b14894f317e267bf45539f3c2e702535063d73/header.jpg?t=1787331737",
-      "discountPercent": 20,
-      "initialPriceCents": 58000,
-      "finalPriceCents": 46400,
+      "appid": 4973340,
+      "name": "Neko Rogue",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4973340/c764bd577cc413cd3349192c4301c7ca7bd8a907/header.jpg?t=1787358761",
+      "discountPercent": 25,
+      "initialPriceCents": 170000,
+      "finalPriceCents": 127500,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4229150/",
+      "storeUrl": "https://store.steampowered.com/app/4973340/",
       "genres": [
-        "アクション",
-        "インディー"
+        "ストラテジー"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "Negative Time is a top-down shooter with bullet hell and roguelike elements where each time you get hit, you are sent further and further back in time, until you are sent into the past they tried so hard to erase. Maybe in there lies the key to your escape?",
+      "shortDescription": "A cyberpunk roguelike deckbuilder set in a dystopian neon city. Build a deck, sabotage enemy Intent Cards, steal block and cut damage, then loot defeated foes’ cards for the next fight. Outplay unique enemy decks, climb hostile districts, and conquer the underworld—one hand at a time.",
+      "reviewSnippet": "",
+      "rawScore": 11.25,
+      "hensachi": 40.5,
+      "rank": 20
+    },
+    {
+      "appid": 4832290,
+      "name": "Mado Marks",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4832290/d134a92972487a6a382e93dfc61a549e2d2355fa/header.jpg?t=1787368837",
+      "discountPercent": 20,
+      "initialPriceCents": 19900,
+      "finalPriceCents": 15900,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4832290/",
+      "genres": [
+        "アドベンチャー",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "3人の生徒は、存在するはずのない教室で自分たちを撮影する……翌朝、そのうちの1人が永遠に消えていた……記憶と証拠、消去をめぐる短編心理ホラービジュアルノベル。",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 37.1,
-      "rank": 24
+      "hensachi": 39.6,
+      "rank": 21
+    },
+    {
+      "appid": 5016680,
+      "name": "Hentai Age Rustic",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5016680/a388bc26f484d34fff7c94f156e63de7d29a9a01/header.jpg?t=1787350915",
+      "discountPercent": 20,
+      "initialPriceCents": 13500,
+      "finalPriceCents": 10800,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5016680/",
+      "genres": [
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "An enduring, stress-free jigsaw experience where you connect scattered pieces in a tranquil setting to uncover gorgeous art of lovely maidens. Ideal for decompressing and taking things easy on your own schedule.",
+      "reviewSnippet": "",
+      "rawScore": 9,
+      "hensachi": 39.6,
+      "rank": 22
+    },
+    {
+      "appid": 5002080,
+      "name": "KurunMania: Spiral Drop",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5002080/d8757b596360fc98e533695cf6ea976821095c7a/header.jpg?t=1787370291",
+      "discountPercent": 15,
+      "initialPriceCents": 39500,
+      "finalPriceCents": 33500,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5002080/",
+      "genres": [
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "球を撃ち出し、3・6・9・12段のクルーン突破を目指す高難度ゲーム！通常モードでは、外れ穴に入った球がその場にストックされ、挑戦するほど次の段へ進みやすくなります。 さらに、外れ球が消滅して穴を封鎖できない裏モードも収録。物理挙動をゲーム向けに調整した、予測不能な一球を配信や実況でもお楽しみください。",
+      "reviewSnippet": "",
+      "rawScore": 6.75,
+      "hensachi": 38.7,
+      "rank": 23
     },
     {
       "appid": 1408027,
@@ -582,7 +561,30 @@
       "shortDescription": "",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 35.2,
+      "hensachi": 37.8,
+      "rank": 24
+    },
+    {
+      "appid": 5009540,
+      "name": "Ashfire Keep",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5009540/206994b6f13eb9d1888ef684eceb3355d777ff4f/header.jpg?t=1787361161",
+      "discountPercent": 10,
+      "initialPriceCents": 90500,
+      "finalPriceCents": 81400,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5009540/",
+      "genres": [
+        "アクション",
+        "インディー",
+        "ストラテジー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "Defend a besieged keep against ever-growing waves of enemies: fight in melee or at range, build towers and manage supplies, and grow stronger run after run in this action defense roguelite.",
+      "reviewSnippet": "",
+      "rawScore": 4.5,
+      "hensachi": 37.8,
       "rank": 25
     },
     {
@@ -604,7 +606,7 @@
       "shortDescription": "Explore a dark fantasy world in Realms of Wands, an action RPG filled with epic boss battles, powerful magic, legendary loot, and dangerous dungeons. Level up, forge your destiny, and uncover the secrets of a fallen kingdom",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 35.2,
+      "hensachi": 37.8,
       "rank": 26
     },
     {
@@ -627,7 +629,7 @@
       "shortDescription": "個性あふれるカードを作成し、その力を高め、チームを結成し、戦略的なバトルに挑み、伝説の血統を築きましょう。Card Maker Simulatorでは、すべてのカードが独自の物語、ライバル関係、結婚、ペット、そして栄光を持っています。あなた自身の伝説を生み出すカード作成ゲームです！",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 35.2,
+      "hensachi": 37.8,
       "rank": 27
     },
     {
@@ -649,7 +651,7 @@
       "shortDescription": "A fantasy turn-based RPG where a young mercenary embarks on a journey to save his sister, Alice. Explore diverse regions, battle corrupted creatures, recruit unique allies, complete side quests, and shape the fate of the world through your choices.",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 35.2,
+      "hensachi": 37.8,
       "rank": 28
     },
     {
@@ -671,7 +673,7 @@
       "shortDescription": "戦争シミュレーター。十三の兵科で敵を殲滅せよ。支援するのはOKTAVA——自律部隊戦術打撃独立複合体。",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 35.2,
+      "hensachi": 37.8,
       "rank": 29
     },
     {
@@ -692,34 +694,8 @@
       "shortDescription": "A programming puzzle game where you never control the snake directly. Instead, you build its behavior by connecting blocks, then press play and see if your logic works. Think like a programmer as you solve 70 puzzles, with 30 more coming soon.",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 35.2,
+      "hensachi": 37.8,
       "rank": 30
-    },
-    {
-      "appid": 5045770,
-      "name": "Qq Media Studio",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5045770/ffb62f6c0030c5e24eb4970d90221023666117f5/header.jpg?t=1787332515",
-      "discountPercent": 10,
-      "initialPriceCents": 315000,
-      "finalPriceCents": 283500,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5045770/",
-      "genres": [
-        "オーディオ制作",
-        "デザイン & イラストレーション",
-        "教育",
-        "写真編集",
-        "ユーティリティ",
-        "ビデオ制作"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "Windows 用のオールインワン ローカル メディア スイート。ライブ壁紙の設定、サウンドボードのトリガー、Web メディアのダウンロード、フォーマットの変換、ビデオとオーディオの編集を 100% PC 上でローカルに実行できます。 macOS と Linux も近日公開予定です。",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 35.2,
-      "rank": 31
     }
   ]
 }
