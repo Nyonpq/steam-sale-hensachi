@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-23T12:24:44.017Z",
+  "fetchedAt": "2026-08-23T18:18:40.700Z",
   "currency": "JPY",
-  "count": 30,
-  "averageDiscount": 28,
+  "count": 29,
+  "averageDiscount": 29.1,
   "deals": [
     {
       "appid": 1687950,
@@ -12,7 +12,7 @@
       "initialPriceCents": 767800,
       "finalPriceCents": 230300,
       "reviewPositiveRate": 96.4,
-      "reviewCount": 137864,
+      "reviewCount": 137891,
       "storeUrl": "https://store.steampowered.com/app/1687950/",
       "genres": [
         "ターン制ストラテジー",
@@ -23,8 +23,8 @@
       "releaseYear": 2022,
       "shortDescription": "奪え、その意志で。",
       "reviewSnippet": "とてもいいRPGだ。ストーリーがすごくおもしろかった。絵も大好きだ。キャラクターもそれぞれ個性があって、よくできている。…",
-      "rawScore": 84.63416613267705,
-      "hensachi": 68.1,
+      "rawScore": 84.6344870592311,
+      "hensachi": 67.4,
       "rank": 1
     },
     {
@@ -35,7 +35,7 @@
       "initialPriceCents": 767800,
       "finalPriceCents": 268700,
       "reviewPositiveRate": 94.4,
-      "reviewCount": 62025,
+      "reviewCount": 62044,
       "storeUrl": "https://store.steampowered.com/app/2161700/",
       "genres": [
         "ターン制ストラテジー",
@@ -48,8 +48,8 @@
       "releaseYear": 2024,
       "shortDescription": "『ペルソナ３』が、装いを新たに現行最新ハードにて生まれ変わる！",
       "reviewSnippet": "神ゲーです！！！！！！！！！ 序盤から中盤はストーリー的には少し単調気味という意見もよく聞きますが、自分はそこまで感じま…",
-      "rawScore": 80.37518405590247,
-      "hensachi": 66.5,
+      "rawScore": 80.37568599584286,
+      "hensachi": 65.8,
       "rank": 2
     },
     {
@@ -60,7 +60,7 @@
       "initialPriceCents": 987800,
       "finalPriceCents": 395100,
       "reviewPositiveRate": 89.7,
-      "reviewCount": 42739,
+      "reviewCount": 42744,
       "storeUrl": "https://store.steampowered.com/app/2679460/",
       "genres": [
         "ターン制ストラテジー",
@@ -72,8 +72,8 @@
       "releaseYear": 2024,
       "shortDescription": "『メタファー：リファンタジオ』は、国王暗殺後に突如始まった選挙に巻き込まれ、新王の候補者となった少年の運命を描くファンタジーRPGです。世界を巡る日々の過ごし方は自由で、様々なクラスとパーティーを駆使した強敵たちとのバトルが待ち受ける。さあ“幻想でしかできない現実の旅”を始めよう。",
       "reviewSnippet": "現在中盤までプレイ中のレビューになります。 非常に楽しく遊んでいます アーキタイプの組み合わせやスキルなど 一つ気になっ…",
-      "rawScore": 75.86984723708699,
-      "hensachi": 64.7,
+      "rawScore": 75.8700389487444,
+      "hensachi": 64,
       "rank": 3
     },
     {
@@ -101,7 +101,7 @@
       "shortDescription": "A very long road journey, using the resources at each rest stop to try and reach the destination.",
       "reviewSnippet": "",
       "rawScore": 72.13596224778861,
-      "hensachi": 63.3,
+      "hensachi": 62.6,
       "rank": 4
     },
     {
@@ -112,7 +112,7 @@
       "initialPriceCents": 759000,
       "finalPriceCents": 531300,
       "reviewPositiveRate": 96.5,
-      "reviewCount": 1207389,
+      "reviewCount": 1207502,
       "storeUrl": "https://store.steampowered.com/app/2358720/",
       "genres": [
         "ソウルライク",
@@ -126,7 +126,7 @@
       "shortDescription": "『黒神話：悟空』は中国神話を背景にしたアクションRPGゲームです。プレイヤーは「天命人」と呼ばれるキャラクターとなり、古い伝説に隠された真相を究明するため、険しくも不思議な西遊の旅路を辿ります。",
       "reviewSnippet": "色々と足りない箇所はあるがボス戦をひたすらやるのが向いていれば楽しいと感じると思います。",
       "rawScore": 67.275,
-      "hensachi": 61.4,
+      "hensachi": 60.7,
       "rank": 5
     },
     {
@@ -136,8 +136,8 @@
       "discountPercent": 38,
       "initialPriceCents": 88000,
       "finalPriceCents": 54500,
-      "reviewPositiveRate": 94.3,
-      "reviewCount": 8937,
+      "reviewPositiveRate": 94.2,
+      "reviewCount": 10406,
       "storeUrl": "https://store.steampowered.com/app/4001890/",
       "genres": [
         "アクション",
@@ -149,8 +149,8 @@
       "releaseYear": 2026,
       "shortDescription": "「How to Fish」は最大4人まで遊べる、物理演算ベースの釣りシミュレーターゲーム！ある日お酒を楽しみながらボートを走らせていたあなたは、ひょんなことから小さな島へ漂着してしまう。 家へ帰る方法はただひとつ…釣りをマスターすることだった。",
       "reviewSnippet": "How to Fishは仲間と協力するする競技性の高いタクティカルシューターです。高い精度が要求される銃撃戦と、魚固有の…",
-      "rawScore": 65.01534094462015,
-      "hensachi": 60.5,
+      "rawScore": 65.22971907381782,
+      "hensachi": 59.9,
       "rank": 6
     },
     {
@@ -161,7 +161,7 @@
       "initialPriceCents": 170000,
       "finalPriceCents": 110500,
       "reviewPositiveRate": 91.5,
-      "reviewCount": 14126,
+      "reviewCount": 14169,
       "storeUrl": "https://store.steampowered.com/app/2163330/",
       "genres": [
         "弾幕",
@@ -175,8 +175,8 @@
       "releaseYear": 2026,
       "shortDescription": "群れが来るが、あなたは戦う準備ができている！ チームを組み立て、彼らの強化を決定し、何千ものアンデッドに対する最も効率的なシナジーを見つけよう。生き残れ。そして進化し、次にこの一見シンプルだが中毒性のあるリバース・バレット・ヘルで全ての限界を打ち破れ。",
       "reviewSnippet": "正式版発売2日前に存在を知りました 体験版があまりにも面白かったので購入 ヴァンサバ系の中では一番ハマった 説明がとても…",
-      "rawScore": 63.43556583080145,
-      "hensachi": 59.9,
+      "rawScore": 63.4405466047074,
+      "hensachi": 59.2,
       "rank": 7
     },
     {
@@ -187,7 +187,7 @@
       "initialPriceCents": 148000,
       "finalPriceCents": 96200,
       "reviewPositiveRate": 97.4,
-      "reviewCount": 3030,
+      "reviewCount": 3092,
       "storeUrl": "https://store.steampowered.com/app/2764460/",
       "genres": [
         "シミュレーション",
@@ -198,8 +198,8 @@
       "releaseYear": 2026,
       "shortDescription": "すべてを破壊できる世界を探索し、資源を採掘しよう。複雑さを増していく生産チェーンを自動化し、地中深くへ掘り進んで、古代文明が遺した大いなる秘密を解き明かせ。砂さえ愛おしくなる、あらゆるピクセルが貴重な資源となる工場自動化ゲーム！",
       "reviewSnippet": "ベルトコンベアで土を運ぶと……楽しい！ 花粉以降のルートの説明が乏しくてわかり難いので、そこだけ何とかして欲しい。",
-      "rawScore": 62.97806013723631,
-      "hensachi": 59.7,
+      "rawScore": 63.011244981144074,
+      "hensachi": 59,
       "rank": 8
     },
     {
@@ -224,7 +224,7 @@
       "shortDescription": "うつを斬り裂け——超高速ソウルライクで、喪失からようやく前に進む道を見つけろ。",
       "reviewSnippet": "",
       "rawScore": 55.473203476899144,
-      "hensachi": 56.8,
+      "hensachi": 56.1,
       "rank": 9
     },
     {
@@ -234,8 +234,8 @@
       "discountPercent": 38,
       "initialPriceCents": 239900,
       "finalPriceCents": 148700,
-      "reviewPositiveRate": 84.8,
-      "reviewCount": 66,
+      "reviewPositiveRate": 85.7,
+      "reviewCount": 70,
       "storeUrl": "https://store.steampowered.com/app/4997080/",
       "genres": [
         "カジュアル",
@@ -246,34 +246,53 @@
       "releaseYear": 2026,
       "shortDescription": "ダークゴシックな雰囲気を持つ、カジュアルなアダルト向け2Dクリッカー。ハートを獲得し、アップグレードをアンロックし、レベルごとに変化する魅惑的な動画コンテンツを進めていきましょう。アクティブなクリックと放置収入を組み合わせ、満足感と中毒性のあるゲームプレイループを楽しめます。",
       "reviewSnippet": "",
-      "rawScore": 53.67084831207859,
-      "hensachi": 56.1,
+      "rawScore": 54.080880561204054,
+      "hensachi": 55.5,
       "rank": 10
     },
     {
-      "appid": 3971650,
-      "name": "Lazy Witch's Factory レイジーウィッチーズファクトリー",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3971650/e8744ec3dbec0f38529af71c672e36b919a99443/header_japanese.jpg?t=1787385939",
-      "discountPercent": 10,
-      "initialPriceCents": 187000,
-      "finalPriceCents": 168300,
-      "reviewPositiveRate": 97.6,
-      "reviewCount": 85,
-      "storeUrl": "https://store.steampowered.com/app/3971650/",
+      "appid": 3919690,
+      "name": "OPEN FOR BUSINESS: Game & Movie Store Simulator",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3919690/e5442f2766295f8a3056428a360d3b3d1059d2dc/header.jpg?t=1787489195",
+      "discountPercent": 35,
+      "initialPriceCents": 79000,
+      "finalPriceCents": 51300,
+      "reviewPositiveRate": 81.8,
+      "reviewCount": 22,
+      "storeUrl": "https://store.steampowered.com/app/3919690/",
       "genres": [
         "カジュアル",
         "インディー",
-        "シミュレーション",
-        "ストラテジー",
-        "早期アクセス"
+        "シミュレーション"
       ],
-      "supportsJapanese": true,
+      "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "返済期限30分。借金地獄のドタバタ工場ビルダーゲーム。 契約でルールを捻じ曲げて、無茶なノルマを乗り切ろう。",
-      "reviewSnippet": "工場ゲーム部分もとても面白いんですが、9割くらいボイスの可愛さに意識を持っていかれました 1アクションに対してボイス4パ…",
-      "rawScore": 45.9599941556361,
-      "hensachi": 53.1,
+      "shortDescription": "VHSから最新コンソールまで、自分だけのゲーム＆映画ショップを作ろう。棚を商品で満たし、顧客を引きつけ、ビジネスを成長させながら、象徴的な時代のノスタルジーを体験しよう。",
+      "reviewSnippet": "",
+      "rawScore": 49.518595607613555,
+      "hensachi": 53.8,
       "rank": 11
+    },
+    {
+      "appid": 5010210,
+      "name": "Strait of Hormuz Mini Arcade",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5010210/54bc562481e42c15268554f5b7cfe647f9e63003/header.jpg?t=1787397105",
+      "discountPercent": 20,
+      "initialPriceCents": 13500,
+      "finalPriceCents": 10800,
+      "reviewPositiveRate": 100,
+      "reviewCount": 1,
+      "storeUrl": "https://store.steampowered.com/app/5010210/",
+      "genres": [
+        "アクション"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "The Strait of Hormuz Mini Arcade is a retro-style 2D shooter where world economy is at risk! Shoot down attacking speedboats and missile launchers to protect vital shipping lanes. Forget high scores—your real objective is keeping global oil prices low to prevent total recession! Or switch sides...",
+      "reviewSnippet": "",
+      "rawScore": 45.135962247788605,
+      "hensachi": 52.1,
+      "rank": 12
     },
     {
       "appid": 4026250,
@@ -282,8 +301,8 @@
       "discountPercent": 15,
       "initialPriceCents": 135000,
       "finalPriceCents": 114700,
-      "reviewPositiveRate": 79.6,
-      "reviewCount": 432,
+      "reviewPositiveRate": 78.5,
+      "reviewCount": 455,
       "storeUrl": "https://store.steampowered.com/app/4026250/",
       "genres": [
         "アクション",
@@ -295,9 +314,31 @@
       "releaseYear": 2026,
       "shortDescription": "企業の虚無にラバーダックを捧げよう。物理演算の装置を組み上げ、コンボをつなげて利益を生み出せ。奈落はさらに飢え... さらに巨大化していく。ブルータリズム×PSX風の風刺と、一人称サンドボックスの混沌。",
       "reviewSnippet": "エンディングまでプレイしたがラインを自動化してコンボを決めるのが最初は気持ちよかったが最後の大釜がどうしても自動化できな…",
-      "rawScore": 44.55901092963534,
-      "hensachi": 52.6,
-      "rank": 12
+      "rawScore": 44.258829594960126,
+      "hensachi": 51.7,
+      "rank": 13
+    },
+    {
+      "appid": 4895530,
+      "name": "汚れた空気",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895530/5b11f0e0c66b3b696a2a8116e6b47f2514d60ac2/header.jpg?t=1787421995",
+      "discountPercent": 40,
+      "initialPriceCents": 90500,
+      "finalPriceCents": 54300,
+      "reviewPositiveRate": 66.7,
+      "reviewCount": 3,
+      "storeUrl": "https://store.steampowered.com/app/4895530/",
+      "genres": [
+        "アドベンチャー",
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "『汚れた空気』は、ミリ単位の差と規則の抜け穴、そしてスポンサーが語りたがる物語によって王座が決まる現代F1を舞台にした、大人向けロマンス・ビジュアルノベル。独立系チームKestrel Grand Prixの創設者兼チーム代表ロリー・ホロウェイとして、ライバルの技術抗議、コストキャップ監査、スポンサーの圧力、そしてエースを死の淵まで追い込んだ疑惑のクラッシュを背景に、自らを破滅させ得る三つのハイステークスな恋愛を選び、生き抜いてください。露骨な成人向け描写を含みます。",
+      "reviewSnippet": "",
+      "rawScore": 43.616924495577216,
+      "hensachi": 51.5,
+      "rank": 14
     },
     {
       "appid": 4653120,
@@ -318,30 +359,29 @@
       "shortDescription": "Thiis is a desktop pet companion game. Maybe Touhou girls can let you feel less lonely.",
       "reviewSnippet": "",
       "rawScore": 43.82501145538958,
-      "hensachi": 52.3,
-      "rank": 13
+      "hensachi": 51.5,
+      "rank": 15
     },
     {
-      "appid": 4243700,
-      "name": "27歳女教師 日常のひとコマ Chap.1",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243700/3c57fbd7737368cd2603c8aeaa2217e6d0bb7ba9/header_japanese.jpg?t=1787367604",
+      "appid": 3994120,
+      "name": "AIドット絵バトル",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3994120/000f77a25172a5115c0607ebc3e6756819402667/header_japanese.jpg?t=1787400956",
       "discountPercent": 10,
-      "initialPriceCents": 132000,
-      "finalPriceCents": 118800,
-      "reviewPositiveRate": 95.5,
-      "reviewCount": 22,
-      "storeUrl": "https://store.steampowered.com/app/4243700/",
+      "initialPriceCents": 92000,
+      "finalPriceCents": 82800,
+      "reviewPositiveRate": 93.5,
+      "reviewCount": 46,
+      "storeUrl": "https://store.steampowered.com/app/3994120/",
       "genres": [
-        "インディー",
-        "RPG"
+        "シミュレーション"
       ],
       "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "なんで校長先生、私の宿直の日に帰っちゃってるの…　 子宮の中の出すのを手伝って貰えると思ってたのにっ　一人で全部、出すの大変なんだよ… だって、いつもは病院の先生に手伝って貰ってるんだから… 校長に遊んでもらえなかったから深夜に校長室で過去の自分の動画を見ながらオナニーをする女教師。",
-      "reviewSnippet": "",
-      "rawScore": 43.06359560761356,
-      "hensachi": 52,
-      "rank": 14
+      "shortDescription": "AIドット絵バトルは相手に勝てそうなモンスターを描いて戦うゲームです。描いたモンスターの見た目を元に、そのモンスターの能力や勝敗をAIが判定してくれます。創造力を発揮して、オリジナルのモンスターを生み出しましょう！",
+      "reviewSnippet": "画力の無い自分でも銃を描いたら評価S貰えて楽しめる やはり銃器にどんな生物も勝てないという事を教えてくれる良いゲーム",
+      "rawScore": 43.53480323749328,
+      "hensachi": 51.4,
+      "rank": 16
     },
     {
       "appid": 4795830,
@@ -351,7 +391,7 @@
       "initialPriceCents": 135000,
       "finalPriceCents": 114700,
       "reviewPositiveRate": 100,
-      "reviewCount": 1,
+      "reviewCount": 2,
       "storeUrl": "https://store.steampowered.com/app/4795830/",
       "genres": [
         "シミュレーション",
@@ -362,9 +402,9 @@
       "releaseYear": 2026,
       "shortDescription": "Master Foot is a football management sim focused on club building and off‑pitch decisions, with all the drama and banter. Play Career Mode for planning and long‑term strategy, or Street Mode for controlled chaos and fast roguelike‑style runs.",
       "reviewSnippet": "",
-      "rawScore": 42.885962247788605,
-      "hensachi": 51.9,
-      "rank": 15
+      "rawScore": 43.55045756497986,
+      "hensachi": 51.4,
+      "rank": 17
     },
     {
       "appid": 5050070,
@@ -387,30 +427,8 @@
       "shortDescription": "A classic text RPG: type commands to explore, fight turn-based battles, manage inventory, upgrade gear, and finish side quests. Chase multiple endings, New Game+ content, achievements, and moddable Workshop maps.",
       "reviewSnippet": "",
       "rawScore": 40.635962247788605,
-      "hensachi": 51.1,
-      "rank": 16
-    },
-    {
-      "appid": 4895530,
-      "name": "汚れた空気",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895530/5b11f0e0c66b3b696a2a8116e6b47f2514d60ac2/header.jpg?t=1787421995",
-      "discountPercent": 40,
-      "initialPriceCents": 90500,
-      "finalPriceCents": 54300,
-      "reviewPositiveRate": 50,
-      "reviewCount": 2,
-      "storeUrl": "https://store.steampowered.com/app/4895530/",
-      "genres": [
-        "アドベンチャー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "『汚れた空気』は、ミリ単位の差と規則の抜け穴、そしてスポンサーが語りたがる物語によって王座が決まる現代F1を舞台にした、大人向けロマンス・ビジュアルノベル。独立系チームKestrel Grand Prixの創設者兼チーム代表ロリー・ホロウェイとして、ライバルの技術抗議、コストキャップ監査、スポンサーの圧力、そしてエースを死の淵まで追い込んだ疑惑のクラッシュを背景に、自らを破滅させ得る三つのハイステークスな恋愛を選び、生き抜いてください。露骨な成人向け描写を含みます。",
-      "reviewSnippet": "",
-      "rawScore": 37.30045756497986,
-      "hensachi": 49.8,
-      "rank": 17
+      "hensachi": 50.3,
+      "rank": 18
     },
     {
       "appid": 4915450,
@@ -430,29 +448,7 @@
       "shortDescription": "A dark fantasy idle RPG where the world fights back. 28 named Elite Champions stalk the zones on their own timers, weekday Blessings reshape the Reach, and every rare drop rolls its own stats. Train 20 skills, progress offline, and become a hero the Reach will remember. No microtransactions.",
       "reviewSnippet": "",
       "rawScore": 36.178080222851634,
-      "hensachi": 49.3,
-      "rank": 18
-    },
-    {
-      "appid": 4832290,
-      "name": "Mado Marks",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4832290/d134a92972487a6a382e93dfc61a549e2d2355fa/header.jpg?t=1787368837",
-      "discountPercent": 20,
-      "initialPriceCents": 19900,
-      "finalPriceCents": 15900,
-      "reviewPositiveRate": 50,
-      "reviewCount": 2,
-      "storeUrl": "https://store.steampowered.com/app/4832290/",
-      "genres": [
-        "アドベンチャー",
-        "インディー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "3人の生徒は、存在するはずのない教室で自分たちを撮影する……翌朝、そのうちの1人が永遠に消えていた……記憶と証拠、消去をめぐる短編心理ホラービジュアルノベル。",
-      "reviewSnippet": "",
-      "rawScore": 28.300457564979858,
-      "hensachi": 46.3,
+      "hensachi": 48.6,
       "rank": 19
     },
     {
@@ -474,7 +470,7 @@
       "shortDescription": "This game is a classic puzzle game with multiple levels and beautiful graphics. Enjoy!",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 42.3,
+      "hensachi": 41.5,
       "rank": 20
     },
     {
@@ -497,7 +493,7 @@
       "shortDescription": "This premium wallpaper pack for Big Tiddy Goth Baddie🖤⛓️ - Wallpapers 18+ features 8 high-quality images highlighting the game’s most dark, seductive, and eye-catching moments",
       "reviewSnippet": "",
       "rawScore": 11.25,
-      "hensachi": 39.7,
+      "hensachi": 38.9,
       "rank": 21
     },
     {
@@ -521,7 +517,7 @@
       "shortDescription": "テキサス ホールデム、ブラックジャック、ルーレット、スロット、バカラでカジノのキャリアを築きましょう。ブラフをかけたり、罠をかけたり、言い返したりする 50 人のポーカー ライバルと対峙しましょう。一度購入してください。オフラインでプレイします。結果を検証します。チップパックやマイクロトランザクションはありません。",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 38.8,
+      "hensachi": 38,
       "rank": 22
     },
     {
@@ -544,52 +540,27 @@
       "shortDescription": "A precision puzzle-platformer where every move you make becomes permanent ink — solid walls your future self must route around. Plan each level like a single continuous pen stroke, dodge the Red Pen's corrections, and escape the page before you wall yourself in.",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 38.8,
+      "hensachi": 38,
       "rank": 23
     },
     {
-      "appid": 5010210,
-      "name": "Strait of Hormuz Mini Arcade",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5010210/54bc562481e42c15268554f5b7cfe647f9e63003/header.jpg?t=1787397105",
-      "discountPercent": 20,
-      "initialPriceCents": 13500,
-      "finalPriceCents": 10800,
+      "appid": 83697,
+      "name": "How to Fish X Gamble With Your Friends",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/83697/9nhvkq0sxgorndmo/8da40b5c7c54fbc2db58e37d8d0663458baf3e46/header_ratio.jpg?t=1786452434",
+      "discountPercent": 19,
+      "initialPriceCents": 180000,
+      "finalPriceCents": 131800,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5010210/",
-      "genres": [
-        "アクション"
-      ],
+      "storeUrl": "https://store.steampowered.com/app/83697/",
+      "genres": [],
       "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "The Strait of Hormuz Mini Arcade is a retro-style 2D shooter where world economy is at risk! Shoot down attacking speedboats and missile launchers to protect vital shipping lanes. Forget high scores—your real objective is keeping global oil prices low to prevent total recession! Or switch sides...",
+      "releaseYear": null,
+      "shortDescription": "",
       "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 38.8,
+      "rawScore": 8.55,
+      "hensachi": 37.8,
       "rank": 24
-    },
-    {
-      "appid": 5007540,
-      "name": "Desktop Pal",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5007540/42db6f20153d49e402da46a1552a3d11e272cc65/header.jpg?t=1787385991",
-      "discountPercent": 20,
-      "initialPriceCents": 54500,
-      "finalPriceCents": 43600,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5007540/",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "デスクトップに住みつく、おしゃべりマスコット育成ゲーム。たまごから23人の女の子のだれかが孵化し、会話で育って進化。やることリストを登録すれば時間にキャラが声かけ、完了で経験値。ローカルAI内蔵・オフライン動作・日英対応。",
-      "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 38.8,
-      "rank": 25
     },
     {
       "appid": 4706280,
@@ -612,30 +583,33 @@
       "shortDescription": "Master ORO CADE, a relaxing 3D logic puzzler. Target color groups to clear the board, but don’t break the chain or blocks will reappear! Enjoy 70 handcrafted levels, 3 modes of difficulty, an atmospheric glow, and a dynamic soundtrack. A Premium Experience with no ads or microtransactions.",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 37.9,
-      "rank": 26
+      "hensachi": 37.1,
+      "rank": 25
     },
     {
-      "appid": 5002080,
-      "name": "KurunMania: Spiral Drop",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5002080/d8757b596360fc98e533695cf6ea976821095c7a/header.jpg?t=1787370291",
+      "appid": 4870060,
+      "name": "Garden Defence",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4870060/b6dc307914749ddd06dfbade07c94828a5c84160/header.jpg?t=1787436426",
       "discountPercent": 15,
-      "initialPriceCents": 39500,
-      "finalPriceCents": 33500,
+      "initialPriceCents": 53000,
+      "finalPriceCents": 45000,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5002080/",
+      "storeUrl": "https://store.steampowered.com/app/4870060/",
       "genres": [
+        "アクション",
+        "アドベンチャー",
         "カジュアル",
-        "インディー"
+        "インディー",
+        "ストラテジー"
       ],
-      "supportsJapanese": true,
+      "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "球を撃ち出し、3・6・9・12段のクルーン突破を目指す高難度ゲーム！通常モードでは、外れ穴に入った球がその場にストックされ、挑戦するほど次の段へ進みやすくなります。 さらに、外れ球が消滅して穴を封鎖できない裏モードも収録。物理挙動をゲーム向けに調整した、予測不能な一球を配信や実況でもお楽しみください。",
+      "shortDescription": "Defend your garden from a bug invasion using everyday objects turned into turrets: magnifying glasses, garden hoses, UV lamps, and more. Upgrade your defenses, adapt to changing weather, and outsmart increasingly cunning enemies in this strategic tower defense with a backyard twist.",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 37.9,
-      "rank": 27
+      "hensachi": 37.1,
+      "rank": 26
     },
     {
       "appid": 5015810,
@@ -656,8 +630,8 @@
       "shortDescription": "駅名の知識で 走る地下鉄タイピングレース。 ソウル2号線からパリのメトロまで — 19カ国、94路線、2,361駅。 次の駅を入力して完走せよ。 必要なのは路線知識とタイピングスピードだけ。",
       "reviewSnippet": "",
       "rawScore": 5.635962247788608,
-      "hensachi": 37.5,
-      "rank": 28
+      "hensachi": 36.7,
+      "rank": 27
     },
     {
       "appid": 1408027,
@@ -675,32 +649,30 @@
       "shortDescription": "",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 37.1,
-      "rank": 29
+      "hensachi": 36.3,
+      "rank": 28
     },
     {
-      "appid": 4921700,
-      "name": "StorySmith",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4921700/885fce627a4d94feccbbfcc8b106e2b3a5005513/header.jpg?t=1787365522",
+      "appid": 4951300,
+      "name": "Truth Universally Acknowledged - Silver Heart",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4951300/6b253278e6fdad18b87d70ed18fa9e4e921b5852/header.jpg?t=1787496454",
       "discountPercent": 10,
-      "initialPriceCents": 135000,
-      "finalPriceCents": 121500,
+      "initialPriceCents": 79000,
+      "finalPriceCents": 71100,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4921700/",
+      "storeUrl": "https://store.steampowered.com/app/4951300/",
       "genres": [
-        "アクション",
-        "アドベンチャー",
-        "インディー",
-        "RPG"
+        "カジュアル",
+        "インディー"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "A live collaborative story game for you and your Twitch chat. AI generates each scene on your machine — no internet required. Chat votes, you narrate, together you write the story.",
+      "shortDescription": "Truth Universally Acknowledged - Silver Heart is a CEO Romance dating sim with 3 routes. Every love interest is a CEO.",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 37.1,
-      "rank": 30
+      "hensachi": 36.3,
+      "rank": 29
     }
   ]
 }
