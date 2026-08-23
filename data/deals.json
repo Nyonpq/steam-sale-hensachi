@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-22T18:19:34.076Z",
+  "fetchedAt": "2026-08-23T00:53:41.359Z",
   "currency": "JPY",
-  "count": 30,
-  "averageDiscount": 23.5,
+  "count": 31,
+  "averageDiscount": 24.5,
   "deals": [
     {
       "appid": 1687950,
@@ -12,7 +12,7 @@
       "initialPriceCents": 767800,
       "finalPriceCents": 230300,
       "reviewPositiveRate": 96.4,
-      "reviewCount": 137763,
+      "reviewCount": 137809,
       "storeUrl": "https://store.steampowered.com/app/1687950/",
       "genres": [
         "ターン制ストラテジー",
@@ -23,7 +23,7 @@
       "releaseYear": 2022,
       "shortDescription": "奪え、その意志で。",
       "reviewSnippet": "とてもいいRPGだ。ストーリーがすごくおもしろかった。絵も大好きだ。キャラクターもそれぞれ個性があって、よくできている。…",
-      "rawScore": 84.63296507208719,
+      "rawScore": 84.63351219893784,
       "hensachi": 69.9,
       "rank": 1
     },
@@ -35,7 +35,7 @@
       "initialPriceCents": 767800,
       "finalPriceCents": 268700,
       "reviewPositiveRate": 94.4,
-      "reviewCount": 61965,
+      "reviewCount": 61988,
       "storeUrl": "https://store.steampowered.com/app/2161700/",
       "genres": [
         "ターン制ストラテジー",
@@ -48,8 +48,8 @@
       "releaseYear": 2024,
       "shortDescription": "『ペルソナ３』が、装いを新たに現行最新ハードにて生まれ変わる！",
       "reviewSnippet": "神ゲーです！！！！！！！！！ 序盤から中盤はストーリー的には少し単調気味という意見もよく聞きますが、自分はそこまで感じま…",
-      "rawScore": 80.37359797238472,
-      "hensachi": 68.3,
+      "rawScore": 80.37420615251085,
+      "hensachi": 68.1,
       "rank": 2
     },
     {
@@ -60,7 +60,7 @@
       "initialPriceCents": 759000,
       "finalPriceCents": 531300,
       "reviewPositiveRate": 96.5,
-      "reviewCount": 1207155,
+      "reviewCount": 1207210,
       "storeUrl": "https://store.steampowered.com/app/2358720/",
       "genres": [
         "ソウルライク",
@@ -74,7 +74,7 @@
       "shortDescription": "『黒神話：悟空』は中国神話を背景にしたアクションRPGゲームです。プレイヤーは「天命人」と呼ばれるキャラクターとなり、古い伝説に隠された真相を究明するため、険しくも不思議な西遊の旅路を辿ります。",
       "reviewSnippet": "色々と足りない箇所はあるがボス戦をひたすらやるのが向いていれば楽しいと感じると思います。",
       "rawScore": 67.275,
-      "hensachi": 63.2,
+      "hensachi": 62.8,
       "rank": 3
     },
     {
@@ -84,8 +84,8 @@
       "discountPercent": 38,
       "initialPriceCents": 88000,
       "finalPriceCents": 54500,
-      "reviewPositiveRate": 94.4,
-      "reviewCount": 5593,
+      "reviewPositiveRate": 94.5,
+      "reviewCount": 6932,
       "storeUrl": "https://store.steampowered.com/app/4001890/",
       "genres": [
         "アクション",
@@ -96,9 +96,9 @@
       "supportsJapanese": true,
       "releaseYear": 2026,
       "shortDescription": "「How to Fish」は最大4人まで遊べる、物理演算ベースの釣りシミュレーターゲーム！ある日お酒を楽しみながらボートを走らせていたあなたは、ひょんなことから小さな島へ漂着してしまう。 家へ帰る方法はただひとつ…釣りをマスターすることだった。",
-      "reviewSnippet": "セール時545円ならまぁおすすめ 定価の880円ならちょっと迷うぐらいのゲーム",
-      "rawScore": 64.28234891334154,
-      "hensachi": 62,
+      "reviewSnippet": "[h1]釣りゲーで類を見ないドーパミン放出量[/h1] とっても楽しくてとってもおバカ ブルーギルをヘッショ決めたときな…",
+      "rawScore": 64.66904226490102,
+      "hensachi": 61.7,
       "rank": 4
     },
     {
@@ -109,7 +109,7 @@
       "initialPriceCents": 170000,
       "finalPriceCents": 110500,
       "reviewPositiveRate": 91.5,
-      "reviewCount": 14029,
+      "reviewCount": 14062,
       "storeUrl": "https://store.steampowered.com/app/2163330/",
       "genres": [
         "弾幕",
@@ -123,8 +123,8 @@
       "releaseYear": 2026,
       "shortDescription": "群れが来るが、あなたは戦う準備ができている！ チームを組み立て、彼らの強化を決定し、何千ものアンデッドに対する最も効率的なシナジーを見つけよう。生き残れ。そして進化し、次にこの一見シンプルだが中毒性のあるリバース・バレット・ヘルで全ての限界を打ち破れ。",
       "reviewSnippet": "正式版発売2日前に存在を知りました 体験版があまりにも面白かったので購入 ヴァンサバ系の中では一番ハマった 説明がとても…",
-      "rawScore": 63.4242742302957,
-      "hensachi": 61.7,
+      "rawScore": 63.42812444061323,
+      "hensachi": 61.2,
       "rank": 5
     },
     {
@@ -134,8 +134,8 @@
       "discountPercent": 35,
       "initialPriceCents": 148000,
       "finalPriceCents": 96200,
-      "reviewPositiveRate": 97.3,
-      "reviewCount": 2902,
+      "reviewPositiveRate": 97.4,
+      "reviewCount": 2954,
       "storeUrl": "https://store.steampowered.com/app/2764460/",
       "genres": [
         "シミュレーション",
@@ -146,8 +146,8 @@
       "releaseYear": 2026,
       "shortDescription": "すべてを破壊できる世界を探索し、資源を採掘しよう。複雑さを増していく生産チェーンを自動化し、地中深くへ掘り進んで、古代文明が遺した大いなる秘密を解き明かせ。砂さえ愛おしくなる、あらゆるピクセルが貴重な資源となる工場自動化ゲーム！",
       "reviewSnippet": "66時間で100万貯めれた。 心残りとして、時間で解決した部分が多いので次のアプデが来たらもっと良い自動化をしたい。 そ…",
-      "rawScore": 62.87234730502519,
-      "hensachi": 61.5,
+      "rawScore": 62.936443340442544,
+      "hensachi": 61,
       "rank": 6
     },
     {
@@ -158,7 +158,7 @@
       "initialPriceCents": 795000,
       "finalPriceCents": 556500,
       "reviewPositiveRate": 79.8,
-      "reviewCount": 136878,
+      "reviewCount": 136976,
       "storeUrl": "https://store.steampowered.com/app/1643320/",
       "genres": [
         "サバイバル",
@@ -170,8 +170,8 @@
       "releaseYear": 2024,
       "shortDescription": "危険な敵、恐ろしいアノーマリー、強力なアーティファクトが存在する広大なチェルノブイリ立入禁止ゾーンを探索しよう。チェルノブイリの中心部に向かって進み、あなただけの壮大なストーリーを解き明かそう。進む道は慎重に選択しなければならないーあなたの運命と人類の未来がかかっているのだから。",
       "reviewSnippet": "水分補給しながらマラソンしてたらたまに即死してスタート地点に戻るゲームです",
-      "rawScore": 60.81240310833823,
-      "hensachi": 60.7,
+      "rawScore": 60.813576038803916,
+      "hensachi": 60.1,
       "rank": 7
     },
     {
@@ -181,8 +181,8 @@
       "discountPercent": 38,
       "initialPriceCents": 239900,
       "finalPriceCents": 148700,
-      "reviewPositiveRate": 100,
-      "reviewCount": 32,
+      "reviewPositiveRate": 91.3,
+      "reviewCount": 46,
       "storeUrl": "https://store.steampowered.com/app/4997080/",
       "genres": [
         "カジュアル",
@@ -193,9 +193,31 @@
       "releaseYear": 2026,
       "shortDescription": "ダークゴシックな雰囲気を持つ、カジュアルなアダルト向け2Dクリッカー。ハートを獲得し、アップグレードをアンロックし、レベルごとに変化する魅惑的な動画コンテンツを進めていきましょう。アクティブなクリックと放置収入を組み合わせ、満足感と中毒性のあるゲームプレイループを楽しめます。",
       "reviewSnippet": "",
-      "rawScore": 57.83024128255807,
-      "hensachi": 59.6,
+      "rawScore": 55.36480323749328,
+      "hensachi": 57.9,
       "rank": 8
+    },
+    {
+      "appid": 4895530,
+      "name": "汚れた空気",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895530/5b11f0e0c66b3b696a2a8116e6b47f2514d60ac2/header.jpg?t=1787421995",
+      "discountPercent": 40,
+      "initialPriceCents": 90500,
+      "finalPriceCents": 54300,
+      "reviewPositiveRate": 100,
+      "reviewCount": 1,
+      "storeUrl": "https://store.steampowered.com/app/4895530/",
+      "genres": [
+        "アドベンチャー",
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "『汚れた空気』は、ミリ単位の差と規則の抜け穴、そしてスポンサーが語りたがる物語によって王座が決まる現代F1を舞台にした、大人向けロマンス・ビジュアルノベル。独立系チームKestrel Grand Prixの創設者兼チーム代表ロリー・ホロウェイとして、ライバルの技術抗議、コストキャップ監査、スポンサーの圧力、そしてエースを死の淵まで追い込んだ疑惑のクラッシュを背景に、自らを破滅させ得る三つのハイステークスな恋愛を選び、生き抜いてください。露骨な成人向け描写を含みます。",
+      "reviewSnippet": "",
+      "rawScore": 54.135962247788605,
+      "hensachi": 57.4,
+      "rank": 9
     },
     {
       "appid": 3998900,
@@ -204,7 +226,7 @@
       "discountPercent": 20,
       "initialPriceCents": 90500,
       "finalPriceCents": 72400,
-      "reviewPositiveRate": 92.4,
+      "reviewPositiveRate": 93.5,
       "reviewCount": 92,
       "storeUrl": "https://store.steampowered.com/app/3998900/",
       "genres": [
@@ -215,9 +237,34 @@
       "releaseYear": 2026,
       "shortDescription": "『クローズ・オブ・パワー』は、愛らしいビジュアルが特徴のリアルタイム対戦カードゲーム。隙間時間で気軽に遊べるカジュアルな作品です。能力や姿がそれぞれ異なる猫のカード。どの 1 枚も戦局を左右する鍵となります。デッキと装備の組み合わせを試し、各ステージを攻略して、大陸の頂点を目指しましょう！",
       "reviewSnippet": "",
-      "rawScore": 48.76823754171296,
-      "hensachi": 56,
-      "rank": 9
+      "rawScore": 49.15323754171297,
+      "hensachi": 55.3,
+      "rank": 10
+    },
+    {
+      "appid": 3971650,
+      "name": "Lazy Witch's Factory レイジーウィッチーズファクトリー",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3971650/e8744ec3dbec0f38529af71c672e36b919a99443/header_japanese.jpg?t=1787385939",
+      "discountPercent": 10,
+      "initialPriceCents": 187000,
+      "finalPriceCents": 168300,
+      "reviewPositiveRate": 97.3,
+      "reviewCount": 74,
+      "storeUrl": "https://store.steampowered.com/app/3971650/",
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "シミュレーション",
+        "ストラテジー",
+        "早期アクセス"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "返済期限30分。借金地獄のドタバタ工場ビルダーゲーム。 契約でルールを捻じ曲げて、無茶なノルマを乗り切ろう。",
+      "reviewSnippet": "HELL1までクリアしました。 工場構築ゲームの面白いところだけ30分で、というのは面白い。 ただ、リソースというかコン…",
+      "rawScore": 45.6307028807234,
+      "hensachi": 53.9,
+      "rank": 11
     },
     {
       "appid": 4026250,
@@ -226,8 +273,8 @@
       "discountPercent": 15,
       "initialPriceCents": 135000,
       "finalPriceCents": 114700,
-      "reviewPositiveRate": 80.9,
-      "reviewCount": 362,
+      "reviewPositiveRate": 80.5,
+      "reviewCount": 390,
       "storeUrl": "https://store.steampowered.com/app/4026250/",
       "genres": [
         "アクション",
@@ -239,31 +286,9 @@
       "releaseYear": 2026,
       "shortDescription": "企業の虚無にラバーダックを捧げよう。物理演算の装置を組み上げ、コンボをつなげて利益を生み出せ。奈落はさらに飢え... さらに巨大化していく。ブルータリズム×PSX風の風刺と、一人称サンドボックスの混沌。",
       "reviewSnippet": "エンディングまでプレイしたがラインを自動化してコンボを決めるのが最初は気持ちよかったが最後の大釜がどうしても自動化できな…",
-      "rawScore": 44.72502500013627,
-      "hensachi": 54.5,
-      "rank": 10
-    },
-    {
-      "appid": 4243700,
-      "name": "27歳女教師 日常のひとコマ Chap.1",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243700/3c57fbd7737368cd2603c8aeaa2217e6d0bb7ba9/header_japanese.jpg?t=1787367604",
-      "discountPercent": 10,
-      "initialPriceCents": 132000,
-      "finalPriceCents": 118800,
-      "reviewPositiveRate": 100,
-      "reviewCount": 18,
-      "storeUrl": "https://store.steampowered.com/app/4243700/",
-      "genres": [
-        "インディー",
-        "RPG"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "なんで校長先生、私の宿直の日に帰っちゃってるの…　 子宮の中の出すのを手伝って貰えると思ってたのにっ　一人で全部、出すの大変なんだよ… だって、いつもは病院の先生に手伝って貰ってるんだから… 校長に遊んでもらえなかったから深夜に校長室で過去の自分の動画を見ながらオナニーをする女教師。",
-      "reviewSnippet": "",
-      "rawScore": 44.32548528661445,
-      "hensachi": 54.3,
-      "rank": 11
+      "rawScore": 44.7067990845127,
+      "hensachi": 53.5,
+      "rank": 12
     },
     {
       "appid": 4315040,
@@ -272,8 +297,8 @@
       "discountPercent": 10,
       "initialPriceCents": 88000,
       "finalPriceCents": 79200,
-      "reviewPositiveRate": 80,
-      "reviewCount": 1059,
+      "reviewPositiveRate": 80.2,
+      "reviewCount": 1109,
       "storeUrl": "https://store.steampowered.com/app/4315040/",
       "genres": [
         "カジュアル",
@@ -283,10 +308,10 @@
       "supportsJapanese": true,
       "releaseYear": 2026,
       "shortDescription": "資源を集め、気軽に計画し、自動で発展させ、少しずつ成長していく。小さな焚き火のある野営地から始まり、労働者を配置し、領地を広げ、ほかの都市国家と交易しながら、建築、技術、政策、さらには神秘的な魔法まで解放し、自分だけの「富の都」を大陸で最も強大な王国へと育て上げよう。",
-      "reviewSnippet": "後半ある一部の機能が強すぎましたが、キレイで楽しいインクリメンタルでした",
-      "rawScore": 43.916248548168944,
-      "hensachi": 54.2,
-      "rank": 12
+      "reviewSnippet": "ファンタジー世界の街を発展させていくインクリメンタル。 8時間程度でクリア。 ゲームシステム自体はシンプルなのだけど、街…",
+      "rawScore": 44.06178482561003,
+      "hensachi": 53.2,
+      "rank": 13
     },
     {
       "appid": 4653120,
@@ -296,7 +321,7 @@
       "initialPriceCents": 13500,
       "finalPriceCents": 12100,
       "reviewPositiveRate": 100,
-      "reviewCount": 8,
+      "reviewCount": 11,
       "storeUrl": "https://store.steampowered.com/app/4653120/",
       "genres": [
         "カジュアル",
@@ -306,9 +331,31 @@
       "releaseYear": 2026,
       "shortDescription": "Thiis is a desktop pet companion game. Maybe Touhou girls can let you feel less lonely.",
       "reviewSnippet": "",
-      "rawScore": 43.100915129959716,
-      "hensachi": 53.9,
-      "rank": 13
+      "rawScore": 43.572382060557075,
+      "hensachi": 53,
+      "rank": 14
+    },
+    {
+      "appid": 4243700,
+      "name": "27歳女教師 日常のひとコマ Chap.1",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243700/3c57fbd7737368cd2603c8aeaa2217e6d0bb7ba9/header_japanese.jpg?t=1787367604",
+      "discountPercent": 10,
+      "initialPriceCents": 132000,
+      "finalPriceCents": 118800,
+      "reviewPositiveRate": 95.2,
+      "reviewCount": 21,
+      "storeUrl": "https://store.steampowered.com/app/4243700/",
+      "genres": [
+        "インディー",
+        "RPG"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "なんで校長先生、私の宿直の日に帰っちゃってるの…　 子宮の中の出すのを手伝って貰えると思ってたのにっ　一人で全部、出すの大変なんだよ… だって、いつもは病院の先生に手伝って貰ってるんだから… 校長に遊んでもらえなかったから深夜に校長室で過去の自分の動画を見ながらオナニーをする女教師。",
+      "reviewSnippet": "",
+      "rawScore": 42.885745965366816,
+      "hensachi": 52.7,
+      "rank": 15
     },
     {
       "appid": 4932400,
@@ -330,57 +377,53 @@
       "shortDescription": "クラシック数独、キラー数独に加え、サーモ、アロー、クロプキ、XV、ジグソー、対角線、アンチナイトなど11種類の人気バリエーションを収録。63種類の解法テクニックを学び、デイリーチャレンジや便利なサポート機能で初心者から上級者まで楽しめます。",
       "reviewSnippet": "",
       "rawScore": 42.885962247788605,
-      "hensachi": 53.8,
-      "rank": 14
+      "hensachi": 52.7,
+      "rank": 16
     },
     {
-      "appid": 4741750,
-      "name": "Chickzilla",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4741750/e1fa8b0c3838fb94ebc7e9e1dd54ef0f9e2415b1/header.jpg?t=1787348013",
-      "discountPercent": 40,
-      "initialPriceCents": 30500,
-      "finalPriceCents": 18300,
-      "reviewPositiveRate": 50,
-      "reviewCount": 2,
-      "storeUrl": "https://store.steampowered.com/app/4741750/",
+      "appid": 5050070,
+      "name": "The Escape From Dungeon Keep",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5050070/7e0085b84c910815c202e02f0c975a4a3d04d200/header.jpg?t=1787397575",
+      "discountPercent": 10,
+      "initialPriceCents": 50500,
+      "finalPriceCents": 45400,
+      "reviewPositiveRate": 100,
+      "reviewCount": 1,
+      "storeUrl": "https://store.steampowered.com/app/5050070/",
       "genres": [
         "アクション",
-        "カジュアル",
-        "インディー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "Destroy, evolve, and grow until no skyscraper can stand in your way. How much of the city can you erase before the clock runs out?",
-      "reviewSnippet": "",
-      "rawScore": 37.30045756497986,
-      "hensachi": 51.6,
-      "rank": 15
-    },
-    {
-      "appid": 4945850,
-      "name": "Galumb",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4945850/b17f1d5ff40554a542f6a8713b816c18975a6f03/header.jpg?t=1787340875",
-      "discountPercent": 25,
-      "initialPriceCents": 105000,
-      "finalPriceCents": 78700,
-      "reviewPositiveRate": 35,
-      "reviewCount": 20,
-      "storeUrl": "https://store.steampowered.com/app/4945850/",
-      "genres": [
-        "アクション",
-        "アドベンチャー",
         "カジュアル",
         "インディー",
-        "レース",
-        "スポーツ"
+        "RPG"
       ],
-      "supportsJapanese": true,
+      "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "パンチやキックでライバルを蹴落とし、障害物を乗り越えて頂上を目指そう。協力するか裏切るかはあなた次第。カオスなマルチプレイヤーパーティーゲーム『Galumb』にルールはない。",
+      "shortDescription": "A classic text RPG: type commands to explore, fight turn-based battles, manage inventory, upgrade gear, and finish side quests. Chase multiple endings, New Game+ content, achievements, and moddable Workshop maps.",
       "reviewSnippet": "",
-      "rawScore": 28.489506772580828,
-      "hensachi": 48.2,
-      "rank": 16
+      "rawScore": 40.635962247788605,
+      "hensachi": 51.8,
+      "rank": 17
+    },
+    {
+      "appid": 4915450,
+      "name": "Grim Reach Idle",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4915450/45b4d1f0053f1d6e459a438ca1aa15ba63e3c315/header.jpg?t=1787435645",
+      "discountPercent": 15,
+      "initialPriceCents": 65500,
+      "finalPriceCents": 55600,
+      "reviewPositiveRate": 69.2,
+      "reviewCount": 13,
+      "storeUrl": "https://store.steampowered.com/app/4915450/",
+      "genres": [
+        "RPG"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "A dark fantasy idle RPG where the world fights back. 28 named Elite Champions stalk the zones on their own timers, weekday Blessings reshape the Reach, and every rare drop rolls its own stats. Train 20 skills, progress offline, and become a hero the Reach will remember. No microtransactions.",
+      "reviewSnippet": "",
+      "rawScore": 35.29501145538958,
+      "hensachi": 49.6,
+      "rank": 18
     },
     {
       "appid": 3669490,
@@ -404,8 +447,74 @@
       "shortDescription": "三国蜀漢伝』は伝統的なターン制ロールプレイングゲームで、劉備、關羽、張飛が桃園で義を結ぶところから始まり、北伐に成功して舊都に帰るまでの物語を描いています。60以上のユニークな名将を収集でき、數十冊の典籍を組み合わせて、あなたの心の中の最強チームを編成しましょう",
       "reviewSnippet": "",
       "rawScore": 28.300457564979858,
-      "hensachi": 48.1,
-      "rank": 17
+      "hensachi": 46.8,
+      "rank": 19
+    },
+    {
+      "appid": 4961740,
+      "name": "Puzzles Flowers",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4961740/293c8afb09a198848945c1df7cd88c85fca13b64/header.jpg?t=1787410476",
+      "discountPercent": 40,
+      "initialPriceCents": 13500,
+      "finalPriceCents": 8100,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4961740/",
+      "genres": [
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "This game is a classic puzzle game with multiple levels and beautiful graphics. Enjoy!",
+      "reviewSnippet": "",
+      "rawScore": 18,
+      "hensachi": 42.5,
+      "rank": 20
+    },
+    {
+      "appid": 5013430,
+      "name": "EZY Virtual TableTop Builder",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5013430/38c53836eb0913c4999888cbe894a4e107a009c6/header.jpg?t=1787364118",
+      "discountPercent": 40,
+      "initialPriceCents": 315000,
+      "finalPriceCents": 189000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5013430/",
+      "genres": [
+        "RPG"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "A no-code virtual tabletop and TTRPG builder. Create your own character sheets and game mechanics without writing code, run sessions on 2D and 3D tabletops with fog of war and multi-level maps, play online with friends, and download, customize, and expand community-made modules.",
+      "reviewSnippet": "",
+      "rawScore": 18,
+      "hensachi": 42.5,
+      "rank": 21
+    },
+    {
+      "appid": 5076620,
+      "name": "Big Tiddy Goth Baddie🖤⛓️ - Wallpapers 18+",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5076620/83f132e798cc3068e443a4c427e8b5ebc212a292/header.jpg?t=1787406817",
+      "discountPercent": 25,
+      "initialPriceCents": 39500,
+      "finalPriceCents": 29600,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5076620/",
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "シミュレーション"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "This premium wallpaper pack for Big Tiddy Goth Baddie🖤⛓️ - Wallpapers 18+ features 8 high-quality images highlighting the game’s most dark, seductive, and eye-catching moments",
+      "reviewSnippet": "",
+      "rawScore": 11.25,
+      "hensachi": 39.8,
+      "rank": 22
     },
     {
       "appid": 4973340,
@@ -425,8 +534,8 @@
       "shortDescription": "A cyberpunk roguelike deckbuilder set in a dystopian neon city. Build a deck, sabotage enemy Intent Cards, steal block and cut damage, then loot defeated foes’ cards for the next fight. Outplay unique enemy decks, climb hostile districts, and conquer the underworld—one hand at a time.",
       "reviewSnippet": "",
       "rawScore": 11.25,
-      "hensachi": 41.5,
-      "rank": 18
+      "hensachi": 39.8,
+      "rank": 23
     },
     {
       "appid": 4832290,
@@ -447,8 +556,8 @@
       "shortDescription": "3人の生徒は、存在するはずのない教室で自分たちを撮影する……翌朝、そのうちの1人が永遠に消えていた……記憶と証拠、消去をめぐる短編心理ホラービジュアルノベル。",
       "reviewSnippet": "",
       "rawScore": 10.135962247788608,
-      "hensachi": 41.1,
-      "rank": 19
+      "hensachi": 39.3,
+      "rank": 24
     },
     {
       "appid": 5010210,
@@ -468,8 +577,8 @@
       "shortDescription": "The Strait of Hormuz Mini Arcade is a retro-style 2D shooter where world economy is at risk! Shoot down attacking speedboats and missile launchers to protect vital shipping lanes. Forget high scores—your real objective is keeping global oil prices low to prevent total recession! Or switch sides...",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 40.7,
-      "rank": 20
+      "hensachi": 38.8,
+      "rank": 25
     },
     {
       "appid": 5007540,
@@ -491,49 +600,8 @@
       "shortDescription": "デスクトップに住みつく、おしゃべりマスコット育成ゲーム。たまごから23人の女の子のだれかが孵化し、会話で育って進化。やることリストを登録すれば時間にキャラが声かけ、完了で経験値。ローカルAI内蔵・オフライン動作・日英対応。",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 40.7,
-      "rank": 21
-    },
-    {
-      "appid": 5016680,
-      "name": "Hentai Age Rustic",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5016680/a388bc26f484d34fff7c94f156e63de7d29a9a01/header.jpg?t=1787350915",
-      "discountPercent": 20,
-      "initialPriceCents": 13500,
-      "finalPriceCents": 10800,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5016680/",
-      "genres": [
-        "カジュアル",
-        "インディー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "An enduring, stress-free jigsaw experience where you connect scattered pieces in a tranquil setting to uncover gorgeous art of lovely maidens. Ideal for decompressing and taking things easy on your own schedule.",
-      "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 40.7,
-      "rank": 22
-    },
-    {
-      "appid": 83697,
-      "name": "How to Fish X Gamble With Your Friends",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/83697/9nhvkq0sxgorndmo/8da40b5c7c54fbc2db58e37d8d0663458baf3e46/header_ratio.jpg?t=1786452434",
-      "discountPercent": 19,
-      "initialPriceCents": 180000,
-      "finalPriceCents": 131800,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/83697/",
-      "genres": [],
-      "supportsJapanese": false,
-      "releaseYear": null,
-      "shortDescription": "",
-      "reviewSnippet": "",
-      "rawScore": 8.55,
-      "hensachi": 40.5,
-      "rank": 23
+      "hensachi": 38.8,
+      "rank": 26
     },
     {
       "appid": 5002080,
@@ -554,8 +622,8 @@
       "shortDescription": "球を撃ち出し、3・6・9・12段のクルーン突破を目指す高難度ゲーム！通常モードでは、外れ穴に入った球がその場にストックされ、挑戦するほど次の段へ進みやすくなります。 さらに、外れ球が消滅して穴を封鎖できない裏モードも収録。物理挙動をゲーム向けに調整した、予測不能な一球を配信や実況でもお楽しみください。",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 39.8,
-      "rank": 24
+      "hensachi": 37.9,
+      "rank": 27
     },
     {
       "appid": 1408027,
@@ -573,32 +641,8 @@
       "shortDescription": "",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 38.9,
-      "rank": 25
-    },
-    {
-      "appid": 5050070,
-      "name": "The Escape From Dungeon Keep",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5050070/7e0085b84c910815c202e02f0c975a4a3d04d200/header.jpg?t=1787397575",
-      "discountPercent": 10,
-      "initialPriceCents": 50500,
-      "finalPriceCents": 45400,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5050070/",
-      "genres": [
-        "アクション",
-        "カジュアル",
-        "インディー",
-        "RPG"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "A classic text RPG: type commands to explore, fight turn-based battles, manage inventory, upgrade gear, and finish side quests. Chase multiple endings, New Game+ content, achievements, and moddable Workshop maps.",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 38.9,
-      "rank": 26
+      "hensachi": 37,
+      "rank": 28
     },
     {
       "appid": 5009540,
@@ -620,8 +664,8 @@
       "shortDescription": "Defend a besieged keep against ever-growing waves of enemies: fight in melee or at range, build towers and manage supplies, and grow stronger run after run in this action defense roguelite.",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 38.9,
-      "rank": 27
+      "hensachi": 37,
+      "rank": 29
     },
     {
       "appid": 4989300,
@@ -642,8 +686,8 @@
       "shortDescription": "Explore a dark fantasy world in Realms of Wands, an action RPG filled with epic boss battles, powerful magic, legendary loot, and dangerous dungeons. Level up, forge your destiny, and uncover the secrets of a fallen kingdom",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 38.9,
-      "rank": 28
+      "hensachi": 37,
+      "rank": 30
     },
     {
       "appid": 4359910,
@@ -665,30 +709,8 @@
       "shortDescription": "個性あふれるカードを作成し、その力を高め、チームを結成し、戦略的なバトルに挑み、伝説の血統を築きましょう。Card Maker Simulatorでは、すべてのカードが独自の物語、ライバル関係、結婚、ペット、そして栄光を持っています。あなた自身の伝説を生み出すカード作成ゲームです！",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 38.9,
-      "rank": 29
-    },
-    {
-      "appid": 5015660,
-      "name": "Alice ou o Mundo?",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5015660/806fadf871f9e464d07d52fa64c86273b4cd0cc8/header.jpg?t=1787343230",
-      "discountPercent": 10,
-      "initialPriceCents": 65500,
-      "finalPriceCents": 58900,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5015660/",
-      "genres": [
-        "アドベンチャー",
-        "RPG"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "A fantasy turn-based RPG where a young mercenary embarks on a journey to save his sister, Alice. Explore diverse regions, battle corrupted creatures, recruit unique allies, complete side quests, and shape the fate of the world through your choices.",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 38.9,
-      "rank": 30
+      "hensachi": 37,
+      "rank": 31
     }
   ]
 }
