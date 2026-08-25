@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-08-25T00:51:46.303Z",
+  "fetchedAt": "2026-08-25T06:34:20.175Z",
   "currency": "JPY",
-  "count": 37,
-  "averageDiscount": 23.7,
+  "count": 35,
+  "averageDiscount": 25.5,
   "deals": [
     {
       "appid": 1336490,
@@ -12,7 +12,7 @@
       "initialPriceCents": 298000,
       "finalPriceCents": 89400,
       "reviewPositiveRate": 94.4,
-      "reviewCount": 37249,
+      "reviewCount": 37253,
       "storeUrl": "https://store.steampowered.com/app/1336490/",
       "genres": [
         "ローグライク",
@@ -24,8 +24,8 @@
       "releaseYear": 2023,
       "shortDescription": "『Against the Storm』は永遠に降り注ぐ雨に苦しむ世界に、都市を再構築するダークファンタジー・シティビルダー。女王の命を受けた「総督」として、人間、ビーバー、リザード、キツネ、ハーピーを率いて荒野を開拓しよう。文明最後の生き残りをかけて、未来への道を切り拓け。",
       "reviewSnippet": "街づくりの序盤をずっと繰り返すようなゲームです。 街が軌道に乗り始めると面倒に感じてしまうタイプなので、強制リセットされ…",
-      "rawScore": 81.78953312107286,
-      "hensachi": 67.7,
+      "rawScore": 81.78970909520613,
+      "hensachi": 68.5,
       "rank": 1
     },
     {
@@ -36,7 +36,7 @@
       "initialPriceCents": 648000,
       "finalPriceCents": 285100,
       "reviewPositiveRate": 82.6,
-      "reviewCount": 216973,
+      "reviewCount": 217008,
       "storeUrl": "https://store.steampowered.com/app/3240220/",
       "genres": [
         "アクション",
@@ -48,7 +48,7 @@
       "shortDescription": "大ヒットの『グランド・セフト・オートV』と「GTAオンライン」を体験しよう - 新世代用に美麗なグラフィック、短縮されたロード時間、3Dオーディオなどのアップグレード。さらに、「GTAオンライン」プレイヤー用の限定コンテンツなど。",
       "reviewSnippet": "個人的なことだが、大分前にロックスターソーシャルで登録メアドが使えなくなってもう一生ログインできないと思ってたが、なんか…",
       "rawScore": 74.11,
-      "hensachi": 64.7,
+      "hensachi": 65.5,
       "rank": 2
     },
     {
@@ -59,7 +59,7 @@
       "initialPriceCents": 676000,
       "finalPriceCents": 169000,
       "reviewPositiveRate": 59.9,
-      "reviewCount": 115755,
+      "reviewCount": 115763,
       "storeUrl": "https://store.steampowered.com/app/2399830/",
       "genres": [
         "サバイバル",
@@ -74,8 +74,8 @@
       "releaseYear": 2023,
       "shortDescription": "ARKは、Unreal Engine 5を使用したこの次世代のビデオゲームテクノロジーのゼロから再考されます。部族を形成し、何百ものユニークな恐竜と原始の生き物を飼いならし、繁殖させ、食物鎖の頂上までの道を探索、工芸、建設し、戦います。あなたの新しい世界が待っています！",
       "reviewSnippet": "PCの要求スッペクはそれなりに高いが、それに見合ったゲーム性とグラフィックはあるのでぜひみんなに遊んでほしい!!!!",
-      "rawScore": 73.82271136276049,
-      "hensachi": 64.6,
+      "rawScore": 73.822824621026,
+      "hensachi": 65.4,
       "rank": 3
     },
     {
@@ -86,7 +86,7 @@
       "initialPriceCents": 759000,
       "finalPriceCents": 531300,
       "reviewPositiveRate": 96.5,
-      "reviewCount": 1207819,
+      "reviewCount": 1207900,
       "storeUrl": "https://store.steampowered.com/app/2358720/",
       "genres": [
         "ソウルライク",
@@ -100,7 +100,7 @@
       "shortDescription": "『黒神話：悟空』は中国神話を背景にしたアクションRPGゲームです。プレイヤーは「天命人」と呼ばれるキャラクターとなり、古い伝説に隠された真相を究明するため、険しくも不思議な西遊の旅路を辿ります。",
       "reviewSnippet": "すべてのボスを倒した時点でのレビューです。難易度は一部ボスを除き法術を使えば容易に倒せるようなものが多いです。しかし、章…",
       "rawScore": 67.275,
-      "hensachi": 62,
+      "hensachi": 62.9,
       "rank": 4
     },
     {
@@ -110,8 +110,8 @@
       "discountPercent": 38,
       "initialPriceCents": 88000,
       "finalPriceCents": 54500,
-      "reviewPositiveRate": 94.4,
-      "reviewCount": 17012,
+      "reviewPositiveRate": 94.5,
+      "reviewCount": 17962,
       "storeUrl": "https://store.steampowered.com/app/4001890/",
       "genres": [
         "アクション",
@@ -122,9 +122,9 @@
       "supportsJapanese": true,
       "releaseYear": 2026,
       "shortDescription": "「How to Fish」は最大4人まで遊べる、物理演算ベースの釣りシミュレーターゲーム！ある日お酒を楽しみながらボートを走らせていたあなたは、ひょんなことから小さな島へ漂着してしまう。 家へ帰る方法はただひとつ…釣りをマスターすることだった。",
-      "reviewSnippet": "二人でプレイして４時間弱でクリアできました、アップデートでやり込み要素来たら無限にプレイします。",
-      "rawScore": 66.10521095096476,
-      "hensachi": 61.6,
+      "reviewSnippet": "ダイナマイト漁（爆破漁法）は、水中で爆薬を爆発させ、その衝撃波で気絶や死亡した魚を回収する漁法です。 生態系への甚大な被…",
+      "rawScore": 66.22925988639582,
+      "hensachi": 62.5,
       "rank": 5
     },
     {
@@ -135,7 +135,7 @@
       "initialPriceCents": 759000,
       "finalPriceCents": 455400,
       "reviewPositiveRate": 85.1,
-      "reviewCount": 32015,
+      "reviewCount": 32021,
       "storeUrl": "https://store.steampowered.com/app/2680010/",
       "genres": [
         "ソウルライク",
@@ -148,8 +148,8 @@
       "releaseYear": 2025,
       "shortDescription": "The First Berserker: KhazanはハードコアアクションRPGです。プレイヤーは、死を克服したペル・ロス帝国の大将軍カザンになって、自身を没落させた事件を暴き、敵に復讐するための冒険に旅立ちます。",
       "reviewSnippet": "ネット記事で売上予想を下回りチーム解散とあって悲しくてレビュー ソウルライクいくつかプレイしたが、操作性が抜群に良くて面…",
-      "rawScore": 64.7863851746873,
-      "hensachi": 61.1,
+      "rawScore": 64.78669227617823,
+      "hensachi": 61.9,
       "rank": 6
     },
     {
@@ -160,7 +160,7 @@
       "initialPriceCents": 170000,
       "finalPriceCents": 112200,
       "reviewPositiveRate": 83.3,
-      "reviewCount": 776036,
+      "reviewCount": 776054,
       "storeUrl": "https://store.steampowered.com/app/346110/",
       "genres": [
         "サバイバル",
@@ -175,34 +175,8 @@
       "shortDescription": "Stranded on the shores of a mysterious island, you must learn to survive. Use your cunning to kill or tame the primeval creatures roaming the land, and encounter other players to survive, dominate... and escape!",
       "reviewSnippet": "サバイバルゲーム好きなら誰でも知ってるよねってくらい有名なゲーム。言うまでもなく神ゲー。 恐竜と戦ったり恐竜を仲間にでき…",
       "rawScore": 64.455,
-      "hensachi": 60.9,
+      "hensachi": 61.8,
       "rank": 7
-    },
-    {
-      "appid": 2163330,
-      "name": "Yet Another Zombie Survivors",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2163330/db4181e32a7b2a953cd4cebe109a2dd313bdfc99/header_alt_assets_2_japanese.jpg?t=1787573301",
-      "discountPercent": 35,
-      "initialPriceCents": 170000,
-      "finalPriceCents": 110500,
-      "reviewPositiveRate": 91.5,
-      "reviewCount": 14321,
-      "storeUrl": "https://store.steampowered.com/app/2163330/",
-      "genres": [
-        "弾幕",
-        "ローグライト",
-        "アクション",
-        "カジュアル",
-        "インディー",
-        "RPG"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "群れが来るが、あなたは戦う準備ができている！ チームを組み立て、彼らの強化を決定し、何千ものアンデッドに対する最も効率的なシナジーを見つけよう。生き残れ。そして進化し、次にこの一見シンプルだが中毒性のあるリバース・バレット・ヘルで全ての限界を打ち破れ。",
-      "reviewSnippet": "正式版発売2日前に存在を知りました 体験版があまりにも面白かったので購入 ヴァンサバ系の中では一番ハマった 説明がとても…",
-      "rawScore": 63.45803271468075,
-      "hensachi": 60.5,
-      "rank": 8
     },
     {
       "appid": 2764460,
@@ -212,7 +186,7 @@
       "initialPriceCents": 148000,
       "finalPriceCents": 96200,
       "reviewPositiveRate": 97.5,
-      "reviewCount": 3309,
+      "reviewCount": 3331,
       "storeUrl": "https://store.steampowered.com/app/2764460/",
       "genres": [
         "シミュレーション",
@@ -223,54 +197,31 @@
       "releaseYear": 2026,
       "shortDescription": "すべてを破壊できる世界を探索し、資源を採掘しよう。複雑さを増していく生産チェーンを自動化し、地中深くへ掘り進んで、古代文明が遺した大いなる秘密を解き明かせ。砂さえ愛おしくなる、あらゆるピクセルが貴重な資源となる工場自動化ゲーム！",
       "reviewSnippet": "66時間で100万貯めれた。 心残りとして、時間で解決した部分が多いので次のアプデが来たらもっと良い自動化をしたい。 そ…",
-      "rawScore": 63.157369787832906,
-      "hensachi": 60.4,
-      "rank": 9
+      "rawScore": 63.1682263876783,
+      "hensachi": 61.3,
+      "rank": 8
     },
     {
-      "appid": 2499040,
-      "name": "Volkolak: The Will of Gods",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499040/95ae85908c71c6aefc7f6c69f8d0544ea40c7b28/header.jpg?t=1787589086",
-      "discountPercent": 30,
-      "initialPriceCents": 205000,
-      "finalPriceCents": 143500,
-      "reviewPositiveRate": 92.1,
-      "reviewCount": 266,
-      "storeUrl": "https://store.steampowered.com/app/2499040/",
+      "appid": 3321460,
+      "name": "紅の砂漠",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/95dd084858568e20fbe6772083d94dd982a69aca/header_japanese.jpg?t=1781661893",
+      "discountPercent": 20,
+      "initialPriceCents": 968000,
+      "finalPriceCents": 774400,
+      "reviewPositiveRate": 83.8,
+      "reviewCount": 167569,
+      "storeUrl": "https://store.steampowered.com/app/3321460/",
       "genres": [
         "アクション",
-        "アドベンチャー",
-        "インディー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Volkolak: The Will of Gods is an epic 2D soulsvania in a dark Slavic fantasy setting, with hand-drawn animation. Explore an enchanted world full of secrets and enemies. Your choices will lead to several endings: become a warrior, a werewolf, or join the darkness.",
-      "reviewSnippet": "",
-      "rawScore": 54.89164626930028,
-      "hensachi": 57.2,
-      "rank": 10
-    },
-    {
-      "appid": 4131730,
-      "name": "VHOLUME",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131730/1b262360aa9cfa7ce376b2677b3c641556a7254f/header.jpg?t=1787478152",
-      "discountPercent": 10,
-      "initialPriceCents": 100000,
-      "finalPriceCents": 90000,
-      "reviewPositiveRate": 97.3,
-      "reviewCount": 1132,
-      "storeUrl": "https://store.steampowered.com/app/4131730/",
-      "genres": [
-        "カジュアル",
-        "インディー"
+        "アドベンチャー"
       ],
       "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "VHOLUME は、一人称視点のパルクールアドベンチャーです。ディストピア的なブルータリズム都市を舞台に、官僚主義が単純な手続きをひとつのオデッセイへと変えていく、メランコリックな物語を描きます。",
-      "reviewSnippet": "パルクール好きでタイムアタック好きの俺を満足させてくれる素晴らしいゲーム",
-      "rawScore": 50.080395886276975,
-      "hensachi": 55.3,
-      "rank": 11
+      "shortDescription": "ファイウェル大陸を舞台に繰り広げられるオープンワールド・アクションアドベンチャー「紅の砂漠」。 あなたは灰色たてがみのクリフとなり、失ったすべてを取り戻し、迫り来る脅威から世界を救うための旅へと踏み出します。 広大な荒野、隠された古代遺跡、神秘なる「アビス」の領域を駆け巡り、戦い、探索し、発見しながら、 自分だけの道を切り拓いてください。",
+      "reviewSnippet": "楽しめますねー。普通のゲームの3～4本分の内容です。ストーリーをクリアして、偶然見つけた最強のオデクも倒して、アビス/星…",
+      "rawScore": 58.043948187397135,
+      "hensachi": 59.3,
+      "rank": 9
     },
     {
       "appid": 2880010,
@@ -279,8 +230,8 @@
       "discountPercent": 20,
       "initialPriceCents": 230000,
       "finalPriceCents": 184000,
-      "reviewPositiveRate": 93.7,
-      "reviewCount": 111,
+      "reviewPositiveRate": 92.2,
+      "reviewCount": 115,
       "storeUrl": "https://store.steampowered.com/app/2880010/",
       "genres": [
         "ハクスラ",
@@ -292,9 +243,9 @@
       "releaseYear": 2026,
       "shortDescription": "The evil goddess seeks to devour and remake the world… and you are what stands in her way. Fight and kill, expand your skill tree, craft and build, and lead the world’s people to victory in Din’s Champion, a multiplayer fantasy action-RPG where every choice matters, and the choices are endless.",
       "reviewSnippet": "",
-      "rawScore": 49.52789819875541,
-      "hensachi": 55.1,
-      "rank": 12
+      "rawScore": 49.06040750651667,
+      "hensachi": 55.9,
+      "rank": 10
     },
     {
       "appid": 5026670,
@@ -314,30 +265,8 @@
       "shortDescription": "No One Prays in Ovruch is a first-person psychological horror game where you explore abandoned locations, uncover a hidden cult, solve disturbing puzzles, and survive supernatural threats connected to a forgotten ritual.",
       "reviewSnippet": "",
       "rawScore": 48.735962247788606,
-      "hensachi": 54.8,
-      "rank": 13
-    },
-    {
-      "appid": 4001350,
-      "name": "Iron Blight",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001350/273471f95817305b7166df52492adfc0c566738c/header_japanese.jpg?t=1787587259",
-      "discountPercent": 20,
-      "initialPriceCents": 170000,
-      "finalPriceCents": 136000,
-      "reviewPositiveRate": 93.9,
-      "reviewCount": 66,
-      "storeUrl": "https://store.steampowered.com/app/4001350/",
-      "genres": [
-        "アクション",
-        "インディー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "『Iron Blight』は冷たい雨が降る旧東側諸国の町を舞台にしたサバイバルホラー。逃げ場のない部屋で異形がドアを掻きむしるなか、熱病のような夜を生き延び、暗闇の恐怖を暴き、妻のヴァレリアを見つけ出せ。",
-      "reviewSnippet": "",
-      "rawScore": 48.75584831207859,
-      "hensachi": 54.8,
-      "rank": 14
+      "hensachi": 55.8,
+      "rank": 11
     },
     {
       "appid": 4101290,
@@ -347,7 +276,7 @@
       "initialPriceCents": 105000,
       "finalPriceCents": 84000,
       "reviewPositiveRate": 100,
-      "reviewCount": 14,
+      "reviewCount": 18,
       "storeUrl": "https://store.steampowered.com/app/4101290/",
       "genres": [
         "ストラテジー"
@@ -356,9 +285,9 @@
       "releaseYear": 2026,
       "shortDescription": "A trick-taking deckbuilder with style! Outplay your rivals, purchase special abilities, and dazzle 1920s high society with your unstoppable cardplay. Call your contract, follow suit, flush trumps, and claim the hand. This isn't your grandma's bridge club... this is Overtrick!",
       "reviewSnippet": "",
-      "rawScore": 48.438080222851625,
-      "hensachi": 54.7,
-      "rank": 15
+      "rawScore": 48.82548528661445,
+      "hensachi": 55.8,
+      "rank": 12
     },
     {
       "appid": 4431090,
@@ -379,8 +308,33 @@
       "shortDescription": "An incremental horror game about loving your job a little too much. Hire workers to automate the line, then recycle them once they've stopped being useful. Your office assistant is always glad to help you climb the ladder, and to remove whoever's on it.",
       "reviewSnippet": "",
       "rawScore": 47.385962247788605,
-      "hensachi": 54.3,
-      "rank": 16
+      "hensachi": 55.2,
+      "rank": 13
+    },
+    {
+      "appid": 3720100,
+      "name": "ARK: Lost Colony Expansion Pass",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3720100/3912cf9db1d978a1c20fe6258c4757d816b764ee/header.jpg?t=1771376563",
+      "discountPercent": 50,
+      "initialPriceCents": 431800,
+      "finalPriceCents": 215900,
+      "reviewPositiveRate": 36.3,
+      "reviewCount": 1174,
+      "storeUrl": "https://store.steampowered.com/app/3720100/",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "インディー",
+        "MM（Massively Multiplayer）",
+        "RPG"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2025,
+      "shortDescription": "拡張パスで限定ボーナスを手に入れよう！ドレイクリングやエルダークローを手に入れ、ASAの壮大な物語拡張で凍てつくネクロシンの世界へと飛び込もう！強力なスキルを習得し、異国の生き物を飼い慣らし、スロール軍団を率いて失われた王に挑め。",
+      "reviewSnippet": "",
+      "rawScore": 46.790048553236815,
+      "hensachi": 55,
+      "rank": 14
     },
     {
       "appid": 3971650,
@@ -389,8 +343,8 @@
       "discountPercent": 10,
       "initialPriceCents": 187000,
       "finalPriceCents": 168300,
-      "reviewPositiveRate": 96.4,
-      "reviewCount": 112,
+      "reviewPositiveRate": 96.5,
+      "reviewCount": 113,
       "storeUrl": "https://store.steampowered.com/app/3971650/",
       "genres": [
         "カジュアル",
@@ -403,9 +357,9 @@
       "releaseYear": 2026,
       "shortDescription": "返済期限30分。借金地獄のドタバタ工場ビルダーゲーム。 契約でルールを捻じ曲げて、無茶なノルマを乗り切ろう。",
       "reviewSnippet": "たのしい！ とりあえず魔力（＆高級品）でHell3まではクリア。 ウィッチでウィッチを量産して、飽和したウィッチでペレッ…",
-      "rawScore": 45.98746582446574,
-      "hensachi": 53.7,
-      "rank": 17
+      "rawScore": 46.03690509938291,
+      "hensachi": 54.7,
+      "rank": 15
     },
     {
       "appid": 4833450,
@@ -414,8 +368,8 @@
       "discountPercent": 10,
       "initialPriceCents": 181300,
       "finalPriceCents": 163200,
-      "reviewPositiveRate": 100,
-      "reviewCount": 39,
+      "reviewPositiveRate": 98.6,
+      "reviewCount": 74,
       "storeUrl": "https://store.steampowered.com/app/4833450/",
       "genres": [
         "インディー",
@@ -425,30 +379,9 @@
       "releaseYear": 2026,
       "shortDescription": "A girl detective faces her darkest mystery yet, in this horror-romance visual novel with stickers, fashion, and bad ends.",
       "reviewSnippet": "",
-      "rawScore": 45.545509401237595,
-      "hensachi": 53.5,
-      "rank": 18
-    },
-    {
-      "appid": 4936660,
-      "name": "Peg Champ",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4936660/5ef455b1a8e6a27a019ac405e689b78e8b338d01/header.jpg?t=1787588221",
-      "discountPercent": 15,
-      "initialPriceCents": 102300,
-      "finalPriceCents": 86900,
-      "reviewPositiveRate": 100,
-      "reviewCount": 8,
-      "storeUrl": "https://store.steampowered.com/app/4936660/",
-      "genres": [
-        "カジュアル"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Take your best shot in this Pachinko incremental game! Break pegs, earn money, and unlock a huge upgrade tree in this satisfying physics puzzler.",
-      "reviewSnippet": "",
-      "rawScore": 45.350915129959716,
-      "hensachi": 53.5,
-      "rank": 19
+      "rawScore": 46.085702880723396,
+      "hensachi": 54.7,
+      "rank": 16
     },
     {
       "appid": 4026250,
@@ -457,8 +390,8 @@
       "discountPercent": 15,
       "initialPriceCents": 135000,
       "finalPriceCents": 114700,
-      "reviewPositiveRate": 79,
-      "reviewCount": 547,
+      "reviewPositiveRate": 79.5,
+      "reviewCount": 562,
       "storeUrl": "https://store.steampowered.com/app/4026250/",
       "genres": [
         "アクション",
@@ -470,9 +403,9 @@
       "releaseYear": 2026,
       "shortDescription": "企業の虚無にラバーダックを捧げよう。物理演算の装置を組み上げ、コンボをつなげて利益を生み出せ。奈落はさらに飢え... さらに巨大化していく。ブルータリズム×PSX風の風刺と、一人称サンドボックスの混沌。",
       "reviewSnippet": "あひるを穴に落とすゲーム たくさん穴に落とすともっとたくさん落とせるようになるから もっともっとたくさん穴に落とすゲーム…",
-      "rawScore": 44.735020975412716,
-      "hensachi": 53.2,
-      "rank": 20
+      "rawScore": 44.9542769617032,
+      "hensachi": 54.3,
+      "rank": 17
     },
     {
       "appid": 4106270,
@@ -481,8 +414,8 @@
       "discountPercent": 10,
       "initialPriceCents": 50500,
       "finalPriceCents": 45400,
-      "reviewPositiveRate": 100,
-      "reviewCount": 7,
+      "reviewPositiveRate": 88.9,
+      "reviewCount": 9,
       "storeUrl": "https://store.steampowered.com/app/4106270/",
       "genres": [
         "アクション",
@@ -493,32 +426,9 @@
       "releaseYear": 2026,
       "shortDescription": "スピーディーでキュートでポップ！　『Ecrazeus Castle』はアーケードゲームに着想を得たフル3Dアニメのルータースラッシャー。跳んで、踏みつけて、アイテムを集めて、パワーアップ！　制限時間内にモンスターを蹴散らし、城の主を打ち倒して強さを見せつけよう！",
       "reviewSnippet": "",
-      "rawScore": 42.90788674336582,
-      "hensachi": 52.5,
-      "rank": 21
-    },
-    {
-      "appid": 2117430,
-      "name": "Purrrifiers: Cleaning Chaos (Play for Free with Friend's Pass)",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2117430/17b2335d3e02e325714ac42f949366d3f0a1574d/header_alt_assets_9.jpg?t=1787590388",
-      "discountPercent": 30,
-      "initialPriceCents": 150000,
-      "finalPriceCents": 105000,
-      "reviewPositiveRate": 56.8,
-      "reviewCount": 146,
-      "storeUrl": "https://store.steampowered.com/app/2117430/",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "最大4人で遊べる、カオスな“Goofylike”協力型クリーニングシム。猫をなで、魔法をかけ、汚れを落とし、奇妙なツールを作り、そして同じくらいトラブルを起こそう。君の使命は？ピカピカにすること――少なくとも、もう少しマシに。",
-      "reviewSnippet": "※注意※ このゲームにはゴ◯◯リが登場します！ ほとんどの人がプレイ時間2時間を超えたあとに発見すると思われるため、苦手…",
-      "rawScore": 41.558555980181794,
-      "hensachi": 52,
-      "rank": 22
+      "rawScore": 39.38858490566037,
+      "hensachi": 52.2,
+      "rank": 18
     },
     {
       "appid": 4336320,
@@ -527,8 +437,8 @@
       "discountPercent": 15,
       "initialPriceCents": 35000,
       "finalPriceCents": 29700,
-      "reviewPositiveRate": 50,
-      "reviewCount": 2,
+      "reviewPositiveRate": 33.3,
+      "reviewCount": 3,
       "storeUrl": "https://store.steampowered.com/app/4336320/",
       "genres": [
         "アドベンチャー",
@@ -539,9 +449,54 @@
       "releaseYear": 2026,
       "shortDescription": "Last Signal is an atmospheric indie survival game set in a world of silence. Explore an abandoned island, navigate the interfaces of old computers, and unravel the mystery of the lighthouse in a short but profound one-evening adventure.",
       "reviewSnippet": "",
-      "rawScore": 26.050457564979858,
-      "hensachi": 45.9,
-      "rank": 23
+      "rawScore": 20.676924495577214,
+      "hensachi": 45,
+      "rank": 19
+    },
+    {
+      "appid": 4989130,
+      "name": "Base Station Sync",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4989130/9b9ab8757aa393c70546517af493e5c819ae8f70/header.jpg?t=1787624724",
+      "discountPercent": 40,
+      "initialPriceCents": 65500,
+      "finalPriceCents": 39300,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4989130/",
+      "genres": [
+        "ユーティリティ"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "Base Station Syncは、HTC Vive 1.0ベースステーション用の全自動電源管理ツールです。SteamVRの起動・終了に合わせて自動でON/OFFするため、手動操作は一切不要。自動休眠後はSteamVRと同時に完全終了し、バックグラウンドに常駐しません。モーターの摩耗を抑え、ハードウェアの寿命を大幅に延ばします。",
+      "reviewSnippet": "",
+      "rawScore": 18,
+      "hensachi": 43.9,
+      "rank": 20
+    },
+    {
+      "appid": 4911410,
+      "name": "CityExplorer",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4911410/f833bd37c1199e2e9102da32b323a8203c3adbbf/header.jpg?t=1787624092",
+      "discountPercent": 40,
+      "initialPriceCents": 105000,
+      "finalPriceCents": 63000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4911410/",
+      "genres": [
+        "アクション",
+        "カジュアル",
+        "インディー",
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "CityExplorerは、フォトリアリスティックな3D都市空間を、ドローン視点で自由に探索できるシミュレーターです。 実際の天気データと太陽位置を反映したリアルタイムの昼夜・天候システム、地域情報パネル、飲食店・観光地・公共施設などのPOIマーカーにより、旅行の下調べからバーチャル観光まで幅広く活用できます。",
+      "reviewSnippet": "",
+      "rawScore": 18,
+      "hensachi": 43.9,
+      "rank": 21
     },
     {
       "appid": 4499760,
@@ -564,8 +519,8 @@
       "shortDescription": "これはアクションアドベンチャーの独立ゲームで、いくつものステージを突破する必要があり、各ステージには迷子のボスが守る必要があります！ボスに勝って美しい家を守る必要があります。その中から楽しみと知恵を体験してほしい！これは絶対に価値がある！",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 42.8,
-      "rank": 24
+      "hensachi": 43.9,
+      "rank": 22
     },
     {
       "appid": 4993060,
@@ -587,31 +542,54 @@
       "shortDescription": "A ghost wants her exit interview. Do you listen, refuse or hire her back part-time? You're Hell's HR manager: hundreds of absurd cases, questionable policies, a Board watching your numbers, and a court that quotes your own decisions back to you. Survive 30 days. Find one of 13 ways out.",
       "reviewSnippet": "",
       "rawScore": 11.25,
-      "hensachi": 40.1,
-      "rank": 25
+      "hensachi": 41.3,
+      "rank": 23
     },
     {
-      "appid": 4597000,
-      "name": "Dwarven Rails",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4597000/11d884d9e9b09d0ba4550b820df3c2f70120c1ee/header.jpg?t=1787588910",
+      "appid": 4992330,
+      "name": "Farmous",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4992330/68ccb409f72d23d0d0c6cf62e7643802b20d07d6/header.jpg?t=1787600284",
       "discountPercent": 20,
-      "initialPriceCents": 135000,
-      "finalPriceCents": 108000,
+      "initialPriceCents": 79000,
+      "finalPriceCents": 63200,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4597000/",
+      "storeUrl": "https://store.steampowered.com/app/4992330/",
       "genres": [
-        "アクション",
+        "カジュアル",
         "インディー",
-        "ストラテジー"
+        "シミュレーション"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "あなたはドワーフのガントレインを指揮することになった。ミッションは、できるだけ多くのバグを破壊することだ。列車を管理し、タレットを設置し、弾丸で鉱石を採掘し、列車を強化して、バグの大群を壊滅させろ！",
+      "shortDescription": "Build your dream farm, create production chains, mine valuable resources, expand your village, and grow a thriving farming empire.",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 39.2,
-      "rank": 26
+      "hensachi": 40.5,
+      "rank": 24
+    },
+    {
+      "appid": 4830660,
+      "name": "つぐのひ -天招ねく救いの糸-",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4830660/6ad0b2ec37936b85236f1298a60bf545fa9d4758/header_japanese.jpg?t=1787636773",
+      "discountPercent": 15,
+      "initialPriceCents": 58000,
+      "finalPriceCents": 49300,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4830660/",
+      "genres": [
+        "アドベンチャー",
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "操作は左に歩くだけ。日常侵食ホラー「つぐのひ」シリーズ最新作。本作は、初期の絵柄と空気感に立ち返った“原点回帰”の一作。 うだる夏の住宅街で、落書きだらけの家に住む少女は、今日も学校から家へ帰る。毎日現れる“正しい”人たち、空から垂れる救いの糸、白い傘の母。その手は、救いか、呪いか。",
+      "reviewSnippet": "",
+      "rawScore": 6.75,
+      "hensachi": 39.6,
+      "rank": 25
     },
     {
       "appid": 4866520,
@@ -634,13 +612,13 @@
       "shortDescription": "Finish The Dishes! is a fast-paced arcade shooter set on a chaotic kitchen countertop. Blast pests, exploit their weaknesses, upgrade your arsenal, and chase perfect five-star runs.",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 38.4,
-      "rank": 27
+      "hensachi": 39.6,
+      "rank": 26
     },
     {
       "appid": 3975150,
       "name": "旅人物語 ～Journeys of Real People～",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975150/77339eb3deaeba5bcd25c877a928c28710c3c15c/header_japanese.jpg?t=1787590855",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975150/77339eb3deaeba5bcd25c877a928c28710c3c15c/header_japanese.jpg?t=1787637564",
       "discountPercent": 15,
       "initialPriceCents": 148000,
       "finalPriceCents": 125800,
@@ -655,11 +633,11 @@
       ],
       "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "98カ国を旅した猛者たちの【ヤバすぎる実話】を引き出すパラメーター管理型ノベル。 東京のバー店員として彼らの破天荒な人生に触れ、共に成長する中で、あなたの凝り固まった価値観はガラリと変わるはず。 これは、迷えるあなたが「新しい自分」に出会うためのシミュレーション。",
+      "shortDescription": "98カ国を旅した猛者たちの【ヤバすぎる実話】を引き出すマルチエンディングのアドベンチャー。 あなたは、殺されそうになったことありますか？ 異国で大恋愛したことありますか？ これは、実在する旅人の8割実話の物語。 東京のバー店員として彼らの破天荒な人生に触れ、共に成長する中で、あなたの価値観さえも変えてしまうかもしれません。 これは、迷えるあなたが「新しい自分」に出会うためのシミュレーション。",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 38.4,
-      "rank": 28
+      "hensachi": 39.6,
+      "rank": 27
     },
     {
       "appid": 1408027,
@@ -677,7 +655,30 @@
       "shortDescription": "",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 37.5,
+      "hensachi": 38.7,
+      "rank": 28
+    },
+    {
+      "appid": 5008790,
+      "name": "A Border With No End",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5008790/666a88f0c8591b58a86e8a3344e0d6aa2944b3c2/header.jpg?t=1787619494",
+      "discountPercent": 10,
+      "initialPriceCents": 79000,
+      "finalPriceCents": 71100,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5008790/",
+      "genres": [
+        "アドベンチャー",
+        "インディー",
+        "RPG"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "A Border with No End is a horrorpunk adventure RPG set right in the middle of your normal everyday insanity, psychotic depression and a surreal nightmare, that is both meaningless and interpretive. Fight for nothing and loose it all.",
+      "reviewSnippet": "",
+      "rawScore": 4.5,
+      "hensachi": 38.7,
       "rank": 29
     },
     {
@@ -699,7 +700,7 @@
       "shortDescription": "DARKLING is a bite-sized first-person horror game. Locked inside a haunted house, use your wits to get out.",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 37.5,
+      "hensachi": 38.7,
       "rank": 30
     },
     {
@@ -720,7 +721,7 @@
       "shortDescription": "Football meets roguelike deck-building. Be the coach: draft legends, stack Manager Cards, and manage player egos with Reigns-style choices. Place your squad across 3 zones, open packs, upgrade cards, and conquer all 8 cups against escalating AI. Lose and start over — win and lift the trophy.",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 37.5,
+      "hensachi": 38.7,
       "rank": 31
     },
     {
@@ -744,7 +745,7 @@
       "shortDescription": "最大100回の人生を通じて抵抗運動を築く、テキスト主体の政治ローグライト＋生活管理シミュレーション。職業を選び、月ごとの圧力を生き延び、恒久レガシーを継承し、抑圧的な法律に立ち向かい、人々を支援して、架空の国を市民の手に取り戻そう。",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 37.5,
+      "hensachi": 38.7,
       "rank": 32
     },
     {
@@ -765,7 +766,7 @@
       "shortDescription": "This is game about kissing unicorn stallions... and doing some other things along the way.",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 37.5,
+      "hensachi": 38.7,
       "rank": 33
     },
     {
@@ -787,7 +788,7 @@
       "shortDescription": "You are trapped inside your new home, where doors open up to various liminal spaces and anomalies appear around every corner. Will you manage to find your way out?",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 37.5,
+      "hensachi": 38.7,
       "rank": 34
     },
     {
@@ -811,53 +812,8 @@
       "shortDescription": "Snake Extended is a classic Snake game expanded with challenges, multiple boards, power-ups, obstacles, and game modifiers. Simple rules, quick rounds, and sharper decisions every run.",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 37.5,
+      "hensachi": 38.7,
       "rank": 35
-    },
-    {
-      "appid": 3629860,
-      "name": "America Against Ants",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3629860/aae10bcbcb9070f01a7aa7b704dfda0f69ea9d4c/header.jpg?t=1787590567",
-      "discountPercent": 10,
-      "initialPriceCents": 190000,
-      "finalPriceCents": 171000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/3629860/",
-      "genres": [
-        "インディー",
-        "ストラテジー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Giant mutant fire ants are overrunning the Southwest states of 1950s America! Command Task Force Sable through a 30-mission tactical defence campaign to defeat the infestation before it overruns Las Vegas.",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 37.5,
-      "rank": 36
-    },
-    {
-      "appid": 4545340,
-      "name": "ZapStick",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4545340/2481ebf335f1fadbaa9e5a106c3690685ee8795a/header.jpg?t=1787589230",
-      "discountPercent": 10,
-      "initialPriceCents": 39500,
-      "finalPriceCents": 35500,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4545340/",
-      "genres": [
-        "アクション",
-        "カジュアル",
-        "インディー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "運と魔法とカオスな戦略が織りなすターン制ゲーム！ パワーカードを使い、クリスタルをチャージして、友達を出し抜こう。",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 37.5,
-      "rank": 37
     }
   ]
 }
