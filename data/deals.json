@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-06T10:01:43.797Z",
+  "fetchedAt": "2026-09-06T14:43:52.082Z",
   "currency": "JPY",
-  "count": 30,
-  "averageDiscount": 32.9,
+  "count": 31,
+  "averageDiscount": 33.9,
   "deals": [
     {
       "appid": 1042550,
@@ -11,8 +11,8 @@
       "discountPercent": 90,
       "initialPriceCents": 748000,
       "finalPriceCents": 74800,
-      "reviewPositiveRate": 89.8,
-      "reviewCount": 13194,
+      "reviewPositiveRate": 89.7,
+      "reviewCount": 13196,
       "storeUrl": "https://store.steampowered.com/app/1042550/",
       "genres": [
         "ターン制ストラテジー",
@@ -23,8 +23,8 @@
       "releaseYear": 2019,
       "shortDescription": "デジモンストーリーシリーズの「サイバースルゥース」と「ハッカーズメモリー」を収録！ 本作は330体超のデジモンを育成しながら、電脳探偵やハッカーとして電脳空間に飛び込み、デジモンと共に謎を追い、事件を解決する冒険を体験できる育成RPGです。",
       "reviewSnippet": "激安セール中なので買って起動確認しました [h1]日本語ボイスとテキストあります（2026年9月現在）[/h1] 起動時…",
-      "rawScore": 87.47871469643799,
-      "hensachi": 66,
+      "rawScore": 87.44396308187368,
+      "hensachi": 66.3,
       "rank": 1
     },
     {
@@ -35,7 +35,7 @@
       "initialPriceCents": 230000,
       "finalPriceCents": 57500,
       "reviewPositiveRate": 97.4,
-      "reviewCount": 146790,
+      "reviewCount": 146806,
       "storeUrl": "https://store.steampowered.com/app/504230/",
       "genres": [
         "プラットフォーマー",
@@ -47,8 +47,8 @@
       "releaseYear": 2018,
       "shortDescription": "心の闇と戦う少女マデリンとともに、セレステ山の頂上を目指せ。気軽に遊べて奥が深い、手に汗握るアクションゲーム。数百におよぶ難関に立ち向かい、聖山の怪しげな秘密を探り、謎に迫れ。",
       "reviewSnippet": "Celeste本体よりコントローラーの修繕費の方が高くつきました しかし神ゲー",
-      "rawScore": 87.33697897766167,
-      "hensachi": 65.9,
+      "rawScore": 87.33715759981611,
+      "hensachi": 66.3,
       "rank": 2
     },
     {
@@ -59,7 +59,7 @@
       "initialPriceCents": 148000,
       "finalPriceCents": 50300,
       "reviewPositiveRate": 94.9,
-      "reviewCount": 542588,
+      "reviewCount": 542612,
       "storeUrl": "https://store.steampowered.com/app/322330/",
       "genres": [
         "サバイバル",
@@ -76,7 +76,7 @@
       "shortDescription": "『Don't Starve Together』は容赦ないサバイバルゲーム、『Don't Starve』がマルチプレイヤーになる、スタンドアローン拡張パックです。",
       "reviewSnippet": "定番中の定番、サンドボックス協力ゲームの傑作。 2本セット（1+1）ならかなりお得。友達と一緒に遊ぶ価値あり！",
       "rawScore": 82.915,
-      "hensachi": 64.1,
+      "hensachi": 64.4,
       "rank": 3
     },
     {
@@ -87,7 +87,7 @@
       "initialPriceCents": 120000,
       "finalPriceCents": 60000,
       "reviewPositiveRate": 97.4,
-      "reviewCount": 1552451,
+      "reviewCount": 1552531,
       "storeUrl": "https://store.steampowered.com/app/105600/",
       "genres": [
         "サバイバル",
@@ -102,7 +102,7 @@
       "shortDescription": "掘って、戦って、探検して、作ろう! 出来ないことは一切無いアクション満載のアドベンチャーゲーム。 4本パックも発売中!",
       "reviewSnippet": "戦闘がメインの神ゲー。 つい最近、大人気MODが開発終了となってしまったが、それ抜きでも十分に楽しめるゲーム。",
       "rawScore": 76.59,
-      "hensachi": 61.5,
+      "hensachi": 61.7,
       "rank": 4
     },
     {
@@ -113,7 +113,7 @@
       "initialPriceCents": 648000,
       "finalPriceCents": 285100,
       "reviewPositiveRate": 82.8,
-      "reviewCount": 221133,
+      "reviewCount": 221211,
       "storeUrl": "https://store.steampowered.com/app/3240220/",
       "genres": [
         "アクション",
@@ -125,7 +125,7 @@
       "shortDescription": "大ヒットの『グランド・セフト・オートV』と「GTAオンライン」を体験しよう - 新世代用に美麗なグラフィック、短縮されたロード時間、3Dオーディオなどのアップグレード。さらに、「GTAオンライン」プレイヤー用の限定コンテンツなど。",
       "reviewSnippet": "いまから買おうとしてる人は絶対に今は買わないで秋まで待て！ GTA6が出るから今から買って始めたら一瞬で人口減って面白く…",
       "rawScore": 74.17999999999999,
-      "hensachi": 60.5,
+      "hensachi": 60.7,
       "rank": 5
     },
     {
@@ -136,7 +136,7 @@
       "initialPriceCents": 490000,
       "finalPriceCents": 269500,
       "reviewPositiveRate": 87.1,
-      "reviewCount": 400371,
+      "reviewCount": 400390,
       "storeUrl": "https://store.steampowered.com/app/251570/",
       "genres": [
         "サバイバル",
@@ -153,7 +153,7 @@
       "shortDescription": "『7 Days to Die』は、FPS、サバイバルホラー、タワーディフェンス、ロールプレイングゲームをユニークに組み合わせたオープンワールド型のゲームです。元祖ゾンビサバイバルなサンドボックスRPGゲームをプレイしましょう。ナベズゲインがあなたを待っています！",
       "reviewSnippet": "MODを入れたら無限に遊べます 平日は仕事終わったら夜中までプレイ 休日は朝から晩まで1２時間ほどプレイ そして連休すべ…",
       "rawScore": 70.735,
-      "hensachi": 59.1,
+      "hensachi": 59.2,
       "rank": 6
     },
     {
@@ -164,7 +164,7 @@
       "initialPriceCents": 260000,
       "finalPriceCents": 174200,
       "reviewPositiveRate": 93,
-      "reviewCount": 378130,
+      "reviewCount": 378151,
       "storeUrl": "https://store.steampowered.com/app/648800/",
       "genres": [
         "サバイバル",
@@ -177,7 +177,7 @@
       "shortDescription": "Raft™ throws you and your friends into an epic oceanic adventure! Alone or together, players battle to survive a perilous voyage across a vast sea! Gather debris, scavenge reefs and build your own floating home, but be wary of the man-eating sharks!",
       "reviewSnippet": "兄とプレイ めっちゃよかったし思い出 ストーリーがあることまで知らなかったし永遠とそれまでさ迷ってた",
       "rawScore": 67.4,
-      "hensachi": 57.7,
+      "hensachi": 57.8,
       "rank": 7
     },
     {
@@ -188,7 +188,7 @@
       "initialPriceCents": 340000,
       "finalPriceCents": 238000,
       "reviewPositiveRate": 94.6,
-      "reviewCount": 484648,
+      "reviewCount": 484716,
       "storeUrl": "https://store.steampowered.com/app/1623730/",
       "genres": [
         "サバイバル",
@@ -202,7 +202,7 @@
       "shortDescription": "広大な世界で不思議な生物『パル』を集めて、戦闘・建築・農業を行わせたり、工場で労働させたりする全く新しいマルチ対応のオープンワールドサバイバルクラフトゲームです。",
       "reviewSnippet": "なんとな～く本作に嫌なイメージがあって…… って人ほど実際に遊んでみて欲しいです。 自分もそのタイプでしたが、今では本作…",
       "rawScore": 66.61,
-      "hensachi": 57.4,
+      "hensachi": 57.5,
       "rank": 8
     },
     {
@@ -213,7 +213,7 @@
       "initialPriceCents": 170000,
       "finalPriceCents": 112200,
       "reviewPositiveRate": 83.3,
-      "reviewCount": 777149,
+      "reviewCount": 777172,
       "storeUrl": "https://store.steampowered.com/app/346110/",
       "genres": [
         "サバイバル",
@@ -228,7 +228,7 @@
       "shortDescription": "Stranded on the shores of a mysterious island, you must learn to survive. Use your cunning to kill or tame the primeval creatures roaming the land, and encounter other players to survive, dominate... and escape!",
       "reviewSnippet": "サバイバルゲーム好きなら誰でも知ってるよねってくらい有名なゲーム。言うまでもなく神ゲー。 恐竜と戦ったり恐竜を仲間にでき…",
       "rawScore": 64.455,
-      "hensachi": 56.5,
+      "hensachi": 56.6,
       "rank": 9
     },
     {
@@ -239,7 +239,7 @@
       "initialPriceCents": 105000,
       "finalPriceCents": 65100,
       "reviewPositiveRate": 96.7,
-      "reviewCount": 1098,
+      "reviewCount": 1162,
       "storeUrl": "https://store.steampowered.com/app/4656000/",
       "genres": [
         "カジュアル",
@@ -249,7 +249,7 @@
       "releaseYear": 2026,
       "shortDescription": "友達とサルと爆弾解除！「見猿」、「聞か猿」、「言わ猿」の三猿になって協力しよう。必要な情報は各自に一部だけ。意思疎通し、謎を解き、時間と勝負！爆発前に解除できる？",
       "reviewSnippet": "境界知能の方、ワーキングメモリーが低い方にはおすすめしません！",
-      "rawScore": 62.42046299027732,
+      "rawScore": 62.51322533859792,
       "hensachi": 55.7,
       "rank": 10
     },
@@ -261,7 +261,7 @@
       "initialPriceCents": 968000,
       "finalPriceCents": 774400,
       "reviewPositiveRate": 83.8,
-      "reviewCount": 171340,
+      "reviewCount": 171420,
       "storeUrl": "https://store.steampowered.com/app/3321460/",
       "genres": [
         "アクション",
@@ -271,7 +271,7 @@
       "releaseYear": 2026,
       "shortDescription": "ファイウェル大陸を舞台に繰り広げられるオープンワールド・アクションアドベンチャー「紅の砂漠」。 あなたは灰色たてがみのクリフとなり、失ったすべてを取り戻し、迫り来る脅威から世界を救うための旅へと踏み出します。 広大な荒野、隠された古代遺跡、神秘なる「アビス」の領域を駆け巡り、戦い、探索し、発見しながら、 自分だけの道を切り拓いてください。",
       "reviewSnippet": "【Ver2.00.00の評価】 紅の砂漠 Enhancedは、最高に素晴らしいです。 日本語ボイスの追加は、ありがとうご…",
-      "rawScore": 58.080419989628304,
+      "rawScore": 58.081184997245856,
       "hensachi": 53.9,
       "rank": 11
     },
@@ -282,8 +282,8 @@
       "discountPercent": 37,
       "initialPriceCents": 240000,
       "finalPriceCents": 151200,
-      "reviewPositiveRate": 93.9,
-      "reviewCount": 49,
+      "reviewPositiveRate": 92.4,
+      "reviewCount": 66,
       "storeUrl": "https://store.steampowered.com/app/3920160/",
       "genres": [
         "カジュアル",
@@ -294,8 +294,8 @@
       "releaseYear": 2026,
       "shortDescription": "エクソシズムが、これほど熱くなることはありません。80年代にインスパイアされたエロティックホラーの世界で、Gia &amp; Aaronと共に悪魔を追い払いましょう。激しいセックス儀式、刺激的な催眠、さらには片手でプレイできるボスバトルまで登場します。💦",
       "reviewSnippet": "",
-      "rawScore": 55.926207563532145,
-      "hensachi": 53.1,
+      "rawScore": 55.8808483120786,
+      "hensachi": 52.9,
       "rank": 12
     },
     {
@@ -305,8 +305,8 @@
       "discountPercent": 20,
       "initialPriceCents": 390000,
       "finalPriceCents": 312000,
-      "reviewPositiveRate": 79.1,
-      "reviewCount": 54709,
+      "reviewPositiveRate": 79.2,
+      "reviewCount": 54960,
       "storeUrl": "https://store.steampowered.com/app/2406770/",
       "genres": [
         "アクション",
@@ -320,8 +320,8 @@
       "releaseYear": 2024,
       "shortDescription": "Bodycam は、Unreal Engine 5 での真のボディカメラ ビューを備えた初の戦術的マルチプレイヤー FPS です。接近戦は生々しくて騒々しいように感じられます。あらゆる角度、吹き出し、箇条書きが重要です。チームプレイ、戦術、クラッチ スキルが鍵となるフォトリアル マップで、デスマッチ、チーム デスマッチ、ウィングマンをプレイします HUDはありません。チームワークと戦術が勝敗を分けます。",
       "reviewSnippet": "めっちゃリアルで打ち合いはまあまあ楽しいけど、これと言って、長続きする要素がなさそうに見える、演出や映像の精巧さは素晴ら…",
-      "rawScore": 54.56449703689611,
-      "hensachi": 52.5,
+      "rawScore": 54.60699858864087,
+      "hensachi": 52.4,
       "rank": 13
     },
     {
@@ -345,8 +345,30 @@
       "shortDescription": "Alkurai is a 4 player online co-op fantasy horror game. An infamous Alchemist has murdered the king and seized Alkurai's throne. It is up to you and your party to evade his horrid miscreations and restore the kingdom to what it once was.",
       "reviewSnippet": "",
       "rawScore": 54.588832925179176,
-      "hensachi": 52.5,
+      "hensachi": 52.4,
       "rank": 14
+    },
+    {
+      "appid": 5088120,
+      "name": "水浒英雄传：八幕战役",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5088120/5833bfa4383177bc2fdb0c903f5b3a4b9d162224/header.jpg?t=1788676833",
+      "discountPercent": 40,
+      "initialPriceCents": 190000,
+      "finalPriceCents": 114000,
+      "reviewPositiveRate": 100,
+      "reviewCount": 1,
+      "storeUrl": "https://store.steampowered.com/app/5088120/",
+      "genres": [
+        "インディー",
+        "ストラテジー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "《水浒英雄传：八幕战役》是一款取材于《水浒传》的 2D 等距即时战略游戏。率领宋江、林冲、鲁智深、武松等梁山好汉，完成伏击、营救、破阵、据守与护送等八幕战役；也可在据守战和人机 1v1 中采集资源、建设营地、训练英雄、研究科技并指挥大军。游戏包含战争迷雾、阵型、驻军、巡逻、技能与编队系统，并内置关卡编辑器，可布置地形、单位、增援、波次和胜负条件，保存后立即试玩自己的战场。无论体验剧情还是自建战场，都能以自己的节奏调兵遣将，重演梁山豪杰的热血征途！",
+      "reviewSnippet": "",
+      "rawScore": 54.135962247788605,
+      "hensachi": 52.2,
+      "rank": 15
     },
     {
       "appid": 5091840,
@@ -367,8 +389,30 @@
       "shortDescription": "この冒険に参加して、アンタルヤの手作りの風景の中に隠れている101匹の犬たちを見つけよう🐾。🏆 たくさんの実績を獲得しよう。何匹の犬を見つけられるかな🐶？🔎 急いで！⏱️",
       "reviewSnippet": "",
       "rawScore": 54.135962247788605,
-      "hensachi": 52.3,
-      "rank": 15
+      "hensachi": 52.2,
+      "rank": 16
+    },
+    {
+      "appid": 4549300,
+      "name": "最悪なる災厄人間に捧ぐ",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4549300/d7e5de48700f1332d6d17c3afafbfa30193bfc47/header.jpg?t=1788653167",
+      "discountPercent": 26,
+      "initialPriceCents": 333900,
+      "finalPriceCents": 247000,
+      "reviewPositiveRate": 100,
+      "reviewCount": 5,
+      "storeUrl": "https://store.steampowered.com/app/4549300/",
+      "genres": [
+        "アドベンチャー",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "「透明人間」のクロと、「透明人間しか見えない・聞こえない」豹馬。平穏を望む２人に、世界は恐るべき牙を剥ける。何度でも。ただ、豹馬の望みが絶たれるまで。",
+      "reviewSnippet": "(switch版でプレイ済みの為にsteamのプレイ時間は関係ないのでお願いします) クロは、カワイイ プレイ済みの人で…",
+      "rawScore": 49.636419812768466,
+      "hensachi": 50.3,
+      "rank": 17
     },
     {
       "appid": 3093580,
@@ -392,30 +436,8 @@
       "shortDescription": "You won a Golden Ticket and the right to die on a game show for $300. After fees, penalties, and a fast-food coupon, almost nothing remains. Fail, and you owe even more. Keep moving. The system is already profiting from your desperation.",
       "reviewSnippet": "",
       "rawScore": 49.635962247788605,
-      "hensachi": 50.5,
-      "rank": 16
-    },
-    {
-      "appid": 4549300,
-      "name": "最悪なる災厄人間に捧ぐ",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4549300/d7e5de48700f1332d6d17c3afafbfa30193bfc47/header.jpg?t=1788653167",
-      "discountPercent": 26,
-      "initialPriceCents": 333900,
-      "finalPriceCents": 247000,
-      "reviewPositiveRate": 100,
-      "reviewCount": 3,
-      "storeUrl": "https://store.steampowered.com/app/4549300/",
-      "genres": [
-        "アドベンチャー",
-        "インディー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "「透明人間」のクロと、「透明人間しか見えない・聞こえない」豹馬。平穏を望む２人に、世界は恐るべき牙を剥ける。何度でも。ただ、豹馬の望みが絶たれるまで。",
-      "reviewSnippet": "(switch版でプレイ済みの為にsteamのプレイ時間は関係ないのでお願いします) クロは、カワイイ プレイ済みの人で…",
-      "rawScore": 48.97192449557722,
-      "hensachi": 50.2,
-      "rank": 17
+      "hensachi": 50.3,
+      "rank": 18
     },
     {
       "appid": 3718190,
@@ -424,8 +446,8 @@
       "discountPercent": 20,
       "initialPriceCents": 498000,
       "finalPriceCents": 398400,
-      "reviewPositiveRate": 81.4,
-      "reviewCount": 650,
+      "reviewPositiveRate": 81.2,
+      "reviewCount": 654,
       "storeUrl": "https://store.steampowered.com/app/3718190/",
       "genres": [
         "アドベンチャー",
@@ -437,9 +459,9 @@
       "releaseYear": 2026,
       "shortDescription": "かつてゲーセンを熱狂の渦に巻き込んだ『スーパーリアル麻雀』が、「負けたら服を脱ぐ」という伝統ルールそのままに甦る！ 業界初「ゼロ距離脱衣システム」で脱衣シーンを「自由な角度」で「好きな距離」で。 麻雀初心者も安心のオートモード搭載。 VRなしでも100%、VRなら120%の没入感！さあ、ゼロ距離脱衣を体験せよ！",
       "reviewSnippet": "Quest3でプレイ 負けたらこちらも脱がねば無作法というもの… ですがVR機器が邪魔で服が脱げません [strike]…",
-      "rawScore": 48.10728674931393,
-      "hensachi": 49.9,
-      "rank": 18
+      "rawScore": 48.04732566034635,
+      "hensachi": 49.6,
+      "rank": 19
     },
     {
       "appid": 4627340,
@@ -460,8 +482,8 @@
       "shortDescription": "Normile is a first-person simulation game where you travel along the Kaluzhsko-Rizhskaya line in the Moscow metro as a rectangular player",
       "reviewSnippet": "",
       "rawScore": 46.72192449557722,
-      "hensachi": 49.3,
-      "rank": 19
+      "hensachi": 49,
+      "rank": 20
     },
     {
       "appid": 2798330,
@@ -470,8 +492,8 @@
       "discountPercent": 15,
       "initialPriceCents": 248000,
       "finalPriceCents": 210800,
-      "reviewPositiveRate": 80.6,
-      "reviewCount": 377,
+      "reviewPositiveRate": 80.5,
+      "reviewCount": 411,
       "storeUrl": "https://store.steampowered.com/app/2798330/",
       "genres": [
         "シミュレーション",
@@ -482,9 +504,9 @@
       "releaseYear": 2026,
       "shortDescription": "不毛の大地に集落を築き、食料と住居を提供し、無慈悲なダンジョンの奥深くへと導き、戦略によって困難な戦いを乗り越えていく、コロニーシムベースのダンジョンクローラー。",
       "reviewSnippet": "面白い。 ダンジョン潜って素材回収して、コロニー作って装備やら食料やらを作る これの繰り返し ちまちまキャラが強くなって…",
-      "rawScore": 44.68638415032915,
-      "hensachi": 48.5,
-      "rank": 20
+      "rawScore": 44.79253666427598,
+      "hensachi": 48.2,
+      "rank": 21
     },
     {
       "appid": 5134750,
@@ -506,8 +528,8 @@
       "shortDescription": "RAKHEM is an action platformer roguelite where you decide the enemies you have to face! Collect treasure to progress throughout each of the game's varied areas, choosing between the many different upgrades and foes available at your disposal, as well as spending cash on useful permanent upgrades!",
       "reviewSnippet": "",
       "rawScore": 42.90788674336582,
-      "hensachi": 47.7,
-      "rank": 21
+      "hensachi": 47.4,
+      "rank": 22
     },
     {
       "appid": 4953010,
@@ -529,8 +551,8 @@
       "shortDescription": "電子の海を漂いつづけ、緩やかに繋がる、チルアウト・オンラインシミュレーションゲーム",
       "reviewSnippet": "ボトルメールをやりとりする楽しさはこのゲームにしかないと思います。 そのためにたまに開いてはメールを拾い、どんな返しをし…",
       "rawScore": 41.316372694939574,
-      "hensachi": 47.1,
-      "rank": 22
+      "hensachi": 46.7,
+      "rank": 23
     },
     {
       "appid": 4889480,
@@ -550,8 +572,32 @@
       "shortDescription": "見慣れた自宅で目を覚ますが、完全に家の中に閉じ込められていた。 手がかりを探し、得体の知れない存在から逃れながら、忘れ去られた記憶を一つずつ繋ぎ合わせていく…… この狭い空間で、本当の恐怖はこれから始まる。 約30分間の濃密な心理ホラー体験。",
       "reviewSnippet": "",
       "rawScore": 40.635962247788605,
-      "hensachi": 46.8,
-      "rank": 23
+      "hensachi": 46.5,
+      "rank": 24
+    },
+    {
+      "appid": 4593150,
+      "name": "Closer than Allowed: After the Bell",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4593150/1ee28855aa32d4410d47c09bce54e23552facf30/header_alt_assets_1_japanese.jpg?t=1788703598",
+      "discountPercent": 40,
+      "initialPriceCents": 190000,
+      "finalPriceCents": 114000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4593150/",
+      "genres": [
+        "アドベンチャー",
+        "カジュアル",
+        "インディー",
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "近づいた先で、二人はどんな関係になるのでしょうか。Greenfieldの18歳以上向け転入プログラムで4人のヒロインと出会う恋愛ビジュアルノベル。交わした約束、打ち明けた本音、積み重ねた選択が、全3エピソードの物語と16種類のエンディングを紡ぎます。恋愛対象のキャラクターは全員18歳以上です。",
+      "reviewSnippet": "",
+      "rawScore": 18,
+      "hensachi": 36.9,
+      "rank": 25
     },
     {
       "appid": 5103290,
@@ -571,8 +617,8 @@
       "shortDescription": "Reach the flagpole in 10 seconds or less! If you can't, use Items to make your experience easier and more enjoyable!",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 37.5,
-      "rank": 24
+      "hensachi": 36.9,
+      "rank": 26
     },
     {
       "appid": 5104050,
@@ -594,8 +640,8 @@
       "shortDescription": "Tap bouncing balls on real sheet music to play relaxing songs — and learn to read music while you play. Import your own MIDI files, build custom levels, and render gorgeous videos of your music in up to 4K. Every song unlocked from the start.",
       "reviewSnippet": "",
       "rawScore": 11.25,
-      "hensachi": 34.8,
-      "rank": 25
+      "hensachi": 34,
+      "rank": 27
     },
     {
       "appid": 4926400,
@@ -617,31 +663,8 @@
       "shortDescription": "Numble は、あの定番ゲーム Wordle のルールにひと味違ったアレンジを加えたゲームです。今回は文字ではなく、隠された数字の暗号を解読しましょう！",
       "reviewSnippet": "",
       "rawScore": 11.25,
-      "hensachi": 34.8,
-      "rank": 26
-    },
-    {
-      "appid": 5141150,
-      "name": "SEXNATURAL: MILFs Must Be Filled 😈💦 - Wallpapers18+",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5141150/9e41bf6df2cd53a47032036f075fb93d19d41ade/header.jpg?t=1788627166",
-      "discountPercent": 20,
-      "initialPriceCents": 39500,
-      "finalPriceCents": 31600,
-      "reviewPositiveRate": 0,
-      "reviewCount": 1,
-      "storeUrl": "https://store.steampowered.com/app/5141150/",
-      "genres": [
-        "カジュアル",
-        "RPG",
-        "シミュレーション"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "This premium wallpaper pack for SEXNATURAL: MILFs Must Be Filled 😈💦 features a collection of high-quality images showcasing the game’s most alluring characters and memorable moments.",
-      "reviewSnippet": "",
-      "rawScore": 10.135962247788608,
-      "hensachi": 34.3,
-      "rank": 27
+      "hensachi": 34,
+      "rank": 28
     },
     {
       "appid": 81880,
@@ -659,8 +682,8 @@
       "shortDescription": "",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 33.9,
-      "rank": 28
+      "hensachi": 33,
+      "rank": 29
     },
     {
       "appid": 5029480,
@@ -680,30 +703,29 @@
       "shortDescription": "LuminaFX is an ultra-lightweight audio overlay designed specifically for gamers, streamers, and setup purists. It reacts in real time to music, video games, and more, turning sound into pure visual magic.",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 33.9,
-      "rank": 29
+      "hensachi": 33,
+      "rank": 30
     },
     {
-      "appid": 5133780,
-      "name": "KANSYS: Storms Suppressed",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5133780/7a3f81921e5f61e069efa60ad9fe2631cc5ec20f/header.jpg?t=1788637250",
-      "discountPercent": 10,
+      "appid": 4899120,
+      "name": "Darning",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4899120/8cd86a382de174e65c32bbfc55eaed94d44a745c/header.jpg?t=1788646369",
+      "discountPercent": 15,
       "initialPriceCents": 65500,
-      "finalPriceCents": 58900,
+      "finalPriceCents": 55600,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5133780/",
+      "storeUrl": "https://store.steampowered.com/app/4899120/",
       "genres": [
-        "カジュアル",
-        "インディー"
+        "カジュアル"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "Match the herd before the sky takes it. Dawdle and a twister picks its lane across the board — matches in its path pay double, and clear every one of them and it dies on the spot for triple. Three timed modes, one 11x11 board, no filler.",
+      "shortDescription": "A cozy game about quietly putting the world back together. Stitch torn, faded cloth and watch hidden color bloom beneath your needle — every piece a small surprise, endlessly new, and yours to keep. No timers. No scores. No failing. Just you, a thread, and the calm of mending.",
       "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 32,
-      "rank": 30
+      "rawScore": 6.75,
+      "hensachi": 32.1,
+      "rank": 31
     }
   ]
 }
