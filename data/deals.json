@@ -1,9 +1,32 @@
 {
-  "fetchedAt": "2026-09-15T20:44:00.690Z",
+  "fetchedAt": "2026-09-16T02:42:22.745Z",
   "currency": "JPY",
-  "count": 36,
-  "averageDiscount": 25.4,
+  "count": 34,
+  "averageDiscount": 26.3,
   "deals": [
+    {
+      "appid": 275850,
+      "name": "No Man's Sky",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/2c6e38b43a5309dfcd3cc0f0134e222b0fa2d1b1/header_alt_assets_25.jpg?t=1789479023",
+      "discountPercent": 60,
+      "initialPriceCents": 650000,
+      "finalPriceCents": 260000,
+      "reviewPositiveRate": 85.2,
+      "reviewCount": 418359,
+      "storeUrl": "https://store.steampowered.com/app/275850/",
+      "genres": [
+        "サバイバル",
+        "アクション",
+        "アドベンチャー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2016,
+      "shortDescription": "『No Man's Sky』は自動生成される無限の宇宙を舞台とする、探索と生存をテーマとしたSFゲームです。",
+      "reviewSnippet": "这是什么比战甲还好玩的游戏！ 我7000弱传⑥也只能慢慢挖矿！ 星球挖都挖不完！ 奇形怪状的生物！ 还能真的星际旅行！ …",
+      "rawScore": 76.82,
+      "hensachi": 65.6,
+      "rank": 1
+    },
     {
       "appid": 588650,
       "name": "Dead Cells",
@@ -12,7 +35,7 @@
       "initialPriceCents": 248000,
       "finalPriceCents": 124000,
       "reviewPositiveRate": 97,
-      "reviewCount": 183463,
+      "reviewCount": 183470,
       "storeUrl": "https://store.steampowered.com/app/588650/",
       "genres": [
         "メトロイドヴァニア",
@@ -25,34 +48,8 @@
       "releaseYear": 2018,
       "shortDescription": "『Dead Cells』は、ローグライトとメトロイドヴァニアにインスピレーションを得たアクションプラットフォーマー。プレイヤーは、無秩序に広がり絶えず変化する城を探索することになる…むろん2Dのソウルライクな戦闘で戦って、番人を通過することができたらの話だが。チェックポイントなし。殺して、死んで、学ぶ。その繰り返しだ",
       "reviewSnippet": "見た目の綺麗さとアクションの爽快感が売り 一周一時間くらいかかるのに死んだら最初からやり直しなのはプレイ時間の水増しが過…",
-      "rawScore": 76.31245606808348,
-      "hensachi": 65.8,
-      "rank": 1
-    },
-    {
-      "appid": 252490,
-      "name": "Rust",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg?t=1781536981",
-      "discountPercent": 50,
-      "initialPriceCents": 460000,
-      "finalPriceCents": 230000,
-      "reviewPositiveRate": 86.7,
-      "reviewCount": 1398464,
-      "storeUrl": "https://store.steampowered.com/app/252490/",
-      "genres": [
-        "サバイバル",
-        "アクション",
-        "アドベンチャー",
-        "インディー",
-        "MM（Massively Multiplayer）",
-        "RPG"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2018,
-      "shortDescription": "『Rust』における唯一の目的は、生き残ること。島の野生生物、そこに住む他の者たち、自然環境、そして他の生存者たち——あらゆるものがプレイヤーの命を狙う。どんな手を使ってでも、次の夜を生き延びろ。",
-      "reviewSnippet": "公式鯖の魔境で出会った韓国兄貴と最初は敵で出会いましたがなぜか仲良くなりお互いの拠点のpassまで教えあい最後は韓国兄貴…",
-      "rawScore": 72.845,
-      "hensachi": 64.3,
+      "rawScore": 76.31251859648611,
+      "hensachi": 65.4,
       "rank": 2
     },
     {
@@ -63,7 +60,7 @@
       "initialPriceCents": 880000,
       "finalPriceCents": 440000,
       "reviewPositiveRate": 95.4,
-      "reviewCount": 4920,
+      "reviewCount": 4921,
       "storeUrl": "https://store.steampowered.com/app/3375780/",
       "genres": [
         "アクション",
@@ -74,8 +71,8 @@
       "releaseYear": 2025,
       "shortDescription": "2024年に生誕20周年を迎えたストーリーRPG「軌跡」シリーズ。その記念すべき第１作、『英雄伝説 空の軌跡FC（ファーストチャプター）』を完全フルリメイク！",
       "reviewSnippet": "このゲームが20年前のリメイク作品なのか・・・ 20年前にオリジナルと出会いたかった",
-      "rawScore": 69.82227684918522,
-      "hensachi": 63,
+      "rawScore": 69.8226098466671,
+      "hensachi": 62.7,
       "rank": 3
     },
     {
@@ -86,7 +83,7 @@
       "initialPriceCents": 849900,
       "finalPriceCents": 594900,
       "reviewPositiveRate": 96.8,
-      "reviewCount": 857625,
+      "reviewCount": 857659,
       "storeUrl": "https://store.steampowered.com/app/1086940/",
       "genres": [
         "アドベンチャー",
@@ -98,7 +95,7 @@
       "shortDescription": "Baldur’s Gate 3 is a story-rich, party-based RPG set in the universe of Dungeons &amp; Dragons, where your choices shape a tale of fellowship and betrayal, survival and sacrifice, and the lure of absolute power.",
       "reviewSnippet": "日本語の直訳が難しいですが友達と一緒に考えて選択して行けるので満足してます。 フレンドとはハッピーエンドルートを進めてシ…",
       "rawScore": 67.38,
-      "hensachi": 61.9,
+      "hensachi": 61.7,
       "rank": 4
     },
     {
@@ -109,7 +106,7 @@
       "initialPriceCents": 891000,
       "finalPriceCents": 507800,
       "reviewPositiveRate": 89.5,
-      "reviewCount": 22553,
+      "reviewCount": 22555,
       "storeUrl": "https://store.steampowered.com/app/1984270/",
       "genres": [
         "RPG"
@@ -118,8 +115,8 @@
       "releaseYear": 2025,
       "shortDescription": "「デジモンストーリー」シリーズ最新作が遂に登場。今作は、世界崩壊の謎を追う中で、人間世界と異世界を跨ぐ冒険、多種多様なデジモンの収集と育成を楽しめるRPGです。",
       "reviewSnippet": "1周+DLC3つ(経過80時間)しかしてないけどとても楽しめた。 かっこいいデジモンやどえら可愛いデジモンが見れて満足。…",
-      "rawScore": 67.10225877772625,
-      "hensachi": 61.8,
+      "rawScore": 67.10240409779742,
+      "hensachi": 61.6,
       "rank": 5
     },
     {
@@ -130,7 +127,7 @@
       "initialPriceCents": 390000,
       "finalPriceCents": 312000,
       "reviewPositiveRate": 97.8,
-      "reviewCount": 246324,
+      "reviewCount": 246334,
       "storeUrl": "https://store.steampowered.com/app/294100/",
       "genres": [
         "サバイバル",
@@ -143,30 +140,8 @@
       "shortDescription": "知性のあるAIストーリーテラーによって織りなされるSFコロニーシミュレーションゲームです。人の性格、自然環境、銃撃戦、近接戦、気候、バイオーム、外交、対人関係、芸術、医学、貿易などをシミュレートし、ストーリーを生成します。",
       "reviewSnippet": "カスタマイズ性がありとても楽しくプレイできています。mod等が豊富で飽きずにプレイできます。dlcも充実していてとても良…",
       "rawScore": 63.23,
-      "hensachi": 60.2,
-      "rank": 6
-    },
-    {
-      "appid": 3681010,
-      "name": "仁王３",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/a21264e9fd476dcb2901c2432b598107d024c5a8/header.jpg?t=1772090941",
-      "discountPercent": 43,
-      "initialPriceCents": 968000,
-      "finalPriceCents": 551700,
-      "reviewPositiveRate": 77.8,
-      "reviewCount": 19370,
-      "storeUrl": "https://store.steampowered.com/app/3681010/",
-      "genres": [
-        "アクション",
-        "RPG"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "ダーク戦国アクションRPG「仁王」シリーズの三作目。自由度がありながらも緊張感も持ち合わせたオープンフィールドを舞台に、「サムライ」「ニンジャ」2つのバトルスタイルを駆使して手強い妖怪達に挑もう。",
-      "reviewSnippet": "ザクザク進めるオープンワールド死にゲーとして面白い！ 仁王２までは当然ながらステージ順が決まってたし、 エルデンリングは…",
-      "rawScore": 62.75793223066228,
       "hensachi": 60,
-      "rank": 7
+      "rank": 6
     },
     {
       "appid": 2178480,
@@ -187,8 +162,8 @@
       "shortDescription": "シレンとコッパの新たな冒険が幕を開ける。",
       "reviewSnippet": "超神髄までやった感想。 シレンはやっぱり面白いけど、いい加減道具呪いの仕様だけ緩和してほしいなとは思う。 あれやり込み要…",
       "rawScore": 62.73992976880503,
-      "hensachi": 59.9,
-      "rank": 8
+      "hensachi": 59.8,
+      "rank": 7
     },
     {
       "appid": 3357650,
@@ -198,7 +173,7 @@
       "initialPriceCents": 799000,
       "finalPriceCents": 639200,
       "reviewPositiveRate": 96.5,
-      "reviewCount": 52817,
+      "reviewCount": 52829,
       "storeUrl": "https://store.steampowered.com/app/3357650/",
       "genres": [
         "アクション",
@@ -208,9 +183,9 @@
       "releaseYear": 2026,
       "shortDescription": "『プラグマタ』はカプコンが贈る完全新作タイトル。 パズルとアクションが融合した、新感覚のSFアクションアドベンチャーです。月で遭難した調査員&quot;ヒュー&quot;と、アンドロイドの少女&quot;ディアナ&quot;。AIに支配された近未来の月面世界を舞台に、二人は互いの力を頼りに地球への帰還を目指します。",
       "reviewSnippet": "まだ6時間しかやってないけど神ゲー！普段競技系fpsばかりやってて、アクションゲームやってみたいと思いステラーブレイド、…",
-      "rawScore": 60.59681868769782,
-      "hensachi": 59,
-      "rank": 9
+      "rawScore": 60.5971909837243,
+      "hensachi": 58.9,
+      "rank": 8
     },
     {
       "appid": 3070070,
@@ -220,7 +195,7 @@
       "initialPriceCents": 260000,
       "finalPriceCents": 221000,
       "reviewPositiveRate": 96.5,
-      "reviewCount": 49676,
+      "reviewCount": 49711,
       "storeUrl": "https://store.steampowered.com/app/3070070/",
       "genres": [
         "シミュレーション"
@@ -229,9 +204,9 @@
       "releaseYear": 2026,
       "shortDescription": "自分だけのカードショップを開きましょう。最新のブースターパックを揃え、開封してカードを集めましょう。価格設定、スタッフの雇用、イベント開催など、自由にカスタマイズしてショップを拡大しましょう。",
       "reviewSnippet": "今回の大型アップデートをきっかけに、久しぶりにプレイしました 今回のアプデでは一体何が追加されたのかと思ったら……なんと…",
-      "rawScore": 58.24634098439421,
-      "hensachi": 58,
-      "rank": 10
+      "rawScore": 58.24749522985245,
+      "hensachi": 57.9,
+      "rank": 9
     },
     {
       "appid": 4537800,
@@ -241,7 +216,7 @@
       "initialPriceCents": 58000,
       "finalPriceCents": 34800,
       "reviewPositiveRate": 100,
-      "reviewCount": 14,
+      "reviewCount": 16,
       "storeUrl": "https://store.steampowered.com/app/4537800/",
       "genres": [
         "アドベンチャー",
@@ -251,8 +226,31 @@
       "releaseYear": 2026,
       "shortDescription": "Survive this first-person mascot horror adventure set in an abandoned theme park. Solve puzzles, craft tools, avoid a deadly animatronic, and uncover the secrets hidden within Brain World Rots.",
       "reviewSnippet": "",
-      "rawScore": 57.438080222851625,
+      "rawScore": 57.643203476899146,
       "hensachi": 57.7,
+      "rank": 10
+    },
+    {
+      "appid": 3645770,
+      "name": "Nico and the Shadows",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3645770/a85381204f93d0e19b107edba19ef2e259fe69d1/header.jpg?t=1789492708",
+      "discountPercent": 40,
+      "initialPriceCents": 23500,
+      "finalPriceCents": 14100,
+      "reviewPositiveRate": 100,
+      "reviewCount": 2,
+      "storeUrl": "https://store.steampowered.com/app/3645770/",
+      "genres": [
+        "アドベンチャー",
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Nico and the Shadows tells a story about a young man dealing with the afterlife and a mysterious will left by his late Aunt. Explore a spooky tale in this 2D style adventure made by RogueWind Studios.",
+      "reviewSnippet": "",
+      "rawScore": 54.80045756497986,
+      "hensachi": 56.5,
       "rank": 11
     },
     {
@@ -262,8 +260,8 @@
       "discountPercent": 35,
       "initialPriceCents": 190000,
       "finalPriceCents": 123500,
-      "reviewPositiveRate": 81.5,
-      "reviewCount": 130,
+      "reviewPositiveRate": 83.1,
+      "reviewCount": 172,
       "storeUrl": "https://store.steampowered.com/app/4557380/",
       "genres": [
         "カジュアル",
@@ -274,32 +272,9 @@
       "releaseYear": 2026,
       "shortDescription": "数百種のバトモンを発見してバトルしよう！最強のチームを組んで他のプレイヤーに挑め！自分のペースで遊びながら、強力なコンボとシナジーを見つけ出そう！バトモンを極限まで鍛え上げて、ゲームをぶっ壊せ。",
       "reviewSnippet": "とても面白い。日本語ですがちゃんと設定画面があります。問題なく遊べます。",
-      "rawScore": 52.26470300247458,
-      "hensachi": 55.4,
+      "rawScore": 53.280456992938845,
+      "hensachi": 55.8,
       "rank": 12
-    },
-    {
-      "appid": 1842680,
-      "name": "Secrets of Temple Isle",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1842680/ad33bb8ba5759c15e0991a05a5414ff5aeded181/header.jpg?t=1789484689",
-      "discountPercent": 28,
-      "initialPriceCents": 180000,
-      "finalPriceCents": 129600,
-      "reviewPositiveRate": 100,
-      "reviewCount": 3,
-      "storeUrl": "https://store.steampowered.com/app/1842680/",
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "RPG"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "90年代のゲームにインスパイアされた探索RPGの世界へ！活気あふれる手づくりの島で、危険なダンジョンや洞窟、神殿に挑み、強力な装備や宝物を手に入れよう。戦略的な三人称視点のアクションで強敵を倒し、古代の遺物を発見して島の危機を救い、自分だけのヒーローをカスタマイズしよう。",
-      "reviewSnippet": "",
-      "rawScore": 49.87192449557722,
-      "hensachi": 54.4,
-      "rank": 13
     },
     {
       "appid": 4404610,
@@ -309,7 +284,7 @@
       "initialPriceCents": 79000,
       "finalPriceCents": 55300,
       "reviewPositiveRate": 100,
-      "reviewCount": 1,
+      "reviewCount": 12,
       "storeUrl": "https://store.steampowered.com/app/4404610/",
       "genres": [
         "カジュアル",
@@ -320,9 +295,9 @@
       "releaseYear": 2026,
       "shortDescription": "Dominican partner dominoes in 3D, with proximity voice chat: you hear every player from where they're sitting. Private rooms, a room browser, offline AI, and games to 100, 120, 150 or 200 points.",
       "reviewSnippet": "",
-      "rawScore": 49.635962247788605,
-      "hensachi": 54.3,
-      "rank": 14
+      "rawScore": 52.7035598200258,
+      "hensachi": 55.6,
+      "rank": 13
     },
     {
       "appid": 2246340,
@@ -332,7 +307,7 @@
       "initialPriceCents": 499000,
       "finalPriceCents": 374200,
       "reviewPositiveRate": 49.3,
-      "reviewCount": 330316,
+      "reviewCount": 330335,
       "storeUrl": "https://store.steampowered.com/app/2246340/",
       "genres": [
         "ソウルライク",
@@ -345,18 +320,18 @@
       "shortDescription": "荒々しく獰猛な自然が、襲い来る。 刻一刻とダイナミックにその姿を変貌させるフィールド。二面性をもつ世界に生きる、モンスターと人々の物語。 進化したハンティングアクションと、途切れることのない没入感を追求した究極の狩猟体験が、あなたを待っている。",
       "reviewSnippet": "クソゲーと言うには面白すぎるが 神ゲーと言うには色んなところが残念過ぎる そんなゲーム",
       "rawScore": 48.504999999999995,
-      "hensachi": 53.8,
-      "rank": 15
+      "hensachi": 53.9,
+      "rank": 14
     },
     {
       "appid": 4414270,
       "name": "どうぶつコンビニ",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4414270/647d490660e438c39ed8633e0aaa7edf76b0fc30/header_japanese.jpg?t=1789493026",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4414270/647d490660e438c39ed8633e0aaa7edf76b0fc30/header_japanese.jpg?t=1789511190",
       "discountPercent": 25,
       "initialPriceCents": 75000,
       "finalPriceCents": 56200,
       "reviewPositiveRate": 100,
-      "reviewCount": 1,
+      "reviewCount": 3,
       "storeUrl": "https://store.steampowered.com/app/4414270/",
       "genres": [
         "カジュアル",
@@ -367,31 +342,53 @@
       "releaseYear": 2026,
       "shortDescription": "画面の下部に、かわいい動物たちが経営するアットホームな放置型スーパーマーケットを作り、運営しましょう。商品を生産し、棚に商品を並べ、店舗の運営を自動化し、従業員を雇って、小さなスーパーを拡大していきましょう。",
       "reviewSnippet": "",
-      "rawScore": 47.385962247788605,
-      "hensachi": 53.3,
+      "rawScore": 48.52192449557722,
+      "hensachi": 53.9,
+      "rank": 15
+    },
+    {
+      "appid": 1366590,
+      "name": "Study § Steady",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1366590/d73a268360ed4adca9e0b95842c116b61d754e19/header.jpg?t=1789521153",
+      "discountPercent": 20,
+      "initialPriceCents": 280000,
+      "finalPriceCents": 224000,
+      "reviewPositiveRate": 100,
+      "reviewCount": 2,
+      "storeUrl": "https://store.steampowered.com/app/1366590/",
+      "genres": [
+        "アドベンチャー",
+        "カジュアル"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "Move out to small-town Japan in the winter, make friends and slowly fall in love... A cute visual novel, topped with a healthy dose of studio Marmalade's trademark daily-life comedy!",
+      "reviewSnippet": "",
+      "rawScore": 45.80045756497986,
+      "hensachi": 52.7,
       "rank": 16
     },
     {
-      "appid": 5129240,
-      "name": "Neko Neko Shop",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5129240/32199b406c948d9f2bc28d0fd7961fb31788d973/header.jpg?t=1789491704",
+      "appid": 4084590,
+      "name": "bonitāka's aquarium of medusae",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4084590/27623ee23f0820cb7b38e8051d5ba0b99baf19ed/header.jpg?t=1789497316",
       "discountPercent": 20,
-      "initialPriceCents": 65500,
-      "finalPriceCents": 52400,
+      "initialPriceCents": 40500,
+      "finalPriceCents": 32400,
       "reviewPositiveRate": 100,
       "reviewCount": 1,
-      "storeUrl": "https://store.steampowered.com/app/5129240/",
+      "storeUrl": "https://store.steampowered.com/app/4084590/",
       "genres": [
+        "アドベンチャー",
         "カジュアル",
-        "インディー",
-        "シミュレーション"
+        "インディー"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "Neko Neko Shop は、ごちゃごちゃしたお店で可愛らしいねこのコレクションを仕分け、補充し、展示する癒やしの整理整頓ゲームです。のんびりとお片付けをして、散らかったお店を最高にキュートなショップに変身させましょう。",
+      "shortDescription": "Help a marine biologist's research by piloting a submarine, as you tune in to the souls of jellyfish... and maybe help her learn a thing or two about life too!",
       "reviewSnippet": "",
       "rawScore": 45.135962247788605,
-      "hensachi": 52.3,
+      "hensachi": 52.5,
       "rank": 17
     },
     {
@@ -412,53 +409,8 @@
       "shortDescription": "A top-down action RPG drawn from a child's dream. Explore seven hand-made pixel-art realms, clear seven dungeons in each to take the key parts from their guardians, then break into the boss arena. Build a warrior, rogue or holy hero and carry it into New Game+.",
       "reviewSnippet": "",
       "rawScore": 45.135962247788605,
-      "hensachi": 52.3,
+      "hensachi": 52.5,
       "rank": 18
-    },
-    {
-      "appid": 4132890,
-      "name": "ドッグハザード：デストレイン",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132890/84f68db912e11261691025f8c5c6dc30c13a6d7c/header.jpg?t=1789496127",
-      "discountPercent": 10,
-      "initialPriceCents": 180000,
-      "finalPriceCents": 162000,
-      "reviewPositiveRate": 100,
-      "reviewCount": 11,
-      "storeUrl": "https://store.steampowered.com/app/4132890/",
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "インディー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "生き残りたければ、最後尾から先頭まで薙ぎ払って突き進め！吹雪に閉ざされた車内で死角に身を潜めろ。待ち受けるのは、群れで凶暴化した血に飢えた「テディベア」。銃声は襲撃を招き、極寒は体温を奪う。弾丸を込めるか、最後の資金で車両を修理するか。情けを捨て、血肉の饗宴を生き抜け！",
-      "reviewSnippet": "",
-      "rawScore": 43.572382060557075,
-      "hensachi": 51.7,
-      "rank": 19
-    },
-    {
-      "appid": 4924360,
-      "name": "Take Care of My Heifer",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4924360/768c36c594f3a59a119842bdc5bb56ec087d572a/header.jpg?t=1789483754",
-      "discountPercent": 10,
-      "initialPriceCents": 39500,
-      "finalPriceCents": 35500,
-      "reviewPositiveRate": 100,
-      "reviewCount": 8,
-      "storeUrl": "https://store.steampowered.com/app/4924360/",
-      "genres": [
-        "インディー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "“Take Care of My Heifer” is a short horror game packed with terror and dark humor. You’ve been asked to look after a heifer until morning and follow the owner’s instructions. Just make sure you don’t miss anything.",
-      "reviewSnippet": "",
-      "rawScore": 43.100915129959716,
-      "hensachi": 51.5,
-      "rank": 20
     },
     {
       "appid": 2402680,
@@ -467,8 +419,8 @@
       "discountPercent": 10,
       "initialPriceCents": 277200,
       "finalPriceCents": 249400,
-      "reviewPositiveRate": 85,
-      "reviewCount": 180,
+      "reviewPositiveRate": 87.4,
+      "reviewCount": 334,
       "storeUrl": "https://store.steampowered.com/app/2402680/",
       "genres": [
         "アクション",
@@ -480,31 +432,32 @@
       "releaseYear": 2026,
       "shortDescription": "手作りのピクセル世界で繰り広げられる1～8人用ファンタジーRPG。8種族・6クラスから英雄を育成せよ。古代の地を探索し、元素戦闘を極め、絆を築き、拠点となる砦を築き上げろ。ディムレイスの運命をかけて――仲間と共に、あるいは独りで戦え。",
       "reviewSnippet": "まだ序盤なので、今の段階で不満点を挙げるとしたらもうちょっとローカライズ頑張ってほしいかなって感じ。 その他は、今のとこ…",
-      "rawScore": 42.769541791959185,
-      "hensachi": 51.3,
-      "rank": 21
+      "rawScore": 44.618470969950366,
+      "hensachi": 52.2,
+      "rank": 19
     },
     {
-      "appid": 3666410,
-      "name": "Neon Dodge",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3666410/129cd38b950db98f228a2232b4a9b3466fca78be/header.jpg?t=1789487777",
+      "appid": 4809590,
+      "name": "Blood Brides: Witch Hunt",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4809590/7609e2f5504f8a079cff6861ef4d78e217a05b50/header.jpg?t=1789495493",
       "discountPercent": 10,
-      "initialPriceCents": 58000,
-      "finalPriceCents": 52200,
+      "initialPriceCents": 105000,
+      "finalPriceCents": 94500,
       "reviewPositiveRate": 100,
-      "reviewCount": 6,
-      "storeUrl": "https://store.steampowered.com/app/3666410/",
+      "reviewCount": 10,
+      "storeUrl": "https://store.steampowered.com/app/4809590/",
       "genres": [
         "アクション",
-        "インディー"
+        "アドベンチャー",
+        "RPG"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "Neon Dodgeは、ベイパーウェイヴの美学を持つ熱狂的な弾幕地獄ゲームで、撃つことはできません。謎の声が投げかけるチャレンジを生き残るために、回避術を習得せよ… さもなくば、デス数のカウンターが無限に上昇するのを見るがいい。",
+      "shortDescription": "Blood Brides: Witch Hunt is a dark roguelite FPS where every hunt is different. Master precision-based combat, target enemy weak points, and dismantle monsters piece by piece. Explore cursed lands, collect powerful weapons, face Witches, and uncover whether you are a savior or a monster.",
       "reviewSnippet": "",
-      "rawScore": 42.689049207600966,
-      "hensachi": 51.3,
-      "rank": 22
+      "rawScore": 43.4297837175782,
+      "hensachi": 51.7,
+      "rank": 20
     },
     {
       "appid": 4603410,
@@ -527,31 +480,31 @@
       "shortDescription": "Cross-feature procedural &amp; AI-assisted creation for music, audio, voice, dialogue, and FX mixing. Practical manual control with a 100% local-first privacy architecture. Built for fast iteration and production-ready export for games, video, and interactive media",
       "reviewSnippet": "",
       "rawScore": 41.77192449557722,
-      "hensachi": 50.9,
-      "rank": 23
+      "hensachi": 51.1,
+      "rank": 21
     },
     {
-      "appid": 4809590,
-      "name": "Blood Brides: Witch Hunt",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4809590/7609e2f5504f8a079cff6861ef4d78e217a05b50/header.jpg?t=1789495493",
-      "discountPercent": 10,
-      "initialPriceCents": 105000,
-      "finalPriceCents": 94500,
-      "reviewPositiveRate": 100,
-      "reviewCount": 3,
-      "storeUrl": "https://store.steampowered.com/app/4809590/",
+      "appid": 5129240,
+      "name": "Neko Neko Shop",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5129240/32199b406c948d9f2bc28d0fd7961fb31788d973/header.jpg?t=1789491704",
+      "discountPercent": 20,
+      "initialPriceCents": 65500,
+      "finalPriceCents": 52400,
+      "reviewPositiveRate": 75,
+      "reviewCount": 4,
+      "storeUrl": "https://store.steampowered.com/app/5129240/",
       "genres": [
-        "アクション",
-        "アドベンチャー",
-        "RPG"
+        "カジュアル",
+        "インディー",
+        "シミュレーション"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "Blood Brides: Witch Hunt is a dark roguelite FPS where every hunt is different. Master precision-based combat, target enemy weak points, and dismantle monsters piece by piece. Explore cursed lands, collect powerful weapons, face Witches, and uncover whether you are a savior or a monster.",
+      "shortDescription": "Neko Neko Shop は、ごちゃごちゃしたお店で可愛らしいねこのコレクションを仕分け、補充し、展示する癒やしの整理整頓ゲームです。のんびりとお片付けをして、散らかったお店を最高にキュートなショップに変身させましょう。",
       "reviewSnippet": "",
-      "rawScore": 41.77192449557722,
-      "hensachi": 50.9,
-      "rank": 24
+      "rawScore": 37.887622657871766,
+      "hensachi": 49.4,
+      "rank": 22
     },
     {
       "appid": 47025,
@@ -569,31 +522,30 @@
       "shortDescription": "",
       "reviewSnippet": "",
       "rawScore": 22.5,
-      "hensachi": 42.6,
-      "rank": 25
+      "hensachi": 43,
+      "rank": 23
     },
     {
-      "appid": 3645770,
-      "name": "Nico and the Shadows",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3645770/a85381204f93d0e19b107edba19ef2e259fe69d1/header.jpg?t=1789492708",
+      "appid": 4955010,
+      "name": "絶滅から蘇る欲望",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4955010/76dad51a218b66fe0ea7e1e2a07a8e2865fbd243/header.jpg?t=1789495683",
       "discountPercent": 40,
-      "initialPriceCents": 23500,
-      "finalPriceCents": 14100,
+      "initialPriceCents": 90500,
+      "finalPriceCents": 54300,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/3645770/",
+      "storeUrl": "https://store.steampowered.com/app/4955010/",
       "genres": [
         "アドベンチャー",
-        "カジュアル",
-        "インディー"
+        "シミュレーション"
       ],
-      "supportsJapanese": false,
+      "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "Nico and the Shadows tells a story about a young man dealing with the afterlife and a mysterious will left by his late Aunt. Explore a spooky tale in this 2D style adventure made by RogueWind Studios.",
+      "shortDescription": "絶滅種復活保護区を舞台にした成人向け恋愛ビジュアルノベル。飼育員アンセル・ウィアーとなり、世界公開イベントまで残された8週間で、ダイアウルフやフクロオオカミ、衰弱するマンモスの子Cloverを守ってください。研究、事業、抗議活動、動物福祉が衝突する中、遺伝学者フレイヤ、映像作家ロビン、牧場獣医シェイの一人を選び、Vestigeが命を守る場所なのか美しい檻なのかを決める、異なる物語と結末を体験します。",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 40.6,
-      "rank": 26
+      "hensachi": 41.2,
+      "rank": 24
     },
     {
       "appid": 4944090,
@@ -615,54 +567,27 @@
       "shortDescription": "A cozy farm for relaxation, not studying agronomy. Plant a garden, go fishing, drive a harvester, or just explore the Perfect Place!",
       "reviewSnippet": "",
       "rawScore": 13.5,
-      "hensachi": 38.7,
-      "rank": 27
+      "hensachi": 39.3,
+      "rank": 25
     },
     {
-      "appid": 341100,
-      "name": "The Solyani's Code",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/341100/76e31c8ff40cbd53b801db95336232c71e72670e/header.jpg?t=1789484832",
-      "discountPercent": 30,
-      "initialPriceCents": 315000,
-      "finalPriceCents": 220500,
+      "appid": 1390270,
+      "name": "ディアブロ IV: 憎悪の帝王™ - スタンダードエディション",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1390270/3a2c5f9cd776775fd309aa1357e31c768191295e/header_ratio.jpg?t=1789412857",
+      "discountPercent": 25,
+      "initialPriceCents": 480000,
+      "finalPriceCents": 360000,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/341100/",
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "インディー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "セレネを探索し、エララとしてルマと共に戦おう。異星の敵と戦い、武器や能力を解放し、NPCを助け、古代の神殿を攻略し、宝物やアップグレードを探し、ローバーでレースを楽しもう……そして、彼女の職務範囲を遥かに超える秘密を暴こう。",
-      "reviewSnippet": "",
-      "rawScore": 13.5,
-      "hensachi": 38.7,
-      "rank": 28
-    },
-    {
-      "appid": 4084590,
-      "name": "bonitāka's aquarium of medusae",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4084590/27623ee23f0820cb7b38e8051d5ba0b99baf19ed/header.jpg?t=1789497316",
-      "discountPercent": 20,
-      "initialPriceCents": 40500,
-      "finalPriceCents": 32400,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4084590/",
-      "genres": [
-        "アドベンチャー",
-        "カジュアル",
-        "インディー"
-      ],
+      "storeUrl": "https://store.steampowered.com/app/1390270/",
+      "genres": [],
       "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Help a marine biologist's research by piloting a submarine, as you tune in to the souls of jellyfish... and maybe help her learn a thing or two about life too!",
+      "releaseYear": null,
+      "shortDescription": "",
       "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 36.8,
-      "rank": 29
+      "rawScore": 11.25,
+      "hensachi": 38.4,
+      "rank": 26
     },
     {
       "appid": 3487590,
@@ -683,8 +608,57 @@
       "shortDescription": "Medusa is relaxing in the Temple of Ares when soldiers storm in. Athena sent her followers to get her. Use your wits to evade capture and get revenge in this simple but deep puzzle game.",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 36.8,
-      "rank": 30
+      "hensachi": 37.4,
+      "rank": 27
+    },
+    {
+      "appid": 4182430,
+      "name": "DEATH PENALTY",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4182430/b3fa6e7b845168e6a533715665016feb4164e159/header.jpg?t=1789514956",
+      "discountPercent": 15,
+      "initialPriceCents": 160000,
+      "finalPriceCents": 136000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4182430/",
+      "genres": [
+        "アドベンチャー",
+        "インディー",
+        "RPG"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "YOU ARE SENTENCED TO DEATH... Slither your way through an impenetrable fortress crawling with devils faster, stronger, and more cunning than any human. By sheer luck you've slipped through the cracks, but discovery means certain death. How long are you going to delay the inevitable?",
+      "reviewSnippet": "",
+      "rawScore": 6.75,
+      "hensachi": 36.5,
+      "rank": 28
+    },
+    {
+      "appid": 4979880,
+      "name": "Eternitubes 3D",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4979880/ac428ae4b7773731065b8c974b521f6827f9c861/header.jpg?t=1789494541",
+      "discountPercent": 15,
+      "initialPriceCents": 58900,
+      "finalPriceCents": 50000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4979880/",
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "シミュレーション",
+        "アニメーション & モデリング",
+        "デザイン & イラストレーション",
+        "ユーティリティ"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "Lean back and leave everything else to the tubes. Witness, with this handmade screensaver and companion, based on procedural generation, endlessly renewing compositions of countless, unique, tubular structures, which have never revealed themselves to anybody before.",
+      "reviewSnippet": "",
+      "rawScore": 6.75,
+      "hensachi": 36.5,
+      "rank": 29
     },
     {
       "appid": 4865840,
@@ -707,32 +681,31 @@
       "shortDescription": "Build and lead a football academy from U11 to U19. Scout and recruit young talent, develop your squads, set tactics, compete for promotion and trophies, improve your academy, and follow your graduates throughout their senior careers.",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 35.8,
-      "rank": 31
+      "hensachi": 36.5,
+      "rank": 30
     },
     {
-      "appid": 5102710,
-      "name": "BTR Ringfall",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5102710/8b50a0233f85bedca100983c754e130a38a8b916/header.jpg?t=1789484704",
-      "discountPercent": 15,
-      "initialPriceCents": 65500,
-      "finalPriceCents": 55600,
+      "appid": 5148260,
+      "name": "タネ屋さんを整理しよう！",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5148260/ce149796a062b71c6db149cc20e7a3594a067490/header.jpg?t=1789505677",
+      "discountPercent": 10,
+      "initialPriceCents": 60000,
+      "finalPriceCents": 54000,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5102710/",
+      "storeUrl": "https://store.steampowered.com/app/5148260/",
       "genres": [
-        "アクション",
         "カジュアル",
         "インディー",
-        "ストラテジー"
+        "シミュレーション"
       ],
       "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "BTR Ringfallは、レーン型の戦術タワーディフェンスです。5つの戦闘レーンに7人の固有の元素オペレータを配置し、リングエネルギーを管理して強力な能力を解放。オペレータを組み合わせ、壊滅的な元素反応でリングを守り抜きましょう。",
+      "shortDescription": "床やカウンターに散らばった何千もの種袋、球根商品、鉢植え、苗木を仕分けて、レトロなタネ屋さんを元の姿に戻そう。ラベルを読み、商品をまとめて運び、300種類以上の商品を定位置に戻しながら、作業を効率化する能力をアンロック。棚を一段ずつ埋めて、お店に秩序を取り戻そう。",
       "reviewSnippet": "",
-      "rawScore": 6.75,
-      "hensachi": 35.8,
-      "rank": 32
+      "rawScore": 4.5,
+      "hensachi": 35.5,
+      "rank": 31
     },
     {
       "appid": 5115240,
@@ -753,7 +726,29 @@
       "shortDescription": "STILLTRACE is a bleak top-down survival horror about holding the last beacon in an infected sector. Scavenge for supplies, fortify your base, survive attacks, and decide whether to follow strange radio calls, tracks, and the stories left behind",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 34.8,
+      "hensachi": 35.5,
+      "rank": 32
+    },
+    {
+      "appid": 4861620,
+      "name": "Jigsaw Diorama: The Alchemist and the Eclipse",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4861620/c5a7d3c6e5de2995f70171ce6144f6ddd06cf9df/header.jpg?t=1789491370",
+      "discountPercent": 10,
+      "initialPriceCents": 65500,
+      "finalPriceCents": 58900,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4861620/",
+      "genres": [
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "A cozy jigsaw puzzle journey through a fantastical world of alchemy and astronomy. No pressure. No drama. Just puzzle pieces.",
+      "reviewSnippet": "",
+      "rawScore": 4.5,
+      "hensachi": 35.5,
       "rank": 33
     },
     {
@@ -775,54 +770,8 @@
       "shortDescription": "Once Before Us is a cooperative puzzle adventure for two players. Communication and observation are the only ways forward - every riddle, mechanism, and clue requires teamwork. Together you’ll explore forgotten places, solve challenges that test both logic and connection.",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 34.8,
+      "hensachi": 35.5,
       "rank": 34
-    },
-    {
-      "appid": 5071740,
-      "name": "BLIND SPOT",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5071740/95ecf527eb0664bb5bcbb62273875c663f09204c/header.jpg?t=1789484428",
-      "discountPercent": 10,
-      "initialPriceCents": 190000,
-      "finalPriceCents": 171000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5071740/",
-      "genres": [
-        "アドベンチャー",
-        "インディー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "あなたは第09施設に着任した新任の夜間監査員。各フロアを車で巡回し、前回の巡回から変化した箇所を見つけ、先へ進む前に報告を提出せよ。管制担当は、建物に問題はないと言い張っている。だが、管制担当が間違っていたことは以前にもある。",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 34.8,
-      "rank": 35
-    },
-    {
-      "appid": 2497980,
-      "name": "Heroes Suck",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2497980/baf9649fb6ce2b71e5c416628a4b6fbd068cfb37/header.jpg?t=1789484403",
-      "discountPercent": 10,
-      "initialPriceCents": 260000,
-      "finalPriceCents": 234000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/2497980/",
-      "genres": [
-        "インディー",
-        "RPG",
-        "ストラテジー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "A physics-driven tower defense where you play the dungeon. Lay out traps and launch waves of invading &quot;heroes&quot; who are, charitably, bad at their job. They walk into every snare, complain about their knees, ask where the restroom is, and leave with the cheese wheels.",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 34.8,
-      "rank": 36
     }
   ]
 }
