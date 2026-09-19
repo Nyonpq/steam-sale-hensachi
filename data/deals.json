@@ -1,9 +1,31 @@
 {
-  "fetchedAt": "2026-09-19T10:04:23.407Z",
+  "fetchedAt": "2026-09-19T15:08:42.086Z",
   "currency": "JPY",
-  "count": 35,
-  "averageDiscount": 25.4,
+  "count": 32,
+  "averageDiscount": 29.3,
   "deals": [
+    {
+      "appid": 2369390,
+      "name": "Far Cry® 6",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2369390/64af0c6b70ef233bbdff1e5ffe0e397481efb3c9/header.jpg?t=1785280646",
+      "discountPercent": 90,
+      "initialPriceCents": 924000,
+      "finalPriceCents": 92400,
+      "reviewPositiveRate": 71.2,
+      "reviewCount": 35782,
+      "storeUrl": "https://store.steampowered.com/app/2369390/",
+      "genres": [
+        "アクション",
+        "アドベンチャー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2023,
+      "shortDescription": "ゲリラ革命がテーマのオープンワールドFPSの世界を舞台に革命を導け。即席の武器を手に戦い、あらゆる手段で移動しよう。共に反乱を起こす仲間を集めて、カスティロ政権を打倒せよ。",
+      "reviewSnippet": "リッチになったFC2といった感じ。3以降のハンティングやスキルポイントが簡略化されているため、良くも悪くもやることが戦闘…",
+      "rawScore": 82.60368584317011,
+      "hensachi": 65.6,
+      "rank": 1
+    },
     {
       "appid": 1462040,
       "name": "FINAL FANTASY VII REMAKE INTERGRADE",
@@ -12,7 +34,7 @@
       "initialPriceCents": 547800,
       "finalPriceCents": 136900,
       "reviewPositiveRate": 86.7,
-      "reviewCount": 52766,
+      "reviewCount": 52772,
       "storeUrl": "https://store.steampowered.com/app/1462040/",
       "genres": [
         "アクション",
@@ -23,9 +45,9 @@
       "releaseYear": 2022,
       "shortDescription": "バスターソードを背負う元ソルジャー・クラウドが魔晄都市ミッドガルに降り立つ。 最先端技術が駆使されたグラフィック映像、戦略性と直感的アクションが融合するバトル―― 不朽の名作『FINAL FANTASY VII』の世界が「新たな物語」として生まれ変わる。",
       "reviewSnippet": "素晴らしいゲームです。ストーリー、グラフィックス、戦闘、音楽全てに於いてこれまでのRPGの上を行く、非常にレベルの高い内…",
-      "rawScore": 81.91523548537404,
-      "hensachi": 67.9,
-      "rank": 1
+      "rawScore": 81.91542182387357,
+      "hensachi": 65.3,
+      "rank": 2
     },
     {
       "appid": 588650,
@@ -35,7 +57,7 @@
       "initialPriceCents": 248000,
       "finalPriceCents": 124000,
       "reviewPositiveRate": 97,
-      "reviewCount": 183569,
+      "reviewCount": 183581,
       "storeUrl": "https://store.steampowered.com/app/588650/",
       "genres": [
         "メトロイドヴァニア",
@@ -48,9 +70,9 @@
       "releaseYear": 2018,
       "shortDescription": "『Dead Cells』は、ローグライトとメトロイドヴァニアにインスピレーションを得たアクションプラットフォーマー。プレイヤーは、無秩序に広がり絶えず変化する城を探索することになる…むろん2Dのソウルライクな戦闘で戦って、番人を通過することができたらの話だが。チェックポイントなし。殺して、死んで、学ぶ。その繰り返しだ",
       "reviewSnippet": "見た目の綺麗さとアクションの爽快感が売り 一周一時間くらいかかるのに死んだら最初からやり直しなのはプレイ時間の水増しが過…",
-      "rawScore": 76.3134026713823,
-      "hensachi": 65.7,
-      "rank": 2
+      "rawScore": 76.31350979957567,
+      "hensachi": 63,
+      "rank": 3
     },
     {
       "appid": 2909400,
@@ -60,7 +82,7 @@
       "initialPriceCents": 657800,
       "finalPriceCents": 197300,
       "reviewPositiveRate": 74.8,
-      "reviewCount": 35549,
+      "reviewCount": 35561,
       "storeUrl": "https://store.steampowered.com/app/2909400/",
       "genres": [
         "アクション",
@@ -71,9 +93,9 @@
       "releaseYear": 2025,
       "shortDescription": "魔晄都市ミッドガルを脱出したクラウドたちは広大な世界に旅立つ。 新たに語られるストーリー、広大な世界での自由な冒険、仲間との絆が深まるバトル―― 『FINAL FANTASY VII REMAKE』から、さらに進化したゲーム体験が再誕する。",
       "reviewSnippet": "物語のボリュームが多くて値段相応の満足度はあった。 物語だけ楽しみたい人からするとミニゲームは余計だなとは思った。（内容…",
-      "rawScore": 74.85297964175767,
-      "hensachi": 65.1,
-      "rank": 3
+      "rawScore": 74.85353274574588,
+      "hensachi": 62.5,
+      "rank": 4
     },
     {
       "appid": 2455640,
@@ -83,7 +105,7 @@
       "initialPriceCents": 682000,
       "finalPriceCents": 272800,
       "reviewPositiveRate": 93.3,
-      "reviewCount": 4779,
+      "reviewCount": 4780,
       "storeUrl": "https://store.steampowered.com/app/2455640/",
       "genres": [
         "RPG"
@@ -92,9 +114,31 @@
       "releaseYear": 2024,
       "shortDescription": "『ロマンシング サガ2』のフルリメイク！グラフィックは3D化、ゲームシステムは現代風にアレンジ、BGMアレンジ、ボイス対応。プレイヤーは歴代皇帝として、七英雄との数千年にわたる戦いに挑みます。",
       "reviewSnippet": "スクエニは過去の名作をリメイクする時は全部ここにやらせろ",
-      "rawScore": 73.5396335721212,
-      "hensachi": 64.6,
-      "rank": 4
+      "rawScore": 73.53997639130486,
+      "hensachi": 61.9,
+      "rank": 5
+    },
+    {
+      "appid": 2175540,
+      "name": "ドラゴンクエストモンスターズ３　魔族の王子とエルフの旅",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2175540/header_japanese.jpg?t=1775105751",
+      "discountPercent": 80,
+      "initialPriceCents": 498000,
+      "finalPriceCents": 99600,
+      "reviewPositiveRate": 73.1,
+      "reviewCount": 1349,
+      "storeUrl": "https://store.steampowered.com/app/2175540/",
+      "genres": [
+        "デッキ構築",
+        "RPG"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2024,
+      "shortDescription": "『ドラゴンクエストモンスターズ３　魔族の王子とエルフの旅』がSteam®に登場！「ドラゴンクエスト」シリーズおなじみのモンスターでパーティを組み、モンスター同士の迫力バトルを楽しもう！",
+      "reviewSnippet": "■良い点 ・配合が楽しい ■悪い点 ・ストーリーの納得感が薄い ・ダンジョンのギミックが微妙(1度来た道を何度も戻される…",
+      "rawScore": 73.39758025847172,
+      "hensachi": 61.9,
+      "rank": 6
     },
     {
       "appid": 3375780,
@@ -104,7 +148,7 @@
       "initialPriceCents": 880000,
       "finalPriceCents": 440000,
       "reviewPositiveRate": 95.3,
-      "reviewCount": 4979,
+      "reviewCount": 4983,
       "storeUrl": "https://store.steampowered.com/app/3375780/",
       "genres": [
         "アクション",
@@ -115,54 +159,8 @@
       "releaseYear": 2025,
       "shortDescription": "2024年に生誕20周年を迎えたストーリーRPG「軌跡」シリーズ。その記念すべき第１作、『英雄伝説 空の軌跡FC（ファーストチャプター）』を完全フルリメイク！",
       "reviewSnippet": "このゲームが20年前のリメイク作品なのか・・・ 20年前にオリジナルと出会いたかった",
-      "rawScore": 69.80680884060271,
-      "hensachi": 63.1,
-      "rank": 5
-    },
-    {
-      "appid": 1086940,
-      "name": "Baldur's Gate 3",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
-      "discountPercent": 30,
-      "initialPriceCents": 849900,
-      "finalPriceCents": 594900,
-      "reviewPositiveRate": 96.8,
-      "reviewCount": 858136,
-      "storeUrl": "https://store.steampowered.com/app/1086940/",
-      "genres": [
-        "アドベンチャー",
-        "RPG",
-        "ストラテジー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2023,
-      "shortDescription": "Baldur’s Gate 3 is a story-rich, party-based RPG set in the universe of Dungeons &amp; Dragons, where your choices shape a tale of fellowship and betrayal, survival and sacrifice, and the lure of absolute power.",
-      "reviewSnippet": "日本人にはとっつきにくいかもしれませんが、ハマるとおもしろいです。 ただ、登場人物が全員バイセクシャルなのは、マジでセン…",
-      "rawScore": 67.38,
-      "hensachi": 62.2,
-      "rank": 6
-    },
-    {
-      "appid": 3407390,
-      "name": "ENDLESS Legend™ 2 エンドレス・レジェンド 2",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407390/2531be60548fd70c7133d5a3ad7fdd5b2b5fb0fe/header_japanese.jpg?t=1789669890",
-      "discountPercent": 50,
-      "initialPriceCents": 498000,
-      "finalPriceCents": 249000,
-      "reviewPositiveRate": 84,
-      "reviewCount": 3197,
-      "storeUrl": "https://store.steampowered.com/app/3407390/",
-      "genres": [
-        "RPG",
-        "シミュレーション",
-        "ストラテジー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "多様な勢力を統率し、強力なヒーローたちと共に戦うストラテジーゲーム。民を導き、変わり続ける世界で勝利を収めよ。帝国を築き、政略を巡らせて影響力を拡大し、壮大な軍を編成して戦いに挑め。果たしてあなたは、誰よりもいち早く惑星に眠る闇の秘密を暴けるのか。",
-      "reviewSnippet": "Really good",
-      "rawScore": 65.12595645060459,
-      "hensachi": 61.3,
+      "rawScore": 69.80812465528722,
+      "hensachi": 60.4,
       "rank": 7
     },
     {
@@ -173,7 +171,7 @@
       "initialPriceCents": 390000,
       "finalPriceCents": 312000,
       "reviewPositiveRate": 97.8,
-      "reviewCount": 246500,
+      "reviewCount": 246508,
       "storeUrl": "https://store.steampowered.com/app/294100/",
       "genres": [
         "サバイバル",
@@ -186,7 +184,7 @@
       "shortDescription": "知性のあるAIストーリーテラーによって織りなされるSFコロニーシミュレーションゲームです。人の性格、自然環境、銃撃戦、近接戦、気候、バイオーム、外交、対人関係、芸術、医学、貿易などをシミュレートし、ストーリーを生成します。",
       "reviewSnippet": "この系統のゲーム初めてでしたがめちゃ楽しいです・・・時間が溶けます",
       "rawScore": 63.23,
-      "hensachi": 60.6,
+      "hensachi": 57.7,
       "rank": 8
     },
     {
@@ -197,7 +195,7 @@
       "initialPriceCents": 799000,
       "finalPriceCents": 639200,
       "reviewPositiveRate": 96.5,
-      "reviewCount": 53088,
+      "reviewCount": 53112,
       "storeUrl": "https://store.steampowered.com/app/3357650/",
       "genres": [
         "アクション",
@@ -207,9 +205,77 @@
       "releaseYear": 2026,
       "shortDescription": "『プラグマタ』はカプコンが贈る完全新作タイトル。 パズルとアクションが融合した、新感覚のSFアクションアドベンチャーです。月で遭難した調査員&quot;ヒュー&quot;と、アンドロイドの少女&quot;ディアナ&quot;。AIに支配された近未来の月面世界を舞台に、二人は互いの力を頼りに地球への帰還を目指します。",
       "reviewSnippet": "まだ6時間しかやってないけど神ゲー！普段競技系fpsばかりやってて、アクションゲームやってみたいと思いステラーブレイド、…",
-      "rawScore": 60.605205829885875,
-      "hensachi": 59.5,
+      "rawScore": 60.60594653780298,
+      "hensachi": 56.6,
       "rank": 9
+    },
+    {
+      "appid": 4928470,
+      "name": "Love in Another World",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4928470/44894e0da2e5a3ea1be7b90196eb4d4d0d6ff65a/header.jpg?t=1789808944",
+      "discountPercent": 40,
+      "initialPriceCents": 65500,
+      "finalPriceCents": 39300,
+      "reviewPositiveRate": 100,
+      "reviewCount": 9,
+      "storeUrl": "https://store.steampowered.com/app/4928470/",
+      "genres": [
+        "カジュアル"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "The themes revolve around love, personal growth, and perilous adventures. The alternate world is called &quot;Alice Continent,&quot; a parallel universe inhabited only by women. Due to the laws of nature, only women are born, and they do not wear clothes (considered their natural state).",
+      "reviewSnippet": "",
+      "rawScore": 56.77358490566038,
+      "hensachi": 55.1,
+      "rank": 10
+    },
+    {
+      "appid": 4108000,
+      "name": "Machine Party",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/00ae7d0e0fd0ad72635bddb1dd80ee68cc94eed5/header.jpg?t=1786561627",
+      "discountPercent": 20,
+      "initialPriceCents": 95000,
+      "finalPriceCents": 76000,
+      "reviewPositiveRate": 86.6,
+      "reviewCount": 5069,
+      "storeUrl": "https://store.steampowered.com/app/4108000/",
+      "genres": [
+        "アクション",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "「マシン・パーティー」は、失敗が死に直結する、危険なパーティーゲーム集です。仲間を集め、命懸けの極限状況に挑み、自分だけが生き残る価値を示しましょう。生還は望めない。",
+      "reviewSnippet": "ローカルカウチモードの実装はありがたいねぇ。 おかげで母とワイワイ盛り上がれました！！",
+      "rawScore": 53.29116211069183,
+      "hensachi": 53.7,
+      "rank": 11
+    },
+    {
+      "appid": 5208380,
+      "name": "Visual Novel: EVENING BROADCAST",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5208380/4a62a8c5e6ea089c3398479689747860250eeef0/header.jpg?t=1789803225",
+      "discountPercent": 30,
+      "initialPriceCents": 13500,
+      "finalPriceCents": 9400,
+      "reviewPositiveRate": 100,
+      "reviewCount": 2,
+      "storeUrl": "https://store.steampowered.com/app/5208380/",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "カジュアル",
+        "インディー",
+        "RPG"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Late evening in 1989. A student receives an old Soviet television with one warning: &quot;Don't watch it in the evening. Anyone watching in the dark remains inside.&quot;",
+      "reviewSnippet": "",
+      "rawScore": 50.30045756497986,
+      "hensachi": 52.4,
+      "rank": 12
     },
     {
       "appid": 3813060,
@@ -233,8 +299,8 @@
       "shortDescription": "A wilderness survival game set in an endless Alaskan night. Keep campfires alive, gather wood, craft torches, survive freezing blizzards and wolves, and search abandoned campsites for the cabin that might save you.",
       "reviewSnippet": "",
       "rawScore": 49.850457564979855,
-      "hensachi": 55.3,
-      "rank": 10
+      "hensachi": 52.3,
+      "rank": 13
     },
     {
       "appid": 4225980,
@@ -243,8 +309,8 @@
       "discountPercent": 10,
       "initialPriceCents": 880000,
       "finalPriceCents": 792000,
-      "reviewPositiveRate": 96.5,
-      "reviewCount": 658,
+      "reviewPositiveRate": 96.6,
+      "reviewCount": 716,
       "storeUrl": "https://store.steampowered.com/app/4225980/",
       "genres": [
         "アクション",
@@ -255,9 +321,9 @@
       "releaseYear": 2026,
       "shortDescription": "『空の軌跡 the 2nd』は、ストーリーRPG『空の軌跡 the 1st』の正当な続編です。前作のエンディングで突如姿を消した少年ヨシュアを探すため、主人公である少女エステルが新たな旅に出る物語が描かれます。",
       "reviewSnippet": "２０万ぐらいで買ったパソコンですが解像度４K平均１２０FPSで快適に遊べてます。 続きものなので空の軌跡the1stを遊…",
-      "rawScore": 48.91230345129815,
-      "hensachi": 55,
-      "rank": 11
+      "rawScore": 49.08554398365207,
+      "hensachi": 52,
+      "rank": 14
     },
     {
       "appid": 2246340,
@@ -266,8 +332,8 @@
       "discountPercent": 25,
       "initialPriceCents": 499000,
       "finalPriceCents": 374200,
-      "reviewPositiveRate": 49.3,
-      "reviewCount": 330745,
+      "reviewPositiveRate": 49.4,
+      "reviewCount": 330775,
       "storeUrl": "https://store.steampowered.com/app/2246340/",
       "genres": [
         "ソウルライク",
@@ -279,9 +345,31 @@
       "releaseYear": 2025,
       "shortDescription": "荒々しく獰猛な自然が、襲い来る。 刻一刻とダイナミックにその姿を変貌させるフィールド。二面性をもつ世界に生きる、モンスターと人々の物語。 進化したハンティングアクションと、途切れることのない没入感を追求した究極の狩猟体験が、あなたを待っている。",
       "reviewSnippet": "クソゲーと言うには面白すぎるが 神ゲーと言うには色んなところが残念過ぎる そんなゲーム",
-      "rawScore": 48.504999999999995,
-      "hensachi": 54.8,
-      "rank": 12
+      "rawScore": 48.54,
+      "hensachi": 51.7,
+      "rank": 15
+    },
+    {
+      "appid": 3845610,
+      "name": "運命に縛られた姫",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3845610/809b6b9339e616bdd2b1df8e934b06db67328827/header_japanese.jpg?t=1789784968",
+      "discountPercent": 20,
+      "initialPriceCents": 132000,
+      "finalPriceCents": 105600,
+      "reviewPositiveRate": 100,
+      "reviewCount": 10,
+      "storeUrl": "https://store.steampowered.com/app/3845610/",
+      "genres": [
+        "RPG",
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "太古の蛇神として、封印されている禁じられた森で目を覚ましたあなたは、迷い込んだミスティネイル姫の脱出を阻止しなければならない。罠を仕掛け、魔物を解き放ち、決定的な瞬間を見極めて進路を妨害せよ。彼女の脱出を阻み、封印を打ち破り、王家への復讐を果たすのだ！",
+      "reviewSnippet": "",
+      "rawScore": 47.9297837175782,
+      "hensachi": 51.5,
+      "rank": 16
     },
     {
       "appid": 5178730,
@@ -302,30 +390,8 @@
       "shortDescription": "Hentai World Costume is a vibrant link-and-match puzzle game where you swipe matching blocks, build massive chain reactions, and master strategic mechanics with engaging visuals and sound.",
       "reviewSnippet": "",
       "rawScore": 47.189049207600966,
-      "hensachi": 54.3,
-      "rank": 13
-    },
-    {
-      "appid": 3845610,
-      "name": "運命に縛られた姫",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3845610/809b6b9339e616bdd2b1df8e934b06db67328827/header_japanese.jpg?t=1789784968",
-      "discountPercent": 20,
-      "initialPriceCents": 132000,
-      "finalPriceCents": 105600,
-      "reviewPositiveRate": 100,
-      "reviewCount": 3,
-      "storeUrl": "https://store.steampowered.com/app/3845610/",
-      "genres": [
-        "RPG",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "太古の蛇神として、封印されている禁じられた森で目を覚ましたあなたは、迷い込んだミスティネイル姫の脱出を阻止しなければならない。罠を仕掛け、魔物を解き放ち、決定的な瞬間を見極めて進路を妨害せよ。彼女の脱出を阻み、封印を打ち破り、王家への復讐を果たすのだ！",
-      "reviewSnippet": "",
-      "rawScore": 46.27192449557722,
-      "hensachi": 54,
-      "rank": 14
+      "hensachi": 51.2,
+      "rank": 17
     },
     {
       "appid": 4947900,
@@ -345,8 +411,8 @@
       "shortDescription": "It’s Yut Nori—but you can throw your pieces, summon a demon god, and even poop your way to victory! A 2–4 player online competitive game featuring 50 unique augments.",
       "reviewSnippet": "",
       "rawScore": 45.135962247788605,
-      "hensachi": 53.5,
-      "rank": 15
+      "hensachi": 50.3,
+      "rank": 18
     },
     {
       "appid": 5165510,
@@ -368,8 +434,30 @@
       "shortDescription": "小惑星を砕いてブラックホールを育て、短いラウンドの合間に強化を選ぼう。コアを育てて報酬を増やし、化学実験で元素を組み合わせて大爆発を起こそう。宇宙を終えると、次の宇宙にも残る超越能力を獲得できる。",
       "reviewSnippet": "",
       "rawScore": 45.135962247788605,
-      "hensachi": 53.5,
-      "rank": 16
+      "hensachi": 50.3,
+      "rank": 19
+    },
+    {
+      "appid": 4816840,
+      "name": "At Face Value",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4816840/845406ea7f03d053318e7a6a3c30f97c8093b428/header.jpg?t=1789821055",
+      "discountPercent": 20,
+      "initialPriceCents": 65500,
+      "finalPriceCents": 52400,
+      "reviewPositiveRate": 100,
+      "reviewCount": 1,
+      "storeUrl": "https://store.steampowered.com/app/4816840/",
+      "genres": [
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Look, it's a deck of cards. Click it. Get Points. Make the number BIG. Stack four suits that all do different jobs, print gold, and feed an upgrade tree that seems endless, until a humble 52-card deck is doing things a deck of cards should not.",
+      "reviewSnippet": "",
+      "rawScore": 45.135962247788605,
+      "hensachi": 50.3,
+      "rank": 20
     },
     {
       "appid": 2402680,
@@ -378,8 +466,8 @@
       "discountPercent": 10,
       "initialPriceCents": 277200,
       "finalPriceCents": 249400,
-      "reviewPositiveRate": 80.5,
-      "reviewCount": 1348,
+      "reviewPositiveRate": 80,
+      "reviewCount": 1398,
       "storeUrl": "https://store.steampowered.com/app/2402680/",
       "genres": [
         "アクション",
@@ -390,33 +478,10 @@
       "supportsJapanese": true,
       "releaseYear": 2026,
       "shortDescription": "手作りのピクセル世界で繰り広げられる1～8人用ファンタジーRPG。8種族・6クラスから英雄を育成せよ。古代の地を探索し、元素戦闘を極め、絆を築き、拠点となる砦を築き上げろ。ディムレイスの運命をかけて――仲間と共に、あるいは独りで戦え。",
-      "reviewSnippet": "装備集めとか好きな人は好きだと思います ステの振り直しできないと書かれているレビューがありますが、ちゃんとステも振り直し…",
-      "rawScore": 44.486365847818504,
-      "hensachi": 53.3,
-      "rank": 17
-    },
-    {
-      "appid": 3305840,
-      "name": "Custodes of Elf Hearts",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3305840/59d0ca25d9e77073acd381f016625d126fe9da6f/header.jpg?t=1789783226",
-      "discountPercent": 10,
-      "initialPriceCents": 105000,
-      "finalPriceCents": 94500,
-      "reviewPositiveRate": 100,
-      "reviewCount": 12,
-      "storeUrl": "https://store.steampowered.com/app/3305840/",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "RPG"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "《Custodes of Elf Hearts》is a lewd bishoujo tower defense game. Place and upgrade turrets, fight alongside charming elf girls, and use powerful skills to repel the black sludge, defeat the slave merchants, and save the World Tree.",
-      "reviewSnippet": "",
-      "rawScore": 43.7035598200258,
-      "hensachi": 52.9,
-      "rank": 18
+      "reviewSnippet": "アクションRPGとして遊ぶなら普通に面白いが某ハクスラゲームを期待して買うと拍子抜けするかも。 気になった点：スキルツリ…",
+      "rawScore": 44.37101024336539,
+      "hensachi": 50,
+      "rank": 21
     },
     {
       "appid": 4532660,
@@ -425,8 +490,8 @@
       "discountPercent": 10,
       "initialPriceCents": 220000,
       "finalPriceCents": 198000,
-      "reviewPositiveRate": 92.3,
-      "reviewCount": 13,
+      "reviewPositiveRate": 95.2,
+      "reviewCount": 21,
       "storeUrl": "https://store.steampowered.com/app/4532660/",
       "genres": [
         "アドベンチャー",
@@ -437,32 +502,32 @@
       "releaseYear": 2026,
       "shortDescription": "魔女を暴け――エッチな検査で正体を暴け、人狼系シミュレーション。国中で相次ぐ謎の神隠し。その正体は――人に化け、夜に獲物を狩る魔女だった。あなたは宿の主人として、冒険者に紛れた魔女を身体検査で暴き出し、宿を守り抜け！",
       "reviewSnippet": "",
-      "rawScore": 41.13001145538958,
-      "hensachi": 51.9,
-      "rank": 19
+      "rawScore": 42.885745965366816,
+      "hensachi": 49.4,
+      "rank": 22
     },
     {
-      "appid": 4815930,
-      "name": "The Door Factory",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4815930/5d211e425cdc59c4dba58719d4f208758dd986db/header.jpg?t=1789761153",
+      "appid": 3305840,
+      "name": "Custodes of Elf Hearts",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3305840/59d0ca25d9e77073acd381f016625d126fe9da6f/header.jpg?t=1789823248",
       "discountPercent": 10,
-      "initialPriceCents": 65500,
-      "finalPriceCents": 58900,
-      "reviewPositiveRate": 48.1,
-      "reviewCount": 27,
-      "storeUrl": "https://store.steampowered.com/app/4815930/",
+      "initialPriceCents": 105000,
+      "finalPriceCents": 94500,
+      "reviewPositiveRate": 95,
+      "reviewCount": 20,
+      "storeUrl": "https://store.steampowered.com/app/3305840/",
       "genres": [
-        "アクション",
+        "カジュアル",
         "インディー",
-        "シミュレーション"
+        "RPG"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "The Door Factory is a first-person horror game where you inspect mysterious doors before they are sent into production. Step inside, observe the environment, spot anomalies, and decide whether each door should be approved or reported.",
+      "shortDescription": "《Custodes of Elf Hearts》is a lewd bishoujo tower defense game. Place and upgrade turrets, fight alongside charming elf girls, and use powerful skills to repel the black sludge, defeat the slave merchants, and save the World Tree.",
       "reviewSnippet": "",
-      "rawScore": 26.795973703178188,
-      "hensachi": 46.4,
-      "rank": 20
+      "rawScore": 42.739506772580825,
+      "hensachi": 49.4,
+      "rank": 23
     },
     {
       "appid": 4772020,
@@ -471,8 +536,8 @@
       "discountPercent": 10,
       "initialPriceCents": 79000,
       "finalPriceCents": 71100,
-      "reviewPositiveRate": 50,
-      "reviewCount": 2,
+      "reviewPositiveRate": 75,
+      "reviewCount": 8,
       "storeUrl": "https://store.steampowered.com/app/4772020/",
       "genres": [
         "カジュアル",
@@ -482,55 +547,9 @@
       "releaseYear": 2026,
       "shortDescription": "Find the Needle. Honor the Goat. Dig through the haystack with an array of tools and machines to find the mythical needle and unlock the ultimate reward.",
       "reviewSnippet": "",
-      "rawScore": 23.800457564979858,
-      "hensachi": 45.2,
-      "rank": 21
-    },
-    {
-      "appid": 5202790,
-      "name": "Night Shift: Anomaly",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5202790/f300d02e9d890b70019428605779fdd5ecc00c73/header.jpg?t=1789766862",
-      "discountPercent": 40,
-      "initialPriceCents": 32900,
-      "finalPriceCents": 19700,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5202790/",
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "カジュアル",
-        "ストラテジー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Survive 15 terrifying nights in a mysterious facility! Monitor cameras, solve puzzling anomalies, and endure the darkness until morning. Uncover the chilling past before the Black Forge Industries massacre. Can you make it out alive?",
-      "reviewSnippet": "",
-      "rawScore": 18,
-      "hensachi": 42.9,
-      "rank": 22
-    },
-    {
-      "appid": 5120290,
-      "name": "Night Alley : ตรอกลวง ดวงดับ",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5120290/73dc5ed07ff250607470280e15ccb240131bd7fd/header.jpg?t=1789758290",
-      "discountPercent": 40,
-      "initialPriceCents": 115000,
-      "finalPriceCents": 69000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5120290/",
-      "genres": [
-        "アドベンチャー",
-        "インディー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Every night in this narrow alley is never the same. Light all 10 candles before something in the dark decides you shouldn't. One mistake... and the flame goes out for good.",
-      "reviewSnippet": "",
-      "rawScore": 18,
-      "hensachi": 42.9,
-      "rank": 23
+      "rawScore": 34.350915129959716,
+      "hensachi": 45.9,
+      "rank": 24
     },
     {
       "appid": 5065720,
@@ -551,8 +570,8 @@
       "shortDescription": "Build your datacenter empire from scratch. Buy hardware, manage contracts, hire staff and outsmart rivals. Face random events, hack the competition and survive the market. Moddable. Multiplayer. No two runs alike.",
       "reviewSnippet": "",
       "rawScore": 11.25,
-      "hensachi": 40.3,
-      "rank": 24
+      "hensachi": 36.5,
+      "rank": 25
     },
     {
       "appid": 5080330,
@@ -573,8 +592,8 @@
       "shortDescription": "Windowsデスクトップをすっきり、自分好みに。デスクトップのファイルを自動で分類し、よく使うアプリやフォルダーをまとめて整理。Dockからアプリを起動し、ウィンドウを切り替えられます。便利なウィジェットやガラステーマ、モニターごとの独立レイアウトを組み合わせ、使い慣れたスタイルに合わせてデスクトップを整えましょう。",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 39.4,
-      "rank": 25
+      "hensachi": 35.6,
+      "rank": 26
     },
     {
       "appid": 5171880,
@@ -596,53 +615,8 @@
       "shortDescription": "あれ？ この雲、まるで……何かに見える！ ランダムに生成された雲は、あなたには何に見えますか？ 出題者は雲の中に段階ごとにヒントを描き、ほかのプレイヤーはできるだけ少ないヒントで正解を当てます。想像力とひらめきで競う、3～10人用オンラインお絵描きクイズゲームです。果たして勝つのは誰でしょう？",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 39.4,
-      "rank": 26
-    },
-    {
-      "appid": 4816840,
-      "name": "At Face Value",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4816840/845406ea7f03d053318e7a6a3c30f97c8093b428/header.jpg?t=1789771312",
-      "discountPercent": 20,
-      "initialPriceCents": 65500,
-      "finalPriceCents": 52400,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4816840/",
-      "genres": [
-        "カジュアル",
-        "インディー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Look, it's a deck of cards. Click it. Get Points. Make the number BIG. Stack four suits that all do different jobs, print gold, and feed an upgrade tree that seems endless, until a humble 52-card deck is doing things a deck of cards should not.",
-      "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 39.4,
+      "hensachi": 35.6,
       "rank": 27
-    },
-    {
-      "appid": 4506940,
-      "name": "Spinnopoly",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4506940/2356a7c3bb9ebafccdb368678f6819a9886d7df3/header.jpg?t=1789762127",
-      "discountPercent": 20,
-      "initialPriceCents": 39500,
-      "finalPriceCents": 31600,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4506940/",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "One reel away from glory. Starting with a 1 in 178 billion chance, some people would have given up by now. Your whole life you have always been a loser, is it gonna be different this time?",
-      "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 39.4,
-      "rank": 28
     },
     {
       "appid": 4219640,
@@ -663,8 +637,8 @@
       "shortDescription": "存在するはずのない刑務所で目覚める、大人向けコメディビジュアルノベル。選択を重ね、関係を形作り、刑期を更生、暴動、そして複数の大人向けエンディングへ導こう。",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 38.5,
-      "rank": 29
+      "hensachi": 34.7,
+      "rank": 28
     },
     {
       "appid": 5084210,
@@ -686,8 +660,8 @@
       "shortDescription": "ムシバを放置して宿主の顔を絶望させましょう！ ムシ社員を育てて歯に配置し、口の中を破壊する放置ゲーム。培養・合成・装備・改造で会社を強化し、次々と現れる新しい宿主を攻略しよう。歯を削るほど顔は苦痛に染まり、最後の一本はペンチでぶっこぬく！ 宿主の絶望した顔を集めませんか？",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 38.5,
-      "rank": 30
+      "hensachi": 34.7,
+      "rank": 29
     },
     {
       "appid": 5102530,
@@ -709,32 +683,13 @@
       "shortDescription": "Save the city or take it. Fight like you mean it - grapples, throws and knockouts. Drift, race, wreck. Own the block. Chase medals at score-attack stations, hunt arcade high scores, and become a legend in a neon pixel city that's different every run.",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 38.5,
-      "rank": 31
-    },
-    {
-      "appid": 1737084,
-      "name": "空の軌跡 the 2nd デジタルデラックス版",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1737084/e57ca0c1142000ee9f3cf8a3b2e7ec79ce4fc489/header_ratio_japanese.jpg?t=1789606554",
-      "discountPercent": 10,
-      "initialPriceCents": 1265000,
-      "finalPriceCents": 1138500,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/1737084/",
-      "genres": [],
-      "supportsJapanese": false,
-      "releaseYear": null,
-      "shortDescription": "",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 37.7,
-      "rank": 32
+      "hensachi": 34.7,
+      "rank": 30
     },
     {
       "appid": 5123190,
       "name": "Unfold Flower",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5123190/4edd02985e22cebd45a7754746c601e47aae6991/header.jpg?t=1789803420",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5123190/4edd02985e22cebd45a7754746c601e47aae6991/header.jpg?t=1789827362",
       "discountPercent": 10,
       "initialPriceCents": 79000,
       "finalPriceCents": 71100,
@@ -751,8 +706,8 @@
       "shortDescription": "フラワーボードを作り、注文された場所へ届けながら、どこまでも付きまとう謎の怪異を追いかけよう。美しい花飾りを作り、暗い物語を辿り、謎の子どもの幽霊に隠された真実を見つけ出せ。",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 37.7,
-      "rank": 33
+      "hensachi": 33.8,
+      "rank": 31
     },
     {
       "appid": 5033660,
@@ -773,29 +728,8 @@
       "shortDescription": "Build, tune, and race your dream car in the ultimate car customization simulator. Experience the thrill of high-speed racing with unlimited modification possibilities.Hundreds of modification parts allow for radical transformations of the vehicle's appearance.",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 37.7,
-      "rank": 34
-    },
-    {
-      "appid": 5158690,
-      "name": "Pillagers: The Poisoned Throne",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5158690/ad3e280b64d594600b0f9aca44f60c780a1a33a6/header.jpg?t=1789761995",
-      "discountPercent": 10,
-      "initialPriceCents": 90500,
-      "finalPriceCents": 81400,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5158690/",
-      "genres": [
-        "ストラテジー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Lead a band of goblin rebels through a brutal turn-based tactics campaign. Train your roster, rebuild your fortress, manage scarce resources, and survive a war where every mistake can leave your army weaker than before.",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 37.7,
-      "rank": 35
+      "hensachi": 33.8,
+      "rank": 32
     }
   ]
 }
