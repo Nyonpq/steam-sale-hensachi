@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-19T19:51:16.084Z",
+  "fetchedAt": "2026-09-20T02:43:32.650Z",
   "currency": "JPY",
-  "count": 28,
-  "averageDiscount": 27.4,
+  "count": 27,
+  "averageDiscount": 28.3,
   "deals": [
     {
       "appid": 1462040,
@@ -12,7 +12,7 @@
       "initialPriceCents": 547800,
       "finalPriceCents": 136900,
       "reviewPositiveRate": 86.7,
-      "reviewCount": 52792,
+      "reviewCount": 52802,
       "storeUrl": "https://store.steampowered.com/app/1462040/",
       "genres": [
         "アクション",
@@ -23,8 +23,8 @@
       "releaseYear": 2022,
       "shortDescription": "バスターソードを背負う元ソルジャー・クラウドが魔晄都市ミッドガルに降り立つ。 最先端技術が駆使されたグラフィック映像、戦略性と直感的アクションが融合するバトル―― 不朽の名作『FINAL FANTASY VII』の世界が「新たな物語」として生まれ変わる。",
       "reviewSnippet": "素晴らしいゲームです。ストーリー、グラフィックス、戦闘、音楽全てに於いてこれまでのRPGの上を行く、非常にレベルの高い内…",
-      "rawScore": 81.91604279923348,
-      "hensachi": 65.6,
+      "rawScore": 81.91635319870059,
+      "hensachi": 65.5,
       "rank": 1
     },
     {
@@ -35,7 +35,7 @@
       "initialPriceCents": 248000,
       "finalPriceCents": 124000,
       "reviewPositiveRate": 97,
-      "reviewCount": 183591,
+      "reviewCount": 183595,
       "storeUrl": "https://store.steampowered.com/app/588650/",
       "genres": [
         "メトロイドヴァニア",
@@ -48,8 +48,8 @@
       "releaseYear": 2018,
       "shortDescription": "『Dead Cells』は、ローグライトとメトロイドヴァニアにインスピレーションを得たアクションプラットフォーマー。プレイヤーは、無秩序に広がり絶えず変化する城を探索することになる…むろん2Dのソウルライクな戦闘で戦って、番人を通過することができたらの話だが。チェックポイントなし。殺して、死んで、学ぶ。その繰り返しだ",
       "reviewSnippet": "見た目の綺麗さとアクションの爽快感が売り 一周一時間くらいかかるのに死んだら最初からやり直しなのはプレイ時間の水増しが過…",
-      "rawScore": 76.31359906772113,
-      "hensachi": 63.3,
+      "rawScore": 76.31363477361786,
+      "hensachi": 62.9,
       "rank": 2
     },
     {
@@ -60,7 +60,7 @@
       "initialPriceCents": 657800,
       "finalPriceCents": 197300,
       "reviewPositiveRate": 74.8,
-      "reviewCount": 35580,
+      "reviewCount": 35591,
       "storeUrl": "https://store.steampowered.com/app/2909400/",
       "genres": [
         "アクション",
@@ -71,8 +71,8 @@
       "releaseYear": 2025,
       "shortDescription": "魔晄都市ミッドガルを脱出したクラウドたちは広大な世界に旅立つ。 新たに語られるストーリー、広大な世界での自由な冒険、仲間との絆が深まるバトル―― 『FINAL FANTASY VII REMAKE』から、さらに進化したゲーム体験が再誕する。",
       "reviewSnippet": "",
-      "rawScore": 74.85440811213947,
-      "hensachi": 62.7,
+      "rawScore": 74.85491468958486,
+      "hensachi": 62.2,
       "rank": 3
     },
     {
@@ -93,31 +93,8 @@
       "shortDescription": "『ロマンシング サガ2』のフルリメイク！グラフィックは3D化、ゲームシステムは現代風にアレンジ、BGMアレンジ、ボイス対応。プレイヤーは歴代皇帝として、七英雄との数千年にわたる戦いに挑みます。",
       "reviewSnippet": "スクエニは過去の名作をリメイクする時は全部ここにやらせろ",
       "rawScore": 73.53997639130486,
-      "hensachi": 62.2,
+      "hensachi": 61.6,
       "rank": 4
-    },
-    {
-      "appid": 3240220,
-      "name": "グランド・セフト・オートV エンハンスト",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header_japanese.jpg?t=1781187782",
-      "discountPercent": 50,
-      "initialPriceCents": 438000,
-      "finalPriceCents": 219000,
-      "reviewPositiveRate": 83,
-      "reviewCount": 225421,
-      "storeUrl": "https://store.steampowered.com/app/3240220/",
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "レース"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2025,
-      "shortDescription": "大ヒットの『グランド・セフト・オートV』と「GTAオンライン」を体験しよう - 新世代用に美麗なグラフィック、短縮されたロード時間、3Dオーディオなどのアップグレード。さらに、「GTAオンライン」プレイヤー用の限定コンテンツなど。",
-      "reviewSnippet": "いまから買おうとしてる人は絶対に今は買わないで秋まで待て！ GTA6が出るから今から買って始めたら一瞬で人口減って面白く…",
-      "rawScore": 71.55,
-      "hensachi": 61.3,
-      "rank": 5
     },
     {
       "appid": 3375780,
@@ -127,7 +104,7 @@
       "initialPriceCents": 880000,
       "finalPriceCents": 440000,
       "reviewPositiveRate": 95.3,
-      "reviewCount": 4992,
+      "reviewCount": 4995,
       "storeUrl": "https://store.steampowered.com/app/3375780/",
       "genres": [
         "アクション",
@@ -138,9 +115,55 @@
       "releaseYear": 2025,
       "shortDescription": "2024年に生誕20周年を迎えたストーリーRPG「軌跡」シリーズ。その記念すべき第１作、『英雄伝説 空の軌跡FC（ファーストチャプター）』を完全フルリメイク！",
       "reviewSnippet": "このゲームが20年前のリメイク作品なのか・・・ 20年前にオリジナルと出会いたかった",
-      "rawScore": 69.81108138134003,
-      "hensachi": 60.6,
+      "rawScore": 69.81206577246074,
+      "hensachi": 59.9,
+      "rank": 5
+    },
+    {
+      "appid": 1086940,
+      "name": "Baldur's Gate 3",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
+      "discountPercent": 30,
+      "initialPriceCents": 849900,
+      "finalPriceCents": 594900,
+      "reviewPositiveRate": 96.8,
+      "reviewCount": 858263,
+      "storeUrl": "https://store.steampowered.com/app/1086940/",
+      "genres": [
+        "アドベンチャー",
+        "RPG",
+        "ストラテジー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2023,
+      "shortDescription": "Baldur’s Gate 3 is a story-rich, party-based RPG set in the universe of Dungeons &amp; Dragons, where your choices shape a tale of fellowship and betrayal, survival and sacrifice, and the lure of absolute power.",
+      "reviewSnippet": "日本人にはとっつきにくいかもしれませんが、ハマるとおもしろいです。 ただ、登場人物が全員バイセクシャルなのは、マジでセン…",
+      "rawScore": 67.38,
+      "hensachi": 58.8,
       "rank": 6
+    },
+    {
+      "appid": 3407390,
+      "name": "ENDLESS Legend™ 2 エンドレス・レジェンド 2",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3407390/2531be60548fd70c7133d5a3ad7fdd5b2b5fb0fe/header_japanese.jpg?t=1789669890",
+      "discountPercent": 50,
+      "initialPriceCents": 498000,
+      "finalPriceCents": 249000,
+      "reviewPositiveRate": 83.9,
+      "reviewCount": 3269,
+      "storeUrl": "https://store.steampowered.com/app/3407390/",
+      "genres": [
+        "RPG",
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "多様な勢力を統率し、強力なヒーローたちと共に戦うストラテジーゲーム。民を導き、変わり続ける世界で勝利を収めよ。帝国を築き、政略を巡らせて影響力を拡大し、壮大な軍を編成して戦いに挑め。果たしてあなたは、誰よりもいち早く惑星に眠る闇の秘密を暴けるのか。",
+      "reviewSnippet": "Really good",
+      "rawScore": 65.12744434966146,
+      "hensachi": 57.7,
+      "rank": 7
     },
     {
       "appid": 294100,
@@ -150,7 +173,7 @@
       "initialPriceCents": 390000,
       "finalPriceCents": 312000,
       "reviewPositiveRate": 97.8,
-      "reviewCount": 246517,
+      "reviewCount": 246541,
       "storeUrl": "https://store.steampowered.com/app/294100/",
       "genres": [
         "サバイバル",
@@ -163,8 +186,8 @@
       "shortDescription": "知性のあるAIストーリーテラーによって織りなされるSFコロニーシミュレーションゲームです。人の性格、自然環境、銃撃戦、近接戦、気候、バイオーム、外交、対人関係、芸術、医学、貿易などをシミュレートし、ストーリーを生成します。",
       "reviewSnippet": "ほんとに楽しいです！ もはや人生の一部？てくらい長くプレイしてきましたｗ 面白そうなＭＯＤを発見すれば、また新しいRim…",
       "rawScore": 63.23,
-      "hensachi": 57.9,
-      "rank": 7
+      "hensachi": 56.9,
+      "rank": 8
     },
     {
       "appid": 3357650,
@@ -174,7 +197,7 @@
       "initialPriceCents": 799000,
       "finalPriceCents": 639200,
       "reviewPositiveRate": 96.5,
-      "reviewCount": 53136,
+      "reviewCount": 53153,
       "storeUrl": "https://store.steampowered.com/app/3357650/",
       "genres": [
         "アクション",
@@ -183,10 +206,32 @@
       "supportsJapanese": true,
       "releaseYear": 2026,
       "shortDescription": "『プラグマタ』はカプコンが贈る完全新作タイトル。 パズルとアクションが融合した、新感覚のSFアクションアドベンチャーです。月で遭難した調査員&quot;ヒュー&quot;と、アンドロイドの少女&quot;ディアナ&quot;。AIに支配された近未来の月面世界を舞台に、二人は互いの力を頼りに地球への帰還を目指します。",
-      "reviewSnippet": "まだ6時間しかやってないけど神ゲー！普段競技系fpsばかりやってて、アクションゲームやってみたいと思いステラーブレイド、…",
-      "rawScore": 60.60668691109437,
-      "hensachi": 56.9,
-      "rank": 8
+      "reviewSnippet": "■良い点 戦いながらハッキングパズルをする、ひと手間変わった戦闘。高クオリティなビジュアルでSF空間を楽しめる。 ■悪い…",
+      "rawScore": 60.6072111398807,
+      "hensachi": 55.7,
+      "rank": 9
+    },
+    {
+      "appid": 2499860,
+      "name": "ドラゴンクエストVII Reimagined",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499860/62319fe1293d94155ad7455cbbfdef6317f7b6d0/header_japanese.jpg?t=1785474787",
+      "discountPercent": 35,
+      "initialPriceCents": 877800,
+      "finalPriceCents": 570500,
+      "reviewPositiveRate": 88.9,
+      "reviewCount": 2910,
+      "storeUrl": "https://store.steampowered.com/app/2499860/",
+      "genres": [
+        "アドベンチャー",
+        "RPG"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "「海のむこうには　もっと広い世界がある　……オレたちが　証明するんだ！」 はじまりは孤島に住む少年少女たちの小さな好奇心。海を越え、時を超える大冒険が今、始まる。 原作の魅力はそのままに、遊びやすく&quot;Reimagined（再構築）&quot;。ドールルックに生まれ変わった仲間たちと、壮大な冒険へ出発しよう！",
+      "reviewSnippet": "面白かった。 が、人は選ぶと思う。 7のオリジナルプレイ済みなら懐古厨じゃないけど、昔を思い出しながら楽しめると思う 7…",
+      "rawScore": 59.93685737901438,
+      "hensachi": 55.4,
+      "rank": 10
     },
     {
       "appid": 4928470,
@@ -206,18 +251,18 @@
       "shortDescription": "The themes revolve around love, personal growth, and perilous adventures. The alternate world is called &quot;Alice Continent,&quot; a parallel universe inhabited only by women. Due to the laws of nature, only women are born, and they do not wear clothes (considered their natural state).",
       "reviewSnippet": "",
       "rawScore": 56.9297837175782,
-      "hensachi": 55.4,
-      "rank": 9
+      "hensachi": 54,
+      "rank": 11
     },
     {
       "appid": 4657600,
       "name": "ONLY FARMS 🍑",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4657600/241c676ba5dc2248a3028114bf25cddb159475f1/header.jpg?t=1789825648",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4657600/241c676ba5dc2248a3028114bf25cddb159475f1/header.jpg?t=1789853332",
       "discountPercent": 37,
       "initialPriceCents": 230000,
       "finalPriceCents": 144900,
-      "reviewPositiveRate": 96.4,
-      "reviewCount": 28,
+      "reviewPositiveRate": 91.9,
+      "reviewCount": 37,
       "storeUrl": "https://store.steampowered.com/app/4657600/",
       "genres": [
         "アドベンチャー",
@@ -228,31 +273,9 @@
       "releaseYear": 2026,
       "shortDescription": "ONLY FARMS 🍑は、ライバル心、誘惑、秘密が交錯する大人向けビジュアルノベル。家名を取り戻し、祭りの挑戦に挑み、隠された欲望を暴き、夏を変える選択をしよう。勝ち取るのは、あなたの農場だ。",
       "reviewSnippet": "",
-      "rawScore": 55.908483010939456,
-      "hensachi": 54.9,
-      "rank": 10
-    },
-    {
-      "appid": 4108000,
-      "name": "Machine Party",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/00ae7d0e0fd0ad72635bddb1dd80ee68cc94eed5/header.jpg?t=1786561627",
-      "discountPercent": 20,
-      "initialPriceCents": 95000,
-      "finalPriceCents": 76000,
-      "reviewPositiveRate": 86.6,
-      "reviewCount": 5078,
-      "storeUrl": "https://store.steampowered.com/app/4108000/",
-      "genres": [
-        "アクション",
-        "インディー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "「マシン・パーティー」は、失敗が死に直結する、危険なパーティーゲーム集です。仲間を集め、命懸けの極限状況に挑み、自分だけが生き残る価値を示しましょう。生還は望めない。",
-      "reviewSnippet": "ローカルカウチモードの実装はありがたいねぇ。 おかげで母とワイワイ盛り上がれました！！",
-      "rawScore": 53.29406872765508,
-      "hensachi": 53.9,
-      "rank": 11
+      "rawScore": 54.776447534403054,
+      "hensachi": 53,
+      "rank": 12
     },
     {
       "appid": 5208380,
@@ -262,7 +285,7 @@
       "initialPriceCents": 13500,
       "finalPriceCents": 9400,
       "reviewPositiveRate": 100,
-      "reviewCount": 9,
+      "reviewCount": 10,
       "storeUrl": "https://store.steampowered.com/app/5208380/",
       "genres": [
         "アクション",
@@ -275,9 +298,9 @@
       "releaseYear": 2026,
       "shortDescription": "Late evening in 1989. A student receives an old Soviet television with one warning: &quot;Don't watch it in the evening. Anyone watching in the dark remains inside.&quot;",
       "reviewSnippet": "",
-      "rawScore": 52.27358490566038,
-      "hensachi": 53.5,
-      "rank": 12
+      "rawScore": 52.4297837175782,
+      "hensachi": 51.9,
+      "rank": 13
     },
     {
       "appid": 4225980,
@@ -286,8 +309,8 @@
       "discountPercent": 10,
       "initialPriceCents": 880000,
       "finalPriceCents": 792000,
-      "reviewPositiveRate": 96.8,
-      "reviewCount": 749,
+      "reviewPositiveRate": 96.5,
+      "reviewCount": 777,
       "storeUrl": "https://store.steampowered.com/app/4225980/",
       "genres": [
         "アクション",
@@ -298,9 +321,9 @@
       "releaseYear": 2026,
       "shortDescription": "『空の軌跡 the 2nd』は、ストーリーRPG『空の軌跡 the 1st』の正当な続編です。前作のエンディングで突如姿を消した少年ヨシュアを探すため、主人公である少女エステルが新たな旅に出る物語が描かれます。",
       "reviewSnippet": "２０万ぐらいで買ったパソコンですが解像度４K平均１２０FPSで快適に遊べてます。 続きものなので空の軌跡the1stを遊…",
-      "rawScore": 49.22928778638377,
-      "hensachi": 52.2,
-      "rank": 13
+      "rawScore": 49.18435696977241,
+      "hensachi": 50.4,
+      "rank": 14
     },
     {
       "appid": 2246340,
@@ -310,7 +333,7 @@
       "initialPriceCents": 499000,
       "finalPriceCents": 374200,
       "reviewPositiveRate": 49.4,
-      "reviewCount": 330826,
+      "reviewCount": 330852,
       "storeUrl": "https://store.steampowered.com/app/2246340/",
       "genres": [
         "ソウルライク",
@@ -323,28 +346,7 @@
       "shortDescription": "荒々しく獰猛な自然が、襲い来る。 刻一刻とダイナミックにその姿を変貌させるフィールド。二面性をもつ世界に生きる、モンスターと人々の物語。 進化したハンティングアクションと、途切れることのない没入感を追求した究極の狩猟体験が、あなたを待っている。",
       "reviewSnippet": "クソゲーと言うには面白すぎるが 神ゲーと言うには色んなところが残念過ぎる そんなゲーム",
       "rawScore": 48.54,
-      "hensachi": 51.9,
-      "rank": 14
-    },
-    {
-      "appid": 4947900,
-      "name": "Augmented Yut",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4947900/2d8363900ed4272b3b754df76f953b30c3942ff8/header.jpg?t=1789799351",
-      "discountPercent": 20,
-      "initialPriceCents": 26500,
-      "finalPriceCents": 21200,
-      "reviewPositiveRate": 100,
-      "reviewCount": 2,
-      "storeUrl": "https://store.steampowered.com/app/4947900/",
-      "genres": [
-        "カジュアル"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "It’s Yut Nori—but you can throw your pieces, summon a demon god, and even poop your way to victory! A 2–4 player online competitive game featuring 50 unique augments.",
-      "reviewSnippet": "",
-      "rawScore": 45.80045756497986,
-      "hensachi": 50.8,
+      "hensachi": 50.1,
       "rank": 15
     },
     {
@@ -355,7 +357,7 @@
       "initialPriceCents": 78500,
       "finalPriceCents": 62800,
       "reviewPositiveRate": 100,
-      "reviewCount": 1,
+      "reviewCount": 6,
       "storeUrl": "https://store.steampowered.com/app/4652040/",
       "genres": [
         "インディー",
@@ -365,32 +367,29 @@
       "releaseYear": 2026,
       "shortDescription": "ヴァディムは老朽化したポストソビエト時代のアパートの管理人で、病気の母親の世話をするために街を離れ、妻に自分の仕事を任せる。やがて彼女がその日常に慣れていくにつれ、建物にはどこかおかしな気配が漂い始める 静けさが、どこか間違っている。",
       "reviewSnippet": "",
-      "rawScore": 45.135962247788605,
-      "hensachi": 50.5,
+      "rawScore": 47.189049207600966,
+      "hensachi": 49.5,
       "rank": 16
     },
     {
-      "appid": 2402680,
-      "name": "ディムレイス",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402680/8fe3923c10dfda28e5a41c5a501aedc4909966a7/header.jpg?t=1789631916",
+      "appid": 2874490,
+      "name": "Rusted Awakening",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2874490/header.jpg?t=1789837890",
       "discountPercent": 10,
-      "initialPriceCents": 277200,
-      "finalPriceCents": 249400,
-      "reviewPositiveRate": 79.5,
-      "reviewCount": 1458,
-      "storeUrl": "https://store.steampowered.com/app/2402680/",
+      "initialPriceCents": 90500,
+      "finalPriceCents": 81400,
+      "reviewPositiveRate": 100,
+      "reviewCount": 4,
+      "storeUrl": "https://store.steampowered.com/app/2874490/",
       "genres": [
-        "アクション",
-        "アドベンチャー",
-        "RPG",
-        "早期アクセス"
+        "アクション"
       ],
-      "supportsJapanese": true,
+      "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "手作りのピクセル世界で繰り広げられる1～8人用ファンタジーRPG。8種族・6クラスから英雄を育成せよ。古代の地を探索し、元素戦闘を極め、絆を築き、拠点となる砦を築き上げろ。ディムレイスの運命をかけて――仲間と共に、あるいは独りで戦え。",
-      "reviewSnippet": "アクションRPGとして遊ぶなら普通に面白いが某ハクスラゲームを期待して買うと拍子抜けするかも。 気になった点：スキルツリ…",
-      "rawScore": 44.26483129016397,
-      "hensachi": 50.2,
+      "shortDescription": "Rusted Awakening is a one hour nightmare with brutal first person combat, set inside an underground facility where humanity is kept asleep and harvested by those who remain awake. Find a way out.",
+      "reviewSnippet": "",
+      "rawScore": 42.137622657871766,
+      "hensachi": 47.2,
       "rank": 17
     },
     {
@@ -413,7 +412,7 @@
       "shortDescription": "フラワーボードを作り、注文された場所へ届けながら、どこまでも付きまとう謎の怪異を追いかけよう。美しい花飾りを作り、暗い物語を辿り、謎の子どもの幽霊に隠された真実を見つけ出せ。",
       "reviewSnippet": "",
       "rawScore": 42.137622657871766,
-      "hensachi": 49.3,
+      "hensachi": 47.2,
       "rank": 18
     },
     {
@@ -436,31 +435,8 @@
       "shortDescription": "Survive and escape from the scientific research complex in the Siberian forests and uncover the secrets of the corporation that built this complex.",
       "reviewSnippet": "",
       "rawScore": 41.77192449557722,
-      "hensachi": 49.2,
+      "hensachi": 47,
       "rank": 19
-    },
-    {
-      "appid": 4532660,
-      "name": "この宿に魔女を泊めるな",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4532660/a34d0e2cb4e32db9fa74263fd19d6a687a8dcbf0/header_japanese.jpg?t=1789786799",
-      "discountPercent": 10,
-      "initialPriceCents": 220000,
-      "finalPriceCents": 198000,
-      "reviewPositiveRate": 91.7,
-      "reviewCount": 24,
-      "storeUrl": "https://store.steampowered.com/app/4532660/",
-      "genres": [
-        "アドベンチャー",
-        "インディー",
-        "RPG"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "魔女を暴け――エッチな検査で正体を暴け、人狼系シミュレーション。国中で相次ぐ謎の神隠し。その正体は――人に化け、夜に獲物を狩る魔女だった。あなたは宿の主人として、冒険者に紛れた魔女を身体検査で暴き出し、宿を守り抜け！",
-      "reviewSnippet": "",
-      "rawScore": 41.87024531574354,
-      "hensachi": 49.2,
-      "rank": 20
     },
     {
       "appid": 4972300,
@@ -469,8 +445,8 @@
       "discountPercent": 20,
       "initialPriceCents": 80800,
       "finalPriceCents": 64600,
-      "reviewPositiveRate": 50,
-      "reviewCount": 2,
+      "reviewPositiveRate": 83.3,
+      "reviewCount": 6,
       "storeUrl": "https://store.steampowered.com/app/4972300/",
       "genres": [
         "カジュアル",
@@ -481,98 +457,120 @@
       "releaseYear": 2026,
       "shortDescription": "Screw It is a cozy, realistic organizing simulator where you sort 777 nails + 1 screw and tidy up your workbench. Use different tools to fix and organize various types of nails. No abilities No pressure, just fix, sort, stock and enjoy the satisfaction of stocking nails in a relaxing environment.",
       "reviewSnippet": "",
-      "rawScore": 28.300457564979858,
-      "hensachi": 43.7,
-      "rank": 21
+      "rawScore": 41.34404920760097,
+      "hensachi": 46.8,
+      "rank": 20
     },
     {
-      "appid": 5065720,
-      "name": "Server-Admin Simulator",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5065720/2c4581e0e68c15073ce6311efd0387805f384822/header.jpg?t=1789797314",
-      "discountPercent": 25,
-      "initialPriceCents": 135000,
-      "finalPriceCents": 101200,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5065720/",
+      "appid": 5109050,
+      "name": "AstroTennis",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5109050/b6007bd018ca667f6adc3f58c6fb8ac272a2640f/header.jpg?t=1789836316",
+      "discountPercent": 10,
+      "initialPriceCents": 13500,
+      "finalPriceCents": 12100,
+      "reviewPositiveRate": 100,
+      "reviewCount": 1,
+      "storeUrl": "https://store.steampowered.com/app/5109050/",
       "genres": [
-        "シミュレーション",
-        "ストラテジー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Build your datacenter empire from scratch. Buy hardware, manage contracts, hire staff and outsmart rivals. Face random events, hack the competition and survive the market. Moddable. Multiplayer. No two runs alike.",
-      "reviewSnippet": "",
-      "rawScore": 11.25,
-      "hensachi": 36.7,
-      "rank": 22
-    },
-    {
-      "appid": 5022380,
-      "name": "Foosball2D",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5022380/286be3b296e3238615d6e0597be5099c601ceae1/header.jpg?t=1789840663",
-      "discountPercent": 20,
-      "initialPriceCents": 39500,
-      "finalPriceCents": 31600,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5022380/",
-      "genres": [
-        "アクション",
         "カジュアル",
-        "インディー",
         "スポーツ"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "Fast-paced arcade table football game. Control your team, score goals, and compete in dynamic matches. Easy to learn, hard to master, with customizable controls and intense gameplay perfect for quick sessions or competitive play. Foosball2D Soccer captures the essence of classic table football.",
+      "shortDescription": "Choose your suit and play against the most famous astronauts. Beat all of them to win the tournament or play with a friend in local multiplayer.",
       "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 35.8,
-      "rank": 23
+      "rawScore": 40.635962247788605,
+      "hensachi": 46.5,
+      "rank": 21
     },
     {
-      "appid": 5080330,
-      "name": "SnowDesktop",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5080330/c1c0bb0e661d0d014c8f4636c93eea597ed3963f/header.jpg?t=1789790063",
-      "discountPercent": 20,
-      "initialPriceCents": 90500,
-      "finalPriceCents": 72400,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5080330/",
-      "genres": [
-        "インディー",
-        "ユーティリティ"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "Windowsデスクトップをすっきり、自分好みに。デスクトップのファイルを自動で分類し、よく使うアプリやフォルダーをまとめて整理。Dockからアプリを起動し、ウィンドウを切り替えられます。便利なウィジェットやガラステーマ、モニターごとの独立レイアウトを組み合わせ、使い慣れたスタイルに合わせてデスクトップを整えましょう。",
-      "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 35.8,
-      "rank": 24
-    },
-    {
-      "appid": 4219640,
-      "name": "Horny Jail",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4219640/e18b9787b9ef41417c7498ad34f88280e763fbc2/header.jpg?t=1789790353",
-      "discountPercent": 15,
-      "initialPriceCents": 160000,
-      "finalPriceCents": 136000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4219640/",
+      "appid": 3759520,
+      "name": "Fluttering",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3759520/6a0f50445a9af82ef98656795158a16e352cf12d/header.jpg?t=1789831207",
+      "discountPercent": 10,
+      "initialPriceCents": 65500,
+      "finalPriceCents": 58900,
+      "reviewPositiveRate": 100,
+      "reviewCount": 1,
+      "storeUrl": "https://store.steampowered.com/app/3759520/",
       "genres": [
         "アドベンチャー",
-        "カジュアル"
+        "インディー"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "存在するはずのない刑務所で目覚める、大人向けコメディビジュアルノベル。選択を重ね、関係を形作り、刑期を更生、暴動、そして複数の大人向けエンディングへ導こう。",
+      "shortDescription": "Pushed from his nest for being born prematurely, Pip must prove Mother Nature wrong. Fluttering is a punishing precision platformer where determination is key. Master a unique momentum-based flutter mechanic, survive brutal falls, and climb back to the nest. Flutter. Fall. Rage. Repeat.",
       "reviewSnippet": "",
-      "rawScore": 6.75,
-      "hensachi": 34.8,
+      "rawScore": 40.635962247788605,
+      "hensachi": 46.5,
+      "rank": 22
+    },
+    {
+      "appid": 2524740,
+      "name": "Day Off Simulator",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2524740/header.jpg?t=1789835876",
+      "discountPercent": 16,
+      "initialPriceCents": 13500,
+      "finalPriceCents": 11400,
+      "reviewPositiveRate": 50,
+      "reviewCount": 2,
+      "storeUrl": "https://store.steampowered.com/app/2524740/",
+      "genres": [
+        "インディー",
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "「休日シミュレーター」でリラックスし、楽しんでください！上司にひっぱたき、インタラクティブな楽器でくつろぎ、さまざまなレジャー活動を楽しんでください。興奮、リラックス、創造性が絶妙に融合したユニークな体験があなたを待っています！",
+      "reviewSnippet": "",
+      "rawScore": 26.500457564979857,
+      "hensachi": 40,
+      "rank": 23
+    },
+    {
+      "appid": 5139650,
+      "name": "Meridian Strike",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5139650/c102263d19eaf7ae2fdad228dc0937776026b17a/header.jpg?t=1789857417",
+      "discountPercent": 25,
+      "initialPriceCents": 79000,
+      "finalPriceCents": 59200,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5139650/",
+      "genres": [
+        "アドベンチャー",
+        "インディー",
+        "ストラテジー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Command a mercenary mech company in a turn-based tactical RPG. Plan every move on a hex battlefield, manage heat and localized damage, develop veteran pilots, repair battered machines, and carry the consequences of each mission into the next.",
+      "reviewSnippet": "",
+      "rawScore": 11.25,
+      "hensachi": 33,
+      "rank": 24
+    },
+    {
+      "appid": 776250,
+      "name": "Somebody's Tale",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/776250/b336b7ef87500321974f227defa2ecf40aeb450c/header.jpg?t=1789824034",
+      "discountPercent": 12,
+      "initialPriceCents": 41000,
+      "finalPriceCents": 36000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/776250/",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "インディー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "スイスで開発された2Dドット絵平台アクションゲームです。どの言語でも遊べます！ 英語が必要なのは2つの短いシーンのみ。弓を手に取り、敵を射抜き、失われた最愛の人を求めてメランコリックな世界を旅しましょう。",
+      "reviewSnippet": "",
+      "rawScore": 5.4,
+      "hensachi": 30.3,
       "rank": 25
     },
     {
@@ -591,30 +589,8 @@
       "shortDescription": "",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 33.9,
+      "hensachi": 29.9,
       "rank": 26
-    },
-    {
-      "appid": 3759520,
-      "name": "Fluttering",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3759520/6a0f50445a9af82ef98656795158a16e352cf12d/header.jpg?t=1789831207",
-      "discountPercent": 10,
-      "initialPriceCents": 65500,
-      "finalPriceCents": 58900,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/3759520/",
-      "genres": [
-        "アドベンチャー",
-        "インディー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Pushed from his nest for being born prematurely, Pip must prove Mother Nature wrong. Fluttering is a punishing precision platformer where determination is key. Master a unique momentum-based flutter mechanic, survive brutal falls, and climb back to the nest. Flutter. Fall. Rage. Repeat.",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 33.9,
-      "rank": 27
     },
     {
       "appid": 5033660,
@@ -635,8 +611,8 @@
       "shortDescription": "Build, tune, and race your dream car in the ultimate car customization simulator. Experience the thrill of high-speed racing with unlimited modification possibilities.Hundreds of modification parts allow for radical transformations of the vehicle's appearance.",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 33.9,
-      "rank": 28
+      "hensachi": 29.9,
+      "rank": 27
     }
   ]
 }
