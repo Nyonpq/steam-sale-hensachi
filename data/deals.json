@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-21T02:40:37.304Z",
+  "fetchedAt": "2026-09-21T11:38:07.970Z",
   "currency": "JPY",
-  "count": 26,
-  "averageDiscount": 29.2,
+  "count": 34,
+  "averageDiscount": 27.6,
   "deals": [
     {
       "appid": 1462040,
@@ -12,7 +12,7 @@
       "initialPriceCents": 547800,
       "finalPriceCents": 136900,
       "reviewPositiveRate": 86.7,
-      "reviewCount": 52867,
+      "reviewCount": 52887,
       "storeUrl": "https://store.steampowered.com/app/1462040/",
       "genres": [
         "アクション",
@@ -23,32 +23,9 @@
       "releaseYear": 2022,
       "shortDescription": "バスターソードを背負う元ソルジャー・クラウドが魔晄都市ミッドガルに降り立つ。 最先端技術が駆使されたグラフィック映像、戦略性と直感的アクションが融合するバトル―― 不朽の名作『FINAL FANTASY VII』の世界が「新たな物語」として生まれ変わる。",
       "reviewSnippet": "素晴らしいゲームです。ストーリー、グラフィックス、戦闘、音楽全てに於いてこれまでのRPGの上を行く、非常にレベルの高い内…",
-      "rawScore": 81.91836936349574,
-      "hensachi": 64.2,
+      "rawScore": 81.91898922321852,
+      "hensachi": 66.4,
       "rank": 1
-    },
-    {
-      "appid": 275850,
-      "name": "No Man's Sky",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/2c6e38b43a5309dfcd3cc0f0134e222b0fa2d1b1/header_alt_assets_25.jpg?t=1789479023",
-      "discountPercent": 60,
-      "initialPriceCents": 650000,
-      "finalPriceCents": 260000,
-      "reviewPositiveRate": 85.2,
-      "reviewCount": 419665,
-      "storeUrl": "https://store.steampowered.com/app/275850/",
-      "genres": [
-        "サバイバル",
-        "アクション",
-        "アドベンチャー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2016,
-      "shortDescription": "『No Man's Sky』は自動生成される無限の宇宙を舞台とする、探索と生存をテーマとしたSFゲームです。",
-      "reviewSnippet": "",
-      "rawScore": 76.82,
-      "hensachi": 62.3,
-      "rank": 2
     },
     {
       "appid": 588650,
@@ -58,7 +35,7 @@
       "initialPriceCents": 248000,
       "finalPriceCents": 124000,
       "reviewPositiveRate": 97,
-      "reviewCount": 183626,
+      "reviewCount": 183638,
       "storeUrl": "https://store.steampowered.com/app/588650/",
       "genres": [
         "メトロイドヴァニア",
@@ -71,9 +48,9 @@
       "releaseYear": 2018,
       "shortDescription": "『Dead Cells』は、ローグライトとメトロイドヴァニアにインスピレーションを得たアクションプラットフォーマー。プレイヤーは、無秩序に広がり絶えず変化する城を探索することになる…むろん2Dのソウルライクな戦闘で戦って、番人を通過することができたらの話だが。チェックポイントなし。殺して、死んで、学ぶ。その繰り返しだ",
       "reviewSnippet": "ローグライクメトロイドヴァニアの名作。 難易度は高めではあるものの、軽快かつ気持ちのいいプレイフィールで、時間を忘れて遊…",
-      "rawScore": 76.31391146794402,
-      "hensachi": 62.1,
-      "rank": 3
+      "rawScore": 76.31401856288461,
+      "hensachi": 64.3,
+      "rank": 2
     },
     {
       "appid": 2909400,
@@ -83,7 +60,7 @@
       "initialPriceCents": 657800,
       "finalPriceCents": 197300,
       "reviewPositiveRate": 74.8,
-      "reviewCount": 35657,
+      "reviewCount": 35672,
       "storeUrl": "https://store.steampowered.com/app/2909400/",
       "genres": [
         "アクション",
@@ -94,9 +71,9 @@
       "releaseYear": 2025,
       "shortDescription": "魔晄都市ミッドガルを脱出したクラウドたちは広大な世界に旅立つ。 新たに語られるストーリー、広大な世界での自由な冒険、仲間との絆が深まるバトル―― 『FINAL FANTASY VII REMAKE』から、さらに進化したゲーム体験が再誕する。",
       "reviewSnippet": "",
-      "rawScore": 74.85795087034661,
-      "hensachi": 61.6,
-      "rank": 4
+      "rawScore": 74.8586401276649,
+      "hensachi": 63.8,
+      "rank": 3
     },
     {
       "appid": 2455640,
@@ -106,7 +83,7 @@
       "initialPriceCents": 682000,
       "finalPriceCents": 272800,
       "reviewPositiveRate": 93.3,
-      "reviewCount": 4784,
+      "reviewCount": 4786,
       "storeUrl": "https://store.steampowered.com/app/2455640/",
       "genres": [
         "RPG"
@@ -115,8 +92,30 @@
       "releaseYear": 2024,
       "shortDescription": "『ロマンシング サガ2』のフルリメイク！グラフィックは3D化、ゲームシステムは現代風にアレンジ、BGMアレンジ、ボイス対応。プレイヤーは歴代皇帝として、七英雄との数千年にわたる戦いに挑みます。",
       "reviewSnippet": "スクエニは過去の名作をリメイクする時は全部ここにやらせろ",
-      "rawScore": 73.54134695136929,
-      "hensachi": 61.1,
+      "rawScore": 73.54203180181867,
+      "hensachi": 63.3,
+      "rank": 4
+    },
+    {
+      "appid": 2175540,
+      "name": "ドラゴンクエストモンスターズ３　魔族の王子とエルフの旅",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2175540/header_japanese.jpg?t=1775105751",
+      "discountPercent": 80,
+      "initialPriceCents": 498000,
+      "finalPriceCents": 99600,
+      "reviewPositiveRate": 73,
+      "reviewCount": 1355,
+      "storeUrl": "https://store.steampowered.com/app/2175540/",
+      "genres": [
+        "デッキ構築",
+        "RPG"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2024,
+      "shortDescription": "『ドラゴンクエストモンスターズ３　魔族の王子とエルフの旅』がSteam®に登場！「ドラゴンクエスト」シリーズおなじみのモンスターでパーティを組み、モンスター同士の迫力バトルを楽しもう！",
+      "reviewSnippet": "■良い点 ・配合が楽しい ■悪い点 ・ストーリーの納得感が薄い ・ダンジョンのギミックが微妙(1度来た道を何度も戻される…",
+      "rawScore": 73.3698478850228,
+      "hensachi": 63.3,
       "rank": 5
     },
     {
@@ -127,7 +126,7 @@
       "initialPriceCents": 438000,
       "finalPriceCents": 219000,
       "reviewPositiveRate": 83,
-      "reviewCount": 225821,
+      "reviewCount": 225905,
       "storeUrl": "https://store.steampowered.com/app/3240220/",
       "genres": [
         "アクション",
@@ -139,7 +138,7 @@
       "shortDescription": "大ヒットの『グランド・セフト・オートV』と「GTAオンライン」を体験しよう - 新世代用に美麗なグラフィック、短縮されたロード時間、3Dオーディオなどのアップグレード。さらに、「GTAオンライン」プレイヤー用の限定コンテンツなど。",
       "reviewSnippet": "いまから買おうとしてる人は絶対に今は買わないで秋まで待て！ GTA6が出るから今から買って始めたら一瞬で人口減って面白く…",
       "rawScore": 71.55,
-      "hensachi": 60.4,
+      "hensachi": 62.6,
       "rank": 6
     },
     {
@@ -150,7 +149,7 @@
       "initialPriceCents": 880000,
       "finalPriceCents": 440000,
       "reviewPositiveRate": 95.3,
-      "reviewCount": 5017,
+      "reviewCount": 5021,
       "storeUrl": "https://store.steampowered.com/app/3375780/",
       "genres": [
         "アクション",
@@ -161,8 +160,8 @@
       "releaseYear": 2025,
       "shortDescription": "2024年に生誕20周年を迎えたストーリーRPG「軌跡」シリーズ。その記念すべき第１作、『英雄伝説 空の軌跡FC（ファーストチャプター）』を完全フルリメイク！",
       "reviewSnippet": "このゲームが20年前のリメイク作品なのか・・・ 20年前にオリジナルと出会いたかった",
-      "rawScore": 69.81926663010789,
-      "hensachi": 59.7,
+      "rawScore": 69.82057248444114,
+      "hensachi": 62,
       "rank": 7
     },
     {
@@ -173,7 +172,7 @@
       "initialPriceCents": 849900,
       "finalPriceCents": 594900,
       "reviewPositiveRate": 96.8,
-      "reviewCount": 858468,
+      "reviewCount": 858520,
       "storeUrl": "https://store.steampowered.com/app/1086940/",
       "genres": [
         "アドベンチャー",
@@ -185,7 +184,7 @@
       "shortDescription": "Baldur’s Gate 3 is a story-rich, party-based RPG set in the universe of Dungeons &amp; Dragons, where your choices shape a tale of fellowship and betrayal, survival and sacrifice, and the lure of absolute power.",
       "reviewSnippet": "日本人にはとっつきにくいかもしれませんが、ハマるとおもしろいです。 ただ、登場人物が全員バイセクシャルなのは、マジでセン…",
       "rawScore": 67.38,
-      "hensachi": 58.8,
+      "hensachi": 61.1,
       "rank": 8
     },
     {
@@ -196,7 +195,7 @@
       "initialPriceCents": 390000,
       "finalPriceCents": 312000,
       "reviewPositiveRate": 97.8,
-      "reviewCount": 246601,
+      "reviewCount": 246619,
       "storeUrl": "https://store.steampowered.com/app/294100/",
       "genres": [
         "サバイバル",
@@ -209,8 +208,32 @@
       "shortDescription": "知性のあるAIストーリーテラーによって織りなされるSFコロニーシミュレーションゲームです。人の性格、自然環境、銃撃戦、近接戦、気候、バイオーム、外交、対人関係、芸術、医学、貿易などをシミュレートし、ストーリーを生成します。",
       "reviewSnippet": "ほんとに楽しいです！ もはや人生の一部？てくらい長くプレイしてきましたｗ 面白そうなＭＯＤを発見すれば、また新しいRim…",
       "rawScore": 63.23,
-      "hensachi": 57.3,
+      "hensachi": 59.6,
       "rank": 9
+    },
+    {
+      "appid": 2444750,
+      "name": "Shape of Dreams",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2444750/cb79c21477092b71ba4f8558bbcead5f6b234837/header_alt_assets_5.jpg?t=1789985975",
+      "discountPercent": 30,
+      "initialPriceCents": 280000,
+      "finalPriceCents": 196000,
+      "reviewPositiveRate": 90,
+      "reviewCount": 20616,
+      "storeUrl": "https://store.steampowered.com/app/2444750/",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "インディー",
+        "RPG"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2025,
+      "shortDescription": "Shape of Dreamsは、アクションローグライトにMOBAスタイルを組み合わせたユニークなゲームです。夢の世界へ冒険に出かけ、英雄の記憶を編集して自分だけのチャンピオンを作り上げましょう。一人で全ての試練に立ち向かうか、最大4人の協力プレイで仲間たちと一緒に冒険するか、選択は自由です。",
+      "reviewSnippet": "とても楽しいゲームです もう1000時間遊ぶためにリンボ12までの開放を強く望みます",
+      "rawScore": 61.28009611670376,
+      "hensachi": 58.8,
+      "rank": 10
     },
     {
       "appid": 3357650,
@@ -220,7 +243,7 @@
       "initialPriceCents": 799000,
       "finalPriceCents": 639200,
       "reviewPositiveRate": 96.5,
-      "reviewCount": 53235,
+      "reviewCount": 53255,
       "storeUrl": "https://store.steampowered.com/app/3357650/",
       "genres": [
         "アクション",
@@ -230,30 +253,31 @@
       "releaseYear": 2026,
       "shortDescription": "『プラグマタ』はカプコンが贈る完全新作タイトル。 パズルとアクションが融合した、新感覚のSFアクションアドベンチャーです。月で遭難した調査員&quot;ヒュー&quot;と、アンドロイドの少女&quot;ディアナ&quot;。AIに支配された近未来の月面世界を舞台に、二人は互いの力を頼りに地球への帰還を目指します。",
       "reviewSnippet": "■良い点 戦いながらハッキングパズルをする、ひと手間変わった戦闘。高クオリティなビジュアルでSF空間を楽しめる。 ■悪い…",
-      "rawScore": 60.60973742033818,
-      "hensachi": 56.4,
-      "rank": 10
+      "rawScore": 60.61035299601364,
+      "hensachi": 58.6,
+      "rank": 11
     },
     {
-      "appid": 5013390,
-      "name": "桜の散らない永遠の夜で",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5013390/28c418fc72c188011d900433ef82f3c027c22bd3/header.jpg?t=1789888552",
-      "discountPercent": 40,
-      "initialPriceCents": 13500,
-      "finalPriceCents": 8100,
+      "appid": 2151450,
+      "name": "Quack my Duck",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2151450/header.jpg?t=1789983633",
+      "discountPercent": 33,
+      "initialPriceCents": 47000,
+      "finalPriceCents": 31400,
       "reviewPositiveRate": 100,
-      "reviewCount": 8,
-      "storeUrl": "https://store.steampowered.com/app/5013390/",
+      "reviewCount": 14,
+      "storeUrl": "https://store.steampowered.com/app/2151450/",
       "genres": [
-        "RPG"
+        "カジュアル",
+        "インディー"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "In a virtual Kyoto, a boy meets a shrine maiden with no memory of her past. Together, they uncover the truth hidden within the game — and his own heart. Choices shape fate. In this eternal night, who will you protect?",
+      "shortDescription": "大変！アヒルたちが逃げ出しちゃった！街のあちこちに散らばったアヒルを、ジョンと一緒に見つけ出そう。全年齢対象のワクワクするアイテム探しアドベンチャーゲーム！",
       "reviewSnippet": "",
-      "rawScore": 56.600915129959716,
-      "hensachi": 54.9,
-      "rank": 11
+      "rawScore": 54.28808022285163,
+      "hensachi": 56.3,
+      "rank": 12
     },
     {
       "appid": 4225980,
@@ -262,8 +286,8 @@
       "discountPercent": 10,
       "initialPriceCents": 880000,
       "finalPriceCents": 792000,
-      "reviewPositiveRate": 96.7,
-      "reviewCount": 923,
+      "reviewPositiveRate": 96.5,
+      "reviewCount": 963,
       "storeUrl": "https://store.steampowered.com/app/4225980/",
       "genres": [
         "アクション",
@@ -274,9 +298,9 @@
       "releaseYear": 2026,
       "shortDescription": "『空の軌跡 the 2nd』は、ストーリーRPG『空の軌跡 the 1st』の正当な続編です。前作のエンディングで突如姿を消した少年ヨシュアを探すため、主人公である少女エステルが新たな旅に出る物語が描かれます。",
       "reviewSnippet": "1st 含めてお勧め。王道RPGが好きな方なら、間違いなく楽しめます",
-      "rawScore": 49.53621498573625,
-      "hensachi": 52.3,
-      "rank": 12
+      "rawScore": 49.535668052463514,
+      "hensachi": 54.6,
+      "rank": 13
     },
     {
       "appid": 2246340,
@@ -286,7 +310,7 @@
       "initialPriceCents": 499000,
       "finalPriceCents": 374200,
       "reviewPositiveRate": 49.4,
-      "reviewCount": 330993,
+      "reviewCount": 331040,
       "storeUrl": "https://store.steampowered.com/app/2246340/",
       "genres": [
         "ソウルライク",
@@ -299,8 +323,8 @@
       "shortDescription": "荒々しく獰猛な自然が、襲い来る。 刻一刻とダイナミックにその姿を変貌させるフィールド。二面性をもつ世界に生きる、モンスターと人々の物語。 進化したハンティングアクションと、途切れることのない没入感を追求した究極の狩猟体験が、あなたを待っている。",
       "reviewSnippet": "クソゲーと言うには面白すぎるが 神ゲーと言うには色んなところが残念過ぎる そんなゲーム",
       "rawScore": 48.54,
-      "hensachi": 51.9,
-      "rank": 13
+      "hensachi": 54.2,
+      "rank": 14
     },
     {
       "appid": 4739040,
@@ -309,8 +333,8 @@
       "discountPercent": 15,
       "initialPriceCents": 53000,
       "finalPriceCents": 45000,
-      "reviewPositiveRate": 85.8,
-      "reviewCount": 274,
+      "reviewPositiveRate": 85.4,
+      "reviewCount": 322,
       "storeUrl": "https://store.steampowered.com/app/4739040/",
       "genres": [
         "アクション",
@@ -325,9 +349,9 @@
       "releaseYear": 2026,
       "shortDescription": "🔥 UP TO 8-PLAYER HARDCORE DISCIPLINE SIMULATOR!!! 💪 Build power at max speed and WIN! Upload your target pics, use gadgets, and wreck faces in insane massive brawls! Dominate, sweat, and become the ABSOLUTE GOD OF DISCIPLINE!!! 😈",
       "reviewSnippet": "",
-      "rawScore": 45.98502903332175,
-      "hensachi": 51,
-      "rank": 14
+      "rawScore": 46.1086887635136,
+      "hensachi": 53.3,
+      "rank": 15
     },
     {
       "appid": 3124020,
@@ -337,7 +361,7 @@
       "initialPriceCents": 30500,
       "finalPriceCents": 25900,
       "reviewPositiveRate": 100,
-      "reviewCount": 8,
+      "reviewCount": 12,
       "storeUrl": "https://store.steampowered.com/app/3124020/",
       "genres": [
         "アクション",
@@ -348,52 +372,77 @@
       "releaseYear": 2026,
       "shortDescription": "Help little Darby escape from his castle and reclaim his land from the Demon King's claws in this challenging 2d precision platformer. Explore every hidden corner, use your vampiric powers wisely and face the Demon King to get your home back before your family returns from holiday.",
       "reviewSnippet": "",
-      "rawScore": 45.350915129959716,
-      "hensachi": 50.7,
-      "rank": 15
-    },
-    {
-      "appid": 5109050,
-      "name": "AstroTennis",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5109050/b6007bd018ca667f6adc3f58c6fb8ac272a2640f/header.jpg?t=1789836316",
-      "discountPercent": 10,
-      "initialPriceCents": 13500,
-      "finalPriceCents": 12100,
-      "reviewPositiveRate": 100,
-      "reviewCount": 2,
-      "storeUrl": "https://store.steampowered.com/app/5109050/",
-      "genres": [
-        "カジュアル",
-        "スポーツ"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Choose your suit and play against the most famous astronauts. Beat all of them to win the tournament or play with a friend in local multiplayer.",
-      "reviewSnippet": "",
-      "rawScore": 41.30045756497986,
-      "hensachi": 49.3,
+      "rawScore": 45.9535598200258,
+      "hensachi": 53.2,
       "rank": 16
     },
     {
-      "appid": 2874490,
-      "name": "Rusted Awakening",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2874490/header.jpg?t=1789837890",
+      "appid": 4364730,
+      "name": "IGTAP: どこ見ても足",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4364730/9b0316ecad7f3ecdc13925070ad7399da6c776a2/header_japanese.jpg?t=1789989004",
       "discountPercent": 10,
-      "initialPriceCents": 90500,
-      "finalPriceCents": 81400,
-      "reviewPositiveRate": 84.6,
-      "reviewCount": 13,
-      "storeUrl": "https://store.steampowered.com/app/2874490/",
+      "initialPriceCents": 99900,
+      "finalPriceCents": 89900,
+      "reviewPositiveRate": 85.7,
+      "reviewCount": 7,
+      "storeUrl": "https://store.steampowered.com/app/4364730/",
       "genres": [
-        "アクション"
+        "アドベンチャー",
+        "インディー",
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "『どこ見ても足』は、インフレ要素とプラットフォームアクションを融合したゲームです。パルクールや壁登り、二段ジャンプなどのスキルを駆使して挑戦を突破。クローン軍団で収益を拡大し、あふれるエネルギーで新たな能力と高収益ルートを解放。クローン軍団は無限に増殖します！",
+      "reviewSnippet": "",
+      "rawScore": 37.902886743365826,
+      "hensachi": 50.3,
+      "rank": 17
+    },
+    {
+      "appid": 2403830,
+      "name": "奇跡工場",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2403830/d3f77e633b4aafc6cf543aeb650079b2cbbd0d78/header.jpg?t=1789970529",
+      "discountPercent": 15,
+      "initialPriceCents": 315000,
+      "finalPriceCents": 267700,
+      "reviewPositiveRate": 77.8,
+      "reviewCount": 9,
+      "storeUrl": "https://store.steampowered.com/app/2403830/",
+      "genres": [
+        "インディー",
+        "シミュレーション",
+        "ストラテジー"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "Rusted Awakening is a one hour nightmare with brutal first person combat, set inside an underground facility where humanity is kept asleep and harvested by those who remain awake. Find a way out.",
+      "shortDescription": "自由なテキスト指令でAIオートマトンを操作し、奇跡工場「Brave New Wonders」の世界を築き上げよう。工場の自動化ゲームで、オートマトンを派遣して終末後の世界を探索し、遺跡を発見し、戦闘し、資源を集めて、自動化された工場を繁栄させよう！",
       "reviewSnippet": "",
-      "rawScore": 38.43501145538958,
-      "hensachi": 48.2,
-      "rank": 17
+      "rawScore": 37.753584905660375,
+      "hensachi": 50.2,
+      "rank": 18
+    },
+    {
+      "appid": 4513060,
+      "name": "ヤンデレウイルス",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4513060/bf51314b5e8ab00a7ef18503c8d2383b3d47fd6c/header_japanese.jpg?t=1789973956",
+      "discountPercent": 20,
+      "initialPriceCents": 89000,
+      "finalPriceCents": 71200,
+      "reviewPositiveRate": 42.4,
+      "reviewCount": 33,
+      "storeUrl": "https://store.steampowered.com/app/4513060/",
+      "genres": [
+        "アクション",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "最大4人で一緒にプレイできるオンライン協力ホラーゲームです。 一人でも、仲間とでもプラトニックパンプキンを集め、恐怖のヤンデレウイルスに感染した大切な友達を救いましょう。",
+      "reviewSnippet": "それなりに面白い。 あとで友達と一緒にやってみよう。",
+      "rawScore": 29.619165724687754,
+      "hensachi": 47.3,
+      "rank": 19
     },
     {
       "appid": 5166800,
@@ -402,8 +451,8 @@
       "discountPercent": 10,
       "initialPriceCents": 90500,
       "finalPriceCents": 81400,
-      "reviewPositiveRate": 40,
-      "reviewCount": 5,
+      "reviewPositiveRate": 50,
+      "reviewCount": 6,
       "storeUrl": "https://store.steampowered.com/app/5166800/",
       "genres": [
         "インディー",
@@ -413,32 +462,185 @@
       "releaseYear": 2026,
       "shortDescription": "戦線に遠征隊を配置し、成長を任せられる放置RPGです。指揮するのは一つのパーティだけ。ほかは駐屯に任せましょう。状態異常を連携させて大きな一撃を放ちます。ゲームを終了しても遠征は続きます。",
       "reviewSnippet": "",
-      "rawScore": 21.436419812768467,
-      "hensachi": 42,
-      "rank": 18
+      "rawScore": 25.18904920760097,
+      "hensachi": 45.6,
+      "rank": 20
     },
     {
-      "appid": 5139650,
-      "name": "Meridian Strike",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5139650/c102263d19eaf7ae2fdad228dc0937776026b17a/header.jpg?t=1789857417",
-      "discountPercent": 25,
-      "initialPriceCents": 79000,
-      "finalPriceCents": 59200,
+      "appid": 5145700,
+      "name": "Yandere Virus - Player Avatar (Aholo Rupa)",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5145700/42de4b59f65ad680a28dbe408222fabe5e32f662/header.jpg?t=1789974233",
+      "discountPercent": 20,
+      "initialPriceCents": 26500,
+      "finalPriceCents": 21200,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5139650/",
+      "storeUrl": "https://store.steampowered.com/app/5145700/",
       "genres": [
-        "アドベンチャー",
-        "インディー",
-        "ストラテジー"
+        "アクション",
+        "インディー"
       ],
-      "supportsJapanese": false,
+      "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "Command a mercenary mech company in a turn-based tactical RPG. Plan every move on a hex battlefield, manage heat and localized damage, develop veteran pilots, repair battered machines, and carry the consequences of each mission into the next.",
+      "shortDescription": "プレイヤーアバターとして「Aholo Rupa」を使用できます。 基本ボイスにDLC限定のクイックボイスが10種類追加されます。",
       "reviewSnippet": "",
-      "rawScore": 11.25,
-      "hensachi": 38.2,
-      "rank": 19
+      "rawScore": 9,
+      "hensachi": 39.7,
+      "rank": 21
+    },
+    {
+      "appid": 5143820,
+      "name": "Yandere Virus - Player Avatar (Park Dona)",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5143820/7d278b85824cc3107e798d0f42781bbd7704bcf0/header.jpg?t=1789974205",
+      "discountPercent": 20,
+      "initialPriceCents": 26500,
+      "finalPriceCents": 21200,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5143820/",
+      "genres": [
+        "アクション",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "You can use &quot;Park Dona&quot; as a player avatar. 10 DLC-exclusive Quick Voice lines are added to the default voice set.",
+      "reviewSnippet": "",
+      "rawScore": 9,
+      "hensachi": 39.7,
+      "rank": 22
+    },
+    {
+      "appid": 5145670,
+      "name": "Yandere Virus - Player Avatar (Heezy)",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5145670/213e1f6b6af4b35d4f529e4f87517370dbef7b20/header.jpg?t=1789974166",
+      "discountPercent": 20,
+      "initialPriceCents": 26500,
+      "finalPriceCents": 21200,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5145670/",
+      "genres": [
+        "アクション",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "プレイヤーアバターとして「Heezy」を使用できます。 基本ボイスにDLC限定のクイックボイスが10種類追加されます。",
+      "reviewSnippet": "",
+      "rawScore": 9,
+      "hensachi": 39.7,
+      "rank": 23
+    },
+    {
+      "appid": 5145680,
+      "name": "Yandere Virus - Player Avatar (Hajiyu)",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5145680/f7a49c902e423f71b08d712e64be11ddf931a9b9/header.jpg?t=1789974130",
+      "discountPercent": 20,
+      "initialPriceCents": 26500,
+      "finalPriceCents": 21200,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5145680/",
+      "genres": [
+        "アクション",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "プレイヤーアバターとして「Hajiyu」を使用できます。 基本ボイスにDLC限定のクイックボイスが10種類追加されます。",
+      "reviewSnippet": "",
+      "rawScore": 9,
+      "hensachi": 39.7,
+      "rank": 24
+    },
+    {
+      "appid": 5145690,
+      "name": "Yandere Virus - Player Avatar (Bukuki)",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5145690/43a291e16e26a7d3f6d87d77d1a180962b2544f1/header.jpg?t=1789974107",
+      "discountPercent": 20,
+      "initialPriceCents": 26500,
+      "finalPriceCents": 21200,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5145690/",
+      "genres": [
+        "アクション",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "プレイヤーアバターとして「Bukuki」を使用できます。 基本ボイスにDLC限定のクイックボイスが10種類追加されます。",
+      "reviewSnippet": "",
+      "rawScore": 9,
+      "hensachi": 39.7,
+      "rank": 25
+    },
+    {
+      "appid": 5143800,
+      "name": "Yandere Virus - Player Avatar (W2rd0)",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5143800/35262ccbe42137f85ab0dd8cd7d25e4045593132/header.jpg?t=1789974049",
+      "discountPercent": 20,
+      "initialPriceCents": 26500,
+      "finalPriceCents": 21200,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5143800/",
+      "genres": [
+        "アクション",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "プレイヤーアバターとして「w2rd0」を使用できます。 基本ボイスにDLC限定のクイックボイスが10種類追加されます。",
+      "reviewSnippet": "",
+      "rawScore": 9,
+      "hensachi": 39.7,
+      "rank": 26
+    },
+    {
+      "appid": 5145660,
+      "name": "Yandere Virus - Player Avatar (Mazet)",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5145660/160470e792e9910d1e7b8798c3cf10f2a6fd2da6/header.jpg?t=1789974023",
+      "discountPercent": 20,
+      "initialPriceCents": 26500,
+      "finalPriceCents": 21200,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5145660/",
+      "genres": [
+        "アクション",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "プレイヤーアバターとして「Mazet」を使用できます。 基本ボイスにDLC限定のクイックボイスが10種類追加されます。",
+      "reviewSnippet": "",
+      "rawScore": 9,
+      "hensachi": 39.7,
+      "rank": 27
+    },
+    {
+      "appid": 5143790,
+      "name": "Yandere Virus - Player Avatar (Omong)",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5143790/1c731ea9e35de0b958ca46c00efc02946d25ffa0/header.jpg?t=1789973997",
+      "discountPercent": 20,
+      "initialPriceCents": 26500,
+      "finalPriceCents": 21200,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5143790/",
+      "genres": [
+        "アクション",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "プレイヤーアバターとして「Omong」を使用できます。 基本ボイスにDLC限定のクイックボイスが10種類追加されます。",
+      "reviewSnippet": "",
+      "rawScore": 9,
+      "hensachi": 39.7,
+      "rank": 28
     },
     {
       "appid": 4172110,
@@ -460,8 +662,8 @@
       "shortDescription": "Run a cosy little travel agency, one letter at a time. Travellers write in and tell you what they are hoping for. Plan the journey that gives it to them, card by card, and watch it unfold. Satisfy them, and they may write back...",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 37.4,
-      "rank": 20
+      "hensachi": 39.7,
+      "rank": 29
     },
     {
       "appid": 4377080,
@@ -481,51 +683,29 @@
       "shortDescription": "In a New York art auction hall, wedding planner Alan meets the mysterious woman Sophia and is invited to get married 19 days later. During the honeymoon, Alan's identity suddenly changes, and he starts to interrogate Sophia about secrets like the Black Thorn Project. Danger is quietly approaching.",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 37.4,
-      "rank": 21
+      "hensachi": 39.7,
+      "rank": 30
     },
     {
-      "appid": 4506090,
-      "name": "肉鸽卡牌：商业帝国",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4506090/7142d00d084fd2bd27840fe0f6fcd3b4f19e033c/header.jpg?t=1789909685",
-      "discountPercent": 20,
-      "initialPriceCents": 39500,
-      "finalPriceCents": 31600,
+      "appid": 5145860,
+      "name": "ひびき＆かのんの囲碁19路完全入門",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5145860/6f18fad4f54167be6d03f46c8980667ca6c61744/header_japanese.jpg?t=1789963271",
+      "discountPercent": 15,
+      "initialPriceCents": 305000,
+      "finalPriceCents": 259200,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4506090/",
+      "storeUrl": "https://store.steampowered.com/app/5145860/",
       "genres": [
-        "インディー",
         "ストラテジー"
       ],
       "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "&quot;Roguelike Card Game: Business Empire&quot; combines roguelike with card strategy. Choose your character, build your industrial park from scratch using cards, experience multiple victory paths, and compete on the global leaderboard.",
+      "shortDescription": "関西棋院のプロ棋士・ひびき先生（三島響）と、アマ五段のアシスタント・かのん（上村花音）さんと一緒に、19路の囲碁をゲーム感覚で学べる入門ソフト。立ち絵つきの会話講座、AI搭載のチャレンジ対局、問題集・定石・格言を収録。",
       "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 37.4,
-      "rank": 22
-    },
-    {
-      "appid": 4900200,
-      "name": "Doctor Mother-in-law Wants My Baby",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4900200/ba2ae4a8dfae2b449ab3a37bf8d3487135221dc7/header.jpg?t=1789913393",
-      "discountPercent": 20,
-      "initialPriceCents": 135000,
-      "finalPriceCents": 108000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4900200/",
-      "genres": [
-        "RPG"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Noah, a deliveryman, nearly died in a car accident on a rainy night but unexpectedly gained superpowers. His mother-in-law, Audrey, noticed his abnormality, and they joined hands to investigate the conspiracy of consciousness smuggling while developing a subtle affection for each other.",
-      "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 37.4,
-      "rank": 23
+      "rawScore": 6.75,
+      "hensachi": 38.9,
+      "rank": 31
     },
     {
       "appid": 4769110,
@@ -547,8 +727,32 @@
       "shortDescription": "あなたは暗い地下室に閉じ込められています。出口を見つけるために、忘れてしまった過去を少しずつ思い出さなければなりません。危険な怪物から生き延び、謎のメモを集め、手遅れになる前に自分が誰なのかを見つけてください。",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 36.6,
-      "rank": 24
+      "hensachi": 38.9,
+      "rank": 32
+    },
+    {
+      "appid": 3855090,
+      "name": "永劫之阿比斯",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3855090/0e973d6c5069afa6ce60c1fb425a83ed55fc125b/header.jpg?t=1789983893",
+      "discountPercent": 10,
+      "initialPriceCents": 115000,
+      "finalPriceCents": 103500,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/3855090/",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "インディー",
+        "RPG"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Swap between two heroines (Paladin/Mage/Assassin/Centaur Archer) instantly in this 2D pixel-art roguelite platformer, forge permanent Diablo-inspired builds with 200+ affix combinations to conquer cycle-reborn abyssal labyrinths and rend the holy veil of the Purification Ritual.",
+      "reviewSnippet": "",
+      "rawScore": 4.5,
+      "hensachi": 38.1,
+      "rank": 33
     },
     {
       "appid": 1721290,
@@ -573,30 +777,8 @@
       "shortDescription": "Create piano videos, tutorials, and livestreams with real-time MIDI visuals. Align notes to your piano from any camera angle, customize effects and Stages, and record videos ready to publish.",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 35.7,
-      "rank": 25
-    },
-    {
-      "appid": 5005050,
-      "name": "UMAN",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5005050/c482d73f8b598ab31e84a248035e78c10961fabc/header.jpg?t=1789876854",
-      "discountPercent": 10,
-      "initialPriceCents": 79000,
-      "finalPriceCents": 71100,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5005050/",
-      "genres": [
-        "インディー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Welcome to UMAN - Become a cog in the machine - Work, sleep and don't ask questions - Collect your trash, hit your quota, consume, upgrade and meet your coworkers. But whatever you do... don't look into the eyes.",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 35.7,
-      "rank": 26
+      "hensachi": 38.1,
+      "rank": 34
     }
   ]
 }
