@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-26T10:36:25.039Z",
+  "fetchedAt": "2026-09-26T15:29:43.702Z",
   "currency": "JPY",
-  "count": 34,
-  "averageDiscount": 27.8,
+  "count": 33,
+  "averageDiscount": 25.6,
   "deals": [
     {
       "appid": 1687950,
@@ -12,7 +12,7 @@
       "initialPriceCents": 767800,
       "finalPriceCents": 230300,
       "reviewPositiveRate": 96.4,
-      "reviewCount": 140323,
+      "reviewCount": 140348,
       "storeUrl": "https://store.steampowered.com/app/1687950/",
       "genres": [
         "ターン制ストラテジー",
@@ -23,8 +23,8 @@
       "releaseYear": 2022,
       "shortDescription": "奪え、その意志で。",
       "reviewSnippet": "シナリオ、ゲーム性、システムなど、どれをとっても最高です。自信を持ってお勧めできるゲームです。私はあまりゲームを周回しよ…",
-      "rawScore": 84.6631394564599,
-      "hensachi": 69,
+      "rawScore": 84.66343140600722,
+      "hensachi": 69.1,
       "rank": 1
     },
     {
@@ -35,7 +35,7 @@
       "initialPriceCents": 767800,
       "finalPriceCents": 230300,
       "reviewPositiveRate": 94.3,
-      "reviewCount": 64171,
+      "reviewCount": 64196,
       "storeUrl": "https://store.steampowered.com/app/2161700/",
       "genres": [
         "ターン制ストラテジー",
@@ -45,28 +45,9 @@
       "releaseYear": null,
       "shortDescription": "",
       "reviewSnippet": "素晴らしいシナリオ、素晴らしい音楽、素晴らしいキャラクター、素晴らしいエンディング、一生忘れることのないだろう名作でした…",
-      "rawScore": 82.645926697466,
-      "hensachi": 68.2,
+      "rawScore": 82.64656503192455,
+      "hensachi": 68.3,
       "rank": 2
-    },
-    {
-      "appid": 292030,
-      "name": "ウィッチャー３　ワイルドハント　コンプリートエディション",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/82e03fb94c6a596d90fe2c9f054eefdd35df8f2b/header_alt_assets_4_japanese.jpg?t=1788333513",
-      "discountPercent": 50,
-      "initialPriceCents": 649000,
-      "finalPriceCents": 324500,
-      "reviewPositiveRate": 96.8,
-      "reviewCount": 889045,
-      "storeUrl": "https://store.steampowered.com/app/292030/",
-      "genres": [],
-      "supportsJapanese": false,
-      "releaseYear": null,
-      "shortDescription": "",
-      "reviewSnippet": "美麗なグラフィックにダークな世界観、ストーリー、ゲームシステムどれをとっても最高。",
-      "rawScore": 76.38,
-      "hensachi": 65.6,
-      "rank": 3
     },
     {
       "appid": 2679460,
@@ -76,7 +57,7 @@
       "initialPriceCents": 987800,
       "finalPriceCents": 395100,
       "reviewPositiveRate": 89.6,
-      "reviewCount": 43319,
+      "reviewCount": 43323,
       "storeUrl": "https://store.steampowered.com/app/2679460/",
       "genres": [
         "ターン制ストラテジー"
@@ -85,9 +66,9 @@
       "releaseYear": null,
       "shortDescription": "",
       "reviewSnippet": "ここ最近で一番熱中したゲーム。 ペルソナファンだったら脳死で購入していいレベル。こういうのでいいんだよ。",
-      "rawScore": 75.85693753944635,
-      "hensachi": 65.4,
-      "rank": 4
+      "rawScore": 75.85708885721586,
+      "hensachi": 65.5,
+      "rank": 3
     },
     {
       "appid": 570940,
@@ -97,7 +78,7 @@
       "initialPriceCents": 473000,
       "finalPriceCents": 236500,
       "reviewPositiveRate": 92.5,
-      "reviewCount": 155592,
+      "reviewCount": 155608,
       "storeUrl": "https://store.steampowered.com/app/570940/",
       "genres": [
         "ソウルライク",
@@ -107,9 +88,9 @@
       "releaseYear": 2018,
       "shortDescription": "世界中を熱狂させた本格アクションRPGが待望のリマスター化。グラフィックの最適化、オンラインプレイの拡張、さらに追加DLCを完全収録し、絶望と希望のダークファンタジーが蘇る",
       "reviewSnippet": "ダークソウルの原点、そのリマスター版 今やるとちょっと気になる部分もあるけれど、それでも面白いゲームであるのは間違いない",
-      "rawScore": 74.46741530016864,
-      "hensachi": 64.8,
-      "rank": 5
+      "rawScore": 74.46758381806794,
+      "hensachi": 64.9,
+      "rank": 4
     },
     {
       "appid": 335300,
@@ -119,7 +100,7 @@
       "initialPriceCents": 572000,
       "finalPriceCents": 286000,
       "reviewPositiveRate": 83.9,
-      "reviewCount": 132363,
+      "reviewCount": 132377,
       "storeUrl": "https://store.steampowered.com/app/335300/",
       "genres": [
         "ソウルライク",
@@ -130,9 +111,9 @@
       "releaseYear": 2015,
       "shortDescription": "手強い難易度で高い達成感に繋がるレベルデザインを追求した本格ダークファンタジー「DARK SOULS Ⅱ」に、現在配信中の3つのDLCステージを完全収録し、高性能なマシンスペックを活かした新たなアレンジを施したハイスペックバージョンです。",
       "reviewSnippet": "モーションやグラフィックの質感は違えど、ダークソウル 二刀流や新しい武器種等の要素も楽しい 個人的にはSEがちょっと気に…",
-      "rawScore": 71.19243352050515,
-      "hensachi": 63.5,
-      "rank": 6
+      "rawScore": 71.19260685045991,
+      "hensachi": 63.6,
+      "rank": 5
     },
     {
       "appid": 3101040,
@@ -142,15 +123,37 @@
       "initialPriceCents": 350000,
       "finalPriceCents": 280000,
       "reviewPositiveRate": 96.5,
-      "reviewCount": 34422,
+      "reviewCount": 34436,
       "storeUrl": "https://store.steampowered.com/app/3101040/",
       "genres": [],
       "supportsJapanese": false,
       "releaseYear": null,
       "shortDescription": "",
       "reviewSnippet": "最初はそうでもなかったんです。 あー、こんな感じのゲームなんだなと少し退屈に感じていました。 なので私からは一つだけ、絶…",
-      "rawScore": 59.8951838371832,
-      "hensachi": 58.8,
+      "rawScore": 59.8958502286946,
+      "hensachi": 58.9,
+      "rank": 6
+    },
+    {
+      "appid": 4108000,
+      "name": "Machine Party",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/00ae7d0e0fd0ad72635bddb1dd80ee68cc94eed5/header.jpg?t=1786561627",
+      "discountPercent": 20,
+      "initialPriceCents": 95000,
+      "finalPriceCents": 76000,
+      "reviewPositiveRate": 86.6,
+      "reviewCount": 5303,
+      "storeUrl": "https://store.steampowered.com/app/4108000/",
+      "genres": [
+        "アクション",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "「マシン・パーティー」は、失敗が死に直結する、危険なパーティーゲーム集です。仲間を集め、命懸けの極限状況に挑み、自分だけが生き残る価値を示しましょう。生還は望めない。",
+      "reviewSnippet": "ちょっとグロいマリオパーティー 友達いない人はできないです 押すができるミニゲームがめちゃ面白い 最近で一番笑いました。…",
+      "rawScore": 53.36510760527062,
+      "hensachi": 56.2,
       "rank": 7
     },
     {
@@ -186,7 +189,7 @@
       "initialPriceCents": 192300,
       "finalPriceCents": 173000,
       "reviewPositiveRate": 97.2,
-      "reviewCount": 3509,
+      "reviewCount": 3646,
       "storeUrl": "https://store.steampowered.com/app/4019220/",
       "genres": [
         "カジュアル",
@@ -196,8 +199,8 @@
       "releaseYear": 2026,
       "shortDescription": "ドレスメーカーになろう！本作は実際の仕立て現場に着想を得た、ゆるく遊べるクラフトゲームです。生地を選んだら、切り抜いたパターンピースをすべて縫い合わせて、注文の多い町人たちの期待に応えてあげましょう（わざとダメな服をつくるのもアリ）！",
       "reviewSnippet": "『わがままファッション ガールズモード』をDSでやってたガルモおじさんとしては再就職せざるを得ない",
-      "rawScore": 51.898517420625744,
-      "hensachi": 55.5,
+      "rawScore": 51.961267031372756,
+      "hensachi": 55.6,
       "rank": 9
     },
     {
@@ -208,7 +211,7 @@
       "initialPriceCents": 230000,
       "finalPriceCents": 207000,
       "reviewPositiveRate": 88,
-      "reviewCount": 8344,
+      "reviewCount": 8360,
       "storeUrl": "https://store.steampowered.com/app/3020510/",
       "genres": [
         "ターン制ストラテジー",
@@ -221,8 +224,8 @@
       "releaseYear": 2026,
       "shortDescription": "本作は三国志を背景としたRPGサンドボックスゲームです。あなたは一人の英雄となり、後漢末期の三国世界で思うままに振る舞うことができます。君主、臣下、あるいは隠者として生きることも可能です。交友、結婚と子育て、一族の運営、邸宅の管理、自身や仲間たちの育成、内政の処理、精鋭部隊の訓練、歴史的な大事件の体験や改変を行い、最後には武力で天下を席巻し、民心を掴んで天下統一を果たします。",
       "reviewSnippet": "三国志ゲーにで求めてた物がここにある！ 武将プレイが好きな人は楽しめると思う、自分は大満足！ ただクエストの期限？にバグ…",
-      "rawScore": 50.09783524911421,
-      "hensachi": 54.8,
+      "rawScore": 50.10097442804893,
+      "hensachi": 54.9,
       "rank": 10
     },
     {
@@ -241,8 +244,31 @@
       "shortDescription": "",
       "reviewSnippet": "",
       "rawScore": 49.635962247788605,
-      "hensachi": 54.6,
+      "hensachi": 54.7,
       "rank": 11
+    },
+    {
+      "appid": 4260270,
+      "name": "生き残れ！無人島サバイバル生活♡ ",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260270/bade2a500549db0a9adaaf27ccc25617d23eaae3/header_japanese.jpg?t=1790391557",
+      "discountPercent": 20,
+      "initialPriceCents": 143000,
+      "finalPriceCents": 114400,
+      "reviewPositiveRate": 94.1,
+      "reviewCount": 68,
+      "storeUrl": "https://store.steampowered.com/app/4260270/",
+      "genres": [
+        "アドベンチャー",
+        "RPG",
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "このサバイバルゲームでは、主人公は友人のミツキと共に無人島に取り残されてしまいます。二人で周囲を探索し、小さなシェルターを建て、物資を狩り集めながら、少しずつ絆を深めていきましょう。いつもそばにいるミツキと力を合わせて、危険を乗り越え、無事に帰還する道を探し出してください。",
+      "reviewSnippet": "",
+      "rawScore": 48.87405317259341,
+      "hensachi": 54.4,
+      "rank": 12
     },
     {
       "appid": 4466710,
@@ -251,17 +277,39 @@
       "discountPercent": 20,
       "initialPriceCents": 148000,
       "finalPriceCents": 118400,
-      "reviewPositiveRate": 93.8,
-      "reviewCount": 16,
+      "reviewPositiveRate": 95.8,
+      "reviewCount": 24,
       "storeUrl": "https://store.steampowered.com/app/4466710/",
       "genres": [],
       "supportsJapanese": false,
       "releaseYear": null,
       "shortDescription": "",
       "reviewSnippet": "続編ずっと待ってました！！！！！今回はノーマル女装男子だった真尋が礼央奈に男の娘として落とされていく様を描いており、のん…",
-      "rawScore": 46.473203476899144,
-      "hensachi": 53.3,
-      "rank": 12
+      "rawScore": 47.805245315743534,
+      "hensachi": 53.9,
+      "rank": 13
+    },
+    {
+      "appid": 5234460,
+      "name": "Hentai Age Cat",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5234460/faf680aff6600f9315523d17e872a1fd68e5b309/header.jpg?t=1790377661",
+      "discountPercent": 20,
+      "initialPriceCents": 13500,
+      "finalPriceCents": 10800,
+      "reviewPositiveRate": 100,
+      "reviewCount": 6,
+      "storeUrl": "https://store.steampowered.com/app/5234460/",
+      "genres": [
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "Enjoy a relaxing puzzle adventure at your own pace, completing challenges to reveal stunning girl illustrations. With calming gameplay, no time limits, and vibrant artwork, every puzzle offers peaceful entertainment.",
+      "reviewSnippet": "",
+      "rawScore": 47.189049207600966,
+      "hensachi": 53.7,
+      "rank": 14
     },
     {
       "appid": 5089520,
@@ -283,7 +331,7 @@
       "reviewSnippet": "",
       "rawScore": 45.135962247788605,
       "hensachi": 52.8,
-      "rank": 13
+      "rank": 15
     },
     {
       "appid": 4408710,
@@ -304,59 +352,38 @@
       "reviewSnippet": "",
       "rawScore": 45.135962247788605,
       "hensachi": 52.8,
-      "rank": 14
-    },
-    {
-      "appid": 4135890,
-      "name": "GLUE BLOCKS",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4135890/0278963476cfc181b0f176339ae8696e084d7827/header.jpg?t=1790401708",
-      "discountPercent": 20,
-      "initialPriceCents": 160000,
-      "finalPriceCents": 128000,
-      "reviewPositiveRate": 100,
-      "reviewCount": 1,
-      "storeUrl": "https://store.steampowered.com/app/4135890/",
-      "genres": [],
-      "supportsJapanese": false,
-      "releaseYear": null,
-      "shortDescription": "",
-      "reviewSnippet": "",
-      "rawScore": 45.135962247788605,
-      "hensachi": 52.8,
-      "rank": 15
-    },
-    {
-      "appid": 4260270,
-      "name": "生き残れ！無人島サバイバル生活♡ ",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260270/bade2a500549db0a9adaaf27ccc25617d23eaae3/header_japanese.jpg?t=1790391557",
-      "discountPercent": 20,
-      "initialPriceCents": 143000,
-      "finalPriceCents": 114400,
-      "reviewPositiveRate": 84.6,
-      "reviewCount": 39,
-      "storeUrl": "https://store.steampowered.com/app/4260270/",
-      "genres": [
-        "アドベンチャー",
-        "RPG",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "このサバイバルゲームでは、主人公は友人のミツキと共に無人島に取り残されてしまいます。二人で周囲を探索し、小さなシェルターを建て、物資を狩り集めながら、少しずつ絆を深めていきましょう。いつもそばにいるミツキと力を合わせて、危険を乗り越え、無事に帰還する道を探し出してください。",
-      "reviewSnippet": "",
-      "rawScore": 44.655509401237595,
-      "hensachi": 52.6,
       "rank": 16
+    },
+    {
+      "appid": 4882170,
+      "name": "Voltus' Neon Nightmare - Colossal Cure",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4882170/cb45e54ac25139265f451f12a6a326c1f3f9180a/header.jpg?t=1790431263",
+      "discountPercent": 15,
+      "initialPriceCents": 94000,
+      "finalPriceCents": 79900,
+      "reviewPositiveRate": 100,
+      "reviewCount": 2,
+      "storeUrl": "https://store.steampowered.com/app/4882170/",
+      "genres": [
+        "インディー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "After the previous events, you realized that this &quot;mall&quot; place was a trap to send you to another dimension, full of liminal and unknown places. Voltus is now controlled by the Core's energy, forced to keep you away from it.",
+      "reviewSnippet": "",
+      "rawScore": 43.55045756497986,
+      "hensachi": 52.2,
+      "rank": 17
     },
     {
       "appid": 4150170,
       "name": "闇狩紅狼",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4150170/b4273bb5e04cf448bdddf5496d7ed66f1aeebe7d/header_japanese.jpg?t=1790391647",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4150170/b4273bb5e04cf448bdddf5496d7ed66f1aeebe7d/header_japanese.jpg?t=1790430371",
       "discountPercent": 10,
       "initialPriceCents": 209000,
       "finalPriceCents": 188100,
-      "reviewPositiveRate": 100,
-      "reviewCount": 13,
+      "reviewPositiveRate": 95.2,
+      "reviewCount": 21,
       "storeUrl": "https://store.steampowered.com/app/4150170/",
       "genres": [
         "アクション",
@@ -367,9 +394,9 @@
       "releaseYear": 2026,
       "shortDescription": "変幻自在なバトルスーツ「ギア」を纏い、異形の敵を蹴散らせ！ 簡単操作で爽快なスタイリッシュアクション。 豊富な必殺技を自由に組み合わせ、怒涛のコンボを叩き込め。 荒廃した近未来を舞台に、華麗に豪快に、そしてセクシーに！ 闇を狩る紅き狼の戦いが、今始まる。",
       "reviewSnippet": "",
-      "rawScore": 43.82501145538958,
-      "hensachi": 52.2,
-      "rank": 17
+      "rawScore": 42.885745965366816,
+      "hensachi": 51.9,
+      "rank": 18
     },
     {
       "appid": 4909940,
@@ -391,44 +418,29 @@
       "reviewSnippet": "",
       "rawScore": 41.30045756497986,
       "hensachi": 51.2,
-      "rank": 18
-    },
-    {
-      "appid": 4778540,
-      "name": "Lucid Cats",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4778540/a7eca735be2b883b76eb788d1e84dd5ff8de96df/header.jpg?t=1790360738",
-      "discountPercent": 15,
-      "initialPriceCents": 90500,
-      "finalPriceCents": 76900,
-      "reviewPositiveRate": 69.1,
-      "reviewCount": 152,
-      "storeUrl": "https://store.steampowered.com/app/4778540/",
-      "genres": [],
-      "supportsJapanese": false,
-      "releaseYear": null,
-      "shortDescription": "",
-      "reviewSnippet": "",
-      "rawScore": 39.17911860685886,
-      "hensachi": 50.3,
       "rank": 19
     },
     {
-      "appid": 43918,
-      "name": "『ペルソナ３ リロード』＆『ペルソナ５ ザ・ロイヤル』バンドル",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/43918/kigofo6cc8dcs551/f2b9d42100a04dac35a483210ffec01512454010/header_ratio_japanese.jpg?t=1781514153",
-      "discountPercent": 70,
-      "initialPriceCents": 1535600,
-      "finalPriceCents": 414600,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/43918/",
-      "genres": [],
+      "appid": 5184740,
+      "name": "枪火幻想",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5184740/ba3f59b7f947968d5b54ce6ce0c224173eb207b4/header.jpg?t=1790417082",
+      "discountPercent": 10,
+      "initialPriceCents": 26500,
+      "finalPriceCents": 23800,
+      "reviewPositiveRate": 100,
+      "reviewCount": 1,
+      "storeUrl": "https://store.steampowered.com/app/5184740/",
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "ストラテジー"
+      ],
       "supportsJapanese": false,
-      "releaseYear": null,
-      "shortDescription": "",
+      "releaseYear": 2026,
+      "shortDescription": "Every night, a boy's mind drifts into an endless monster forest. Facing overwhelming swarms of beasts,Will he ultimately break the nightmare once and for all, or will he be swallowed by the endless tide of monsters?",
       "reviewSnippet": "",
-      "rawScore": 31.5,
-      "hensachi": 47.2,
+      "rawScore": 40.635962247788605,
+      "hensachi": 51,
       "rank": 20
     },
     {
@@ -456,53 +468,6 @@
       "rank": 21
     },
     {
-      "appid": 5115860,
-      "name": "Smoke Keeper",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5115860/609b920421f848d4c4a9b12c1153c757f5f5415f/header.jpg?t=1790359856",
-      "discountPercent": 10,
-      "initialPriceCents": 79000,
-      "finalPriceCents": 71100,
-      "reviewPositiveRate": 50,
-      "reviewCount": 6,
-      "storeUrl": "https://store.steampowered.com/app/5115860/",
-      "genres": [
-        "アドベンチャー",
-        "カジュアル",
-        "インディー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "A cozy first-person organizing simulator where you sort 4,316 scattered items throughout a two-storey Victorian tobacconist. Put every item on its proper shelf, unlock helpful skills, and restore perfect order at your own pace—or race the clock.",
-      "reviewSnippet": "",
-      "rawScore": 25.18904920760097,
-      "hensachi": 44.6,
-      "rank": 22
-    },
-    {
-      "appid": 4323690,
-      "name": "CTRL+ESC",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4323690/e7050a294d869461aba861a9b564ebb3e99a1984/header.jpg?t=1790358665",
-      "discountPercent": 10,
-      "initialPriceCents": 39500,
-      "finalPriceCents": 35500,
-      "reviewPositiveRate": 50,
-      "reviewCount": 2,
-      "storeUrl": "https://store.steampowered.com/app/4323690/",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "ストラテジー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "CTRL+ESC is a hacker-themed idle clicker where you exploit systems, crack encryptions, and build an unstoppable network of automated exploits. Click to hack, solve captchas and minigames to boost production, and unlock powerful upgrades as you progress through increasingly complex systems.",
-      "reviewSnippet": "",
-      "rawScore": 23.800457564979858,
-      "hensachi": 44,
-      "rank": 23
-    },
-    {
       "appid": 160150,
       "name": "DARK SOULS III - The Fire Fades Edition",
       "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/160150/header_ratio_japanese.jpg?t=1492793326",
@@ -519,7 +484,7 @@
       "reviewSnippet": "",
       "rawScore": 22.5,
       "hensachi": 43.5,
-      "rank": 24
+      "rank": 22
     },
     {
       "appid": 5178500,
@@ -541,28 +506,74 @@
       "reviewSnippet": "",
       "rawScore": 18,
       "hensachi": 41.6,
+      "rank": 23
+    },
+    {
+      "appid": 5148990,
+      "name": "Scratch Tickets With Your Friends 🎰",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5148990/22573bb64b820535f3546f486ea1cfbd6fe6bdc1/header.jpg?t=1790431659",
+      "discountPercent": 31,
+      "initialPriceCents": 109700,
+      "finalPriceCents": 75600,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5148990/",
+      "genres": [
+        "カジュアル",
+        "RPG",
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "家賃は上がり、お金は消えていくカオスなシミュレーション。くじを削り、ゴミを仕分け、設備を強化し、怪しい選択をしながら今日を生き延びよう。🎰💸",
+      "reviewSnippet": "",
+      "rawScore": 13.950000000000001,
+      "hensachi": 40,
+      "rank": 24
+    },
+    {
+      "appid": 4803270,
+      "name": "『スクジサマ』を巡る考察",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4803270/c2f115f539c6e8914d713f9bb68cc0ae2f19b0c9/header.jpg?t=1790434872",
+      "discountPercent": 30,
+      "initialPriceCents": 180000,
+      "finalPriceCents": 126000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4803270/",
+      "genres": [
+        "アドベンチャー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "本作品は、長編小説を軸に、3D空間の探索、画像・音声・映像・文書などの各種資料、そして考察を要する設問によって構成されています。",
+      "reviewSnippet": "",
+      "rawScore": 13.5,
+      "hensachi": 39.8,
       "rank": 25
     },
     {
-      "appid": 5080420,
-      "name": "Dungeon Forge",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5080420/e35ed4195acecfa83888c0d03d971a630e883429/header.jpg?t=1790362532",
-      "discountPercent": 40,
-      "initialPriceCents": 53000,
-      "finalPriceCents": 31800,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5080420/",
+      "appid": 4244040,
+      "name": "Sector 13: Haunted Woods",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244040/4b397752a47953c44692b2c2290e674de04e676d/header.jpg?t=1790396109",
+      "discountPercent": 10,
+      "initialPriceCents": 105000,
+      "finalPriceCents": 94500,
+      "reviewPositiveRate": 14.3,
+      "reviewCount": 7,
+      "storeUrl": "https://store.steampowered.com/app/4244040/",
       "genres": [
+        "アドベンチャー",
         "インディー",
-        "RPG"
+        "RPG",
+        "シミュレーション"
       ],
-      "supportsJapanese": false,
+      "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "Choose your class and descend into Dungeon Forge. Fight monsters, gather wood, stone and ore, complete quests, craft better tools and gear, and build useful village structures. Grow stronger floor by floor, push deeper into the dungeon, and see how long your run can survive.",
+      "shortDescription": "Sector 13: Haunted Woods は、1～4人で遊べるオープンワールドの協力型アノマリー探索ゲーム。謎のエリアを探索し、禁断のアーティファクトを回収し、暗い森を生き延びよう。マイクはあなたを危険にさらすことも、仲間と共に生き延びる助けにもなる。",
       "reviewSnippet": "",
-      "rawScore": 18,
-      "hensachi": 41.6,
+      "rawScore": 12.912886743365824,
+      "hensachi": 39.5,
       "rank": 26
     },
     {
@@ -584,7 +595,7 @@
       "shortDescription": "Surrounded by Scrunchies is an adult visual novel about accidental cohabitation and pure seduction. Follow the main character as he navigates an all-female apartment after his unisex name tricks the landlord into letting him stay.",
       "reviewSnippet": "",
       "rawScore": 11.25,
-      "hensachi": 38.9,
+      "hensachi": 38.8,
       "rank": 27
     },
     {
@@ -609,52 +620,6 @@
       "rank": 28
     },
     {
-      "appid": 5234460,
-      "name": "Hentai Age Cat",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5234460/faf680aff6600f9315523d17e872a1fd68e5b309/header.jpg?t=1790377661",
-      "discountPercent": 20,
-      "initialPriceCents": 13500,
-      "finalPriceCents": 10800,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5234460/",
-      "genres": [
-        "カジュアル",
-        "インディー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "Enjoy a relaxing puzzle adventure at your own pace, completing challenges to reveal stunning girl illustrations. With calming gameplay, no time limits, and vibrant artwork, every puzzle offers peaceful entertainment.",
-      "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 37.9,
-      "rank": 29
-    },
-    {
-      "appid": 4244040,
-      "name": "Sector 13: Haunted Woods",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244040/4b397752a47953c44692b2c2290e674de04e676d/header.jpg?t=1790396109",
-      "discountPercent": 10,
-      "initialPriceCents": 105000,
-      "finalPriceCents": 94500,
-      "reviewPositiveRate": 0,
-      "reviewCount": 4,
-      "storeUrl": "https://store.steampowered.com/app/4244040/",
-      "genres": [
-        "アドベンチャー",
-        "インディー",
-        "RPG",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "Sector 13: Haunted Woods は、1～4人で遊べるオープンワールドの協力型アノマリー探索ゲーム。謎のエリアを探索し、禁断のアーティファクトを回収し、暗い森を生き延びよう。マイクはあなたを危険にさらすことも、仲間と共に生き延びる助けにもなる。",
-      "reviewSnippet": "",
-      "rawScore": 7.13762265787177,
-      "hensachi": 37.2,
-      "rank": 30
-    },
-    {
       "appid": 4948400,
       "name": "ジャックポットダンジョン",
       "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4948400/12b0d79101edcf7d2b52c7aba1bd7ece8e0aa2c0/header_japanese.jpg?t=1790396975",
@@ -674,7 +639,75 @@
       "reviewSnippet": "",
       "rawScore": 6.75,
       "hensachi": 37,
+      "rank": 29
+    },
+    {
+      "appid": 5191570,
+      "name": "Section 80",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5191570/1383b7ec0bbd85ec472db69f3f0a039fa20fb17e/header.jpg?t=1790411566",
+      "discountPercent": 10,
+      "initialPriceCents": 65500,
+      "finalPriceCents": 58900,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5191570/",
+      "genres": [
+        "アクション",
+        "インディー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "The unpredictable ten-billion watt Electro-Blob is back in a whole new action game, and this time your mission is to try and contain it in less than a 20% section of the arena! Hunters will keep you on your toes, because if they touch you, it will spark yet another golden Electro-Blob to conquer!",
+      "reviewSnippet": "",
+      "rawScore": 4.5,
+      "hensachi": 36.1,
+      "rank": 30
+    },
+    {
+      "appid": 4798740,
+      "name": "Gemorium",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798740/92ad79429940e283d4225cc81ca54ba0aff19d23/header.jpg?t=1790410869",
+      "discountPercent": 10,
+      "initialPriceCents": 39500,
+      "finalPriceCents": 35500,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4798740/",
+      "genres": [
+        "インディー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Gemoriumは、岩を砕き、鉱物を集め、新たな要素をアンロックしていく、のんびり楽しめる採掘クリッカーです。 急ぐ必要も、プレッシャーもありません。 あなたとツルハシ、そして無限に広がる岩だけ。 デスクトップウィジェットとして起動したまま、他のことをしながら採掘を続けることもできます。",
+      "reviewSnippet": "",
+      "rawScore": 4.5,
+      "hensachi": 36.1,
       "rank": 31
+    },
+    {
+      "appid": 3292310,
+      "name": "弥留之地",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3292310/3b6313adf7b68fab26f67e140fcc6074b689c4af/header.jpg?t=1790412954",
+      "discountPercent": 10,
+      "initialPriceCents": 135000,
+      "finalPriceCents": 121500,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/3292310/",
+      "genres": [
+        "アドベンチャー",
+        "カジュアル",
+        "インディー",
+        "RPG",
+        "ストラテジー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Welcome to Dying Land. An equipment-driven loot-and-slash game blended with cozy life-sim activities like farming and fishing. Earn money, explore, and fight! Grow stronger with every cycle as you search for a way to change your fate.",
+      "reviewSnippet": "",
+      "rawScore": 4.5,
+      "hensachi": 36.1,
+      "rank": 32
     },
     {
       "appid": 5116270,
@@ -693,45 +726,7 @@
       "reviewSnippet": "",
       "rawScore": 4.5,
       "hensachi": 36.1,
-      "rank": 32
-    },
-    {
-      "appid": 4608820,
-      "name": "Raiders 1941",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4608820/f843ae86321ebed6590f04e54e907d8fdd6038b6/header.jpg?t=1790374356",
-      "discountPercent": 10,
-      "initialPriceCents": 135000,
-      "finalPriceCents": 121500,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4608820/",
-      "genres": [],
-      "supportsJapanese": false,
-      "releaseYear": null,
-      "shortDescription": "",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 36.1,
       "rank": 33
-    },
-    {
-      "appid": 5080400,
-      "name": "Stock Car Tycoon",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5080400/24c78c193618cc4d6b152abf7af2e012843b5f0f/header.jpg?t=1790418380",
-      "discountPercent": 10,
-      "initialPriceCents": 65500,
-      "finalPriceCents": 58900,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5080400/",
-      "genres": [],
-      "supportsJapanese": false,
-      "releaseYear": null,
-      "shortDescription": "",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 36.1,
-      "rank": 34
     }
   ]
 }
