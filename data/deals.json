@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-27T11:08:19.455Z",
+  "fetchedAt": "2026-09-27T16:09:36.339Z",
   "currency": "JPY",
-  "count": 24,
-  "averageDiscount": 30.9,
+  "count": 22,
+  "averageDiscount": 37.5,
   "deals": [
     {
       "appid": 1687950,
@@ -12,7 +12,7 @@
       "initialPriceCents": 767800,
       "finalPriceCents": 230300,
       "reviewPositiveRate": 96.4,
-      "reviewCount": 140448,
+      "reviewCount": 140475,
       "storeUrl": "https://store.steampowered.com/app/1687950/",
       "genres": [
         "ターン制ストラテジー",
@@ -23,8 +23,8 @@
       "releaseYear": 2022,
       "shortDescription": "奪え、その意志で。",
       "reviewSnippet": "シナリオ、ゲーム性、システムなど、どれをとっても最高です。自信を持ってお勧めできるゲームです。私はあまりゲームを周回しよ…",
-      "rawScore": 84.66459868438585,
-      "hensachi": 65.7,
+      "rawScore": 84.66491370705651,
+      "hensachi": 64.5,
       "rank": 1
     },
     {
@@ -35,7 +35,7 @@
       "initialPriceCents": 767800,
       "finalPriceCents": 230300,
       "reviewPositiveRate": 94.3,
-      "reviewCount": 64268,
+      "reviewCount": 64294,
       "storeUrl": "https://store.steampowered.com/app/2161700/",
       "genres": [
         "ターン制ストラテジー",
@@ -45,8 +45,8 @@
       "releaseYear": null,
       "shortDescription": "",
       "reviewSnippet": "素晴らしいシナリオ、素晴らしい音楽、素晴らしいキャラクター、素晴らしいエンディング、一生忘れることのないだろう名作でした…",
-      "rawScore": 82.64840204722299,
-      "hensachi": 65,
+      "rawScore": 82.64906490813617,
+      "hensachi": 63.8,
       "rank": 2
     },
     {
@@ -57,7 +57,7 @@
       "initialPriceCents": 528000,
       "finalPriceCents": 211200,
       "reviewPositiveRate": 87.4,
-      "reviewCount": 153633,
+      "reviewCount": 153649,
       "storeUrl": "https://store.steampowered.com/app/524220/",
       "genres": [
         "ハクスラ",
@@ -67,8 +67,8 @@
       "releaseYear": null,
       "shortDescription": "",
       "reviewSnippet": "こんな神ゲーが現れるからゲームはやめられない、最高の一作 プレイしていない人は絶対にプレイすべき にしても、これを超える…",
-      "rawScore": 77.16165033188862,
-      "hensachi": 63.1,
+      "rawScore": 77.16182099846188,
+      "hensachi": 61.9,
       "rank": 3
     },
     {
@@ -79,7 +79,7 @@
       "initialPriceCents": 987800,
       "finalPriceCents": 395100,
       "reviewPositiveRate": 89.6,
-      "reviewCount": 43343,
+      "reviewCount": 43347,
       "storeUrl": "https://store.steampowered.com/app/2679460/",
       "genres": [
         "ターン制ストラテジー"
@@ -88,9 +88,28 @@
       "releaseYear": null,
       "shortDescription": "",
       "reviewSnippet": "ここ最近で一番熱中したゲーム。 ペルソナファンだったら脳死で購入していいレベル。こういうのでいいんだよ。",
-      "rawScore": 75.85784523656261,
-      "hensachi": 62.6,
+      "rawScore": 75.85799647054985,
+      "hensachi": 61.5,
       "rank": 4
+    },
+    {
+      "appid": 2909400,
+      "name": "FINAL FANTASY VII REBIRTH",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg?t=1789446799",
+      "discountPercent": 70,
+      "initialPriceCents": 657800,
+      "finalPriceCents": 197300,
+      "reviewPositiveRate": 74.7,
+      "reviewCount": 35977,
+      "storeUrl": "https://store.steampowered.com/app/2909400/",
+      "genres": [],
+      "supportsJapanese": false,
+      "releaseYear": null,
+      "shortDescription": "",
+      "reviewSnippet": "戦闘◎ ムービー◎ ミニゲーム▲ ２週しないとスキルツリーなどをコンプできない水増し具合に問題あり バトルシミュレーター…",
+      "rawScore": 74.83759251870089,
+      "hensachi": 61.1,
+      "rank": 5
     },
     {
       "appid": 570940,
@@ -100,7 +119,7 @@
       "initialPriceCents": 473000,
       "finalPriceCents": 236500,
       "reviewPositiveRate": 92.4,
-      "reviewCount": 155680,
+      "reviewCount": 155702,
       "storeUrl": "https://store.steampowered.com/app/570940/",
       "genres": [
         "ソウルライク",
@@ -110,9 +129,9 @@
       "releaseYear": 2018,
       "shortDescription": "世界中を熱狂させた本格アクションRPGが待望のリマスター化。グラフィックの最適化、オンラインプレイの拡張、さらに追加DLCを完全収録し、絶望と希望のダークファンタジーが蘇る",
       "reviewSnippet": "ダークソウルの原点、そのリマスター版 今やるとちょっと気になる部分もあるけれど、それでも面白いゲームであるのは間違いない",
-      "rawScore": 74.43334193425164,
-      "hensachi": 62.1,
-      "rank": 5
+      "rawScore": 74.43357351093056,
+      "hensachi": 61,
+      "rank": 6
     },
     {
       "appid": 2455640,
@@ -122,16 +141,16 @@
       "initialPriceCents": 682000,
       "finalPriceCents": 272800,
       "reviewPositiveRate": 93.2,
-      "reviewCount": 4813,
+      "reviewCount": 4814,
       "storeUrl": "https://store.steampowered.com/app/2455640/",
       "genres": [],
       "supportsJapanese": false,
       "releaseYear": null,
       "shortDescription": "",
       "reviewSnippet": "スクエニは過去の名作をリメイクする時は全部ここにやらせろ",
-      "rawScore": 73.51624938090193,
-      "hensachi": 61.8,
-      "rank": 6
+      "rawScore": 73.51658977909642,
+      "hensachi": 60.7,
+      "rank": 7
     },
     {
       "appid": 3101040,
@@ -141,16 +160,38 @@
       "initialPriceCents": 350000,
       "finalPriceCents": 280000,
       "reviewPositiveRate": 96.5,
-      "reviewCount": 34458,
+      "reviewCount": 34471,
       "storeUrl": "https://store.steampowered.com/app/3101040/",
       "genres": [],
       "supportsJapanese": false,
       "releaseYear": null,
       "shortDescription": "",
       "reviewSnippet": "最初はそうでもなかったんです。 あー、こんな感じのゲームなんだなと少し退屈に感じていました。 なので私からは一つだけ、絶…",
-      "rawScore": 59.89689686819352,
-      "hensachi": 57,
-      "rank": 7
+      "rawScore": 59.897515022944575,
+      "hensachi": 56,
+      "rank": 8
+    },
+    {
+      "appid": 5242170,
+      "name": "Horror Golf",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5242170/56afe57fe03c2cfe12075540909a3ff3df104d11/header.jpg?t=1790494058",
+      "discountPercent": 40,
+      "initialPriceCents": 13500,
+      "finalPriceCents": 8100,
+      "reviewPositiveRate": 100,
+      "reviewCount": 1,
+      "storeUrl": "https://store.steampowered.com/app/5242170/",
+      "genres": [
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Minigolf game with darker horror themed maps. 2 different levels with totally 28 holes. Play alone and try to make good score",
+      "reviewSnippet": "",
+      "rawScore": 54.135962247788605,
+      "hensachi": 54.1,
+      "rank": 9
     },
     {
       "appid": 4019220,
@@ -159,8 +200,8 @@
       "discountPercent": 10,
       "initialPriceCents": 192300,
       "finalPriceCents": 173000,
-      "reviewPositiveRate": 97.5,
-      "reviewCount": 4325,
+      "reviewPositiveRate": 97.6,
+      "reviewCount": 4515,
       "storeUrl": "https://store.steampowered.com/app/4019220/",
       "genres": [
         "カジュアル",
@@ -170,53 +211,7 @@
       "releaseYear": 2026,
       "shortDescription": "ドレスメーカーになろう！本作は実際の仕立て現場に着想を得た、ゆるく遊べるクラフトゲームです。生地を選んだら、切り抜いたパターンピースをすべて縫い合わせて、注文の多い町人たちの期待に応えてあげましょう（わざとダメな服をつくるのもアリ）！",
       "reviewSnippet": "『わがままファッション ガールズモード』をDSでやってたガルモおじさんとしては再就職せざるを得ない",
-      "rawScore": 52.3460811890682,
-      "hensachi": 54.3,
-      "rank": 8
-    },
-    {
-      "appid": 4803270,
-      "name": "『スクジサマ』を巡る考察",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4803270/c2f115f539c6e8914d713f9bb68cc0ae2f19b0c9/header.jpg?t=1790434872",
-      "discountPercent": 30,
-      "initialPriceCents": 180000,
-      "finalPriceCents": 126000,
-      "reviewPositiveRate": 100,
-      "reviewCount": 4,
-      "storeUrl": "https://store.steampowered.com/app/4803270/",
-      "genres": [
-        "アドベンチャー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "本作品は、長編小説を軸に、3D空間の探索、画像・音声・映像・文書などの各種資料、そして考察を要する設問によって構成されています。",
-      "reviewSnippet": "",
-      "rawScore": 51.137622657871766,
-      "hensachi": 53.9,
-      "rank": 9
-    },
-    {
-      "appid": 3020510,
-      "name": "Heroes' Vow: Three Kingdoms",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3020510/5da5e2f53fa0a7b7d7eb97f6006f8567dd60f663/header_japanese.jpg?t=1790499638",
-      "discountPercent": 10,
-      "initialPriceCents": 230000,
-      "finalPriceCents": 207000,
-      "reviewPositiveRate": 87.9,
-      "reviewCount": 8397,
-      "storeUrl": "https://store.steampowered.com/app/3020510/",
-      "genres": [
-        "ターン制ストラテジー",
-        "インディー",
-        "RPG",
-        "シミュレーション",
-        "ストラテジー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "本作は三国志を背景としたRPGサンドボックスゲームです。あなたは一人の英雄となり、後漢末期の三国世界で思うままに振る舞うことができます。君主、臣下、あるいは隠者として生きることも可能です。交友、結婚と子育て、一族の運営、邸宅の管理、自身や仲間たちの育成、内政の処理、精鋭部隊の訓練、歴史的な大事件の体験や改変を行い、最後には武力で天下を席巻し、民心を掴んで天下統一を果たします。",
-      "reviewSnippet": "三国志ゲーにで求めてた物がここにある！ 武将プレイが好きな人は楽しめると思う、自分は大満足！ ただクエストの期限？にバグ…",
-      "rawScore": 50.073210831328005,
+      "rawScore": 52.45152427642615,
       "hensachi": 53.5,
       "rank": 10
     },
@@ -241,75 +236,27 @@
       "shortDescription": "A fast-paced co-op action game where you customize your build, survive relentless hordes, and conquer brutal challenges for higher scores and bragging rights.",
       "reviewSnippet": "",
       "rawScore": 46.637622657871766,
-      "hensachi": 52.3,
+      "hensachi": 51.5,
       "rank": 11
     },
     {
-      "appid": 5148990,
-      "name": "Scratch Tickets With Your Friends 🎰",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5148990/22573bb64b820535f3546f486ea1cfbd6fe6bdc1/header.jpg?t=1790500100",
-      "discountPercent": 31,
-      "initialPriceCents": 109700,
-      "finalPriceCents": 75600,
-      "reviewPositiveRate": 74,
-      "reviewCount": 50,
-      "storeUrl": "https://store.steampowered.com/app/5148990/",
-      "genres": [
-        "カジュアル",
-        "RPG",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "家賃は上がり、お金は消えていくカオスなシミュレーション。くじを削り、ゴミを仕分け、設備を強化し、怪しい選択をしながら今日を生き延びよう。🎰💸",
-      "reviewSnippet": "",
-      "rawScore": 46.293661041879005,
-      "hensachi": 52.2,
-      "rank": 12
-    },
-    {
-      "appid": 4882170,
-      "name": "Voltus' Neon Nightmare - Colossal Cure",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4882170/cb45e54ac25139265f451f12a6a326c1f3f9180a/header.jpg?t=1790431263",
-      "discountPercent": 15,
-      "initialPriceCents": 94000,
-      "finalPriceCents": 79900,
-      "reviewPositiveRate": 100,
-      "reviewCount": 3,
-      "storeUrl": "https://store.steampowered.com/app/4882170/",
-      "genres": [
-        "インディー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "After the previous events, you realized that this &quot;mall&quot; place was a trap to send you to another dimension, full of liminal and unknown places. Voltus is now controlled by the Core's energy, forced to keep you away from it.",
-      "reviewSnippet": "",
-      "rawScore": 44.02192449557722,
-      "hensachi": 51.4,
-      "rank": 13
-    },
-    {
-      "appid": 5184740,
-      "name": "枪火幻想",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5184740/ba3f59b7f947968d5b54ce6ce0c224173eb207b4/header.jpg?t=1790417082",
+      "appid": 4670920,
+      "name": "SMS Returns",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4670920/9204dfce7b24f7ccbc389698dd20476fb90ed719/header.jpg?t=1790507087",
       "discountPercent": 10,
-      "initialPriceCents": 26500,
-      "finalPriceCents": 23800,
+      "initialPriceCents": 129900,
+      "finalPriceCents": 116900,
       "reviewPositiveRate": 100,
-      "reviewCount": 1,
-      "storeUrl": "https://store.steampowered.com/app/5184740/",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "ストラテジー"
-      ],
+      "reviewCount": 11,
+      "storeUrl": "https://store.steampowered.com/app/4670920/",
+      "genres": [],
       "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Every night, a boy's mind drifts into an endless monster forest. Facing overwhelming swarms of beasts,Will he ultimately break the nightmare once and for all, or will he be swallowed by the endless tide of monsters?",
+      "releaseYear": null,
+      "shortDescription": "",
       "reviewSnippet": "",
-      "rawScore": 40.635962247788605,
-      "hensachi": 50.2,
-      "rank": 14
+      "rawScore": 43.572382060557075,
+      "hensachi": 50.5,
+      "rank": 12
     },
     {
       "appid": 43918,
@@ -327,8 +274,8 @@
       "shortDescription": "",
       "reviewSnippet": "",
       "rawScore": 31.5,
-      "hensachi": 47,
-      "rank": 15
+      "hensachi": 46.4,
+      "rank": 13
     },
     {
       "appid": 160150,
@@ -346,7 +293,60 @@
       "shortDescription": "",
       "reviewSnippet": "",
       "rawScore": 22.5,
-      "hensachi": 43.8,
+      "hensachi": 43.3,
+      "rank": 14
+    },
+    {
+      "appid": 5246160,
+      "name": "風燕伝 - 桐の遠音パック",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5246160/32091c5987adf58f7453ffc7d2a3c637fe8b449a/header_japanese.jpg?t=1790514761",
+      "discountPercent": 40,
+      "initialPriceCents": 510000,
+      "finalPriceCents": 306000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5246160/",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "カジュアル",
+        "インディー",
+        "MM（Massively Multiplayer）",
+        "レース",
+        "RPG",
+        "シミュレーション",
+        "ストラテジー",
+        "無料プレイ"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "このアイテムを購入すると以下を獲得：外見一式「桐の遠音」x1、優雅な音色 x5。",
+      "reviewSnippet": "",
+      "rawScore": 18,
+      "hensachi": 41.7,
+      "rank": 15
+    },
+    {
+      "appid": 5170400,
+      "name": "Platform Chess",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5170400/98c97f588837881fce92bbd6dbac5ee4227e92c0/header.jpg?t=1790513717",
+      "discountPercent": 40,
+      "initialPriceCents": 65500,
+      "finalPriceCents": 39300,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5170400/",
+      "genres": [
+        "アクション",
+        "カジュアル",
+        "ストラテジー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Platform Chess combines classic board strategy with platform-fighting combat. Plan your moves, battle for captures, and master the unique abilities of every chess piece in local matches or against the computer.",
+      "reviewSnippet": "",
+      "rawScore": 18,
+      "hensachi": 41.7,
       "rank": 16
     },
     {
@@ -365,7 +365,7 @@
       "shortDescription": "",
       "reviewSnippet": "",
       "rawScore": 11.25,
-      "hensachi": 39.9,
+      "hensachi": 39.4,
       "rank": 17
     },
     {
@@ -388,7 +388,7 @@
       "shortDescription": "未知の世界を探索・スキャンし、その地を切り拓きましょう。ローバーを展開して隠された資源を発見し、生存・適応・拡大を続ける完全自動化されたコロニーを築き上げてください。",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 39.1,
+      "hensachi": 38.7,
       "rank": 18
     },
     {
@@ -396,8 +396,8 @@
       "name": "WPG Ravelin",
       "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5135630/71fb3cf9c672ad79f46d131aaf8fa84670c494bb/header.jpg?t=1790495186",
       "discountPercent": 10,
-      "initialPriceCents": 145000,
-      "finalPriceCents": 130500,
+      "initialPriceCents": 39500,
+      "finalPriceCents": 35500,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
       "storeUrl": "https://store.steampowered.com/app/5135630/",
@@ -411,7 +411,7 @@
       "shortDescription": "WPG Ravelin is a single‑player first‑person tower‑defense shooter. Build fortifications, deploy turrets, fight against hordes of enemies and defend your camp.",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 37.5,
+      "hensachi": 37.1,
       "rank": 19
     },
     {
@@ -430,7 +430,7 @@
       "shortDescription": "",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 37.5,
+      "hensachi": 37.1,
       "rank": 20
     },
     {
@@ -453,7 +453,7 @@
       "shortDescription": "宇宙の虚空に漂う一粒の原子から始まります。神秘の元素を融合し、未知の惑星を誕生させ、軌道巨大構造物を建造して、創世の深淵なる秘密を解き明かしましょう！",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 37.5,
+      "hensachi": 37.1,
       "rank": 21
     },
     {
@@ -472,51 +472,8 @@
       "shortDescription": "",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 37.5,
+      "hensachi": 37.1,
       "rank": 22
-    },
-    {
-      "appid": 5191570,
-      "name": "Section 80",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5191570/1383b7ec0bbd85ec472db69f3f0a039fa20fb17e/header.jpg?t=1790411566",
-      "discountPercent": 10,
-      "initialPriceCents": 65500,
-      "finalPriceCents": 58900,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5191570/",
-      "genres": [
-        "アクション",
-        "インディー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "The unpredictable ten-billion watt Electro-Blob is back in a whole new action game, and this time your mission is to try and contain it in less than a 20% section of the arena! Hunters will keep you on your toes, because if they touch you, it will spark yet another golden Electro-Blob to conquer!",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 37.5,
-      "rank": 23
-    },
-    {
-      "appid": 4798740,
-      "name": "Gemorium",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798740/92ad79429940e283d4225cc81ca54ba0aff19d23/header.jpg?t=1790410869",
-      "discountPercent": 10,
-      "initialPriceCents": 39500,
-      "finalPriceCents": 35500,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4798740/",
-      "genres": [
-        "インディー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Gemoriumは、岩を砕き、鉱物を集め、新たな要素をアンロックしていく、のんびり楽しめる採掘クリッカーです。 急ぐ必要も、プレッシャーもありません。 あなたとツルハシ、そして無限に広がる岩だけ。 デスクトップウィジェットとして起動したまま、他のことをしながら採掘を続けることもできます。",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 37.5,
-      "rank": 24
     }
   ]
 }
