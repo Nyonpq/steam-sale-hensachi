@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-27T16:09:36.339Z",
+  "fetchedAt": "2026-09-27T20:40:44.705Z",
   "currency": "JPY",
-  "count": 22,
-  "averageDiscount": 37.5,
+  "count": 23,
+  "averageDiscount": 38.7,
   "deals": [
     {
       "appid": 1687950,
@@ -12,7 +12,7 @@
       "initialPriceCents": 767800,
       "finalPriceCents": 230300,
       "reviewPositiveRate": 96.4,
-      "reviewCount": 140475,
+      "reviewCount": 140491,
       "storeUrl": "https://store.steampowered.com/app/1687950/",
       "genres": [
         "ターン制ストラテジー",
@@ -23,8 +23,8 @@
       "releaseYear": 2022,
       "shortDescription": "奪え、その意志で。",
       "reviewSnippet": "シナリオ、ゲーム性、システムなど、どれをとっても最高です。自信を持ってお勧めできるゲームです。私はあまりゲームを周回しよ…",
-      "rawScore": 84.66491370705651,
-      "hensachi": 64.5,
+      "rawScore": 84.6651003585873,
+      "hensachi": 64,
       "rank": 1
     },
     {
@@ -35,7 +35,7 @@
       "initialPriceCents": 767800,
       "finalPriceCents": 230300,
       "reviewPositiveRate": 94.3,
-      "reviewCount": 64294,
+      "reviewCount": 64312,
       "storeUrl": "https://store.steampowered.com/app/2161700/",
       "genres": [
         "ターン制ストラテジー",
@@ -44,10 +44,29 @@
       "supportsJapanese": false,
       "releaseYear": null,
       "shortDescription": "",
-      "reviewSnippet": "素晴らしいシナリオ、素晴らしい音楽、素晴らしいキャラクター、素晴らしいエンディング、一生忘れることのないだろう名作でした…",
-      "rawScore": 82.64906490813617,
-      "hensachi": 63.8,
+      "reviewSnippet": "結論から言うと神ゲー 個人的にはペルソナ345の中だと一番面白い ストーリーは長いけどしっかりとしてて何よりエンディング…",
+      "rawScore": 82.64952365483964,
+      "hensachi": 63.3,
       "rank": 2
+    },
+    {
+      "appid": 1462040,
+      "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg?t=1789446715",
+      "discountPercent": 75,
+      "initialPriceCents": 547800,
+      "finalPriceCents": 136900,
+      "reviewPositiveRate": 86.6,
+      "reviewCount": 53356,
+      "storeUrl": "https://store.steampowered.com/app/1462040/",
+      "genres": [],
+      "supportsJapanese": false,
+      "releaseYear": null,
+      "shortDescription": "",
+      "reviewSnippet": "買い時間違えた。急に安くなりすぎだろ。 今はチャプター３の所やってますけど、このゲーム面白いですよ。 ファイナルファンタ…",
+      "rawScore": 81.89845812590909,
+      "hensachi": 63,
+      "rank": 3
     },
     {
       "appid": 524220,
@@ -57,7 +76,7 @@
       "initialPriceCents": 528000,
       "finalPriceCents": 211200,
       "reviewPositiveRate": 87.4,
-      "reviewCount": 153649,
+      "reviewCount": 153665,
       "storeUrl": "https://store.steampowered.com/app/524220/",
       "genres": [
         "ハクスラ",
@@ -66,10 +85,10 @@
       "supportsJapanese": false,
       "releaseYear": null,
       "shortDescription": "",
-      "reviewSnippet": "こんな神ゲーが現れるからゲームはやめられない、最高の一作 プレイしていない人は絶対にプレイすべき にしても、これを超える…",
-      "rawScore": 77.16182099846188,
-      "hensachi": 61.9,
-      "rank": 3
+      "reviewSnippet": "一応おすすめにするけどマイナスに感じるところが多いしそれぞれのマイナス幅が大きすぎる レプリカントよりはよほど面白いけど…",
+      "rawScore": 77.16199164726407,
+      "hensachi": 61.4,
+      "rank": 4
     },
     {
       "appid": 2679460,
@@ -79,7 +98,7 @@
       "initialPriceCents": 987800,
       "finalPriceCents": 395100,
       "reviewPositiveRate": 89.6,
-      "reviewCount": 43347,
+      "reviewCount": 43353,
       "storeUrl": "https://store.steampowered.com/app/2679460/",
       "genres": [
         "ターン制ストラテジー"
@@ -88,9 +107,9 @@
       "releaseYear": null,
       "shortDescription": "",
       "reviewSnippet": "ここ最近で一番熱中したゲーム。 ペルソナファンだったら脳死で購入していいレベル。こういうのでいいんだよ。",
-      "rawScore": 75.85799647054985,
-      "hensachi": 61.5,
-      "rank": 4
+      "rawScore": 75.85822329536646,
+      "hensachi": 61,
+      "rank": 5
     },
     {
       "appid": 2909400,
@@ -100,16 +119,16 @@
       "initialPriceCents": 657800,
       "finalPriceCents": 197300,
       "reviewPositiveRate": 74.7,
-      "reviewCount": 35977,
+      "reviewCount": 35986,
       "storeUrl": "https://store.steampowered.com/app/2909400/",
       "genres": [],
       "supportsJapanese": false,
       "releaseYear": null,
       "shortDescription": "",
       "reviewSnippet": "戦闘◎ ムービー◎ ミニゲーム▲ ２週しないとスキルツリーなどをコンプできない水増し具合に問題あり バトルシミュレーター…",
-      "rawScore": 74.83759251870089,
-      "hensachi": 61.1,
-      "rank": 5
+      "rawScore": 74.83800242974071,
+      "hensachi": 60.7,
+      "rank": 6
     },
     {
       "appid": 570940,
@@ -119,7 +138,7 @@
       "initialPriceCents": 473000,
       "finalPriceCents": 236500,
       "reviewPositiveRate": 92.4,
-      "reviewCount": 155702,
+      "reviewCount": 155720,
       "storeUrl": "https://store.steampowered.com/app/570940/",
       "genres": [
         "ソウルライク",
@@ -129,46 +148,31 @@
       "releaseYear": 2018,
       "shortDescription": "世界中を熱狂させた本格アクションRPGが待望のリマスター化。グラフィックの最適化、オンラインプレイの拡張、さらに追加DLCを完全収録し、絶望と希望のダークファンタジーが蘇る",
       "reviewSnippet": "ダークソウルの原点、そのリマスター版 今やるとちょっと気になる部分もあるけれど、それでも面白いゲームであるのは間違いない",
-      "rawScore": 74.43357351093056,
-      "hensachi": 61,
-      "rank": 6
-    },
-    {
-      "appid": 2455640,
-      "name": "ロマンシング サガ2 リベンジオブザセブン",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455640/header_japanese.jpg?t=1777013886",
-      "discountPercent": 60,
-      "initialPriceCents": 682000,
-      "finalPriceCents": 272800,
-      "reviewPositiveRate": 93.2,
-      "reviewCount": 4814,
-      "storeUrl": "https://store.steampowered.com/app/2455640/",
-      "genres": [],
-      "supportsJapanese": false,
-      "releaseYear": null,
-      "shortDescription": "",
-      "reviewSnippet": "スクエニは過去の名作をリメイクする時は全部ここにやらせろ",
-      "rawScore": 73.51658977909642,
-      "hensachi": 60.7,
+      "rawScore": 74.43376295842248,
+      "hensachi": 60.5,
       "rank": 7
     },
     {
-      "appid": 3101040,
-      "name": "魔法少女ノ魔女裁判",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3101040/header.jpg?t=1789891545",
-      "discountPercent": 20,
-      "initialPriceCents": 350000,
-      "finalPriceCents": 280000,
-      "reviewPositiveRate": 96.5,
-      "reviewCount": 34471,
-      "storeUrl": "https://store.steampowered.com/app/3101040/",
-      "genres": [],
+      "appid": 335300,
+      "name": "DARK SOULS™ II: Scholar of the First Sin",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/335300/header_japanese.jpg?t=1760721873",
+      "discountPercent": 50,
+      "initialPriceCents": 572000,
+      "finalPriceCents": 286000,
+      "reviewPositiveRate": 83.9,
+      "reviewCount": 132460,
+      "storeUrl": "https://store.steampowered.com/app/335300/",
+      "genres": [
+        "ソウルライク",
+        "アクション",
+        "RPG"
+      ],
       "supportsJapanese": false,
-      "releaseYear": null,
-      "shortDescription": "",
-      "reviewSnippet": "最初はそうでもなかったんです。 あー、こんな感じのゲームなんだなと少し退屈に感じていました。 なので私からは一つだけ、絶…",
-      "rawScore": 59.897515022944575,
-      "hensachi": 56,
+      "releaseYear": 2015,
+      "shortDescription": "手強い難易度で高い達成感に繋がるレベルデザインを追求した本格ダークファンタジー「DARK SOULS Ⅱ」に、現在配信中の3つのDLCステージを完全収録し、高性能なマシンスペックを活かした新たなアレンジを施したハイスペックバージョンです。",
+      "reviewSnippet": "ネットでは否定的な意見が多いが私には神ゲー、 ネットの意見だけを見てプレイを避けるのは あまりにも勿体無い、フロムのソウ…",
+      "rawScore": 71.19363407314145,
+      "hensachi": 59.4,
       "rank": 8
     },
     {
@@ -190,7 +194,7 @@
       "shortDescription": "Minigolf game with darker horror themed maps. 2 different levels with totally 28 holes. Play alone and try to make good score",
       "reviewSnippet": "",
       "rawScore": 54.135962247788605,
-      "hensachi": 54.1,
+      "hensachi": 53.7,
       "rank": 9
     },
     {
@@ -200,8 +204,8 @@
       "discountPercent": 10,
       "initialPriceCents": 192300,
       "finalPriceCents": 173000,
-      "reviewPositiveRate": 97.6,
-      "reviewCount": 4515,
+      "reviewPositiveRate": 97.7,
+      "reviewCount": 4699,
       "storeUrl": "https://store.steampowered.com/app/4019220/",
       "genres": [
         "カジュアル",
@@ -211,33 +215,53 @@
       "releaseYear": 2026,
       "shortDescription": "ドレスメーカーになろう！本作は実際の仕立て現場に着想を得た、ゆるく遊べるクラフトゲームです。生地を選んだら、切り抜いたパターンピースをすべて縫い合わせて、注文の多い町人たちの期待に応えてあげましょう（わざとダメな服をつくるのもアリ）！",
       "reviewSnippet": "『わがままファッション ガールズモード』をDSでやってたガルモおじさんとしては再就職せざるを得ない",
-      "rawScore": 52.45152427642615,
-      "hensachi": 53.5,
+      "rawScore": 52.551973048814034,
+      "hensachi": 53.2,
       "rank": 10
     },
     {
-      "appid": 3778250,
-      "name": "Horde Slayer",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3778250/ff74e6cfe516b6e22d7ab3660e2bcbc0012db8e1/header.jpg?t=1790449394",
-      "discountPercent": 20,
-      "initialPriceCents": 40500,
-      "finalPriceCents": 32400,
-      "reviewPositiveRate": 100,
-      "reviewCount": 4,
-      "storeUrl": "https://store.steampowered.com/app/3778250/",
+      "appid": 3303790,
+      "name": "Death Delivery",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3303790/f0fd4a0f9d223da765e1431a5f11f7ef47793904/header.jpg?t=1790540028",
+      "discountPercent": 40,
+      "initialPriceCents": 58000,
+      "finalPriceCents": 34800,
+      "reviewPositiveRate": 73.5,
+      "reviewCount": 34,
+      "storeUrl": "https://store.steampowered.com/app/3303790/",
       "genres": [
+        "弾幕",
+        "ハクスラ",
         "アクション",
-        "アドベンチャー",
-        "インディー",
-        "RPG"
+        "カジュアル",
+        "インディー"
       ],
-      "supportsJapanese": true,
+      "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "A fast-paced co-op action game where you customize your build, survive relentless hordes, and conquer brutal challenges for higher scores and bragging rights.",
+      "shortDescription": "Death Delivery は、80 年代の様式化されたスローモーション、音楽、アクション、昔ながらの試行錯誤の難易度を備えた、香港映画にインスピレーションを得た、残忍で満足のいくペースの速いファーストパーソン シューティング ゲームです。",
       "reviewSnippet": "",
-      "rawScore": 46.637622657871766,
-      "hensachi": 51.5,
+      "rawScore": 49.551671865472734,
+      "hensachi": 52.2,
       "rank": 11
+    },
+    {
+      "appid": 2750230,
+      "name": "Mega Merge",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2750230/3df53c004955fe4468f5bbe382cc9f34d9b82c97/header.jpg?t=1790524354",
+      "discountPercent": 20,
+      "initialPriceCents": 90500,
+      "finalPriceCents": 72400,
+      "reviewPositiveRate": 100,
+      "reviewCount": 2,
+      "storeUrl": "https://store.steampowered.com/app/2750230/",
+      "genres": [],
+      "supportsJapanese": false,
+      "releaseYear": null,
+      "shortDescription": "",
+      "reviewSnippet": "",
+      "rawScore": 45.80045756497986,
+      "hensachi": 50.9,
+      "rank": 12
     },
     {
       "appid": 4670920,
@@ -247,16 +271,16 @@
       "initialPriceCents": 129900,
       "finalPriceCents": 116900,
       "reviewPositiveRate": 100,
-      "reviewCount": 11,
+      "reviewCount": 13,
       "storeUrl": "https://store.steampowered.com/app/4670920/",
       "genres": [],
       "supportsJapanese": false,
       "releaseYear": null,
       "shortDescription": "",
       "reviewSnippet": "",
-      "rawScore": 43.572382060557075,
-      "hensachi": 50.5,
-      "rank": 12
+      "rawScore": 43.82501145538958,
+      "hensachi": 50.3,
+      "rank": 13
     },
     {
       "appid": 43918,
@@ -274,8 +298,8 @@
       "shortDescription": "",
       "reviewSnippet": "",
       "rawScore": 31.5,
-      "hensachi": 46.4,
-      "rank": 13
+      "hensachi": 46.1,
+      "rank": 14
     },
     {
       "appid": 160150,
@@ -293,37 +317,7 @@
       "shortDescription": "",
       "reviewSnippet": "",
       "rawScore": 22.5,
-      "hensachi": 43.3,
-      "rank": 14
-    },
-    {
-      "appid": 5246160,
-      "name": "風燕伝 - 桐の遠音パック",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5246160/32091c5987adf58f7453ffc7d2a3c637fe8b449a/header_japanese.jpg?t=1790514761",
-      "discountPercent": 40,
-      "initialPriceCents": 510000,
-      "finalPriceCents": 306000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5246160/",
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "カジュアル",
-        "インディー",
-        "MM（Massively Multiplayer）",
-        "レース",
-        "RPG",
-        "シミュレーション",
-        "ストラテジー",
-        "無料プレイ"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "このアイテムを購入すると以下を獲得：外見一式「桐の遠音」x1、優雅な音色 x5。",
-      "reviewSnippet": "",
-      "rawScore": 18,
-      "hensachi": 41.7,
+      "hensachi": 43.1,
       "rank": 15
     },
     {
@@ -346,7 +340,7 @@
       "shortDescription": "Platform Chess combines classic board strategy with platform-fighting combat. Plan your moves, battle for captures, and master the unique abilities of every chess piece in local matches or against the computer.",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 41.7,
+      "hensachi": 41.6,
       "rank": 16
     },
     {
@@ -376,7 +370,7 @@
       "initialPriceCents": 315000,
       "finalPriceCents": 252000,
       "reviewPositiveRate": 0,
-      "reviewCount": 0,
+      "reviewCount": 1,
       "storeUrl": "https://store.steampowered.com/app/4132030/",
       "genres": [
         "インディー",
@@ -387,9 +381,55 @@
       "releaseYear": 2026,
       "shortDescription": "未知の世界を探索・スキャンし、その地を切り拓きましょう。ローバーを展開して隠された資源を発見し、生存・適応・拡大を続ける完全自動化されたコロニーを築き上げてください。",
       "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 38.7,
+      "rawScore": 10.135962247788608,
+      "hensachi": 39,
       "rank": 18
+    },
+    {
+      "appid": 3023020,
+      "name": "Cats in Wonderland",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3023020/header.jpg?t=1790525237",
+      "discountPercent": 20,
+      "initialPriceCents": 65500,
+      "finalPriceCents": 52400,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/3023020/",
+      "genres": [
+        "アドベンチャー",
+        "カジュアル"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "The Queen of Hearts had a fit of rage after the Cheshire Cat refused to be her pet and ordered the capture of all the cats in Wonderland. Find them before her and prevent anything bad from happening.",
+      "reviewSnippet": "",
+      "rawScore": 9,
+      "hensachi": 38.6,
+      "rank": 19
+    },
+    {
+      "appid": 4918820,
+      "name": "The Crunch Point",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4918820/7485e30ccb33c9da8c09b0a1a31b8f205d0566ad/header.jpg?t=1790515399",
+      "discountPercent": 10,
+      "initialPriceCents": 40500,
+      "finalPriceCents": 36400,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4918820/",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "あなたを助けるフリをする声がある。ヒントは嘘、正解は罠。「わかった」と言った瞬間にジャンルが変わる：パルクールからクイズへ、暗闇から迷宮へ。死んで、学んで、笑え。フェアだが容赦ないトロール——そして最後の選択は、本当にあなたのものだ。",
+      "reviewSnippet": "",
+      "rawScore": 4.5,
+      "hensachi": 37.1,
+      "rank": 20
     },
     {
       "appid": 5135630,
@@ -412,7 +452,7 @@
       "reviewSnippet": "",
       "rawScore": 4.5,
       "hensachi": 37.1,
-      "rank": 19
+      "rank": 21
     },
     {
       "appid": 5214410,
@@ -431,7 +471,7 @@
       "reviewSnippet": "",
       "rawScore": 4.5,
       "hensachi": 37.1,
-      "rank": 20
+      "rank": 22
     },
     {
       "appid": 5124550,
@@ -454,26 +494,7 @@
       "reviewSnippet": "",
       "rawScore": 4.5,
       "hensachi": 37.1,
-      "rank": 21
-    },
-    {
-      "appid": 5099160,
-      "name": "After School Sparkles: Complete Edition",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5099160/396459d006dd6c3f16e69a299feaaa579f76e69a/header.jpg?t=1790444044",
-      "discountPercent": 10,
-      "initialPriceCents": 260000,
-      "finalPriceCents": 234000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5099160/",
-      "genres": [],
-      "supportsJapanese": false,
-      "releaseYear": null,
-      "shortDescription": "",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 37.1,
-      "rank": 22
+      "rank": 23
     }
   ]
 }
