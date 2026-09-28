@@ -1,9 +1,34 @@
 {
-  "fetchedAt": "2026-09-27T20:40:44.705Z",
+  "fetchedAt": "2026-09-28T02:54:18.121Z",
   "currency": "JPY",
-  "count": 23,
-  "averageDiscount": 38.7,
+  "count": 27,
+  "averageDiscount": 36.4,
   "deals": [
+    {
+      "appid": 1145360,
+      "name": "Hades",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg?t=1758127023",
+      "discountPercent": 75,
+      "initialPriceCents": 280000,
+      "finalPriceCents": 70000,
+      "reviewPositiveRate": 98,
+      "reviewCount": 308851,
+      "storeUrl": "https://store.steampowered.com/app/1145360/",
+      "genres": [
+        "ローグライト",
+        "ハクスラ",
+        "アクション",
+        "インディー",
+        "RPG"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2020,
+      "shortDescription": "死者の国の神に背き、戦いを切り抜けて冥界から脱せよ。『Bastion』、『Transistor』、『Pyre』のクリエイターによるローグライク・ダンジョンアドベンチャー。",
+      "reviewSnippet": "一通りクリア。 私のようにどんなにアクションが苦手でも、 永久アプグレでなんとかなります。",
+      "rawScore": 88.05,
+      "hensachi": 65.4,
+      "rank": 1
+    },
     {
       "appid": 1687950,
       "name": "ペルソナ５ ザ・ロイヤル",
@@ -12,7 +37,7 @@
       "initialPriceCents": 767800,
       "finalPriceCents": 230300,
       "reviewPositiveRate": 96.4,
-      "reviewCount": 140491,
+      "reviewCount": 140512,
       "storeUrl": "https://store.steampowered.com/app/1687950/",
       "genres": [
         "ターン制ストラテジー",
@@ -22,10 +47,10 @@
       "supportsJapanese": true,
       "releaseYear": 2022,
       "shortDescription": "奪え、その意志で。",
-      "reviewSnippet": "シナリオ、ゲーム性、システムなど、どれをとっても最高です。自信を持ってお勧めできるゲームです。私はあまりゲームを周回しよ…",
-      "rawScore": 84.6651003585873,
-      "hensachi": 64,
-      "rank": 1
+      "reviewSnippet": "神ゲーと言う言葉ですら比喩できない 最高のゲームでした 本当にありがとう",
+      "rawScore": 84.66534530646507,
+      "hensachi": 64.2,
+      "rank": 2
     },
     {
       "appid": 2161700,
@@ -35,37 +60,21 @@
       "initialPriceCents": 767800,
       "finalPriceCents": 230300,
       "reviewPositiveRate": 94.3,
-      "reviewCount": 64312,
+      "reviewCount": 64339,
       "storeUrl": "https://store.steampowered.com/app/2161700/",
       "genres": [
         "ターン制ストラテジー",
-        "ビジュアルノベル"
+        "ビジュアルノベル",
+        "アドベンチャー",
+        "RPG",
+        "ストラテジー"
       ],
-      "supportsJapanese": false,
-      "releaseYear": null,
-      "shortDescription": "",
+      "supportsJapanese": true,
+      "releaseYear": 2024,
+      "shortDescription": "『ペルソナ３』が、装いを新たに現行最新ハードにて生まれ変わる！",
       "reviewSnippet": "結論から言うと神ゲー 個人的にはペルソナ345の中だと一番面白い ストーリーは長いけどしっかりとしてて何よりエンディング…",
-      "rawScore": 82.64952365483964,
-      "hensachi": 63.3,
-      "rank": 2
-    },
-    {
-      "appid": 1462040,
-      "name": "FINAL FANTASY VII REMAKE INTERGRADE",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg?t=1789446715",
-      "discountPercent": 75,
-      "initialPriceCents": 547800,
-      "finalPriceCents": 136900,
-      "reviewPositiveRate": 86.6,
-      "reviewCount": 53356,
-      "storeUrl": "https://store.steampowered.com/app/1462040/",
-      "genres": [],
-      "supportsJapanese": false,
-      "releaseYear": null,
-      "shortDescription": "",
-      "reviewSnippet": "買い時間違えた。急に安くなりすぎだろ。 今はチャプター３の所やってますけど、このゲーム面白いですよ。 ファイナルファンタ…",
-      "rawScore": 81.89845812590909,
-      "hensachi": 63,
+      "rawScore": 82.65021153421114,
+      "hensachi": 63.5,
       "rank": 3
     },
     {
@@ -76,19 +85,42 @@
       "initialPriceCents": 528000,
       "finalPriceCents": 211200,
       "reviewPositiveRate": 87.4,
-      "reviewCount": 153665,
+      "reviewCount": 153673,
       "storeUrl": "https://store.steampowered.com/app/524220/",
       "genres": [
         "ハクスラ",
-        "弾幕"
+        "弾幕",
+        "アクション",
+        "RPG"
       ],
-      "supportsJapanese": false,
-      "releaseYear": null,
-      "shortDescription": "",
+      "supportsJapanese": true,
+      "releaseYear": 2017,
+      "shortDescription": "これは呪いか。それとも罰か。 『NieR:Automata』は、スクウェア・エニックスがプロデュース、プラチナゲームズが開発を手掛けるアクションRPGです。 舞台は、宇宙人が繰り出す「機械生命体」の圧倒的戦力を前に、人類が月へと敗走している遥か未来。プレイヤーは、新たに組織されたアンドロイド部隊「ヨルハ」所属の「2B」となり、地球奪還のための熾烈な戦いに身を投じます。 単なるエンターテインメント作品にとどまらない、さまざまな感情をかき立てる物語を、滑らかな60fpsのオープンワールドでお楽しみいただけます。",
       "reviewSnippet": "一応おすすめにするけどマイナスに感じるところが多いしそれぞれのマイナス幅が大きすぎる レプリカントよりはよほど面白いけど…",
-      "rawScore": 77.16199164726407,
-      "hensachi": 61.4,
+      "rawScore": 77.16207696500219,
+      "hensachi": 61.6,
       "rank": 4
+    },
+    {
+      "appid": 292030,
+      "name": "ウィッチャー３　ワイルドハント　コンプリートエディション",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/82e03fb94c6a596d90fe2c9f054eefdd35df8f2b/header_alt_assets_4_japanese.jpg?t=1788333513",
+      "discountPercent": 50,
+      "initialPriceCents": 649000,
+      "finalPriceCents": 324500,
+      "reviewPositiveRate": 96.8,
+      "reviewCount": 889377,
+      "storeUrl": "https://store.steampowered.com/app/292030/",
+      "genres": [
+        "RPG"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2015,
+      "shortDescription": "怪物狩りを生業とするウィッチャー、「リヴィアのゲラルト」となり、〈予言の子〉を見つけ出す冒険へと身を投じよう。ストーリー重視のオープンワールドRPG『ウィッチャー３ ワイルドハント』では、重大な結果に繋がる様々な決断を下しながら、戦争と怪物たちの恐怖に晒された大陸を旅していくことになる。",
+      "reviewSnippet": "控えめに言って「最高」 バグや動作のもっさり感はあるけど、それを補って余りある壮大な作品です。 ストーリー重視の作品が好…",
+      "rawScore": 76.38,
+      "hensachi": 61.3,
+      "rank": 5
     },
     {
       "appid": 2679460,
@@ -98,36 +130,20 @@
       "initialPriceCents": 987800,
       "finalPriceCents": 395100,
       "reviewPositiveRate": 89.6,
-      "reviewCount": 43353,
+      "reviewCount": 43356,
       "storeUrl": "https://store.steampowered.com/app/2679460/",
       "genres": [
-        "ターン制ストラテジー"
+        "ターン制ストラテジー",
+        "アクション",
+        "アドベンチャー",
+        "RPG"
       ],
-      "supportsJapanese": false,
-      "releaseYear": null,
-      "shortDescription": "",
+      "supportsJapanese": true,
+      "releaseYear": 2024,
+      "shortDescription": "『メタファー：リファンタジオ』は、国王暗殺後に突如始まった選挙に巻き込まれ、新王の候補者となった少年の運命を描くファンタジーRPGです。世界を巡る日々の過ごし方は自由で、様々なクラスとパーティーを駆使した強敵たちとのバトルが待ち受ける。さあ“幻想でしかできない現実の旅”を始めよう。",
       "reviewSnippet": "ここ最近で一番熱中したゲーム。 ペルソナファンだったら脳死で購入していいレベル。こういうのでいいんだよ。",
-      "rawScore": 75.85822329536646,
-      "hensachi": 61,
-      "rank": 5
-    },
-    {
-      "appid": 2909400,
-      "name": "FINAL FANTASY VII REBIRTH",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg?t=1789446799",
-      "discountPercent": 70,
-      "initialPriceCents": 657800,
-      "finalPriceCents": 197300,
-      "reviewPositiveRate": 74.7,
-      "reviewCount": 35986,
-      "storeUrl": "https://store.steampowered.com/app/2909400/",
-      "genres": [],
-      "supportsJapanese": false,
-      "releaseYear": null,
-      "shortDescription": "",
-      "reviewSnippet": "戦闘◎ ムービー◎ ミニゲーム▲ ２週しないとスキルツリーなどをコンプできない水増し具合に問題あり バトルシミュレーター…",
-      "rawScore": 74.83800242974071,
-      "hensachi": 60.7,
+      "rawScore": 75.8583366960032,
+      "hensachi": 61.2,
       "rank": 6
     },
     {
@@ -138,7 +154,7 @@
       "initialPriceCents": 473000,
       "finalPriceCents": 236500,
       "reviewPositiveRate": 92.4,
-      "reviewCount": 155720,
+      "reviewCount": 155751,
       "storeUrl": "https://store.steampowered.com/app/570940/",
       "genres": [
         "ソウルライク",
@@ -148,9 +164,30 @@
       "releaseYear": 2018,
       "shortDescription": "世界中を熱狂させた本格アクションRPGが待望のリマスター化。グラフィックの最適化、オンラインプレイの拡張、さらに追加DLCを完全収録し、絶望と希望のダークファンタジーが蘇る",
       "reviewSnippet": "ダークソウルの原点、そのリマスター版 今やるとちょっと気になる部分もあるけれど、それでも面白いゲームであるのは間違いない",
-      "rawScore": 74.43376295842248,
-      "hensachi": 60.5,
+      "rawScore": 74.43408917777577,
+      "hensachi": 60.7,
       "rank": 7
+    },
+    {
+      "appid": 2455640,
+      "name": "ロマンシング サガ2 リベンジオブザセブン",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455640/header_japanese.jpg?t=1777013886",
+      "discountPercent": 60,
+      "initialPriceCents": 682000,
+      "finalPriceCents": 272800,
+      "reviewPositiveRate": 93.2,
+      "reviewCount": 4816,
+      "storeUrl": "https://store.steampowered.com/app/2455640/",
+      "genres": [
+        "RPG"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2024,
+      "shortDescription": "『ロマンシング サガ2』のフルリメイク！グラフィックは3D化、ゲームシステムは現代風にアレンジ、BGMアレンジ、ボイス対応。プレイヤーは歴代皇帝として、七英雄との数千年にわたる戦いに挑みます。",
+      "reviewSnippet": "スクエニは過去の名作をリメイクする時は全部ここにやらせろ",
+      "rawScore": 73.51727036345069,
+      "hensachi": 60.3,
+      "rank": 8
     },
     {
       "appid": 335300,
@@ -160,7 +197,7 @@
       "initialPriceCents": 572000,
       "finalPriceCents": 286000,
       "reviewPositiveRate": 83.9,
-      "reviewCount": 132460,
+      "reviewCount": 132483,
       "storeUrl": "https://store.steampowered.com/app/335300/",
       "genres": [
         "ソウルライク",
@@ -171,30 +208,8 @@
       "releaseYear": 2015,
       "shortDescription": "手強い難易度で高い達成感に繋がるレベルデザインを追求した本格ダークファンタジー「DARK SOULS Ⅱ」に、現在配信中の3つのDLCステージを完全収録し、高性能なマシンスペックを活かした新たなアレンジを施したハイスペックバージョンです。",
       "reviewSnippet": "ネットでは否定的な意見が多いが私には神ゲー、 ネットの意見だけを見てプレイを避けるのは あまりにも勿体無い、フロムのソウ…",
-      "rawScore": 71.19363407314145,
-      "hensachi": 59.4,
-      "rank": 8
-    },
-    {
-      "appid": 5242170,
-      "name": "Horror Golf",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5242170/56afe57fe03c2cfe12075540909a3ff3df104d11/header.jpg?t=1790494058",
-      "discountPercent": 40,
-      "initialPriceCents": 13500,
-      "finalPriceCents": 8100,
-      "reviewPositiveRate": 100,
-      "reviewCount": 1,
-      "storeUrl": "https://store.steampowered.com/app/5242170/",
-      "genres": [
-        "カジュアル",
-        "インディー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Minigolf game with darker horror themed maps. 2 different levels with totally 28 holes. Play alone and try to make good score",
-      "reviewSnippet": "",
-      "rawScore": 54.135962247788605,
-      "hensachi": 53.7,
+      "rawScore": 71.19391861131678,
+      "hensachi": 59.5,
       "rank": 9
     },
     {
@@ -204,8 +219,8 @@
       "discountPercent": 10,
       "initialPriceCents": 192300,
       "finalPriceCents": 173000,
-      "reviewPositiveRate": 97.7,
-      "reviewCount": 4699,
+      "reviewPositiveRate": 97.8,
+      "reviewCount": 4954,
       "storeUrl": "https://store.steampowered.com/app/4019220/",
       "genres": [
         "カジュアル",
@@ -215,9 +230,34 @@
       "releaseYear": 2026,
       "shortDescription": "ドレスメーカーになろう！本作は実際の仕立て現場に着想を得た、ゆるく遊べるクラフトゲームです。生地を選んだら、切り抜いたパターンピースをすべて縫い合わせて、注文の多い町人たちの期待に応えてあげましょう（わざとダメな服をつくるのもアリ）！",
       "reviewSnippet": "『わがままファッション ガールズモード』をDSでやってたガルモおじさんとしては再就職せざるを得ない",
-      "rawScore": 52.551973048814034,
-      "hensachi": 53.2,
+      "rawScore": 52.67356097668413,
+      "hensachi": 53.1,
       "rank": 10
+    },
+    {
+      "appid": 3020510,
+      "name": "Heroes' Vow: Three Kingdoms",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3020510/5da5e2f53fa0a7b7d7eb97f6006f8567dd60f663/header_japanese.jpg?t=1790499638",
+      "discountPercent": 10,
+      "initialPriceCents": 230000,
+      "finalPriceCents": 207000,
+      "reviewPositiveRate": 87.9,
+      "reviewCount": 8445,
+      "storeUrl": "https://store.steampowered.com/app/3020510/",
+      "genres": [
+        "ターン制ストラテジー",
+        "インディー",
+        "RPG",
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "本作は三国志を背景としたRPGサンドボックスゲームです。あなたは一人の英雄となり、後漢末期の三国世界で思うままに振る舞うことができます。君主、臣下、あるいは隠者として生きることも可能です。交友、結婚と子育て、一族の運営、邸宅の管理、自身や仲間たちの育成、内政の処理、精鋭部隊の訓練、歴史的な大事件の体験や改変を行い、最後には武力で天下を席巻し、民心を掴んで天下統一を果たします。",
+      "reviewSnippet": "三国志ゲーにで求めてた物がここにある！ 武将プレイが好きな人は楽しめると思う、自分は大満足！ ただクエストの期限？にバグ…",
+      "rawScore": 50.082551234297696,
+      "hensachi": 52.2,
+      "rank": 11
     },
     {
       "appid": 3303790,
@@ -241,8 +281,8 @@
       "shortDescription": "Death Delivery は、80 年代の様式化されたスローモーション、音楽、アクション、昔ながらの試行錯誤の難易度を備えた、香港映画にインスピレーションを得た、残忍で満足のいくペースの速いファーストパーソン シューティング ゲームです。",
       "reviewSnippet": "",
       "rawScore": 49.551671865472734,
-      "hensachi": 52.2,
-      "rank": 11
+      "hensachi": 52,
+      "rank": 12
     },
     {
       "appid": 2750230,
@@ -252,16 +292,64 @@
       "initialPriceCents": 90500,
       "finalPriceCents": 72400,
       "reviewPositiveRate": 100,
-      "reviewCount": 2,
+      "reviewCount": 4,
       "storeUrl": "https://store.steampowered.com/app/2750230/",
-      "genres": [],
-      "supportsJapanese": false,
-      "releaseYear": null,
-      "shortDescription": "",
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "Mega Mergeは、ほのぼのとしたフルーツ合体ローグライト。フルーツを落として合体させ、大きく育てましょう。400種類以上のモディファイアから選んで型破りなビルドを組み、強力なシナジーを活用。呪いをうまく扱いながら、さらなるハイスコアを目指しましょう。",
       "reviewSnippet": "",
-      "rawScore": 45.80045756497986,
+      "rawScore": 46.637622657871766,
+      "hensachi": 51,
+      "rank": 13
+    },
+    {
+      "appid": 3023020,
+      "name": "Cats in Wonderland",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3023020/header.jpg?t=1790525237",
+      "discountPercent": 20,
+      "initialPriceCents": 65500,
+      "finalPriceCents": 52400,
+      "reviewPositiveRate": 100,
+      "reviewCount": 3,
+      "storeUrl": "https://store.steampowered.com/app/3023020/",
+      "genres": [
+        "アドベンチャー",
+        "カジュアル"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "The Queen of Hearts had a fit of rage after the Cheshire Cat refused to be her pet and ordered the capture of all the cats in Wonderland. Find them before her and prevent anything bad from happening.",
+      "reviewSnippet": "",
+      "rawScore": 46.27192449557722,
       "hensachi": 50.9,
-      "rank": 12
+      "rank": 14
+    },
+    {
+      "appid": 2873060,
+      "name": "永鈴の回響",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2873060/c1d53edc1a81d43b2209d968783329563a827dc4/header.jpg?t=1790560807",
+      "discountPercent": 10,
+      "initialPriceCents": 160000,
+      "finalPriceCents": 144000,
+      "reviewPositiveRate": 95.2,
+      "reviewCount": 126,
+      "storeUrl": "https://store.steampowered.com/app/2873060/",
+      "genres": [
+        "RPG",
+        "ストラテジー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "『永鈴の回響』は、物語主導のタクティカルローグライトです。 個性豊かな仲間たちと肩を並べて「汚染地」の奥深くへ進み、危険に満ちた戦いで強敵を打ち倒し、回響と記憶の欠片を集めながら、キャラクターと世界に隠された真実を少しずつ解き明かしていきます。",
+      "reviewSnippet": "",
+      "rawScore": 45.75888196587154,
+      "hensachi": 50.7,
+      "rank": 15
     },
     {
       "appid": 4670920,
@@ -271,16 +359,20 @@
       "initialPriceCents": 129900,
       "finalPriceCents": 116900,
       "reviewPositiveRate": 100,
-      "reviewCount": 13,
+      "reviewCount": 15,
       "storeUrl": "https://store.steampowered.com/app/4670920/",
-      "genres": [],
-      "supportsJapanese": false,
-      "releaseYear": null,
-      "shortDescription": "",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "2012年のバイラルの伝説が帰ってきた。細身で顔のない怪人が、ゼロから作り直されたおなじみのマップであなたを狩る——新マップForestも登場。オンラインマルチプレイや画面分割で仲間と生き延び、VRでプレイし、エディターで自分だけの恐怖のマップを作ろう。あなたは生き延びられるか？",
       "reviewSnippet": "",
-      "rawScore": 43.82501145538958,
-      "hensachi": 50.3,
-      "rank": 13
+      "rawScore": 44.043848991154434,
+      "hensachi": 50.1,
+      "rank": 16
     },
     {
       "appid": 43918,
@@ -298,8 +390,8 @@
       "shortDescription": "",
       "reviewSnippet": "",
       "rawScore": 31.5,
-      "hensachi": 46.1,
-      "rank": 14
+      "hensachi": 45.7,
+      "rank": 17
     },
     {
       "appid": 160150,
@@ -317,8 +409,30 @@
       "shortDescription": "",
       "reviewSnippet": "",
       "rawScore": 22.5,
-      "hensachi": 43.1,
-      "rank": 15
+      "hensachi": 42.6,
+      "rank": 18
+    },
+    {
+      "appid": 4865860,
+      "name": "Manual Override",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4865860/942ee20065097ce06805ccfbccb34fab332d7c1f/header.jpg?t=1790532199",
+      "discountPercent": 40,
+      "initialPriceCents": 90500,
+      "finalPriceCents": 54300,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4865860/",
+      "genres": [
+        "アドベンチャー",
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "株式公開まであと十一日。あなたが死にゆく故郷に売り込んだ自律工場が、一人の作業員の命を奪う——あなたが無効化を承認した、その安全停止の上で。罪悪感と隠蔽、そして真実の断片をそれぞれ握る三人の女を描く、成人向けの選択駆動型・企業スリラー。",
+      "reviewSnippet": "",
+      "rawScore": 18,
+      "hensachi": 41,
+      "rank": 19
     },
     {
       "appid": 5170400,
@@ -340,8 +454,30 @@
       "shortDescription": "Platform Chess combines classic board strategy with platform-fighting combat. Plan your moves, battle for captures, and master the unique abilities of every chess piece in local matches or against the computer.",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 41.6,
-      "rank": 16
+      "hensachi": 41,
+      "rank": 20
+    },
+    {
+      "appid": 4840080,
+      "name": "Florana Defense",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840080/2d374e64d4b296bedd055b62ee792481a639bbbc/header.jpg?t=1790552521",
+      "discountPercent": 33,
+      "initialPriceCents": 105000,
+      "finalPriceCents": 70300,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4840080/",
+      "genres": [
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Incremental Mazing Tower Defense. No lives, just make more gold. No fixed mob path, create the best maze ever.",
+      "reviewSnippet": "",
+      "rawScore": 14.85,
+      "hensachi": 39.9,
+      "rank": 21
     },
     {
       "appid": 4986250,
@@ -353,59 +489,83 @@
       "reviewPositiveRate": 0,
       "reviewCount": 0,
       "storeUrl": "https://store.steampowered.com/app/4986250/",
-      "genres": [],
-      "supportsJapanese": false,
-      "releaseYear": null,
-      "shortDescription": "",
-      "reviewSnippet": "",
-      "rawScore": 11.25,
-      "hensachi": 39.4,
-      "rank": 17
-    },
-    {
-      "appid": 4132030,
-      "name": "Nova Origin",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132030/2e685b101ebdc67d29aaba87a015d2bdd6d0538b/header.jpg?t=1790466790",
-      "discountPercent": 20,
-      "initialPriceCents": 315000,
-      "finalPriceCents": 252000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 1,
-      "storeUrl": "https://store.steampowered.com/app/4132030/",
       "genres": [
         "インディー",
-        "シミュレーション",
-        "ストラテジー"
+        "RPG"
       ],
       "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "未知の世界を探索・スキャンし、その地を切り拓きましょう。ローバーを展開して隠された資源を発見し、生存・適応・拡大を続ける完全自動化されたコロニーを築き上げてください。",
+      "shortDescription": "目が覚めると、鏡餅になっていた…… 餅と人。2つの姿を切り替えて戦い、失われた記憶と「七つの菓罪」の真相を追う、ストーリー重視型RPG。",
       "reviewSnippet": "",
-      "rawScore": 10.135962247788608,
-      "hensachi": 39,
-      "rank": 18
+      "rawScore": 11.25,
+      "hensachi": 38.7,
+      "rank": 22
     },
     {
-      "appid": 3023020,
-      "name": "Cats in Wonderland",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3023020/header.jpg?t=1790525237",
-      "discountPercent": 20,
-      "initialPriceCents": 65500,
-      "finalPriceCents": 52400,
+      "appid": 5222360,
+      "name": "Pay your Deeds",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5222360/d2ebd8127e00d46009fa1648b22465021800e1ea/header.jpg?t=1790542943",
+      "discountPercent": 15,
+      "initialPriceCents": 135000,
+      "finalPriceCents": 114700,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/3023020/",
+      "storeUrl": "https://store.steampowered.com/app/5222360/",
       "genres": [
-        "アドベンチャー",
-        "カジュアル"
+        "カジュアル",
+        "インディー",
+        "ストラテジー"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "The Queen of Hearts had a fit of rage after the Cheshire Cat refused to be her pet and ordered the capture of all the cats in Wonderland. Find them before her and prevent anything bad from happening.",
+      "shortDescription": "Pay Your Deeds is a roguelike deck-builder played on a 5×4 slot reel. You are in debt, and every few days the Sector expects another payment. Spin the reel, collect Scrap Credits and add new Symbols to your build.",
       "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 38.6,
-      "rank": 19
+      "rawScore": 6.75,
+      "hensachi": 37.1,
+      "rank": 23
+    },
+    {
+      "appid": 5050550,
+      "name": "Ponzi Simulator",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5050550/5ac4cd25769e04fb04c2f3e21aec32ade63d866d/header.jpg?t=1790523339",
+      "discountPercent": 15,
+      "initialPriceCents": 65500,
+      "finalPriceCents": 55600,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5050550/",
+      "genres": [
+        "ストラテジー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Start with $1,000 and build your fortune in this incremental investment simulator. Invest in Bitcoin, stocks, real estate, gold and currencies, reinvest your profits, take risks and grow your empire toward the ultimate goal: $1,000,000.",
+      "reviewSnippet": "",
+      "rawScore": 6.75,
+      "hensachi": 37.1,
+      "rank": 24
+    },
+    {
+      "appid": 3263880,
+      "name": "Project DevourSlime",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3263880/200a10bc10a8c9740e7b868476c9252d8c282e69/header.jpg?t=1790554318",
+      "discountPercent": 10,
+      "initialPriceCents": 53000,
+      "finalPriceCents": 47700,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/3263880/",
+      "genres": [
+        "アクション",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "プラットフォーマーだけど、プラットフォームを持ち去れる！？自由な謎解きアクション。スライムとなり、吸って吐くメカニズムで謎を解き、モンスターと戦い、ジャンプを決めよう。自分だけのルートで脱出せよ！",
+      "reviewSnippet": "",
+      "rawScore": 4.5,
+      "hensachi": 36.3,
+      "rank": 25
     },
     {
       "appid": 4918820,
@@ -428,8 +588,8 @@
       "shortDescription": "あなたを助けるフリをする声がある。ヒントは嘘、正解は罠。「わかった」と言った瞬間にジャンルが変わる：パルクールからクイズへ、暗闇から迷宮へ。死んで、学んで、笑え。フェアだが容赦ないトロール——そして最後の選択は、本当にあなたのものだ。",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 37.1,
-      "rank": 20
+      "hensachi": 36.3,
+      "rank": 26
     },
     {
       "appid": 5135630,
@@ -451,50 +611,8 @@
       "shortDescription": "WPG Ravelin is a single‑player first‑person tower‑defense shooter. Build fortifications, deploy turrets, fight against hordes of enemies and defend your camp.",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 37.1,
-      "rank": 21
-    },
-    {
-      "appid": 5214410,
-      "name": "Golden Goblin Player",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5214410/92df4ece265bc2fa1b8019dde7361feef7dd2e02/header.jpg?t=1790489019",
-      "discountPercent": 10,
-      "initialPriceCents": 190000,
-      "finalPriceCents": 171000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5214410/",
-      "genres": [],
-      "supportsJapanese": false,
-      "releaseYear": null,
-      "shortDescription": "",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 37.1,
-      "rank": 22
-    },
-    {
-      "appid": 5124550,
-      "name": "NucleoSynthetica",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5124550/391d6b56c03db32819e18329c85728261c1a9651/header.jpg?t=1790480897",
-      "discountPercent": 10,
-      "initialPriceCents": 53000,
-      "finalPriceCents": 47700,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5124550/",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "宇宙の虚空に漂う一粒の原子から始まります。神秘の元素を融合し、未知の惑星を誕生させ、軌道巨大構造物を建造して、創世の深淵なる秘密を解き明かしましょう！",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 37.1,
-      "rank": 23
+      "hensachi": 36.3,
+      "rank": 27
     }
   ]
 }
