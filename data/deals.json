@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-29T17:25:36.611Z",
+  "fetchedAt": "2026-09-29T21:44:20.838Z",
   "currency": "JPY",
-  "count": 32,
-  "averageDiscount": 32.2,
+  "count": 30,
+  "averageDiscount": 33.8,
   "deals": [
     {
       "appid": 1145360,
@@ -12,7 +12,7 @@
       "initialPriceCents": 280000,
       "finalPriceCents": 70000,
       "reviewPositiveRate": 98,
-      "reviewCount": 308954,
+      "reviewCount": 308970,
       "storeUrl": "https://store.steampowered.com/app/1145360/",
       "genres": [
         "ローグライト",
@@ -26,7 +26,7 @@
       "shortDescription": "死者の国の神に背き、戦いを切り抜けて冥界から脱せよ。『Bastion』、『Transistor』、『Pyre』のクリエイターによるローグライク・ダンジョンアドベンチャー。",
       "reviewSnippet": "一通りクリア。 私のようにどんなにアクションが苦手でも、 永久アプグレでなんとかなります。",
       "rawScore": 88.05,
-      "hensachi": 66.9,
+      "hensachi": 65.9,
       "rank": 1
     },
     {
@@ -37,7 +37,7 @@
       "initialPriceCents": 767800,
       "finalPriceCents": 230300,
       "reviewPositiveRate": 96.4,
-      "reviewCount": 140642,
+      "reviewCount": 140652,
       "storeUrl": "https://store.steampowered.com/app/1687950/",
       "genres": [
         "ターン制ストラテジー",
@@ -48,8 +48,8 @@
       "releaseYear": 2022,
       "shortDescription": "奪え、その意志で。",
       "reviewSnippet": "神ゲーと言う言葉ですら比喩できない 最高のゲームでした 本当にありがとう",
-      "rawScore": 84.66686083619504,
-      "hensachi": 65.7,
+      "rawScore": 84.66697735737574,
+      "hensachi": 64.6,
       "rank": 2
     },
     {
@@ -60,7 +60,7 @@
       "initialPriceCents": 767800,
       "finalPriceCents": 230300,
       "reviewPositiveRate": 94.3,
-      "reviewCount": 64478,
+      "reviewCount": 64494,
       "storeUrl": "https://store.steampowered.com/app/2161700/",
       "genres": [
         "ターン制ストラテジー",
@@ -73,8 +73,8 @@
       "releaseYear": 2024,
       "shortDescription": "『ペルソナ３』が、装いを新たに現行最新ハードにて生まれ変わる！",
       "reviewSnippet": "結論から言うと神ゲー 個人的にはペルソナ345の中だと一番面白い ストーリーは長いけどしっかりとしてて何よりエンディング…",
-      "rawScore": 82.65374827701339,
-      "hensachi": 65,
+      "rawScore": 82.65415489468452,
+      "hensachi": 63.8,
       "rank": 3
     },
     {
@@ -85,7 +85,7 @@
       "initialPriceCents": 547800,
       "finalPriceCents": 136900,
       "reviewPositiveRate": 86.6,
-      "reviewCount": 53500,
+      "reviewCount": 53509,
       "storeUrl": "https://store.steampowered.com/app/1462040/",
       "genres": [
         "アクション",
@@ -95,9 +95,9 @@
       "supportsJapanese": true,
       "releaseYear": 2022,
       "shortDescription": "バスターソードを背負う元ソルジャー・クラウドが魔晄都市ミッドガルに降り立つ。 最先端技術が駆使されたグラフィック映像、戦略性と直感的アクションが融合するバトル―― 不朽の名作『FINAL FANTASY VII』の世界が「新たな物語」として生まれ変わる。",
-      "reviewSnippet": "買い時間違えた。急に安くなりすぎだろ。 今はチャプター３の所やってますけど、このゲーム面白いですよ。 ファイナルファンタ…",
-      "rawScore": 81.90287509282729,
-      "hensachi": 64.7,
+      "reviewSnippet": "最初にこれだけは言っておきたい。 このゲームのクリア率は全体の三割です。これがどういう意味かご理解頂きたい。 他の七割は…",
+      "rawScore": 81.90315075839342,
+      "hensachi": 63.5,
       "rank": 4
     },
     {
@@ -107,8 +107,8 @@
       "discountPercent": 50,
       "initialPriceCents": 649000,
       "finalPriceCents": 324500,
-      "reviewPositiveRate": 96.7,
-      "reviewCount": 892273,
+      "reviewPositiveRate": 96.6,
+      "reviewCount": 893208,
       "storeUrl": "https://store.steampowered.com/app/292030/",
       "genres": [
         "RPG"
@@ -116,10 +116,34 @@
       "supportsJapanese": true,
       "releaseYear": 2015,
       "shortDescription": "『ウィッチャー３ ワイルドハント リマスター』――数々のアップグレードと機能を導入し、ダークファンタジーのオープンワールドを舞台とした傑作ロールプレイングゲームを現代向けに刷新。怪物狩りを生業とするウィッチャー、「リヴィアのゲラルト」となり、養女のシリを見つけ出す冒険へと身を投じよう。",
-      "reviewSnippet": "控えめに言って「最高」 バグや動作のもっさり感はあるけど、それを補って余りある壮大な作品です。 ストーリー重視の作品が好…",
-      "rawScore": 76.345,
-      "hensachi": 62.7,
+      "reviewSnippet": "素晴らしいリマスターだがバグでセーブが出来ないのでゲームが進められない 長く遊んでから気づくと萎えるのでニューゲーム直後…",
+      "rawScore": 76.31,
+      "hensachi": 61.3,
       "rank": 5
+    },
+    {
+      "appid": 2679460,
+      "name": "メタファー：リファンタジオ",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2679460/header.jpg?t=1764776325",
+      "discountPercent": 60,
+      "initialPriceCents": 987800,
+      "finalPriceCents": 395100,
+      "reviewPositiveRate": 89.6,
+      "reviewCount": 43385,
+      "storeUrl": "https://store.steampowered.com/app/2679460/",
+      "genres": [
+        "ターン制ストラテジー",
+        "アクション",
+        "アドベンチャー",
+        "RPG"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2024,
+      "shortDescription": "『メタファー：リファンタジオ』は、国王暗殺後に突如始まった選挙に巻き込まれ、新王の候補者となった少年の運命を描くファンタジーRPGです。世界を巡る日々の過ごし方は自由で、様々なクラスとパーティーを駆使した強敵たちとのバトルが待ち受ける。さあ“幻想でしかできない現実の旅”を始めよう。",
+      "reviewSnippet": "最初魔法使いっぽいのに最後物理になるのやめて",
+      "rawScore": 75.85943249780198,
+      "hensachi": 61.1,
+      "rank": 6
     },
     {
       "appid": 2909400,
@@ -129,7 +153,7 @@
       "initialPriceCents": 657800,
       "finalPriceCents": 197300,
       "reviewPositiveRate": 74.7,
-      "reviewCount": 36059,
+      "reviewCount": 36064,
       "storeUrl": "https://store.steampowered.com/app/2909400/",
       "genres": [
         "アクション",
@@ -140,9 +164,9 @@
       "releaseYear": 2025,
       "shortDescription": "魔晄都市ミッドガルを脱出したクラウドたちは広大な世界に旅立つ。 新たに語られるストーリー、広大な世界での自由な冒険、仲間との絆が深まるバトル―― 『FINAL FANTASY VII REMAKE』から、さらに進化したゲーム体験が再誕する。",
       "reviewSnippet": "戦闘◎ ムービー◎ ミニゲーム▲ ２週しないとスキルツリーなどをコンプできない水増し具合に問題あり バトルシミュレーター…",
-      "rawScore": 74.84132348070332,
-      "hensachi": 62.1,
-      "rank": 6
+      "rawScore": 74.84155070387202,
+      "hensachi": 60.7,
+      "rank": 7
     },
     {
       "appid": 570940,
@@ -152,7 +176,7 @@
       "initialPriceCents": 473000,
       "finalPriceCents": 236500,
       "reviewPositiveRate": 92.4,
-      "reviewCount": 155894,
+      "reviewCount": 155920,
       "storeUrl": "https://store.steampowered.com/app/570940/",
       "genres": [
         "ソウルライク",
@@ -162,42 +186,42 @@
       "releaseYear": 2018,
       "shortDescription": "世界中を熱狂させた本格アクションRPGが待望のリマスター化。グラフィックの最適化、オンラインプレイの拡張、さらに追加DLCを完全収録し、絶望と希望のダークファンタジーが蘇る",
       "reviewSnippet": "エルデンリングクリア後に購入。 少し古めのゲームだし操作性など不安がありましたが別に気になるほどでもなかったです。コント…",
-      "rawScore": 74.43559315600733,
-      "hensachi": 62,
-      "rank": 7
+      "rawScore": 74.43586645836987,
+      "hensachi": 60.5,
+      "rank": 8
     },
     {
-      "appid": 2138720,
-      "name": "REMATCH",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138720/cafe24aa9b3c329c4a083b017cbdd7965b6e23c3/header_alt_assets_1.jpg?t=1790262307",
-      "discountPercent": 60,
-      "initialPriceCents": 370000,
-      "finalPriceCents": 148000,
-      "reviewPositiveRate": 69,
-      "reviewCount": 54801,
-      "storeUrl": "https://store.steampowered.com/app/2138720/",
+      "appid": 335300,
+      "name": "DARK SOULS™ II: Scholar of the First Sin",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/335300/header_japanese.jpg?t=1760721873",
+      "discountPercent": 50,
+      "initialPriceCents": 572000,
+      "finalPriceCents": 286000,
+      "reviewPositiveRate": 83.9,
+      "reviewCount": 132596,
+      "storeUrl": "https://store.steampowered.com/app/335300/",
       "genres": [
+        "ソウルライク",
         "アクション",
-        "インディー",
-        "スポーツ"
+        "RPG"
       ],
-      "supportsJapanese": true,
-      "releaseYear": 2025,
-      "shortDescription": "『Rematch』は、オンラインマルチプレイのサッカーゲーム。 没入感あふれる三人称視点でチーム内の選手1人を操作し、5対5のハイスピードな試合をプレイ。フレンドとチームを組んで、思いっきり楽しもう。",
-      "reviewSnippet": "他の人が書いているような欠点もいくつかあるけど、このゲームにしかない体験と快感があるのでオススメできます。マッチングも今…",
-      "rawScore": 69.03225059758005,
-      "hensachi": 60,
-      "rank": 8
+      "supportsJapanese": false,
+      "releaseYear": 2015,
+      "shortDescription": "手強い難易度で高い達成感に繋がるレベルデザインを追求した本格ダークファンタジー「DARK SOULS Ⅱ」に、現在配信中の3つのDLCステージを完全収録し、高性能なマシンスペックを活かした新たなアレンジを施したハイスペックバージョンです。",
+      "reviewSnippet": "ネットでは否定的な意見が多いが私には神ゲー、 ネットの意見だけを見てプレイを避けるのは あまりにも勿体無い、フロムのソウ…",
+      "rawScore": 71.195315842606,
+      "hensachi": 59.2,
+      "rank": 9
     },
     {
       "appid": 1486920,
       "name": "Tempest Rising",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1486920/2399a803dd72d61e0712faf7fecae94c7d7ad646/header_alt_assets_5.jpg?t=1790696952",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1486920/2399a803dd72d61e0712faf7fecae94c7d7ad646/header_alt_assets_5.jpg?t=1790705131",
       "discountPercent": 50,
       "initialPriceCents": 579900,
       "finalPriceCents": 289900,
       "reviewPositiveRate": 87.1,
-      "reviewCount": 12031,
+      "reviewCount": 12043,
       "storeUrl": "https://store.steampowered.com/app/1486920/",
       "genres": [
         "アクション",
@@ -207,9 +231,9 @@
       "releaseYear": 2025,
       "shortDescription": "この核戦争後の地球を舞台にしたクラシックなリアルタイムストラテジーゲーム『テンペスト・ライジング』で、それぞれの陣営を率き、力と資源を巡る争いを勝ち抜きましょう。",
       "reviewSnippet": "真香。近几年唯一可以打的rts之一！",
-      "rawScore": 68.38250121980214,
-      "hensachi": 59.8,
-      "rank": 9
+      "rawScore": 68.38413489373858,
+      "hensachi": 58.1,
+      "rank": 10
     },
     {
       "appid": 3499220,
@@ -231,8 +255,8 @@
       "shortDescription": "ゲームショップを経営しよう！ゲームや本体を修理・買取・収集し、交渉して店を拡大しよう！",
       "reviewSnippet": "",
       "rawScore": 52.618859444001075,
-      "hensachi": 54,
-      "rank": 10
+      "hensachi": 51.9,
+      "rank": 11
     },
     {
       "appid": 4623570,
@@ -241,8 +265,8 @@
       "discountPercent": 30,
       "initialPriceCents": 90500,
       "finalPriceCents": 63300,
-      "reviewPositiveRate": 75.5,
-      "reviewCount": 486,
+      "reviewPositiveRate": 76.2,
+      "reviewCount": 521,
       "storeUrl": "https://store.steampowered.com/app/4623570/",
       "genres": [
         "アクション",
@@ -255,57 +279,75 @@
       "releaseYear": 2026,
       "shortDescription": "本作は『ディアブロ』ハクスラ＆トレハンゲーム。仕事中もプライベートも、いつでもダンジョンを自動周回。4つのクラスから選択し、2つの大陸と3つの大都市を冒険しながら、極上装備を獲得し、富を築き、自分だけのビルドを構築して、キャラクターを伝説の英雄へと育て上げましょう！",
       "reviewSnippet": "新しいエリアは敵が強くて進めないので、周回できるエリアで放置してレベル上げや装備を整えて先に進む。 基本的にその繰り返し…",
-      "rawScore": 50.06661872156465,
-      "hensachi": 53.1,
-      "rank": 11
+      "rawScore": 50.425360388687785,
+      "hensachi": 51,
+      "rank": 12
     },
     {
-      "appid": 3020510,
-      "name": "Heroes' Vow: Three Kingdoms",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3020510/5da5e2f53fa0a7b7d7eb97f6006f8567dd60f663/header_japanese.jpg?t=1790499638",
-      "discountPercent": 10,
-      "initialPriceCents": 230000,
-      "finalPriceCents": 207000,
-      "reviewPositiveRate": 87.8,
-      "reviewCount": 8515,
-      "storeUrl": "https://store.steampowered.com/app/3020510/",
+      "appid": 4147170,
+      "name": "Late Order",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4147170/419b3b93dd573d7f7650bb612ac017386da54ab3/header.jpg?t=1790702378",
+      "discountPercent": 27,
+      "initialPriceCents": 105000,
+      "finalPriceCents": 76600,
+      "reviewPositiveRate": 100,
+      "reviewCount": 3,
+      "storeUrl": "https://store.steampowered.com/app/4147170/",
       "genres": [
-        "ターン制ストラテジー",
+        "アドベンチャー",
         "インディー",
-        "RPG",
-        "シミュレーション",
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "呪われた24時間営業のダイナーでの夜勤。毎晩、新しいルールと不穏な出来事が待ち受ける。注文をこなし、マスコットの体に宿る奇妙な怪物を怒らせなければ、夜明けまで生き延びるチャンスがあるかもしれない。",
+      "reviewSnippet": "",
+      "rawScore": 49.421924495577215,
+      "hensachi": 50.6,
+      "rank": 13
+    },
+    {
+      "appid": 4918300,
+      "name": "『車椅子の男 2』",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4918300/3e4c9f61ab2345bb135fe26ddd99a303d5022748/header.jpg?t=1790703788",
+      "discountPercent": 21,
+      "initialPriceCents": 65500,
+      "finalPriceCents": 51700,
+      "reviewPositiveRate": 100,
+      "reviewCount": 5,
+      "storeUrl": "https://store.steampowered.com/app/4918300/",
+      "genres": [
+        "アドベンチャー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "怪しげな事業主たちで溢れかえる新しいマンションから金を盗み出し、その狂気じみた大家「車椅子の男」をかわし抜け。",
+      "reviewSnippet": "",
+      "rawScore": 47.386419812768466,
+      "hensachi": 49.8,
+      "rank": 14
+    },
+    {
+      "appid": 4613180,
+      "name": "Dog in the Machine",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4613180/f2d21f3fafb61120614fa5fb92d5b397a2662353/header_alt_assets_0.jpg?t=1790697515",
+      "discountPercent": 20,
+      "initialPriceCents": 225000,
+      "finalPriceCents": 180000,
+      "reviewPositiveRate": 100,
+      "reviewCount": 5,
+      "storeUrl": "https://store.steampowered.com/app/4613180/",
+      "genres": [
+        "インディー",
         "ストラテジー"
       ],
       "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "本作は三国志を背景としたRPGサンドボックスゲームです。あなたは一人の英雄となり、後漢末期の三国世界で思うままに振る舞うことができます。君主、臣下、あるいは隠者として生きることも可能です。交友、結婚と子育て、一族の運営、邸宅の管理、自身や仲間たちの育成、内政の処理、精鋭部隊の訓練、歴史的な大事件の体験や改変を行い、最後には武力で天下を席巻し、民心を掴んで天下統一を果たします。",
-      "reviewSnippet": "三国志ゲーにで求めてた物がここにある！ 武将プレイが好きな人は楽しめると思う、自分は大満足！ ただクエストの期限？にバグ…",
-      "rawScore": 50.061077934967116,
-      "hensachi": 53.1,
-      "rank": 12
-    },
-    {
-      "appid": 4601120,
-      "name": "Endless Rails",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4601120/0303920e505404dc098835bc2fe0e55d71aafbbe/header.jpg?t=1790689860",
-      "discountPercent": 30,
-      "initialPriceCents": 90500,
-      "finalPriceCents": 63300,
-      "reviewPositiveRate": 81.8,
-      "reviewCount": 11,
-      "storeUrl": "https://store.steampowered.com/app/4601120/",
-      "genres": [
-        "アクション",
-        "カジュアル",
-        "インディー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "『Endless Rails』は、アイソメトリック視点のバレットヘブン・ローグライトです。荒野を突き進む列車を死守するため、ドローンを操ってモンスターの大群を蹴散らせ。",
+      "shortDescription": "オートイヌを訓練して機械うごめくディストピア都市からの脱出を目指す、戦略ローグライト。 オートイヌは攻撃を組み合わせることで力を発揮できる。ストレスフリーなリアルタイムプレビューで確認しながら、破壊的な連鎖反応で厄介なロボットたちを片づけろ！",
       "reviewSnippet": "",
-      "rawScore": 46.20238206055707,
-      "hensachi": 51.7,
-      "rank": 13
+      "rawScore": 46.93641981276846,
+      "hensachi": 49.6,
+      "rank": 15
     },
     {
       "appid": 3133010,
@@ -315,7 +357,7 @@
       "initialPriceCents": 205000,
       "finalPriceCents": 161900,
       "reviewPositiveRate": 100,
-      "reviewCount": 1,
+      "reviewCount": 3,
       "storeUrl": "https://store.steampowered.com/app/3133010/",
       "genres": [
         "アドベンチャー",
@@ -327,62 +369,19 @@
       "releaseYear": 2026,
       "shortDescription": "『Human: Fall Flat』のクリエイター陣が手がけた『Tiny Flock』は、幅広い世代が楽しめるまったり系物理演算VRパズルゲーム。 周りにあるものを利用して、美しい手作り風のジオラマパズルを解きながら、かわいいけど自由気ままな羊たちを安全な場所へ導こう！",
       "reviewSnippet": "",
-      "rawScore": 45.58596224778861,
-      "hensachi": 51.5,
-      "rank": 14
-    },
-    {
-      "appid": 4613180,
-      "name": "Dog in the Machine",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4613180/f2d21f3fafb61120614fa5fb92d5b397a2662353/header_alt_assets_0.jpg?t=1790697515",
-      "discountPercent": 20,
-      "initialPriceCents": 225000,
-      "finalPriceCents": 180000,
-      "reviewPositiveRate": 100,
-      "reviewCount": 1,
-      "storeUrl": "https://store.steampowered.com/app/4613180/",
-      "genres": [
-        "インディー",
-        "ストラテジー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "オートイヌを訓練して機械うごめくディストピア都市からの脱出を目指す、戦略ローグライト。 オートイヌは攻撃を組み合わせることで力を発揮できる。ストレスフリーなリアルタイムプレビューで確認しながら、破壊的な連鎖反応で厄介なロボットたちを片づけろ！",
-      "reviewSnippet": "",
-      "rawScore": 45.135962247788605,
-      "hensachi": 51.3,
-      "rank": 15
-    },
-    {
-      "appid": 2761220,
-      "name": "Escape from 8-Bit High",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2761220/f4c8f1044acf18177f6f9554dc2aa596167e6512/header.jpg?t=1790689807",
-      "discountPercent": 15,
-      "initialPriceCents": 170000,
-      "finalPriceCents": 144500,
-      "reviewPositiveRate": 100,
-      "reviewCount": 6,
-      "storeUrl": "https://store.steampowered.com/app/2761220/",
-      "genres": [
-        "アドベンチャー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "When a cursed cassette awakens a sentient Pomodore 64, Cloudydale High is overrun by 8-bit villains! Join alt-rock trio Blueberry Finn-Hank, Duck, and Alex-as they battle mole men, aliens, dinosaurs and more in a bizarre, musical quest to save the world!",
-      "reviewSnippet": "",
-      "rawScore": 44.939049207600966,
-      "hensachi": 51.2,
+      "rawScore": 46.72192449557722,
+      "hensachi": 49.5,
       "rank": 16
     },
     {
       "appid": 3917700,
       "name": "Dicevaders",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917700/c17c7fcf2494a8e006d4f51809914d4f1ffb09aa/header_alt_assets_2.jpg?t=1790696324",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917700/c17c7fcf2494a8e006d4f51809914d4f1ffb09aa/header_alt_assets_2.jpg?t=1790706148",
       "discountPercent": 10,
       "initialPriceCents": 180000,
       "finalPriceCents": 162000,
       "reviewPositiveRate": 100,
-      "reviewCount": 11,
+      "reviewCount": 45,
       "storeUrl": "https://store.steampowered.com/app/3917700/",
       "genres": [
         "カジュアル",
@@ -393,52 +392,78 @@
       "releaseYear": 2026,
       "shortDescription": "『Dicevaders』は、宇宙人による究極の侵攻を統率する、サイコロを使ったローグライクデッキ構築ゲームです。 『StarVaders』の世界を舞台に、サイコロの列を編成・操作し、無敵の軍団を築き上げ、強力なシナジー効果と戦略的なプレイで、アドレナリン全開のコンボを繰り出しましょう。",
       "reviewSnippet": "",
-      "rawScore": 43.572382060557075,
-      "hensachi": 50.7,
+      "rawScore": 45.774557855402165,
+      "hensachi": 49.2,
       "rank": 17
     },
     {
-      "appid": 5204840,
-      "name": "Sort Them Guns: Tidy Up",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5204840/3a628fff9612e2f8921f387caeea1812718d4f14/header.jpg?t=1790693948",
+      "appid": 3402660,
+      "name": "System Clues",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3402660/c335d7907c91b49f4c9fb04d96926d73ecab6fd3/header.jpg?t=1790702014",
+      "discountPercent": 14,
+      "initialPriceCents": 79000,
+      "finalPriceCents": 67900,
+      "reviewPositiveRate": 100,
+      "reviewCount": 1,
+      "storeUrl": "https://store.steampowered.com/app/3402660/",
+      "genres": [
+        "インディー",
+        "RPG",
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "道端でノートパソコンを拾ったあなた。起動し、ログインし、メールを読み、チャットログをめくるだけで、NexusCoreのスキャンダルが浮かび上がってくる。財務不正、従業員監視、AI人事評価システム。傍観者でいるのか、見て見ぬふりをするのか、それともシステムの奥に分け入って自らの手で証拠を集めるのか。あなたの一打鍵ごとに、世界の行方は変わる。",
+      "reviewSnippet": "",
+      "rawScore": 42.4359622477886,
+      "hensachi": 47.8,
+      "rank": 18
+    },
+    {
+      "appid": 4294950,
+      "name": "Baby Lemonade",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294950/d398b850bb9bc01df657e51946837b45beadf317/header.jpg?t=1790698629",
+      "discountPercent": 10,
+      "initialPriceCents": 111300,
+      "finalPriceCents": 100100,
+      "reviewPositiveRate": 100,
+      "reviewCount": 1,
+      "storeUrl": "https://store.steampowered.com/app/4294950/",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "インディー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "A non-linear surrealist adventure about a man trapped in his dreams while a company wants to buy them for broadcast. An immersive, open-ended exploration between psychedelic dreamlands and fragmented realities, where you can follow various bizarre objectives, find hidden paths, or try to wake up!",
+      "reviewSnippet": "",
+      "rawScore": 40.635962247788605,
+      "hensachi": 47.1,
+      "rank": 19
+    },
+    {
+      "appid": 5065510,
+      "name": "Bullet Banshee",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5065510/caf8f416a62a073e29a1b835e5c14c28a995b474/header.jpg?t=1790699671",
       "discountPercent": 10,
       "initialPriceCents": 65500,
       "finalPriceCents": 58900,
       "reviewPositiveRate": 100,
       "reviewCount": 1,
-      "storeUrl": "https://store.steampowered.com/app/5204840/",
+      "storeUrl": "https://store.steampowered.com/app/5065510/",
       "genres": [
-        "カジュアル"
+        "アクション",
+        "インディー"
       ],
       "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "銃を棚に整理し、お金を稼ぎ、アップグレードを解除して、武器コレクションを片付けよう！",
+      "shortDescription": "上へスクロールし続けるローグライトSTG。毎回のランで、40種類以上のスタックするアイテムと10種類のアクティブ装備をドラフトし、画面を火力で埋め尽くすビルドを組み上げる。弾を分裂させ、稲妻を連鎖させ、ブラックホールを落とす。そして死に、機体を強化し、さらに高みへ。",
       "reviewSnippet": "",
       "rawScore": 40.635962247788605,
-      "hensachi": 49.7,
-      "rank": 18
-    },
-    {
-      "appid": 4114220,
-      "name": "Tempest Rising: The Veti’s Wrath",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4114220/32284e910a5ce19e13d22f3311daa1858e1063ae/header.jpg?t=1790694083",
-      "discountPercent": 10,
-      "initialPriceCents": 320000,
-      "finalPriceCents": 288000,
-      "reviewPositiveRate": 80,
-      "reviewCount": 5,
-      "storeUrl": "https://store.steampowered.com/app/4114220/",
-      "genres": [
-        "アクション",
-        "ストラテジー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "深く傷ついたVetiを率いて、正当な所有物を取り戻せ。新しい敵と人類よりも古い敵に復讐し、制圧するという目標のため、敵を操って道具として使いこなそう。",
-      "reviewSnippet": "",
-      "rawScore": 35.43641981276846,
-      "hensachi": 47.8,
-      "rank": 19
+      "hensachi": 47.1,
+      "rank": 20
     },
     {
       "appid": 1488490,
@@ -447,8 +472,8 @@
       "discountPercent": 10,
       "initialPriceCents": 315000,
       "finalPriceCents": 283500,
-      "reviewPositiveRate": 59.6,
-      "reviewCount": 203,
+      "reviewPositiveRate": 68.1,
+      "reviewCount": 677,
       "storeUrl": "https://store.steampowered.com/app/1488490/",
       "genres": [
         "アドベンチャー",
@@ -459,9 +484,31 @@
       "releaseYear": 2026,
       "shortDescription": "海から雲の上まで広がるサイバーパンク都市で、ビジネスを成長させましょう！飲食店やナイトクラブを経営し、友人やライバルを作り、家を購入して自由に模様替えし、釣りを楽しむこともできます。ときには恋も見つけることもあるでしょう。",
       "reviewSnippet": "前作よりはマシだが相変わらず面白みに欠ける 雰囲気と世界観が刺さるならおすすめするがそうでないならおすすめしない",
-      "rawScore": 34.07558553745622,
-      "hensachi": 47.3,
-      "rank": 20
+      "rawScore": 39.0188856372342,
+      "hensachi": 46.5,
+      "rank": 21
+    },
+    {
+      "appid": 4114220,
+      "name": "Tempest Rising: The Veti’s Wrath",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4114220/df194e25e32b7e610945cf8149e65b5b1fac34ec/header.jpg?t=1790709077",
+      "discountPercent": 10,
+      "initialPriceCents": 320000,
+      "finalPriceCents": 288000,
+      "reviewPositiveRate": 84.6,
+      "reviewCount": 13,
+      "storeUrl": "https://store.steampowered.com/app/4114220/",
+      "genres": [
+        "アクション",
+        "ストラテジー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "深く傷ついたVetiを率いて、正当な所有物を取り戻せ。新しい敵と人類よりも古い敵に復讐し、制圧するという目標のため、敵を操って道具として使いこなそう。",
+      "reviewSnippet": "",
+      "rawScore": 38.43501145538958,
+      "hensachi": 46.2,
+      "rank": 22
     },
     {
       "appid": 5085740,
@@ -470,8 +517,8 @@
       "discountPercent": 15,
       "initialPriceCents": 79000,
       "finalPriceCents": 67100,
-      "reviewPositiveRate": 66.7,
-      "reviewCount": 3,
+      "reviewPositiveRate": 50,
+      "reviewCount": 20,
       "storeUrl": "https://store.steampowered.com/app/5085740/",
       "genres": [
         "カジュアル",
@@ -481,9 +528,30 @@
       "releaseYear": 2026,
       "shortDescription": "最大5人の仲間と一緒に、1000万本以上の干し草に隠れた針を見つけよう。",
       "reviewSnippet": "",
-      "rawScore": 32.366924495577216,
-      "hensachi": 46.7,
-      "rank": 21
+      "rawScore": 29.239506772580828,
+      "hensachi": 42.6,
+      "rank": 23
+    },
+    {
+      "appid": 5204840,
+      "name": "Sort Them Guns: Tidy Up",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5204840/3a628fff9612e2f8921f387caeea1812718d4f14/header.jpg?t=1790693948",
+      "discountPercent": 10,
+      "initialPriceCents": 65500,
+      "finalPriceCents": 58900,
+      "reviewPositiveRate": 50,
+      "reviewCount": 2,
+      "storeUrl": "https://store.steampowered.com/app/5204840/",
+      "genres": [
+        "カジュアル"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "銃を棚に整理し、お金を稼ぎ、アップグレードを解除して、武器コレクションを片付けよう！",
+      "reviewSnippet": "",
+      "rawScore": 23.800457564979858,
+      "hensachi": 40.4,
+      "rank": 24
     },
     {
       "appid": 160150,
@@ -501,8 +569,8 @@
       "shortDescription": "",
       "reviewSnippet": "",
       "rawScore": 22.5,
-      "hensachi": 43.1,
-      "rank": 22
+      "hensachi": 39.9,
+      "rank": 25
     },
     {
       "appid": 4641670,
@@ -524,27 +592,8 @@
       "shortDescription": "美しく、リアルでシネマティック。アルプスの大自然でドローンレースを楽しもう。上昇気流、下降気流、横風、熱上昇気流、ランダムな突風など、さまざまな山岳気流を安全に体験。美しい空、月、星、惑星、さまざまな天候を自由に作り出せます。",
       "reviewSnippet": "",
       "rawScore": 15.75,
-      "hensachi": 40.6,
-      "rank": 23
-    },
-    {
-      "appid": 86918,
-      "name": "Nivalis Nights x Cloudpunk Bundle",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/86918/mt2p0rewla3d1leb/255c58b12edc001131033e82d600e2aee5ee0d46/header_ratio.jpg?t=1790670844",
-      "discountPercent": 33,
-      "initialPriceCents": 545000,
-      "finalPriceCents": 327500,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/86918/",
-      "genres": [],
-      "supportsJapanese": false,
-      "releaseYear": null,
-      "shortDescription": "",
-      "reviewSnippet": "",
-      "rawScore": 14.85,
-      "hensachi": 40.3,
-      "rank": 24
+      "hensachi": 37.2,
+      "rank": 26
     },
     {
       "appid": 4629170,
@@ -567,50 +616,7 @@
       "shortDescription": "Become a master of Deckscovery when you combine cards, build your Master Deck and defeat the Deck Master while avoiding elemental weaknesses!",
       "reviewSnippet": "",
       "rawScore": 11.25,
-      "hensachi": 39,
-      "rank": 25
-    },
-    {
-      "appid": 4918300,
-      "name": "『車椅子の男 2』",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4918300/3e4c9f61ab2345bb135fe26ddd99a303d5022748/header.jpg?t=1790700899",
-      "discountPercent": 21,
-      "initialPriceCents": 65500,
-      "finalPriceCents": 51700,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4918300/",
-      "genres": [
-        "アドベンチャー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "怪しげな事業主たちで溢れかえる新しいマンションから金を盗み出し、その狂気じみた大家「車椅子の男」をかわし抜け。",
-      "reviewSnippet": "",
-      "rawScore": 9.450000000000001,
-      "hensachi": 38.3,
-      "rank": 26
-    },
-    {
-      "appid": 3720900,
-      "name": "King's Guard",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3720900/d71a26f3d16220e0d0a524bbdc42b247569e4f24/header.jpg?t=1790690680",
-      "discountPercent": 20,
-      "initialPriceCents": 69900,
-      "finalPriceCents": 55900,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/3720900/",
-      "genres": [
-        "インディー",
-        "ストラテジー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "ターン制ストラテジー・ローグライクのこの作品では、恩知らずな王を生かし続けるのがあなたの仕事です。王室親衛隊のマネージャーとして、アップグレードを解放し、特殊スキルのバッジを割り当て、王政が崩壊するより早く士気と物資が尽きないように奮闘します。",
-      "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 38.2,
+      "hensachi": 35.5,
       "rank": 27
     },
     {
@@ -631,53 +637,8 @@
       "shortDescription": "耳かき・綿棒・梵天・耳毛剃りなどの道具を使って耳をきれいにする、ASMRに特化したシミュレーションゲームです。耳垢を取り除いてポイントを獲得し、新しいBGMやリラックスアイテムを購入しましょう。立体的なASMRサウンドとAmbient音楽に包まれながら、癒しの耳かき体験をお楽しみください。ゲーム実況・ライブ配信も歓迎しています。",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 37.4,
+      "hensachi": 33.7,
       "rank": 28
-    },
-    {
-      "appid": 4294950,
-      "name": "Baby Lemonade",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294950/d398b850bb9bc01df657e51946837b45beadf317/header.jpg?t=1790698629",
-      "discountPercent": 10,
-      "initialPriceCents": 111300,
-      "finalPriceCents": 100100,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4294950/",
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "インディー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "A non-linear surrealist adventure about a man trapped in his dreams while a company wants to buy them for broadcast. An immersive, open-ended exploration between psychedelic dreamlands and fragmented realities, where you can follow various bizarre objectives, find hidden paths, or try to wake up!",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 36.5,
-      "rank": 29
-    },
-    {
-      "appid": 5065510,
-      "name": "Bullet Banshee",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5065510/caf8f416a62a073e29a1b835e5c14c28a995b474/header.jpg?t=1790699671",
-      "discountPercent": 10,
-      "initialPriceCents": 65500,
-      "finalPriceCents": 58900,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5065510/",
-      "genres": [
-        "アクション",
-        "インディー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "上へスクロールし続けるローグライトSTG。毎回のランで、40種類以上のスタックするアイテムと10種類のアクティブ装備をドラフトし、画面を火力で埋め尽くすビルドを組み上げる。弾を分裂させ、稲妻を連鎖させ、ブラックホールを落とす。そして死に、機体を強化し、さらに高みへ。",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 36.5,
-      "rank": 30
     },
     {
       "appid": 5249370,
@@ -700,8 +661,8 @@
       "shortDescription": "Clear the falling cubes, reveal animals and win the final medals as fast as you can! The game is silent by design, so put on your favourite tracks and beat the record.",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 36.5,
-      "rank": 31
+      "hensachi": 32.8,
+      "rank": 29
     },
     {
       "appid": 5259980,
@@ -719,8 +680,8 @@
       "shortDescription": "サイバーパンク都市ニヴァリスを彩る音楽を楽しもう。『Nivalis Nights』オリジナル・サウンドトラックには、ニヴァリスでの毎日を彩るさまざまな楽曲が収録されています。",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 36.5,
-      "rank": 32
+      "hensachi": 32.8,
+      "rank": 30
     }
   ]
 }
