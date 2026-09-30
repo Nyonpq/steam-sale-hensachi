@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-09-30T17:22:25.918Z",
+  "fetchedAt": "2026-09-30T21:44:22.948Z",
   "currency": "JPY",
-  "count": 29,
-  "averageDiscount": 31,
+  "count": 28,
+  "averageDiscount": 33.2,
   "deals": [
     {
       "appid": 1145360,
@@ -12,7 +12,7 @@
       "initialPriceCents": 280000,
       "finalPriceCents": 70000,
       "reviewPositiveRate": 98,
-      "reviewCount": 309016,
+      "reviewCount": 309032,
       "storeUrl": "https://store.steampowered.com/app/1145360/",
       "genres": [
         "ローグライト",
@@ -26,7 +26,7 @@
       "shortDescription": "死者の国の神に背き、戦いを切り抜けて冥界から脱せよ。『Bastion』、『Transistor』、『Pyre』のクリエイターによるローグライク・ダンジョンアドベンチャー。",
       "reviewSnippet": "一通りクリア。 私のようにどんなにアクションが苦手でも、 永久アプグレでなんとかなります。",
       "rawScore": 88.05,
-      "hensachi": 67,
+      "hensachi": 65.6,
       "rank": 1
     },
     {
@@ -37,7 +37,7 @@
       "initialPriceCents": 767800,
       "finalPriceCents": 230300,
       "reviewPositiveRate": 96.4,
-      "reviewCount": 140717,
+      "reviewCount": 140729,
       "storeUrl": "https://store.steampowered.com/app/1687950/",
       "genres": [
         "ターン制ストラテジー",
@@ -48,8 +48,8 @@
       "releaseYear": 2022,
       "shortDescription": "奪え、その意志で。",
       "reviewSnippet": "SteamDeck OLEDにて快適に動作しています。携帯モードはもちろん、FHDモニターへ出力した1080p環境でも安…",
-      "rawScore": 84.6677345431802,
-      "hensachi": 65.9,
+      "rawScore": 84.66787429308235,
+      "hensachi": 64.4,
       "rank": 2
     },
     {
@@ -60,7 +60,7 @@
       "initialPriceCents": 767800,
       "finalPriceCents": 230300,
       "reviewPositiveRate": 94.3,
-      "reviewCount": 64543,
+      "reviewCount": 64553,
       "storeUrl": "https://store.steampowered.com/app/2161700/",
       "genres": [
         "ターン制ストラテジー",
@@ -73,8 +73,8 @@
       "releaseYear": 2024,
       "shortDescription": "『ペルソナ３』が、装いを新たに現行最新ハードにて生まれ変わる！",
       "reviewSnippet": "結論から言うと神ゲー 個人的にはペルソナ345の中だと一番面白い ストーリーは長いけどしっかりとしてて何よりエンディング…",
-      "rawScore": 82.65539953408555,
-      "hensachi": 65.2,
+      "rawScore": 82.65565342602885,
+      "hensachi": 63.7,
       "rank": 3
     },
     {
@@ -85,7 +85,7 @@
       "initialPriceCents": 547800,
       "finalPriceCents": 136900,
       "reviewPositiveRate": 86.5,
-      "reviewCount": 53568,
+      "reviewCount": 53581,
       "storeUrl": "https://store.steampowered.com/app/1462040/",
       "genres": [
         "アクション",
@@ -96,8 +96,8 @@
       "releaseYear": 2022,
       "shortDescription": "バスターソードを背負う元ソルジャー・クラウドが魔晄都市ミッドガルに降り立つ。 最先端技術が駆使されたグラフィック映像、戦略性と直感的アクションが融合するバトル―― 不朽の名作『FINAL FANTASY VII』の世界が「新たな物語」として生まれ変わる。",
       "reviewSnippet": "最初にこれだけは言っておきたい。 このゲームのクリア率は全体の三割です。これがどういう意味かご理解頂きたい。 他の七割は…",
-      "rawScore": 81.86995675188935,
-      "hensachi": 64.9,
+      "rawScore": 81.87035441523219,
+      "hensachi": 63.5,
       "rank": 4
     },
     {
@@ -108,7 +108,7 @@
       "initialPriceCents": 649000,
       "finalPriceCents": 324500,
       "reviewPositiveRate": 96.5,
-      "reviewCount": 895410,
+      "reviewCount": 895819,
       "storeUrl": "https://store.steampowered.com/app/292030/",
       "genres": [
         "RPG"
@@ -118,7 +118,7 @@
       "shortDescription": "『ウィッチャー３ ワイルドハント リマスター』――数々のアップグレードと機能を導入し、ダークファンタジーのオープンワールドを舞台とした傑作ロールプレイングゲームを現代向けに刷新。怪物狩りを生業とするウィッチャー、「リヴィアのゲラルト」となり、養女のシリを見つけ出す冒険へと身を投じよう。",
       "reviewSnippet": "素晴らしいリマスターだがバグでセーブが出来ないのでゲームが進められない 長く遊んでから気づくと萎えるのでニューゲーム直後…",
       "rawScore": 76.275,
-      "hensachi": 63,
+      "hensachi": 61.5,
       "rank": 5
     },
     {
@@ -129,7 +129,7 @@
       "initialPriceCents": 657800,
       "finalPriceCents": 197300,
       "reviewPositiveRate": 74.7,
-      "reviewCount": 36096,
+      "reviewCount": 36098,
       "storeUrl": "https://store.steampowered.com/app/2909400/",
       "genres": [
         "アクション",
@@ -140,8 +140,8 @@
       "releaseYear": 2025,
       "shortDescription": "魔晄都市ミッドガルを脱出したクラウドたちは広大な世界に旅立つ。 新たに語られるストーリー、広大な世界での自由な冒険、仲間との絆が深まるバトル―― 『FINAL FANTASY VII REMAKE』から、さらに進化したゲーム体験が再誕する。",
       "reviewSnippet": "戦闘◎ ムービー◎ ミニゲーム▲ ２週しないとスキルツリーなどをコンプできない水増し具合に問題あり バトルシミュレーター…",
-      "rawScore": 74.84300418661047,
-      "hensachi": 62.6,
+      "rawScore": 74.84309498649424,
+      "hensachi": 61,
       "rank": 6
     },
     {
@@ -152,7 +152,7 @@
       "initialPriceCents": 473000,
       "finalPriceCents": 236500,
       "reviewPositiveRate": 92.4,
-      "reviewCount": 155980,
+      "reviewCount": 156008,
       "storeUrl": "https://store.steampowered.com/app/570940/",
       "genres": [
         "ソウルライク",
@@ -162,9 +162,30 @@
       "releaseYear": 2018,
       "shortDescription": "世界中を熱狂させた本格アクションRPGが待望のリマスター化。グラフィックの最適化、オンラインプレイの拡張、さらに追加DLCを完全収録し、絶望と希望のダークファンタジーが蘇る",
       "reviewSnippet": "エルデンリングクリア後に購入。 少し古めのゲームだし操作性など不安がありましたが別に気になるほどでもなかったです。コント…",
-      "rawScore": 74.43649698223508,
-      "hensachi": 62.4,
+      "rawScore": 74.43679114370798,
+      "hensachi": 60.9,
       "rank": 7
+    },
+    {
+      "appid": 2455640,
+      "name": "ロマンシング サガ2 リベンジオブザセブン",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455640/header_japanese.jpg?t=1777013886",
+      "discountPercent": 60,
+      "initialPriceCents": 682000,
+      "finalPriceCents": 272800,
+      "reviewPositiveRate": 93.2,
+      "reviewCount": 4827,
+      "storeUrl": "https://store.steampowered.com/app/2455640/",
+      "genres": [
+        "RPG"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2024,
+      "shortDescription": "『ロマンシング サガ2』のフルリメイク！グラフィックは3D化、ゲームシステムは現代風にアレンジ、BGMアレンジ、ボイス対応。プレイヤーは歴代皇帝として、七英雄との数千年にわたる戦いに挑みます。",
+      "reviewSnippet": "スクエニは過去の名作をリメイクする時は全部ここにやらせろ",
+      "rawScore": 73.52100853368042,
+      "hensachi": 60.6,
+      "rank": 8
     },
     {
       "appid": 335300,
@@ -174,7 +195,7 @@
       "initialPriceCents": 572000,
       "finalPriceCents": 286000,
       "reviewPositiveRate": 83.9,
-      "reviewCount": 132631,
+      "reviewCount": 132645,
       "storeUrl": "https://store.steampowered.com/app/335300/",
       "genres": [
         "ソウルライク",
@@ -185,98 +206,125 @@
       "releaseYear": 2015,
       "shortDescription": "手強い難易度で高い達成感に繋がるレベルデザインを追求した本格ダークファンタジー「DARK SOULS Ⅱ」に、現在配信中の3つのDLCステージを完全収録し、高性能なマシンスペックを活かした新たなアレンジを施したハイスペックバージョンです。",
       "reviewSnippet": "モーションやグラフィックの質感は違えど、ダークソウル 二刀流や新しい武器種等の要素も楽しい 個人的にはSEがちょっと気に…",
-      "rawScore": 71.19574837184591,
-      "hensachi": 61.3,
-      "rank": 8
+      "rawScore": 71.19592135158372,
+      "hensachi": 59.8,
+      "rank": 9
     },
     {
-      "appid": 3101040,
-      "name": "魔法少女ノ魔女裁判",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3101040/header.jpg?t=1789891545",
-      "discountPercent": 20,
-      "initialPriceCents": 350000,
-      "finalPriceCents": 280000,
-      "reviewPositiveRate": 96.5,
-      "reviewCount": 34563,
-      "storeUrl": "https://store.steampowered.com/app/3101040/",
+      "appid": 5213660,
+      "name": "Gundrobe: an Incremental Gun Builder",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5213660/c143cac45e58bf86a6e4609d9d3b1fb891fcd9fe/header.jpg?t=1790787623",
+      "discountPercent": 30,
+      "initialPriceCents": 53000,
+      "finalPriceCents": 37100,
+      "reviewPositiveRate": 100,
+      "reviewCount": 3,
+      "storeUrl": "https://store.steampowered.com/app/5213660/",
       "genres": [
-        "アドベンチャー",
+        "アクション",
+        "カジュアル",
         "インディー",
         "シミュレーション"
       ],
       "supportsJapanese": true,
-      "releaseYear": 2025,
-      "shortDescription": "少女たちが目覚めると、そこは見知らぬ牢屋敷――。来るべき「魔女裁判」に向け、牢屋敷を捜査して、少女に混ざりこんだ魔女を炙り出せ。魔女の魔法と嘘を暴き、処刑せよ。「Acacia」が送る魔法議論×ADVミステリー。",
-      "reviewSnippet": "最初はそうでもなかったんです。 あー、こんな感じのゲームなんだなと少し退屈に感じていました。 なので私からは一つだけ、絶…",
-      "rawScore": 59.90188300552161,
-      "hensachi": 57.5,
-      "rank": 9
-    },
-    {
-      "appid": 5208240,
-      "name": "ESC ape, You died?",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5208240/f66b6e6f8f5b4e3d4e29f40bb5ecef2e7bf14a27/header.jpg?t=1790771296",
-      "discountPercent": 20,
-      "initialPriceCents": 13500,
-      "finalPriceCents": 10800,
-      "reviewPositiveRate": 100,
-      "reviewCount": 3,
-      "storeUrl": "https://store.steampowered.com/app/5208240/",
-      "genres": [
-        "インディー"
-      ],
-      "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "ESC ape, You died? はフロッピーディスク1枚（1.44MB）に収まるゲームを再現するプロジェクトとして始まった、ESC（メニュー）キーの設定UIとあらゆるUIを使ってパズルを解くプラットフォーマーです。",
+      "shortDescription": "武器をパーツごとに組み立て、パーツを進化させ、新たなテクノロジーを解放しよう。プレステージを重ねて限界を突破し、何千発もの弾丸を撃ち出す強力でぶっ飛んだ武器を作り上げよう。",
       "reviewSnippet": "",
-      "rawScore": 46.27192449557722,
-      "hensachi": 52.9,
+      "rawScore": 50.77192449557722,
+      "hensachi": 52.7,
       "rank": 10
     },
     {
-      "appid": 4958630,
-      "name": "Bad Dogs",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4958630/51f1a721ee883c1e705008f65eadcebcab2fd2d2/header.jpg?t=1790775609",
-      "discountPercent": 15,
-      "initialPriceCents": 65500,
-      "finalPriceCents": 55600,
+      "appid": 3873330,
+      "name": "Redhowl",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3873330/6268cf02760da1b62abf5677f8b0db12b0e8c0bf/header.jpg?t=1790784212",
+      "discountPercent": 25,
+      "initialPriceCents": 105000,
+      "finalPriceCents": 78700,
       "reviewPositiveRate": 100,
-      "reviewCount": 1,
-      "storeUrl": "https://store.steampowered.com/app/4958630/",
+      "reviewCount": 2,
+      "storeUrl": "https://store.steampowered.com/app/3873330/",
       "genres": [
-        "アクション",
-        "レース"
+        "カジュアル",
+        "インディー",
+        "ストラテジー"
       ],
-      "supportsJapanese": false,
+      "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "High-speed highway racing meets classic arcade madness. Drift through branching neon routes, survive dynamic roadblock mini-games, and compete across 5 endless arcade titles, weekly world events, and custom seeded runs. Will you ignite the revolution or sell out to the Syndicate?",
+      "shortDescription": "4～15人で遊べるソーシャル推理ゲーム。3つの陣営が激突する中、村を強化し、個性豊かな役職を使いこなそう。ブラッドムーンが訪れる前に敵の正体を暴け。さもなければ、喰われることになる。",
       "reviewSnippet": "",
-      "rawScore": 42.885962247788605,
-      "hensachi": 51.7,
+      "rawScore": 48.05045756497986,
+      "hensachi": 51.8,
       "rank": 11
     },
     {
-      "appid": 1488490,
-      "name": "Nivalis Nights",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488490/28e511ff46672f9649744961fd6edbf19df75265/header.jpg?t=1790694813",
-      "discountPercent": 10,
-      "initialPriceCents": 315000,
-      "finalPriceCents": 283500,
-      "reviewPositiveRate": 73.3,
-      "reviewCount": 1509,
-      "storeUrl": "https://store.steampowered.com/app/1488490/",
+      "appid": 5142170,
+      "name": "VHS Chaos",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5142170/5a96a2260963dd00153cdc3e9b39e11ef3022bd2/header.jpg?t=1790796784",
+      "discountPercent": 20,
+      "initialPriceCents": 79900,
+      "finalPriceCents": 63900,
+      "reviewPositiveRate": 100,
+      "reviewCount": 3,
+      "storeUrl": "https://store.steampowered.com/app/5142170/",
       "genres": [
-        "アドベンチャー",
-        "RPG",
+        "カジュアル",
+        "インディー",
         "シミュレーション"
       ],
       "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "海から雲の上まで広がるサイバーパンク都市で、ビジネスを成長させましょう！飲食店やナイトクラブを経営し、友人やライバルを作り、家を購入して自由に模様替えし、釣りを楽しむこともできます。ときには恋も見つけることもあるでしょう。",
-      "reviewSnippet": "前作よりはマシだが相変わらず面白みに欠ける 雰囲気と世界観が刺さるならおすすめするがそうでないならおすすめしない",
-      "rawScore": 42.15113942374781,
-      "hensachi": 51.5,
+      "shortDescription": "1980年代風のビデオレンタル店に何千本ものVHSが散乱している。テープを拾って正しい棚に分類し、新たな能力をアンロックして、混沌を秩序へ変えよう。1人でもフレンドとでも遊べる。店を元通りにし、ここで何が起きたのかを突き止めよう。",
+      "reviewSnippet": "",
+      "rawScore": 46.27192449557722,
+      "hensachi": 51.2,
       "rank": 12
+    },
+    {
+      "appid": 3192650,
+      "name": "Secret Glory Hole",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3192650/5b364d0169078aa9314a642ca80c2133e4929956/header_japanese.jpg?t=1790788395",
+      "discountPercent": 15,
+      "initialPriceCents": 100000,
+      "finalPriceCents": 85000,
+      "reviewPositiveRate": 100,
+      "reviewCount": 8,
+      "storeUrl": "https://store.steampowered.com/app/3192650/",
+      "genres": [
+        "アドベンチャー",
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "廃墟のトイレに、飢えた女の口が待っている──濡れて、欲しがって、かなり不気味。餌をやってみる？ — 短編エッチでゾクゾクするビジュアルノベル ・2.6万字 ・12種類のエンディング（いくつかでは生き残れるかも）。",
+      "reviewSnippet": "",
+      "rawScore": 45.350915129959716,
+      "hensachi": 50.9,
+      "rank": 13
+    },
+    {
+      "appid": 4970010,
+      "name": "Gnomicide",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4970010/8a58c702793bd72a609b96281f4b712d003b963a/header.jpg?t=1790800660",
+      "discountPercent": 20,
+      "initialPriceCents": 90500,
+      "finalPriceCents": 72400,
+      "reviewPositiveRate": 100,
+      "reviewCount": 1,
+      "storeUrl": "https://store.steampowered.com/app/4970010/",
+      "genres": [
+        "アクション",
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "Clean up the realm. It's time to kill 100,000 gnomes.",
+      "reviewSnippet": "",
+      "rawScore": 45.135962247788605,
+      "hensachi": 50.8,
+      "rank": 14
     },
     {
       "appid": 5240850,
@@ -286,7 +334,7 @@
       "initialPriceCents": 170000,
       "finalPriceCents": 153000,
       "reviewPositiveRate": 100,
-      "reviewCount": 2,
+      "reviewCount": 11,
       "storeUrl": "https://store.steampowered.com/app/5240850/",
       "genres": [
         "カジュアル",
@@ -296,52 +344,54 @@
       "releaseYear": 2026,
       "shortDescription": "The BR 285 is the diesel version of the TRAXX: 2200 kW, electric traction on the bogies, 140 km/h and 4000 litres of fuel for long runs without refuelling. It pulls away from a standstill with a 3000-tonne train. Can you put 3000 mechanical horses roaring behind your back to good use?",
       "reviewSnippet": "",
-      "rawScore": 41.30045756497986,
-      "hensachi": 51.2,
-      "rank": 13
+      "rawScore": 43.572382060557075,
+      "hensachi": 50.3,
+      "rank": 15
     },
     {
-      "appid": 1706510,
-      "name": "Songs of Glimmerwick",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1706510/2e6d0bc2ac7bac10bf9f90ca91d69a48ad76c255/header.jpg?t=1790786083",
+      "appid": 1488490,
+      "name": "Nivalis Nights",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488490/28e511ff46672f9649744961fd6edbf19df75265/header.jpg?t=1790694813",
       "discountPercent": 10,
       "initialPriceCents": 315000,
       "finalPriceCents": 283500,
-      "reviewPositiveRate": 92.3,
-      "reviewCount": 13,
-      "storeUrl": "https://store.steampowered.com/app/1706510/",
+      "reviewPositiveRate": 74,
+      "reviewCount": 1682,
+      "storeUrl": "https://store.steampowered.com/app/1488490/",
       "genres": [
         "アドベンチャー",
-        "RPG"
+        "RPG",
+        "シミュレーション"
       ],
       "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "音楽があふれる魔法の森へ旅立ちましょう。この世界では、魔法は曲を演奏するのと同じくらい簡単で自然なこと。ストーリーを中心に展開されるこのRPGで、授業に出席し、学校の庭の手入れをしながら、クラスメイトや町人と友達になり、この島にあふれるちょっとヘンテコな魅力やミステリーを見つけましょう。",
+      "shortDescription": "海から雲の上まで広がるサイバーパンク都市で、ビジネスを成長させましょう！飲食店やナイトクラブを経営し、友人やライバルを作り、家を購入して自由に模様替えし、釣りを楽しむこともできます。ときには恋も見つけることもあるでしょう。",
       "reviewSnippet": "",
-      "rawScore": 41.13001145538958,
-      "hensachi": 51.1,
-      "rank": 14
+      "rawScore": 42.57390232443707,
+      "hensachi": 49.9,
+      "rank": 16
     },
     {
-      "appid": 3396560,
-      "name": "The Blessed Fool",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3396560/header.jpg?t=1790770807",
+      "appid": 5204830,
+      "name": "Deleted Wiki: Clean Up the Lost Files",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5204830/7b83bfede964dce45f84a1e98e742d04e0ed3bd9/header.jpg?t=1790798785",
       "discountPercent": 10,
-      "initialPriceCents": 65500,
-      "finalPriceCents": 58900,
-      "reviewPositiveRate": 75,
-      "reviewCount": 4,
-      "storeUrl": "https://store.steampowered.com/app/3396560/",
+      "initialPriceCents": 53000,
+      "finalPriceCents": 47700,
+      "reviewPositiveRate": 100,
+      "reviewCount": 2,
+      "storeUrl": "https://store.steampowered.com/app/5204830/",
       "genres": [
+        "カジュアル",
         "インディー"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "The blessed fool arrives in a strange city consumed by fear and violence to save its people from a new regime. But do they even want to be saved? Immerse yourself in a world where every step tests your fears and the limits of your endurance.",
+      "shortDescription": "A cozy incremental sorting game. A vandal deleted all 10,324 items from a 2007 fan wiki, and you're the new Moderator. Drag each item into its category, sub-folder and row, earn userscripts that automate the work, and watch the broken pages come back.",
       "reviewSnippet": "",
-      "rawScore": 33.387622657871766,
-      "hensachi": 48.5,
-      "rank": 15
+      "rawScore": 41.30045756497986,
+      "hensachi": 49.5,
+      "rank": 17
     },
     {
       "appid": 4415120,
@@ -350,8 +400,8 @@
       "discountPercent": 20,
       "initialPriceCents": 59900,
       "finalPriceCents": 47900,
-      "reviewPositiveRate": 50,
-      "reviewCount": 2,
+      "reviewPositiveRate": 65.2,
+      "reviewCount": 23,
       "storeUrl": "https://store.steampowered.com/app/4415120/",
       "genres": [
         "カジュアル",
@@ -361,9 +411,9 @@
       "releaseYear": 2026,
       "shortDescription": "マンホールからブラックホールへと成長し、宇宙を飲み込むこの飽くなきインクリメンタルゲーム。",
       "reviewSnippet": "",
-      "rawScore": 28.300457564979858,
-      "hensachi": 46.8,
-      "rank": 16
+      "rawScore": 37.02834430834568,
+      "hensachi": 48,
+      "rank": 18
     },
     {
       "appid": 160150,
@@ -381,75 +431,54 @@
       "shortDescription": "",
       "reviewSnippet": "",
       "rawScore": 22.5,
-      "hensachi": 44.8,
-      "rank": 17
+      "hensachi": 43,
+      "rank": 19
     },
     {
-      "appid": 5213660,
-      "name": "Gundrobe: an Incremental Gun Builder",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5213660/c143cac45e58bf86a6e4609d9d3b1fb891fcd9fe/header.jpg?t=1790787623",
+      "appid": 5124010,
+      "name": "Taskbar Slime ～片隅のテラリウム～",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5124010/5d28131a35d0d98cc233503c9bb46447281868e3/header_japanese.jpg?t=1790780555",
       "discountPercent": 30,
-      "initialPriceCents": 53000,
-      "finalPriceCents": 37100,
+      "initialPriceCents": 26500,
+      "finalPriceCents": 18500,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5213660/",
+      "storeUrl": "https://store.steampowered.com/app/5124010/",
       "genres": [
-        "アクション",
         "カジュアル",
         "インディー",
         "シミュレーション"
       ],
       "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "武器をパーツごとに組み立て、パーツを進化させ、新たなテクノロジーを解放しよう。プレステージを重ねて限界を突破し、何千発もの弾丸を撃ち出す強力でぶっ飛んだ武器を作り上げよう。",
+      "shortDescription": "タスクバーの片隅に置いたテラリウム。そこではスライムたちが増えて、合体して、変化していきます。あなたは駆け出しの錬金術師としてスライムを観察し、図鑑の完成を目指しましょう！",
       "reviewSnippet": "",
       "rawScore": 13.5,
-      "hensachi": 41.8,
-      "rank": 18
+      "hensachi": 39.9,
+      "rank": 20
     },
     {
-      "appid": 5042580,
-      "name": "SwissBaha Game Assistant",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5042580/c939b9b917353f214f6e731cfac48909ac17d2de/header.jpg?t=1790770852",
-      "discountPercent": 30,
-      "initialPriceCents": 39500,
-      "finalPriceCents": 27600,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5042580/",
-      "genres": [
-        "ユーティリティ"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "SwissBaha Game Assistant helps you prepare games from one place with system monitoring, safe process profiles, settings backups, cache management, diagnostic reports, and automatic launching of your preferred helper applications.",
-      "reviewSnippet": "",
-      "rawScore": 13.5,
-      "hensachi": 41.8,
-      "rank": 19
-    },
-    {
-      "appid": 4412510,
-      "name": "Sacred Echoes",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4412510/d1ff4ce46f2f5e1533d85e5e5bcfb504ce893c56/header.jpg?t=1790776900",
+      "appid": 5044280,
+      "name": "TRAWL",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044280/c1a9c734ecaf4b77aa6365d91402a655adfeadaa/header.jpg?t=1790784671",
       "discountPercent": 25,
-      "initialPriceCents": 145000,
-      "finalPriceCents": 108700,
+      "initialPriceCents": 65500,
+      "finalPriceCents": 49100,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4412510/",
+      "storeUrl": "https://store.steampowered.com/app/5044280/",
       "genres": [
-        "アクション",
-        "アドベンチャー"
+        "アドベンチャー",
+        "カジュアル",
+        "インディー"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "Sacred Echoes is a story-driven action adventure. Play as The Shattered One and fight alongside your gang of swordsmen and gunslingers across floating islands to confront the man who shattered the Crystal Bound Island.",
+      "shortDescription": "A horror point-and-click FNAF-like game where you must bottom-trawl the ocean floor to collect fish to turn into money. Use money to upgrade your ship and its defenses. Ecodyne's experiments hunt you down for disturbing their slumber.",
       "reviewSnippet": "",
       "rawScore": 11.25,
-      "hensachi": 41,
-      "rank": 20
+      "hensachi": 39.1,
+      "rank": 21
     },
     {
       "appid": 4953940,
@@ -472,79 +501,30 @@
       "shortDescription": "野生のピクセル世界を、生きて動く工場へ。手作業で資源を集め、5つの産業時代を自動化し、強力な任意アップグレードを探索。コンベア、配管、電力網、ローバー、列車、原子力を使いこなそう。ソロ、または最大8人のオンライン協力プレイに対応。",
       "reviewSnippet": "",
       "rawScore": 10.135962247788608,
-      "hensachi": 40.7,
-      "rank": 21
-    },
-    {
-      "appid": 5154040,
-      "name": "Potassium Poisoning",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5154040/9d8f4a306956e7d0fc9cf89b96bd03edbdb3716f/header.jpg?t=1790777013",
-      "discountPercent": 20,
-      "initialPriceCents": 50500,
-      "finalPriceCents": 40400,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5154040/",
-      "genres": [
-        "アクション",
-        "カジュアル",
-        "インディー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Potassium Poisoning is a post-apocalyptic survivor game. Where you play as a monkey fighting off radioactive hoards, defeat monsters and complete objectives to earn DNA points, unlocking new mutations and traits to better help you fight and survive.",
-      "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 40.3,
+      "hensachi": 38.7,
       "rank": 22
     },
     {
-      "appid": 2598700,
-      "name": "Mokete",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2598700/83442f4a39969dfcf4486a7953f5e93ce411518a/header.jpg?t=1790773308",
-      "discountPercent": 20,
-      "initialPriceCents": 79000,
-      "finalPriceCents": 63200,
+      "appid": 5222030,
+      "name": "HEATSINK",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5222030/f9587ee5505e0ac216082b3a4d049654692d2d94/header.jpg?t=1790797850",
+      "discountPercent": 15,
+      "initialPriceCents": 115000,
+      "finalPriceCents": 97700,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/2598700/",
+      "storeUrl": "https://store.steampowered.com/app/5222030/",
       "genres": [
         "アクション",
-        "アドベンチャー",
-        "カジュアル",
-        "インディー",
-        "ストラテジー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Collect strange creatures, build your team, and battle rival aliens in tactical turn-based combat. Explore Earth, survive bizarre encounters, and defeat its champions to claim the Mokete title.",
-      "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 40.3,
-      "rank": 23
-    },
-    {
-      "appid": 3192650,
-      "name": "Secret Glory Hole",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3192650/5b364d0169078aa9314a642ca80c2133e4929956/header_japanese.jpg?t=1790788395",
-      "discountPercent": 15,
-      "initialPriceCents": 100000,
-      "finalPriceCents": 85000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/3192650/",
-      "genres": [
-        "アドベンチャー",
-        "カジュアル",
         "インディー"
       ],
       "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "廃墟のトイレに、飢えた女の口が待っている──濡れて、欲しがって、かなり不気味。餌をやってみる？ — 短編エッチでゾクゾクするビジュアルノベル ・2.6万字 ・12種類のエンディング（いくつかでは生き残れるかも）。",
+      "shortDescription": "A first-person roguelite where standing still will surely get you killed — this is a fast fps shooter with several mechanics that force you to keep moving and punishes you for staying inert",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 39.5,
-      "rank": 24
+      "hensachi": 37.6,
+      "rank": 23
     },
     {
       "appid": 4673480,
@@ -565,8 +545,8 @@
       "shortDescription": "Master the swing of your dual directional combat tandem whip tether weapon. Seek and destroy the Corrupted Mechanoids and purge the infection.",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 39.5,
-      "rank": 25
+      "hensachi": 37.6,
+      "rank": 24
     },
     {
       "appid": 4345470,
@@ -587,72 +567,75 @@
       "shortDescription": "Take on the role of a speedway club manager and lead your team to championship glory! Sign your dream riders, secure sponsorship deals, upgrade your facilities, and develop young speedway talents!",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 39.5,
-      "rank": 26
+      "hensachi": 37.6,
+      "rank": 25
     },
     {
-      "appid": 3658250,
-      "name": "Deck of Stabs",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3658250/1a74afbf2e15d877648c385e32f56e9cd5b63665/header.jpg?t=1790771802",
-      "discountPercent": 15,
-      "initialPriceCents": 190000,
-      "finalPriceCents": 161500,
+      "appid": 5146720,
+      "name": "Fickle Allies",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5146720/8cfc0602ff8526adda91fb56e8ac0cb9a7a525e3/header.jpg?t=1790798436",
+      "discountPercent": 10,
+      "initialPriceCents": 79000,
+      "finalPriceCents": 71100,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/3658250/",
+      "storeUrl": "https://store.steampowered.com/app/5146720/",
       "genres": [
+        "アクション",
+        "カジュアル",
         "インディー",
-        "RPG",
         "ストラテジー"
       ],
       "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "すべてのカードは武器。すべての選択が勝敗を分ける。奇妙な世界と危険なダンジョンを戦い抜け。エキゾチックな武器と強力な装備、致命のスキルを発見せよ。焼き尽くし、呪い、爆破し、打ち砕いて勝利を掴め。毎回、最高の刃を持ち込め。",
+      "shortDescription": "すべてのクリスタルを集めて預け、脱出を目指す一人称視点のマルチプレイヤースリラー。屋敷、地下鉄、廃棄施設を探索しながら、移り変わる同盟を結び、ライバルから盗み、戦利品を守り、脅威を排除しよう。ここでは、信頼は長く続かない。",
       "reviewSnippet": "",
-      "rawScore": 6.75,
-      "hensachi": 39.5,
-      "rank": 27
+      "rawScore": 4.5,
+      "hensachi": 36.8,
+      "rank": 26
     },
     {
-      "appid": 5204830,
-      "name": "Deleted Wiki: Clean Up the Lost Files",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5204830/7b83bfede964dce45f84a1e98e742d04e0ed3bd9/header.jpg?t=1790787612",
+      "appid": 5026820,
+      "name": "Pixel Lust: Hentai Girls Puzzle",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5026820/88b342c70e0606c83d98b6918f55d7c93af73650/header.jpg?t=1790788725",
       "discountPercent": 10,
-      "initialPriceCents": 53000,
-      "finalPriceCents": 47700,
+      "initialPriceCents": 39500,
+      "finalPriceCents": 35500,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5204830/",
+      "storeUrl": "https://store.steampowered.com/app/5026820/",
       "genres": [
-        "カジュアル",
-        "インディー"
+        "カジュアル"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "In 2007 a vandal deleted all 10,324 items on the fan wiki for Plains of Embercraft: Online. You are the new Moderator. Drag each item out of the deletion log into its department, its sub-folder and its row, and watch the broken pages come back.",
+      "shortDescription": "パズルを解いて、魅力的な女の子たちと彼女たちの秘密を解き明かそう。『PIXEL LUST』は、手描きドット絵、解放可能なアルバム、そして完全無修正の成人向けアートワークが楽しめるパズルゲームです！",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 38.8,
-      "rank": 28
+      "hensachi": 36.8,
+      "rank": 27
     },
     {
-      "appid": 5214050,
-      "name": "Songs of Glimmerwick Original Soundtrack",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5214050/d19d84c02049561c87c91f1fa3d925a047ca0c22/header.jpg?t=1790773927",
+      "appid": 5237200,
+      "name": "Last Block Standing",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5237200/a5edc5dc4e3dd5c2c0dae68a233867c546027148/header.jpg?t=1790784124",
       "discountPercent": 10,
-      "initialPriceCents": 135000,
-      "finalPriceCents": 121500,
+      "initialPriceCents": 39500,
+      "finalPriceCents": 35500,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5214050/",
-      "genres": [],
-      "supportsJapanese": false,
+      "storeUrl": "https://store.steampowered.com/app/5237200/",
+      "genres": [
+        "アクション",
+        "インディー"
+      ],
+      "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "47 tracks of original music from the enchanting lands of Glimmerwick by Phoenix Glendinning.",
+      "shortDescription": "Hold the line alone or with up to three friends in this top-down zombie shooter. Build barricades, lay mines and detonate barrels across six arenas. Spend your rewards on permanent gear upgrades and fight through 130 waves of zombies and bosses.",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 38.8,
-      "rank": 29
+      "hensachi": 36.8,
+      "rank": 28
     }
   ]
 }
