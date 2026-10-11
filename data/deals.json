@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-10T20:58:57.514Z",
+  "fetchedAt": "2026-10-11T03:14:31.861Z",
   "currency": "JPY",
-  "count": 32,
-  "averageDiscount": 28.3,
+  "count": 31,
+  "averageDiscount": 28.5,
   "deals": [
     {
       "appid": 504230,
@@ -12,7 +12,7 @@
       "initialPriceCents": 230000,
       "finalPriceCents": 57500,
       "reviewPositiveRate": 97.4,
-      "reviewCount": 148509,
+      "reviewCount": 148519,
       "storeUrl": "https://store.steampowered.com/app/504230/",
       "genres": [
         "プラットフォーマー",
@@ -24,7 +24,7 @@
       "releaseYear": 2018,
       "shortDescription": "心の闇と戦う少女マデリンとともに、セレステ山の頂上を目指せ。気軽に遊べて奥が深い、手に汗握るアクションゲーム。数百におよぶ難関に立ち向かい、聖山の怪しげな秘密を探り、謎に迫れ。",
       "reviewSnippet": "心の病に悩まされている人はプレイするべきです。救われます。 なお、全クリ後も有志のカスタムマップmodが大量にあるので無…",
-      "rawScore": 87.35605923806882,
+      "rawScore": 87.35616958699669,
       "hensachi": 67.6,
       "rank": 1
     },
@@ -36,7 +36,7 @@
       "initialPriceCents": 120000,
       "finalPriceCents": 60000,
       "reviewPositiveRate": 97.4,
-      "reviewCount": 1561444,
+      "reviewCount": 1561511,
       "storeUrl": "https://store.steampowered.com/app/105600/",
       "genres": [
         "サバイバル",
@@ -51,7 +51,7 @@
       "shortDescription": "掘って、戦って、探検して、作ろう! 出来ないことは一切無いアクション満載のアドベンチャーゲーム。 4本パックも発売中!",
       "reviewSnippet": "2Dオープンワールドサバイバルクラフトの大傑作。 リリースから15年以上経過しているのに、いまだにアップデートが入るくら…",
       "rawScore": 76.59,
-      "hensachi": 63.7,
+      "hensachi": 63.3,
       "rank": 2
     },
     {
@@ -62,7 +62,7 @@
       "initialPriceCents": 836000,
       "finalPriceCents": 418000,
       "reviewPositiveRate": 95.2,
-      "reviewCount": 357344,
+      "reviewCount": 357362,
       "storeUrl": "https://store.steampowered.com/app/814380/",
       "genres": [
         "ソウルライク",
@@ -75,7 +75,7 @@
       "shortDescription": "隻腕の狼、戦国に忍ぶ。 史上最も血なまぐさい時代・戦国を舞台に、孤独な忍びの戦いを描くアクション・アドベンチャー。",
       "reviewSnippet": "絶対勝てねえよと思ったボスを数時間後には蹂躙している 自分の成長に酔いしれるゲーム",
       "rawScore": 75.82,
-      "hensachi": 63.4,
+      "hensachi": 63,
       "rank": 3
     },
     {
@@ -86,7 +86,7 @@
       "initialPriceCents": 648000,
       "finalPriceCents": 285100,
       "reviewPositiveRate": 83.3,
-      "reviewCount": 230876,
+      "reviewCount": 230938,
       "storeUrl": "https://store.steampowered.com/app/3240220/",
       "genres": [
         "アクション",
@@ -98,7 +98,7 @@
       "shortDescription": "大ヒットの『グランド・セフト・オートV』と「GTAオンライン」を体験しよう - 新世代用に美麗なグラフィック、短縮されたロード時間、3Dオーディオなどのアップグレード。さらに、「GTAオンライン」プレイヤー用の限定コンテンツなど。",
       "reviewSnippet": "オフライン(ストーリー)モードのみのプレイ グラフィックが非常にきれい 魅力的なキャラクター 最後はとても感動的な気持ち…",
       "rawScore": 74.35499999999999,
-      "hensachi": 62.9,
+      "hensachi": 62.4,
       "rank": 4
     },
     {
@@ -109,7 +109,7 @@
       "initialPriceCents": 499000,
       "finalPriceCents": 199600,
       "reviewPositiveRate": 82,
-      "reviewCount": 80631,
+      "reviewCount": 80643,
       "storeUrl": "https://store.steampowered.com/app/1364780/",
       "genres": [
         "アクション",
@@ -119,8 +119,8 @@
       "releaseYear": 2023,
       "shortDescription": "シリーズ最新作『ストリートファイター6』が2023年6月2日に発売決定！ RE ENGINEで開発された本作は、大型モード「ワールドツアー」や「ファイティンググラウンド」、「バトルハブ」で構成され、新たな「ストリートファイター」はこれまでのシリーズにはない全く新しい体験が待ち受けている。",
       "reviewSnippet": "色んな格ゲー触ってきました、夜中でもマッチするゲームないです 上から下まで全てのレベル帯に対戦相手がいるので格上格下狩り…",
-      "rawScore": 74.21512238563825,
-      "hensachi": 62.8,
+      "rawScore": 74.21536626774414,
+      "hensachi": 62.4,
       "rank": 5
     },
     {
@@ -131,7 +131,7 @@
       "initialPriceCents": 639000,
       "finalPriceCents": 319500,
       "reviewPositiveRate": 81.6,
-      "reviewCount": 421134,
+      "reviewCount": 421419,
       "storeUrl": "https://store.steampowered.com/app/1808500/",
       "genres": [
         "アクション"
@@ -139,9 +139,9 @@
       "supportsJapanese": true,
       "releaseYear": 2025,
       "shortDescription": "『ARC Raiders』は、ARC と呼ばれる謎の機械によって荒廃した、危険に満ちた未来の地球を舞台とするマルチプレイヤー・エクストラクションアドベンチャーです。",
-      "reviewSnippet": "スライディングしてたらスタックして、動けないところをボコボコにされて萎えた 対人対ARCにやられても歯を食いしばってきた…",
+      "reviewSnippet": "フリーウィークエンドで参入 楽しんでます 10時間くらいやってますが撃ってくるプレイヤーと遭遇したのは1回だけ だいたい…",
       "rawScore": 71.06,
-      "hensachi": 61.7,
+      "hensachi": 61.1,
       "rank": 6
     },
     {
@@ -152,7 +152,7 @@
       "initialPriceCents": 340000,
       "finalPriceCents": 238000,
       "reviewPositiveRate": 94.6,
-      "reviewCount": 492161,
+      "reviewCount": 492206,
       "storeUrl": "https://store.steampowered.com/app/1623730/",
       "genres": [
         "サバイバル",
@@ -166,7 +166,7 @@
       "shortDescription": "広大な世界で不思議な生物『パル』を集めて、戦闘・建築・農業を行わせたり、工場で労働させたりする全く新しいマルチ対応のオープンワールドサバイバルクラフトゲームです。",
       "reviewSnippet": "最高に面白いゲーム。年を取るとゲームが楽しくなくなってくるのは仕事や育児に追われるためだと思っていたが、パルワールドは「…",
       "rawScore": 66.61,
-      "hensachi": 60,
+      "hensachi": 59.4,
       "rank": 7
     },
     {
@@ -177,7 +177,7 @@
       "initialPriceCents": 105000,
       "finalPriceCents": 63000,
       "reviewPositiveRate": 96.4,
-      "reviewCount": 3860,
+      "reviewCount": 3887,
       "storeUrl": "https://store.steampowered.com/app/4656000/",
       "genres": [
         "カジュアル",
@@ -187,8 +187,8 @@
       "releaseYear": 2026,
       "shortDescription": "友達とサルと爆弾解除！「見猿」、「聞か猿」、「言わ猿」の三猿になって協力しよう。必要な情報は各自に一部だけ。意思疎通し、謎を解き、時間と勝負！爆発前に解除できる？",
       "reviewSnippet": "意思疎通の大事さがわかるゲームでした。 中指を意思疎通に使いました。（上だよという指示で）",
-      "rawScore": 65.27471623254358,
-      "hensachi": 59.5,
+      "rawScore": 65.28613681605373,
+      "hensachi": 58.8,
       "rank": 8
     },
     {
@@ -199,7 +199,7 @@
       "initialPriceCents": 230000,
       "finalPriceCents": 184000,
       "reviewPositiveRate": 96.1,
-      "reviewCount": 41966,
+      "reviewCount": 42020,
       "storeUrl": "https://store.steampowered.com/app/1478500/",
       "genres": [
         "アドベンチャー"
@@ -208,8 +208,8 @@
       "releaseYear": 2026,
       "shortDescription": "親しい友人たちと広大な世界を探索したり、迷子になったりしてみよう。『Untitled Goose Game』の開発陣が贈る、協力型オンライン通信ゲーム。",
       "reviewSnippet": "騙されないでください。 多くの高評価レビューを見てください。 2300円を支払い、10~20時間を共にしてくれる最低一人…",
-      "rawScore": 60.079935565637044,
-      "hensachi": 57.6,
+      "rawScore": 60.082042956113696,
+      "hensachi": 56.8,
       "rank": 9
     },
     {
@@ -219,8 +219,8 @@
       "discountPercent": 38,
       "initialPriceCents": 238500,
       "finalPriceCents": 147800,
-      "reviewPositiveRate": 97.1,
-      "reviewCount": 34,
+      "reviewPositiveRate": 95.1,
+      "reviewCount": 41,
       "storeUrl": "https://store.steampowered.com/app/4843820/",
       "genres": [
         "カジュアル",
@@ -231,8 +231,8 @@
       "releaseYear": 2026,
       "shortDescription": "写真家兼ブロガーが、有料購読者のリクエストに応え、特定の女の子たちと親しくなっていく成人向けビジュアルノベル（18+）。すべての選択が物語と結末を左右する。",
       "reviewSnippet": "",
-      "rawScore": 56.911671865472734,
-      "hensachi": 56.5,
+      "rawScore": 56.510469020369435,
+      "hensachi": 55.4,
       "rank": 10
     },
     {
@@ -242,8 +242,8 @@
       "discountPercent": 25,
       "initialPriceCents": 120000,
       "finalPriceCents": 90000,
-      "reviewPositiveRate": 94.9,
-      "reviewCount": 332,
+      "reviewPositiveRate": 94.6,
+      "reviewCount": 369,
       "storeUrl": "https://store.steampowered.com/app/3883570/",
       "genres": [
         "アクション",
@@ -257,8 +257,8 @@
       "releaseYear": 2026,
       "shortDescription": "呪われたボードゲームを巡る、協力プレイ型のサバイバルホラー。忘れ去られたゲーム盤、打ち捨てられた屋敷。最大6人で同時プレイ可能。ダイスを振って、召喚される恐怖を生き延び、ゲームマスターを倒して自由を掴もう！",
       "reviewSnippet": "",
-      "rawScore": 53.98365748492951,
-      "hensachi": 55.4,
+      "rawScore": 54.051327260630174,
+      "hensachi": 54.4,
       "rank": 11
     },
     {
@@ -269,7 +269,7 @@
       "initialPriceCents": 65500,
       "finalPriceCents": 45800,
       "reviewPositiveRate": 100,
-      "reviewCount": 10,
+      "reviewCount": 11,
       "storeUrl": "https://store.steampowered.com/app/4847040/",
       "genres": [
         "カジュアル",
@@ -280,53 +280,79 @@
       "releaseYear": 2026,
       "shortDescription": "A dark comedy call center simulator where you answer calls, verify identities, catch fraudsters, and run side hustles under your supervisor's watchful eye. The queue never empties. The pay never improves.",
       "reviewSnippet": "",
-      "rawScore": 52.4297837175782,
-      "hensachi": 54.8,
+      "rawScore": 52.572382060557075,
+      "hensachi": 53.8,
       "rank": 12
     },
     {
-      "appid": 5041240,
-      "name": "星の移し手",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5041240/de45b48a8c357ba0a8678925466e96971a897e0d/header.jpg?t=1791648365",
-      "discountPercent": 33,
-      "initialPriceCents": 26500,
-      "finalPriceCents": 17700,
+      "appid": 4987190,
+      "name": "Lewd Waifu",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4987190/dc8889e9131c35475ded7880c7f6d5761030dca9/header_japanese.jpg?t=1791630820",
+      "discountPercent": 35,
+      "initialPriceCents": 39500,
+      "finalPriceCents": 25600,
       "reviewPositiveRate": 100,
-      "reviewCount": 2,
-      "storeUrl": "https://store.steampowered.com/app/5041240/",
+      "reviewCount": 1,
+      "storeUrl": "https://store.steampowered.com/app/4987190/",
       "genres": [
         "カジュアル",
         "インディー",
-        "ストラテジー"
+        "シミュレーション"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "神秘的な魔法使いとなって、六角形グリッド上をルービックキューブ式の操作で動かし、降りそそぐ星団を消していこう。個性的な力を持つ魔女たちに出会い、その力を借りて、たった一夜で世界を救おう！軽快なストーリー（パズル）モードに加えて、ハイスコアを目指すエンドレスモードも。",
+      "shortDescription": "ネオンに照らされた配信部屋を舞台にした、のんびり遊べるタイル交換パズル。シャッフルされたタイルを並べ替えて手描きイラストを復元すると、フルアニメーションのご褒美シーンが動き出します。全10レベル、制限時間もゲームオーバーもなし。",
       "reviewSnippet": "",
-      "rawScore": 51.65045756497986,
-      "hensachi": 54.5,
+      "rawScore": 51.885962247788605,
+      "hensachi": 53.6,
       "rank": 13
     },
     {
-      "appid": 5133950,
-      "name": "MUSIC BAND SIMULATOR:TOGETHER",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5133950/bbfc6f736a389f655ce1f13ff1afbbb4f5a4bda0/header.jpg?t=1791602517",
-      "discountPercent": 40,
-      "initialPriceCents": 65500,
-      "finalPriceCents": 39300,
-      "reviewPositiveRate": 75,
-      "reviewCount": 4,
-      "storeUrl": "https://store.steampowered.com/app/5133950/",
+      "appid": 4456960,
+      "name": "Astro Yoinkers",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4456960/d43f23cd6539dfc7652518773f20c9e7a26d1cce/header.jpg?t=1791659857",
+      "discountPercent": 25,
+      "initialPriceCents": 90500,
+      "finalPriceCents": 67800,
+      "reviewPositiveRate": 100,
+      "reviewCount": 2,
+      "storeUrl": "https://store.steampowered.com/app/4456960/",
       "genres": [
-        "カジュアル"
+        "アクション",
+        "カジュアル",
+        "インディー",
+        "レース",
+        "スポーツ"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "フレンドとバンドを結成し、リアルな楽器で好きな曲を自由に演奏しよう！名声とファンを増やし、ガレージでのジャムから巨大なスタジアムライブまで駆け上がろう。",
+      "shortDescription": "Team up with your fellow Astro Yoinkers in this fast-paced multiplayer CTF. Physics-based grappling across moving asteroids, yoink enemy crystals, and vaporize lobbies with orbital strike satellites.",
       "reviewSnippet": "",
-      "rawScore": 46.887622657871766,
-      "hensachi": 52.8,
+      "rawScore": 48.05045756497986,
+      "hensachi": 52,
       "rank": 14
+    },
+    {
+      "appid": 4575830,
+      "name": "Big Furry Weekends!",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4575830/88c830e3eb4218573c5704157f13c6477a7ab8f8/header.jpg?t=1791671047",
+      "discountPercent": 25,
+      "initialPriceCents": 79000,
+      "finalPriceCents": 59200,
+      "reviewPositiveRate": 100,
+      "reviewCount": 1,
+      "storeUrl": "https://store.steampowered.com/app/4575830/",
+      "genres": [
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "おいしい食べ物をマージして巨大なコレクションを完成させ、魅力的なケモノ娘をアンロック！心地よく爽快なマージアドベンチャーで、美麗なイラストを集めてギャラリーを充実させよう。",
+      "reviewSnippet": "",
+      "rawScore": 47.385962247788605,
+      "hensachi": 51.8,
+      "rank": 15
     },
     {
       "appid": 4968640,
@@ -335,8 +361,8 @@
       "discountPercent": 15,
       "initialPriceCents": 190000,
       "finalPriceCents": 161500,
-      "reviewPositiveRate": 90.8,
-      "reviewCount": 153,
+      "reviewPositiveRate": 90.9,
+      "reviewCount": 164,
       "storeUrl": "https://store.steampowered.com/app/4968640/",
       "genres": [
         "カジュアル",
@@ -347,33 +373,9 @@
       "supportsJapanese": true,
       "releaseYear": 2026,
       "shortDescription": "『Japanese Ramen Simulator』は、最大6人で遊べるラーメン店経営シミュレーター。食材を仕込み、麺を茹で、トッピングを盛り付けて、こだわりの一杯を作ろう。オリジナルメニューを開発し、厨房や客席を自由にレイアウト。仲間との協力でも、一人でも、理想のラーメン店を目指せ！",
-      "reviewSnippet": "ムービーのように自由度は高いということはなかった。 キャベツなげてキャッチボールしたら屋根の隙間にはさまった。 大麻もあ…",
-      "rawScore": 46.78479517296779,
-      "hensachi": 52.7,
-      "rank": 15
-    },
-    {
-      "appid": 3932890,
-      "name": "Escape from Tarkov",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932890/4dd12ea3b00a4f8b67bfd629f3b9abbf8d5cab05/header_alt_assets_2.jpg?t=1785782094",
-      "discountPercent": 25,
-      "initialPriceCents": 750000,
-      "finalPriceCents": 562500,
-      "reviewPositiveRate": 49.6,
-      "reviewCount": 66947,
-      "storeUrl": "https://store.steampowered.com/app/3932890/",
-      "genres": [
-        "アクション",
-        "MM（Massively Multiplayer）",
-        "RPG",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2025,
-      "shortDescription": "『Escape from Tarkov』は、レイド毎にリスクを伴う、ハードコアな一人称のエクストラクションシューティングゲームです。プレイヤーやAIと戦い、アイテムを収集し、生還するのです。リアルな戦闘、武器のカスタマイズ、サバイバル、取引、そしてクラフトによってこの過酷なオンライン体験を作り上げています。",
-      "reviewSnippet": "",
-      "rawScore": 46.820330594181115,
-      "hensachi": 52.7,
+      "reviewSnippet": "ムービーのように自由度は高いということはなかった。 キャベツなげてキャッチボールしたら屋根の隙間にはさまった。 ※はさま…",
+      "rawScore": 46.93286394042983,
+      "hensachi": 51.6,
       "rank": 16
     },
     {
@@ -384,7 +386,7 @@
       "initialPriceCents": 84500,
       "finalPriceCents": 67600,
       "reviewPositiveRate": 100,
-      "reviewCount": 4,
+      "reviewCount": 5,
       "storeUrl": "https://store.steampowered.com/app/5211870/",
       "genres": [
         "アクション",
@@ -397,8 +399,8 @@
       "releaseYear": 2026,
       "shortDescription": "Catch The Fish is a chaotic fishing action-adventure where your catch fights back. Cast into lava, battle aggressive fish and powerful bosses, feed monstrous traders, and upgrade your weapons as you sail across seven strange and dangerous islands.",
       "reviewSnippet": "",
-      "rawScore": 46.637622657871766,
-      "hensachi": 52.7,
+      "rawScore": 46.93641981276846,
+      "hensachi": 51.6,
       "rank": 17
     },
     {
@@ -408,8 +410,8 @@
       "discountPercent": 20,
       "initialPriceCents": 279900,
       "finalPriceCents": 223900,
-      "reviewPositiveRate": 73.9,
-      "reviewCount": 574,
+      "reviewPositiveRate": 75.3,
+      "reviewCount": 653,
       "storeUrl": "https://store.steampowered.com/app/2254990/",
       "genres": [
         "アクション",
@@ -422,9 +424,55 @@
       "releaseYear": 2026,
       "shortDescription": "『Permafrost』は、文明崩壊後の氷の世界を舞台に、ストーリーに沿って展開するサバイバルサンドボックスゲームです。多様な設定が組み込まれた広大なオープンワールドを一人または最大4人の協力プレイで探索します。物資を集めてクラフトし、避難所のネットワークを作り、極寒の世界を生き延びてください。",
       "reviewSnippet": "とても早期アクセスとは思えない完成度で 同系統の多ゲームと比べても開発サポートの連携や 連絡修正がすごく丁寧でとても助か…",
-      "rawScore": 45.2788409233571,
-      "hensachi": 52.2,
+      "rawScore": 45.97982169178969,
+      "hensachi": 51.2,
       "rank": 18
+    },
+    {
+      "appid": 5260830,
+      "name": "No Cute Girl Can Stop My Sudoku",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5260830/50e2ba3560517daacff71e0f025f2b44f496db67/header.jpg?t=1791661825",
+      "discountPercent": 15,
+      "initialPriceCents": 26500,
+      "finalPriceCents": 22500,
+      "reviewPositiveRate": 100,
+      "reviewCount": 1,
+      "storeUrl": "https://store.steampowered.com/app/5260830/",
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "数独と、可愛いデスクトップマスコット。",
+      "reviewSnippet": "",
+      "rawScore": 42.885962247788605,
+      "hensachi": 50,
+      "rank": 19
+    },
+    {
+      "appid": 4354120,
+      "name": "Ant Clicker",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4354120/9c570a0689cd2ebed89b0d2230eebc2a7dd4087b/header.jpg?t=1791644573",
+      "discountPercent": 10,
+      "initialPriceCents": 65500,
+      "finalPriceCents": 58900,
+      "reviewPositiveRate": 100,
+      "reviewCount": 1,
+      "storeUrl": "https://store.steampowered.com/app/4354120/",
+      "genres": [
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Grow an ant empire, one crumb at a time. Click or hold to gather, recruit ten ant castes, explore four minigames, and rebirth for lasting upgrades. Watch your underground colony grow as you collect seasonal discoveries and complete 100 achievements.",
+      "reviewSnippet": "",
+      "rawScore": 40.635962247788605,
+      "hensachi": 49.1,
+      "rank": 20
     },
     {
       "appid": 3982940,
@@ -446,13 +494,13 @@
       "shortDescription": "Assume the role of Assistant Film Censor Florian Schulz. Your job is to decide which films will be shown to public, balancing your duty to the nation with the need to provide for your family. Every decision carries weight. Shape the future of your country and protect those you love.",
       "reviewSnippet": "",
       "rawScore": 40.635962247788605,
-      "hensachi": 50.5,
-      "rank": 19
+      "hensachi": 49.1,
+      "rank": 21
     },
     {
       "appid": 4895790,
       "name": "知秋~英语日语单词背诵学习陪伴桌宠~",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895790/1716e3856c1200a69818b0e78ff340e7129ac720/header.jpg?t=1791620292",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895790/1716e3856c1200a69818b0e78ff340e7129ac720/header.jpg?t=1791675464",
       "discountPercent": 20,
       "initialPriceCents": 13500,
       "finalPriceCents": 10800,
@@ -469,13 +517,13 @@
       "shortDescription": "A Windows desktop companion for English and Japanese vocabulary study. Review built-in or imported decks with FSRS scheduling, track daily progress, play mini-games, and enjoy pet care, desktop interactions, and Workshop characters.",
       "reviewSnippet": "",
       "rawScore": 28.300457564979858,
-      "hensachi": 45.9,
-      "rank": 20
+      "hensachi": 44.2,
+      "rank": 22
     },
     {
       "appid": 3749340,
       "name": "Euphoria: Supreme Mechanics VR",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3749340/63a7ac54ee8846055b3303499494f9e5b4447427/header.jpg?t=1791665306",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3749340/63a7ac54ee8846055b3303499494f9e5b4447427/header.jpg?t=1791666605",
       "discountPercent": 25,
       "initialPriceCents": 175000,
       "finalPriceCents": 131200,
@@ -493,30 +541,54 @@
       "shortDescription": "謎に包まれたSF研究施設を舞台に、VRならではのパズル体験を楽しもう。キューブをつかんで動かし、レーザーの進路を変え、複雑な装置を起動。自らの手で仕掛けを解きながら、廃墟となった研究施設に隠された秘密を解き明かせ。",
       "reviewSnippet": "",
       "rawScore": 11.25,
-      "hensachi": 39.7,
-      "rank": 21
+      "hensachi": 37.5,
+      "rank": 23
     },
     {
-      "appid": 5280040,
-      "name": "Soundgun",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5280040/cc29f562a51e4f46f7d46c8dbc4b2952d02a398a/header.jpg?t=1791644414",
+      "appid": 5318900,
+      "name": "SEX for MONEY ≠ CHEATING - WALLPAPERS🔞",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5318900/287591ee24723cfb34f770e3e7464e827863814b/header.jpg?t=1791641731",
       "discountPercent": 25,
-      "initialPriceCents": 135000,
-      "finalPriceCents": 101200,
+      "initialPriceCents": 39500,
+      "finalPriceCents": 29600,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5280040/",
+      "storeUrl": "https://store.steampowered.com/app/5318900/",
       "genres": [
-        "オーディオ制作",
-        "ユーティリティ"
+        "カジュアル",
+        "RPG",
+        "シミュレーション"
       ],
-      "supportsJapanese": true,
+      "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "ホットキーやインタラクティブなオーバーレイを使って、自分のサウンドをマイクから流せます。スマホを Bluetooth で接続すれば、どんな音声もボイスチャットに直接流せます。",
+      "shortDescription": "Bring the world of SEX for MONEY ≠ CHEATING to your desktop with this exclusive wallpaper pack featuring a collection of stylish and eye-catching artwork from the game.",
       "reviewSnippet": "",
       "rawScore": 11.25,
-      "hensachi": 39.7,
-      "rank": 22
+      "hensachi": 37.5,
+      "rank": 24
+    },
+    {
+      "appid": 5125340,
+      "name": "Sex Novel - Cheating Girlfriend",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5125340/4b2cfd80e1cea2808eec1b46194ca548f8e317a4/header.jpg?t=1791667936",
+      "discountPercent": 20,
+      "initialPriceCents": 135000,
+      "finalPriceCents": 108000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5125340/",
+      "genres": [
+        "アドベンチャー",
+        "カジュアル",
+        "シミュレーション"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "An adult visual novel about a young, attractive woman who loves her boyfriend but finds that one man isn’t enough to satisfy all her needs.",
+      "reviewSnippet": "",
+      "rawScore": 9,
+      "hensachi": 36.6,
+      "rank": 25
     },
     {
       "appid": 4718070,
@@ -538,8 +610,8 @@
       "shortDescription": "An ancient darkness threatens the balance of a magical world. Take on the roles of different fairies and unite their powers. Use their unique abilities to confront the emerging threat. Experience a hand-drawn 2D Metroidvania full of danger and mystical secrets.",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 38.9,
-      "rank": 23
+      "hensachi": 36.6,
+      "rank": 26
     },
     {
       "appid": 3058680,
@@ -565,8 +637,8 @@
       "shortDescription": "A story-driven school-life RPG about friendship, academic pressure, and finding your voice. Explore campus with three companions, choose how to spend limited free time, and face exams and conflicts in turn-based battles. This release contains Chapter One.",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 38.9,
-      "rank": 24
+      "hensachi": 36.6,
+      "rank": 27
     },
     {
       "appid": 3084460,
@@ -587,54 +659,8 @@
       "shortDescription": "A tower defence where every enemy has a weakness and every tower can overheat. Slow, burn or shock an enemy to open it up, then bring it down. Twelve boards, four tower types, element pads, a skill tree between runs, and an Endless mode on every board you beat.",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 38.9,
-      "rank": 25
-    },
-    {
-      "appid": 3918670,
-      "name": "Make the Empire Great Again",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3918670/b1cefd80b1b5b05216dd40618bd2a307bd4d3018/header.jpg?t=1791628026",
-      "discountPercent": 15,
-      "initialPriceCents": 135000,
-      "finalPriceCents": 114700,
-      "reviewPositiveRate": 0,
-      "reviewCount": 1,
-      "storeUrl": "https://store.steampowered.com/app/3918670/",
-      "genres": [
-        "シミュレーション",
-        "ストラテジー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "A simulation + turn-based auto-battle game. The &quot;Dusk Apocalypse&quot; nears; the empire teeters! Your people need food, work, and fun—but monsters seize your lands, plundering fields &amp; mines! Fight, reclaim! Build, forge the grandest city! Fear not the &quot;Dusk&quot;, for a new &quot;Sun&quot; has risen!",
-      "reviewSnippet": "",
-      "rawScore": 7.885962247788608,
-      "hensachi": 38.4,
-      "rank": 26
-    },
-    {
-      "appid": 5260830,
-      "name": "No Cute Girl Can Stop My Sudoku",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5260830/50e2ba3560517daacff71e0f025f2b44f496db67/header.jpg?t=1791661825",
-      "discountPercent": 15,
-      "initialPriceCents": 26500,
-      "finalPriceCents": 22500,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5260830/",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "シミュレーション",
-        "ストラテジー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "数独と、可愛いデスクトップマスコット。",
-      "reviewSnippet": "",
-      "rawScore": 6.75,
-      "hensachi": 38,
-      "rank": 27
+      "hensachi": 36.6,
+      "rank": 28
     },
     {
       "appid": 5195910,
@@ -655,51 +681,30 @@
       "shortDescription": "Sort Labs is a casual first-person organization experiment: restore order to the laboratory full of geometric shapes and objects. Pick up and place each shape on the right shelf sorted by color and size. With customizable stages and multiple levels of difficulty, the experiments never end!",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 38,
-      "rank": 28
-    },
-    {
-      "appid": 4856540,
-      "name": "Clicker Game Maker",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856540/4ec889baded503f6270a23cf4f525c9d34d3bc98/header.jpg?t=1791610505",
-      "discountPercent": 15,
-      "initialPriceCents": 65500,
-      "finalPriceCents": 55600,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4856540/",
-      "genres": [
-        "ユーティリティ",
-        "ゲーム開発"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "プログラミングなしで素早くゲームを作れるシンプルなエンジンです。Android、PC、Web向けに制作し、カスタマイズして書き出し用ビルドを準備できます。",
-      "reviewSnippet": "",
-      "rawScore": 6.75,
-      "hensachi": 38,
+      "hensachi": 35.7,
       "rank": 29
     },
     {
-      "appid": 4354120,
-      "name": "Ant Clicker",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4354120/9c570a0689cd2ebed89b0d2230eebc2a7dd4087b/header.jpg?t=1791644573",
+      "appid": 5301260,
+      "name": "Scavenger's March",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5301260/e8fab4d6b1ac68dadc6091cf0c9aed0f6a1679c3/header.jpg?t=1791617931",
       "discountPercent": 10,
-      "initialPriceCents": 65500,
-      "finalPriceCents": 58900,
+      "initialPriceCents": 39500,
+      "finalPriceCents": 35500,
       "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4354120/",
+      "reviewCount": 1,
+      "storeUrl": "https://store.steampowered.com/app/5301260/",
       "genres": [
         "カジュアル",
-        "インディー"
+        "インディー",
+        "シミュレーション"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "Grow an ant empire, one crumb at a time. Click or hold to gather, recruit ten ant castes, explore four minigames, and rebirth for lasting upgrades. Watch your underground colony grow as you collect seasonal discoveries and complete 100 achievements.",
+      "shortDescription": "A semi-idle incremental set in a radioactive wasteland. Your scavenger walks, loots and fights on his own. You choose his upgrades and priorities, occasionally aid with preemptive attacks, turning short, doomed runs into longer expeditions. Hunt ModNoids, buy better weapons and follow the rumours.",
       "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 37.2,
+      "rawScore": 5.635962247788608,
+      "hensachi": 35.3,
       "rank": 30
     },
     {
@@ -722,31 +727,8 @@
       "shortDescription": "Restore order to a chaotic magical warehouse in this cozy first-person organizing simulator. Sort 4800+ packages into their proper places, unlock useful spells, and speed up your sorting. Turn towering piles of boxes into neatly filled shelves, one satisfying row at a time.",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 37.2,
+      "hensachi": 34.8,
       "rank": 31
-    },
-    {
-      "appid": 5301260,
-      "name": "Scavenger's March",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5301260/e8fab4d6b1ac68dadc6091cf0c9aed0f6a1679c3/header.jpg?t=1791617931",
-      "discountPercent": 10,
-      "initialPriceCents": 39500,
-      "finalPriceCents": 35500,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5301260/",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "A semi-idle incremental set in a radioactive wasteland. Your scavenger walks, loots and fights on his own. You choose his upgrades and priorities, occasionally aid with preemptive attacks, turning short, doomed runs into longer expeditions. Hunt ModNoids, buy better weapons and follow the rumours.",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 37.2,
-      "rank": 32
     }
   ]
 }
