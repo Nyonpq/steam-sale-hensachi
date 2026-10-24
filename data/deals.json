@@ -1,56 +1,9 @@
 {
-  "fetchedAt": "2026-10-24T15:10:30.961Z",
+  "fetchedAt": "2026-10-24T20:03:20.040Z",
   "currency": "JPY",
-  "count": 28,
-  "averageDiscount": 38.2,
+  "count": 30,
+  "averageDiscount": 33,
   "deals": [
-    {
-      "appid": 2050650,
-      "name": "BIOHAZARD RE:4",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header_japanese.jpg?t=1772502922",
-      "discountPercent": 75,
-      "initialPriceCents": 399000,
-      "finalPriceCents": 99700,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/2050650/",
-      "genres": [
-        "サバイバル",
-        "アクション",
-        "アドベンチャー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2023,
-      "shortDescription": "死を逸（かわ）し、倒す快感。 未曽有の生物災害“ラクーン事件”から 6年―。 エージェントとなったレオン・S・ケネディへ舞い込む誘拐された大統領令嬢の救出任務。 “狂気”に支配された地へ足を踏み入れたレオンの行く末とは…。 生と死、恐怖とカタルシスが交錯していく過酷な救出劇が、いま幕を開ける―。 直感的な操作と最新のグラフィック、再構成されたストーリーによって蘇る最新のサバイバルホラー体験。",
-      "reviewSnippet": "",
-      "rawScore": 33.75,
-      "hensachi": 69.8,
-      "rank": 1
-    },
-    {
-      "appid": 504230,
-      "name": "Celeste",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504230/header.jpg?t=1714089525",
-      "discountPercent": 75,
-      "initialPriceCents": 230000,
-      "finalPriceCents": 57500,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/504230/",
-      "genres": [
-        "プラットフォーマー",
-        "アクション",
-        "アドベンチャー",
-        "インディー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2018,
-      "shortDescription": "心の闇と戦う少女マデリンとともに、セレステ山の頂上を目指せ。気軽に遊べて奥が深い、手に汗握るアクションゲーム。数百におよぶ難関に立ち向かい、聖山の怪しげな秘密を探り、謎に迫れ。",
-      "reviewSnippet": "",
-      "rawScore": 33.75,
-      "hensachi": 69.8,
-      "rank": 2
-    },
     {
       "appid": 1091500,
       "name": "サイバーパンク2077",
@@ -69,8 +22,8 @@
       "shortDescription": "『サイバーパンク2077』――未来の巨大都市ナイトシティを舞台にしたオープンワールド・アクションアドベンチャーRPG",
       "reviewSnippet": "",
       "rawScore": 31.5,
-      "hensachi": 67.1,
-      "rank": 3
+      "hensachi": 72.5,
+      "rank": 1
     },
     {
       "appid": 322330,
@@ -97,8 +50,8 @@
       "shortDescription": "『Don't Starve Together』は容赦ないサバイバルゲーム、『Don't Starve』がマルチプレイヤーになる、スタンドアローン拡張パックです。",
       "reviewSnippet": "",
       "rawScore": 29.7,
-      "hensachi": 65,
-      "rank": 4
+      "hensachi": 70.1,
+      "rank": 2
     },
     {
       "appid": 32470,
@@ -118,8 +71,8 @@
       "shortDescription": "Command or corrupt an entire galaxy in the definitive Star Wars strategy collection. It is a time of galactic civil war. Will you take up the reins of the Rebellion, assume control of the Empire, or rule the Star Wars Underworld?",
       "reviewSnippet": "",
       "rawScore": 27,
-      "hensachi": 61.7,
-      "rank": 5
+      "hensachi": 66.4,
+      "rank": 3
     },
     {
       "appid": 3240220,
@@ -141,8 +94,8 @@
       "shortDescription": "大ヒットの『グランド・セフト・オートV』と「GTAオンライン」を体験しよう - 新世代用に美麗なグラフィック、短縮されたロード時間、3Dオーディオなどのアップグレード。さらに、「GTAオンライン」プレイヤー用の限定コンテンツなど。",
       "reviewSnippet": "",
       "rawScore": 22.5,
-      "hensachi": 56.4,
-      "rank": 6
+      "hensachi": 60.3,
+      "rank": 4
     },
     {
       "appid": 3247750,
@@ -163,8 +116,8 @@
       "shortDescription": "&quot;武器やギアをマシマシにカスタマイズできるミッション制ルートシューターで、キノコのエイリアンどもをぶっ飛ばせ。 何百ものお手製アップグレード、4人協力プレイ、そしてちっちゃなゴキぶ…星人もいて、これが沼らないわけない！&quot;",
       "reviewSnippet": "",
       "rawScore": 22.5,
-      "hensachi": 56.4,
-      "rank": 7
+      "hensachi": 60.3,
+      "rank": 5
     },
     {
       "appid": 588650,
@@ -188,8 +141,8 @@
       "shortDescription": "『Dead Cells』は、ローグライトとメトロイドヴァニアにインスピレーションを得たアクションプラットフォーマー。プレイヤーは、無秩序に広がり絶えず変化する城を探索することになる…むろん2Dのソウルライクな戦闘で戦って、番人を通過することができたらの話だが。チェックポイントなし。殺して、死んで、学ぶ。その繰り返しだ",
       "reviewSnippet": "",
       "rawScore": 22.5,
-      "hensachi": 56.4,
-      "rank": 8
+      "hensachi": 60.3,
+      "rank": 6
     },
     {
       "appid": 2138330,
@@ -209,8 +162,8 @@
       "shortDescription": "『サイバーパンク2077』に、スパイスリラーをテーマとした拡張パック「仮初めの自由」が新登場。ナイトシティで生きる傭兵、Vに待つ新たな任務とは？スパイのソロモン・リードと共に、踏みにじまれた忠誠心と熾烈な権力闘争が絡み合うスパイの世界へと身を投じろ",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 51,
-      "rank": 9
+      "hensachi": 54.2,
+      "rank": 7
     },
     {
       "appid": 881020,
@@ -233,8 +186,98 @@
       "shortDescription": "4人パーティで連携し戦う、本格派アクションRPG！ 独自のアクションスタイルを持つキャラクターが多数登場。キャラクター同士で次々と技を繰り出し、4人で集中攻撃する「リンクアタック」「奥義チェイン」で華麗に敵を打ち倒そう。 奥深いバトル、カスタマイズ性の高い育成システムに加えて、アクションゲーム初心者でもプレイスキルに合わせて楽しめるサポート機能も充実。 皆でパーティを組み、冒険とバトルを楽しもう！",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 51,
+      "hensachi": 54.2,
+      "rank": 8
+    },
+    {
+      "appid": 4708610,
+      "name": "PixelBoss: Shattered Depths",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4708610/681f6047b37789247f2523882ffa9200eac419c0/header.jpg?t=1792865438",
+      "discountPercent": 40,
+      "initialPriceCents": 47000,
+      "finalPriceCents": 28200,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4708610/",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "PixelBoss: Shattered Depths は、ひとつのミスが重要になるハードコアな2Dピクセルアート・プラットフォーマーです。戦い、罠を避け、正確さ、反応速度、冷静さが求められるステージを突破しましょう。",
+      "reviewSnippet": "",
+      "rawScore": 18,
+      "hensachi": 54.2,
+      "rank": 9
+    },
+    {
+      "appid": 4343600,
+      "name": "墨武天工",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4343600/616083ae1eb5a045c92fffe9e3a2f85fa1d49ebd/header.jpg?t=1792848227",
+      "discountPercent": 40,
+      "initialPriceCents": 39500,
+      "finalPriceCents": 23700,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4343600/",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "RPG"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "Mo Wu Tian Gong is an open-world survival-action game set in mythic ancient China. As both builder and warrior, you will &quot;plan with ink, fight with steel&quot; in a fractured yet beautiful world. Survive by gathering resources, constructing shelters, and farming.",
+      "reviewSnippet": "",
+      "rawScore": 18,
+      "hensachi": 54.2,
       "rank": 10
+    },
+    {
+      "appid": 5122330,
+      "name": "Console Space",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5122330/6716d95034cd1774624c8224b9532a3bc7176719/header.jpg?t=1792847865",
+      "discountPercent": 40,
+      "initialPriceCents": 13500,
+      "finalPriceCents": 8100,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5122330/",
+      "genres": [
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "You are the captain aboard a starship. Make decisions in the terminal's text logs: from repairing the reactor to moral dilemmas that irreversibly change the fate of the crew.",
+      "reviewSnippet": "",
+      "rawScore": 18,
+      "hensachi": 54.2,
+      "rank": 11
+    },
+    {
+      "appid": 5385030,
+      "name": "Dawn Archive",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5385030/45decf5b954b856a01999f661c2e5f6197dc4c4b/header.jpg?t=1792830140",
+      "discountPercent": 40,
+      "initialPriceCents": 50000,
+      "finalPriceCents": 30000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5385030/",
+      "genres": [
+        "アドベンチャー",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "部屋を選んで、回して、つなげる。自分で屋敷の間取りをつくる探索パズルアドベンチャー。限られた歩数と鍵を頼りに、仕掛けや記録の謎を解き、奥にある書庫を目指そう。",
+      "reviewSnippet": "",
+      "rawScore": 18,
+      "hensachi": 54.2,
+      "rank": 12
     },
     {
       "appid": 5404950,
@@ -255,96 +298,8 @@
       "shortDescription": "Foodland puzzle is simplictic jigsaw puzzle game with food themed images",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 51,
-      "rank": 11
-    },
-    {
-      "appid": 5061340,
-      "name": "Puzzle Wild Cats",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5061340/9c47809452ef4b93382b5196f7ab49e3cd825bf4/header.jpg?t=1792824872",
-      "discountPercent": 40,
-      "initialPriceCents": 60000,
-      "finalPriceCents": 36000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5061340/",
-      "genres": [
-        "カジュアル",
-        "インディー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "This game is a classic puzzle game with multiple levels and beautiful graphics. Enjoy!",
-      "reviewSnippet": "",
-      "rawScore": 18,
-      "hensachi": 51,
-      "rank": 12
-    },
-    {
-      "appid": 5232250,
-      "name": "Puzzle Musical Instruments",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5232250/3a883161bc0eec482ca3776119f6dd736f2bc170/header.jpg?t=1792824169",
-      "discountPercent": 40,
-      "initialPriceCents": 60000,
-      "finalPriceCents": 36000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5232250/",
-      "genres": [
-        "カジュアル",
-        "インディー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "This game is a classic puzzle game with multiple levels and beautiful graphics. Enjoy!",
-      "reviewSnippet": "",
-      "rawScore": 18,
-      "hensachi": 51,
+      "hensachi": 54.2,
       "rank": 13
-    },
-    {
-      "appid": 5151450,
-      "name": "Puzzle Nuts",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5151450/b020404a69527cdce20eb79c3651b35fa228945a/header.jpg?t=1792824009",
-      "discountPercent": 40,
-      "initialPriceCents": 60000,
-      "finalPriceCents": 36000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5151450/",
-      "genres": [
-        "カジュアル",
-        "インディー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "This game is a classic puzzle game with multiple levels and beautiful graphics. Enjoy!",
-      "reviewSnippet": "",
-      "rawScore": 18,
-      "hensachi": 51,
-      "rank": 14
-    },
-    {
-      "appid": 5232310,
-      "name": "Puzzle Penguins",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5232310/518b35836be7e9fd46d1a0ed081a0289478d8e04/header.jpg?t=1792822869",
-      "discountPercent": 40,
-      "initialPriceCents": 60000,
-      "finalPriceCents": 36000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5232310/",
-      "genres": [
-        "カジュアル",
-        "インディー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "This game is a classic puzzle game with multiple levels and beautiful graphics. Enjoy!",
-      "reviewSnippet": "",
-      "rawScore": 18,
-      "hensachi": 51,
-      "rank": 15
     },
     {
       "appid": 3892270,
@@ -366,13 +321,13 @@
       "shortDescription": "最大6人の仲間と、銀行口座と莫大な借金を共有しながらギャンブルに挑む、オンライン協力型「カジノクローラー」。怪しげなアイテムを買い、最悪の選択を重ね、不吉なカジノタワーを登れ。5分以内に課されたノルマを達成しなければ――そのツケを払うことになる。",
       "reviewSnippet": "",
       "rawScore": 17.1,
-      "hensachi": 49.9,
-      "rank": 16
+      "hensachi": 53,
+      "rank": 14
     },
     {
       "appid": 5038160,
       "name": "SQUIRT GAME 💦",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5038160/09a298fadf58eae82a6cb0235853c957fa484358/header.jpg?t=1792850224",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5038160/09a298fadf58eae82a6cb0235853c957fa484358/header.jpg?t=1792858234",
       "discountPercent": 37,
       "initialPriceCents": 228500,
       "finalPriceCents": 143900,
@@ -389,54 +344,77 @@
       "shortDescription": "あなたは自らこの狂騒に足を踏み入れ、気づけば抜け出せなくなっていた。今やあなたは、スキャンダラスな大人向けリアリティ番組のスターだ。性的なライバルたちを操り、誘惑して、優勝賞金を勝ち取ろう。思いきり大胆に楽しもう！ 🐙💦",
       "reviewSnippet": "",
       "rawScore": 16.650000000000002,
-      "hensachi": 49.4,
+      "hensachi": 52.4,
+      "rank": 15
+    },
+    {
+      "appid": 739630,
+      "name": "Phasmophobia",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/6283e4bf96c6e8160492ae12016f0c9a308a75d9/header_alt_assets_13.jpg?t=1791632508",
+      "discountPercent": 30,
+      "initialPriceCents": 230000,
+      "finalPriceCents": 161000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/739630/",
+      "genres": [
+        "アクション",
+        "インディー",
+        "早期アクセス"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2020,
+      "shortDescription": "Phasmophobia is a 4 player online co-op psychological horror. Paranormal activity is on the rise and it’s up to you and your team to use all the ghost-hunting equipment at your disposal in order to gather as much evidence as you can.",
+      "reviewSnippet": "",
+      "rawScore": 13.5,
+      "hensachi": 48.2,
+      "rank": 16
+    },
+    {
+      "appid": 1374490,
+      "name": "RuneScape: Dragonwilds ルーンスケープ：ドラゴンワイルズ",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/3e27915a647dbf05e17f2ff98d33c9a0765da539/header.jpg?t=1791278745",
+      "discountPercent": 30,
+      "initialPriceCents": 340000,
+      "finalPriceCents": 238000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/1374490/",
+      "genres": [
+        "サバイバル",
+        "アクション",
+        "アドベンチャー",
+        "RPG"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "RuneScapeの忘れ去られた大陸、アシェンフォールで、ドラゴンが目覚めた。この協力型サバイバルアドベンチャーで資源を集め、建築し、スキルを磨き、クラフトを駆使しろ。サバイバル術を極めて古代の秘密を解き明かすことだけが、獰猛なドラゴンクイーンに立ち向かう希望を生み出す。",
+      "reviewSnippet": "",
+      "rawScore": 13.5,
+      "hensachi": 48.2,
       "rank": 17
     },
     {
-      "appid": 3645890,
-      "name": "GONE Fishing",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3645890/ccf41cdf893f47a5a692f05e2344df5e2fdeb3d9/header_alt_assets_0.jpg?t=1792492815",
-      "discountPercent": 33,
-      "initialPriceCents": 99900,
-      "finalPriceCents": 66900,
+      "appid": 5385830,
+      "name": "Lily or Horse",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5385830/920ed26d1fef714a3dbad95210df9e36bdfa4ff3/header.jpg?t=1792853547",
+      "discountPercent": 30,
+      "initialPriceCents": 65500,
+      "finalPriceCents": 45800,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/3645890/",
+      "storeUrl": "https://store.steampowered.com/app/5385830/",
       "genres": [
-        "アクション",
-        "アドベンチャー",
+        "カジュアル",
         "インディー"
       ],
       "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "GONE Fishing は、1〜8人で遊べるサバイバルホラーです。仲間と力を合わせ、釣りで生き延びましょう。生き残る唯一の方法は、湖の底なしの飢えを満たし続けること。さもなければ、喰われるのはあなたです。 あなたはその飢えを満たせるか……それとも、次の生贄になるか？",
-      "reviewSnippet": "",
-      "rawScore": 14.85,
-      "hensachi": 47.2,
-      "rank": 18
-    },
-    {
-      "appid": 5295630,
-      "name": "Wok King",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5295630/ef9f14cdad5f5a7722451158b774af121aeb10c5/header.jpg?t=1792823543",
-      "discountPercent": 30,
-      "initialPriceCents": 39500,
-      "finalPriceCents": 27600,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5295630/",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "You and your friends run a Chinese restaurant in a cherry blossom town on an island. You travel to various places to purchase different quality ingredients, frantically completing orders in the kitchen, riding an e-bike to deliver the delicacies to customers, striving to become the wok king!",
+      "shortDescription": "世界一かんたんなゲームです。コインを投げて、百合か馬かを当てるだけ。10回連続で当てればクリア。外すと、賭けた金貨はすべて失います。運がよければ、たった10回で終わります。",
       "reviewSnippet": "",
       "rawScore": 13.5,
-      "hensachi": 45.6,
-      "rank": 19
+      "hensachi": 48.2,
+      "rank": 18
     },
     {
       "appid": 2246340,
@@ -459,72 +437,80 @@
       "shortDescription": "荒々しく獰猛な自然が、襲い来る。 刻一刻とダイナミックにその姿を変貌させるフィールド。二面性をもつ世界に生きる、モンスターと人々の物語。 進化したハンティングアクションと、途切れることのない没入感を追求した究極の狩猟体験が、あなたを待っている。",
       "reviewSnippet": "",
       "rawScore": 11.25,
-      "hensachi": 42.9,
+      "hensachi": 45.1,
+      "rank": 19
+    },
+    {
+      "appid": 5328190,
+      "name": "Wild Draw",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5328190/af9b61e9c16cb46c7dd06081e33c829847f5b869/header.jpg?t=1792852541",
+      "discountPercent": 25,
+      "initialPriceCents": 84500,
+      "finalPriceCents": 63300,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5328190/",
+      "genres": [
+        "アクション",
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "カードを出せ。仲間をハメろ。そして撃ち合え。WILD DRAWは3～6人で遊べる一人称視点のパーティーゲーム。酒場のテーブルから始まる各ラウンドは、最後には大混乱へと変わる。",
+      "reviewSnippet": "",
+      "rawScore": 11.25,
+      "hensachi": 45.1,
       "rank": 20
     },
     {
-      "appid": 3357650,
-      "name": "PRAGMATA",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3357650/e32e168b25ed68a0cf6264c220c07e96c2abfb56/header.jpg?t=1791454600",
-      "discountPercent": 20,
-      "initialPriceCents": 799000,
-      "finalPriceCents": 639200,
+      "appid": 5442420,
+      "name": "SQUIRT GAME 💦 - WALLPAPERS 18+",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5442420/391aaf57edc58015516ae94223445d717449ac9b/header.jpg?t=1792849775",
+      "discountPercent": 25,
+      "initialPriceCents": 42000,
+      "finalPriceCents": 31500,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/3357650/",
+      "storeUrl": "https://store.steampowered.com/app/5442420/",
       "genres": [
-        "アクション",
-        "アドベンチャー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "『プラグマタ』はカプコンが贈る完全新作タイトル。 パズルとアクションが融合した、新感覚のSFアクションアドベンチャーです。月で遭難した調査員&quot;ヒュー&quot;と、アンドロイドの少女&quot;ディアナ&quot;。AIに支配された近未来の月面世界を舞台に、二人は互いの力を頼りに地球への帰還を目指します。",
-      "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 40.2,
-      "rank": 21
-    },
-    {
-      "appid": 5360120,
-      "name": "Arena Invaders",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5360120/314d7d6e5852d7cc34309832905e3deb46a753c8/header.jpg?t=1792806992",
-      "discountPercent": 20,
-      "initialPriceCents": 39500,
-      "finalPriceCents": 31600,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5360120/",
-      "genres": [
-        "アクション"
+        "カジュアル",
+        "インディー",
+        "シミュレーション"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "Hold the ring. Arena Invaders is a neon twin-lane shooter: orbit the rim, drop to the inner lane to fire outward, and hold back swarms that come from both sides. Play the classic Arcade campaign or survive 10 minutes of escalating chaos",
+      "shortDescription": "Give your desktop a playful adult twist with this exclusive wallpaper collection for SQUIRT GAME 💦. Featuring eye-catching artwork inspired by the game, this pack is a great way to bring its characters and atmosphere to your screen.",
       "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 40.2,
-      "rank": 22
+      "rawScore": 11.25,
+      "hensachi": 45.1,
+      "rank": 21
     },
     {
-      "appid": 4690300,
-      "name": "敗戦隷姫エルネア",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4690300/8081331aeaec4e1098aec842ba64a9c10d35e24e/header_japanese.jpg?t=1792806128",
+      "appid": 2929250,
+      "name": "over the hill",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2929250/header.jpg?t=1792666389",
       "discountPercent": 20,
-      "initialPriceCents": 198000,
-      "finalPriceCents": 158400,
+      "initialPriceCents": 315000,
+      "finalPriceCents": 252000,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4690300/",
+      "storeUrl": "https://store.steampowered.com/app/2929250/",
       "genres": [
-        "RPG"
+        "アドベンチャー",
+        "カジュアル",
+        "インディー",
+        "レース",
+        "シミュレーション",
+        "スポーツ"
       ],
       "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "本作は、復讐を誓う元王女エルネアが、奴隷へと堕とされた身から再び頂点を目指して成り上がるRPGです。帝国の民衆の前で屈辱に身を晒して金を稼ぐのか、それともダンジョンを攻略し戦い抜いて資金を得るのか......選ぶのはあなた次第。",
+      "shortDescription": "オフロード走行の黄金時代、未知の冒険が待ち受ける。1960年代～1980年代を代表する4WDに乗り込み、過酷なルートや美しい景色の中を走り抜けよう。1人でも、友達と一緒でも楽しめる。",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 40.2,
-      "rank": 23
+      "hensachi": 42.1,
+      "rank": 22
     },
     {
       "appid": 294100,
@@ -547,8 +533,52 @@
       "shortDescription": "知性のあるAIストーリーテラーによって織りなされるSFコロニーシミュレーションゲームです。人の性格、自然環境、銃撃戦、近接戦、気候、バイオーム、外交、対人関係、芸術、医学、貿易などをシミュレートし、ストーリーを生成します。",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 40.2,
+      "hensachi": 42.1,
+      "rank": 23
+    },
+    {
+      "appid": 4709550,
+      "name": "Behind the Corner",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4709550/ff067adc322fe8522b8775b0a55f8f5a8dd01fcb/header.jpg?t=1792861209",
+      "discountPercent": 15,
+      "initialPriceCents": 155000,
+      "finalPriceCents": 131700,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4709550/",
+      "genres": [
+        "アクション",
+        "インディー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Explore dark vintage environments and survive encounters with a relentless entity in this first-person psychological horror game. Listen closely, watch the shadows, and face the unsettling feeling that something is waiting just around the corner.",
+      "reviewSnippet": "",
+      "rawScore": 6.75,
+      "hensachi": 39,
       "rank": 24
+    },
+    {
+      "appid": 5390130,
+      "name": "NSFW Solitaire - Cumshots Video",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5390130/5fff86c069854e891169764b39007d54504554ff/header.jpg?t=1792847594",
+      "discountPercent": 15,
+      "initialPriceCents": 65500,
+      "finalPriceCents": 55600,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5390130/",
+      "genres": [
+        "カジュアル",
+        "無料プレイ"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "NSFWソリティア用の703本の動画と15セットの射精をテーマにしたビデオカードセット",
+      "reviewSnippet": "",
+      "rawScore": 6.75,
+      "hensachi": 39,
+      "rank": 25
     },
     {
       "appid": 5099960,
@@ -572,30 +602,7 @@
       "shortDescription": "&quot;Love Where Touches&quot; is a supernatural high school doujin VN. A third extra lunchbox made daily, an invisible girl in the classroom, and magical truths hidden behind forgotten memories... To protect the one you cherish, would you sacrifice your memories to reach true happiness?",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 37.5,
-      "rank": 25
-    },
-    {
-      "appid": 5293100,
-      "name": "深淵の残響",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5293100/5773863e37710d3714355e4b90b9ee4d5c251ae0/header_japanese.jpg?t=1792805831",
-      "discountPercent": 15,
-      "initialPriceCents": 135000,
-      "finalPriceCents": 114700,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5293100/",
-      "genres": [
-        "アクション",
-        "インディー",
-        "RPG"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "『Echo in the Lightless Deep』は深海が舞台のサバイバルローグライク。光の核を導いて、太陽の届かない海をひたすら下降する。周囲の共生体は近づく怪物を自動で迎撃し、あなたが担うのは立ち回りと回避、光粒を集めての成長、変異カードで流派を組み上げること。核が明るいほど視界と射程は伸び、惹き寄せる怪物も増える。灯を消せば姿も消せる。5体の巨物を倒し、1050mの淵底で選択を——光へ帰るか、闇に残るか。",
-      "reviewSnippet": "",
-      "rawScore": 6.75,
-      "hensachi": 37.5,
+      "hensachi": 39,
       "rank": 26
     },
     {
@@ -620,32 +627,77 @@
       "shortDescription": "『Enshrouded~霧の王国~』は、プレイヤーの自由と創造性が最も重要となる、ソロおよび協力プレイ対応のサバイバルアクションRPG。エンバーベール王国を飲み込み、腐敗をもたらす霧「シュラウド」に立ち向かおう。秘密に満ちた緻密に作り込まれた世界を探索し、自分だけのヒーローを育て上げ、テラフォーミングで地形を改造可能な土地で、どこでも、何でも作り上げることができる。",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 34.8,
+      "hensachi": 36,
       "rank": 27
     },
     {
-      "appid": 2445430,
-      "name": "転生ブレイブ",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445430/0d9fdaf26f0e494141577e2144ba88408f29ef16/header_japanese.jpg?t=1792810815",
+      "appid": 2445780,
+      "name": "Grifford Academy",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445780/99b1f10453420269da0b88ff8f0ce72b43af882f/header_alt_assets_1.jpg?t=1792860695",
       "discountPercent": 10,
-      "initialPriceCents": 363000,
-      "finalPriceCents": 326700,
+      "initialPriceCents": 170000,
+      "finalPriceCents": 153000,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/2445430/",
+      "storeUrl": "https://store.steampowered.com/app/2445780/",
       "genres": [
         "アドベンチャー",
         "カジュアル",
         "インディー",
         "RPG"
       ],
-      "supportsJapanese": true,
+      "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "魔王の侵略によって、世界中の国々が滅ぼされた危機。 最後に残った国に、勇者が召喚されます。 プレイヤーは勇者を操作して、仲間を集め、魔王討伐の旅に出ます。 一見か弱い主人公は、果たして魔王を倒すことは可能でしょうか。",
+      "shortDescription": "『Grifford Academy』は神秘的な本の世界を舞台にした、ストーリー豊かな成長型RPGです。プレイヤーの決断がキャラクターの性格を形成します。戦略的なターン制バトルを繰り広げながら、カルドリアに隠された秘密を解き明かしましょう。",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 34.8,
+      "hensachi": 36,
       "rank": 28
+    },
+    {
+      "appid": 2774560,
+      "name": "Foulbreaker",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2774560/header.jpg?t=1792856000",
+      "discountPercent": 10,
+      "initialPriceCents": 23500,
+      "finalPriceCents": 21100,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/2774560/",
+      "genres": [
+        "ローグライク",
+        "アクション",
+        "インディー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Welcome to the exciting fantasy world where the mix of adrenaline, strategy and magic reaches its peak! &quot;Foulbreaker&quot; is a bagel in the classic sense, where you will have an endless battle with frenzied monsters in a troubled kingdom.",
+      "reviewSnippet": "",
+      "rawScore": 4.5,
+      "hensachi": 36,
+      "rank": 29
+    },
+    {
+      "appid": 5339300,
+      "name": "猫咪之家 CatHome",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5339300/f68482cc0e93fe424ef6be4978c1330f1be91d64/header_japanese.jpg?t=1792831670",
+      "discountPercent": 10,
+      "initialPriceCents": 26500,
+      "finalPriceCents": 23800,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5339300/",
+      "genres": [
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "定番のスロットゲーム形式で、野良猫の保護施設を運営しましょう。",
+      "reviewSnippet": "",
+      "rawScore": 4.5,
+      "hensachi": 36,
+      "rank": 30
     }
   ]
 }
