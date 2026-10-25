@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-25T15:22:25.539Z",
+  "fetchedAt": "2026-10-25T20:14:36.079Z",
   "currency": "JPY",
-  "count": 37,
-  "averageDiscount": 32.9,
+  "count": 35,
+  "averageDiscount": 33.4,
   "deals": [
     {
       "appid": 2050650,
@@ -24,7 +24,7 @@
       "shortDescription": "死を逸（かわ）し、倒す快感。 未曽有の生物災害“ラクーン事件”から 6年―。 エージェントとなったレオン・S・ケネディへ舞い込む誘拐された大統領令嬢の救出任務。 “狂気”に支配された地へ足を踏み入れたレオンの行く末とは…。 生と死、恐怖とカタルシスが交錯していく過酷な救出劇が、いま幕を開ける―。 直感的な操作と最新のグラフィック、再構成されたストーリーによって蘇る最新のサバイバルホラー体験。",
       "reviewSnippet": "",
       "rawScore": 33.75,
-      "hensachi": 75.9,
+      "hensachi": 74.9,
       "rank": 1
     },
     {
@@ -45,7 +45,7 @@
       "shortDescription": "『サイバーパンク2077』――未来の巨大都市ナイトシティを舞台にしたオープンワールド・アクションアドベンチャーRPG",
       "reviewSnippet": "",
       "rawScore": 31.5,
-      "hensachi": 72.8,
+      "hensachi": 71.9,
       "rank": 2
     },
     {
@@ -73,7 +73,7 @@
       "shortDescription": "『Don't Starve Together』は容赦ないサバイバルゲーム、『Don't Starve』がマルチプレイヤーになる、スタンドアローン拡張パックです。",
       "reviewSnippet": "",
       "rawScore": 29.7,
-      "hensachi": 70.3,
+      "hensachi": 69.5,
       "rank": 3
     },
     {
@@ -94,7 +94,7 @@
       "shortDescription": "Command or corrupt an entire galaxy in the definitive Star Wars strategy collection. It is a time of galactic civil war. Will you take up the reins of the Rebellion, assume control of the Empire, or rule the Star Wars Underworld?",
       "reviewSnippet": "",
       "rawScore": 27,
-      "hensachi": 66.7,
+      "hensachi": 65.9,
       "rank": 4
     },
     {
@@ -117,7 +117,7 @@
       "shortDescription": "大ヒットの『グランド・セフト・オートV』と「GTAオンライン」を体験しよう - 新世代用に美麗なグラフィック、短縮されたロード時間、3Dオーディオなどのアップグレード。さらに、「GTAオンライン」プレイヤー用の限定コンテンツなど。",
       "reviewSnippet": "",
       "rawScore": 22.5,
-      "hensachi": 60.5,
+      "hensachi": 59.9,
       "rank": 5
     },
     {
@@ -142,7 +142,7 @@
       "shortDescription": "『Dead Cells』は、ローグライトとメトロイドヴァニアにインスピレーションを得たアクションプラットフォーマー。プレイヤーは、無秩序に広がり絶えず変化する城を探索することになる…むろん2Dのソウルライクな戦闘で戦って、番人を通過することができたらの話だが。チェックポイントなし。殺して、死んで、学ぶ。その繰り返しだ",
       "reviewSnippet": "",
       "rawScore": 22.5,
-      "hensachi": 60.5,
+      "hensachi": 59.9,
       "rank": 6
     },
     {
@@ -163,8 +163,30 @@
       "shortDescription": "『サイバーパンク2077』に、スパイスリラーをテーマとした拡張パック「仮初めの自由」が新登場。ナイトシティで生きる傭兵、Vに待つ新たな任務とは？スパイのソロモン・リードと共に、踏みにじまれた忠誠心と熾烈な権力闘争が絡み合うスパイの世界へと身を投じろ",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 54.3,
+      "hensachi": 54,
       "rank": 7
+    },
+    {
+      "appid": 1943730,
+      "name": "Wicked Island",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943730/b2a1dbcf11a34b1f8e04fe1737db0ca06eecd11c/header.jpg?t=1782299299",
+      "discountPercent": 40,
+      "initialPriceCents": 390000,
+      "finalPriceCents": 234000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/1943730/",
+      "genres": [
+        "RPG",
+        "早期アクセス"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2025,
+      "shortDescription": "この18禁サバイバルRPGで、過酷かつ魅力的なオープンワールドを生き抜け。装備のクラフト、拠点の建築、キャラメイクを駆使し、ドラゴンを乗りこなせ！深いダンジョンを探索して凶暴なモンスターと戦おう。勝利を掴むか、敗北姦と妊娠システムによって欲望に屈するかはあなた次第だ。",
+      "reviewSnippet": "",
+      "rawScore": 18,
+      "hensachi": 54,
+      "rank": 8
     },
     {
       "appid": 881020,
@@ -187,8 +209,56 @@
       "shortDescription": "4人パーティで連携し戦う、本格派アクションRPG！ 独自のアクションスタイルを持つキャラクターが多数登場。キャラクター同士で次々と技を繰り出し、4人で集中攻撃する「リンクアタック」「奥義チェイン」で華麗に敵を打ち倒そう。 奥深いバトル、カスタマイズ性の高い育成システムに加えて、アクションゲーム初心者でもプレイスキルに合わせて楽しめるサポート機能も充実。 皆でパーティを組み、冒険とバトルを楽しもう！",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 54.3,
-      "rank": 8
+      "hensachi": 54,
+      "rank": 9
+    },
+    {
+      "appid": 2058670,
+      "name": "Viking Life",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058670/92f033a161559924ab911c2c1aff51368fc8db31/header.jpg?t=1792954944",
+      "discountPercent": 40,
+      "initialPriceCents": 140000,
+      "finalPriceCents": 84000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/2058670/",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "ヴァイキングの部隊を率いて、フィヨルドからイングランド、そしてフランスへ遠征するリアルタイムバトルのローグライトです。最前線で斧を振るい、数十人の戦士を指揮しましょう。倒れてもヴァルハラで目覚め、次のサガに向けて村を発展させられます。",
+      "reviewSnippet": "",
+      "rawScore": 18,
+      "hensachi": 54,
+      "rank": 10
+    },
+    {
+      "appid": 4078410,
+      "name": "Post-Utopia: Europe2999",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078410/b50d33361bbaffa9a1ff0b61adfd4902f5639309/header.jpg?t=1792941048",
+      "discountPercent": 40,
+      "initialPriceCents": 120000,
+      "finalPriceCents": 72000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4078410/",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "インディー",
+        "RPG"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "『Europe2999』は、サバイバル、ストーリー、そして徹底したカスタマイズ要素を融合させたサードパーソン・シューティングゲームです。緊張感に包まれた地中海の島で、治療法を見つけ、自らの伝説を築き上げ、崩壊寸前の世界の運命を切り開いてください。",
+      "reviewSnippet": "",
+      "rawScore": 18,
+      "hensachi": 54,
+      "rank": 11
     },
     {
       "appid": 5280220,
@@ -211,143 +281,76 @@
       "shortDescription": "Task Bar Cubeは、デスクトップで遊べる楽しい放置系RPGです。基礎ステータスが高い10体の専属ヒーローを解放し、永続ゴールドボーナスとAFK宝箱容量アップも手に入ります。",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 54.3,
-      "rank": 9
-    },
-    {
-      "appid": 5358030,
-      "name": "Lumbrix",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5358030/4391375f4d14c46e75de48000347490246c29913/header.jpg?t=1792882977",
-      "discountPercent": 40,
-      "initialPriceCents": 135000,
-      "finalPriceCents": 81000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5358030/",
-      "genres": [
-        "アクション",
-        "カジュアル",
-        "インディー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "Lumbrixは、成長し続けるワームの体節ひとつひとつが武器であり命でもあるサバイバー系シューター。頭のキャノンで狙い、体を盾にし、武器を進化させて10分間生き延び、ボスに挑め。",
-      "reviewSnippet": "",
-      "rawScore": 18,
-      "hensachi": 54.3,
-      "rank": 10
-    },
-    {
-      "appid": 3752410,
-      "name": "Dispatch Control",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3752410/a8728050be2e15452baeeae35568c7111d9053c4/header.jpg?t=1792930412",
-      "discountPercent": 40,
-      "initialPriceCents": 26500,
-      "finalPriceCents": 15900,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/3752410/",
-      "genres": [
-        "シミュレーション",
-        "ストラテジー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Run a fire and ambulance dispatch center on real-world maps. Answer emergency calls, assess incidents and send the right crews while keeping units in reserve. Play Dispatch Control solo or in online co-op with up to six players, in free play or 16 campaign chapters. Available in English and German.",
-      "reviewSnippet": "",
-      "rawScore": 18,
-      "hensachi": 54.3,
-      "rank": 11
-    },
-    {
-      "appid": 3330380,
-      "name": "Ad Nauseam - The Wrong Side",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330380/d965dd07008804cecdb355e88d471647e9c1f250/header.jpg?t=1792878250",
-      "discountPercent": 40,
-      "initialPriceCents": 145000,
-      "finalPriceCents": 87000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/3330380/",
-      "genres": [
-        "アドベンチャー",
-        "インディー",
-        "RPG"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Ad Nauseam is a choice-heavy psych horror / thriller about trauma, identity, love, and sickness. It combines many staples of Adventure, VN, and RPG games with its own flair to create something entirely unique. Solve mysteries, form bonds, blur the line between mind and body, and keep your eyes open.",
-      "reviewSnippet": "",
-      "rawScore": 18,
-      "hensachi": 54.3,
+      "hensachi": 54,
       "rank": 12
     },
     {
-      "appid": 4924290,
-      "name": "Fire Bug",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4924290/2a0db0d043d9bc8febc2b0974520791cef78ee0a/header.jpg?t=1792876542",
+      "appid": 5280250,
+      "name": "Task Bar Cube: Support Package",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5280250/af72d2ea7ac62c11eb3498762e0da9023ba22bbf/header.jpg?t=1792922274",
       "discountPercent": 40,
-      "initialPriceCents": 39500,
-      "finalPriceCents": 23700,
+      "initialPriceCents": 42000,
+      "finalPriceCents": 25200,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4924290/",
+      "storeUrl": "https://store.steampowered.com/app/5280250/",
       "genres": [
-        "アクション",
         "カジュアル",
+        "インディー",
+        "RPG",
+        "無料プレイ"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "Task Bar Cubeは、デスクトップで遊べる楽しい放置系RPGです。基礎ステータスが高い10体の専属仲間を解放し、永続ゴールドボーナスとAFK宝箱容量アップも手に入ります。",
+      "reviewSnippet": "",
+      "rawScore": 18,
+      "hensachi": 54,
+      "rank": 13
+    },
+    {
+      "appid": 5280270,
+      "name": "Task Bar Cube: Inventory Package",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5280270/fec0554b4db196e9d41805088bc265bee2efbd0d/header.jpg?t=1792922271",
+      "discountPercent": 40,
+      "initialPriceCents": 42000,
+      "finalPriceCents": 25200,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5280270/",
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "RPG",
+        "無料プレイ"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "Task Bar Cubeは、デスクトップで遊べる楽しい放置系RPGです。追加のSteamインベントリページを含む、すべての保管カテゴリーとページを解放し、AFK宝箱容量もアップします。",
+      "reviewSnippet": "",
+      "rawScore": 18,
+      "hensachi": 54,
+      "rank": 14
+    },
+    {
+      "appid": 4764890,
+      "name": "+PROTECTUS-",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4764890/c72c18f08e07487656a8297124218a736b906a67/header.jpg?t=1792915136",
+      "discountPercent": 40,
+      "initialPriceCents": 14000,
+      "finalPriceCents": 8400,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4764890/",
+      "genres": [
         "インディー"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "Hold the sun in your hand in this fast-paced arcade game. Play as a magnifying glass and cook swarms of bugs before time runs out. Chain ignitions, defeat tier bosses, and spend your Sparks on upgrades tree to unlock explosive criticals, burn trails, and smoldering spore clouds.",
+      "shortDescription": "🧲 A minimalist first‑person puzzle game where you have to escape from a ruined lunar complex using an experimental magnetic cannon and uncover the secrets of the ECHO project together with the drone Kruitni.",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 54.3,
-      "rank": 13
-    },
-    {
-      "appid": 5288620,
-      "name": "オリガルヒの金でキスして",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5288620/3282abc4a3d3bf8c6e752641a19c1ed9451b887d/header_japanese.jpg?t=1792866884",
-      "discountPercent": 40,
-      "initialPriceCents": 90500,
-      "finalPriceCents": 54300,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5288620/",
-      "genres": [
-        "アドベンチャー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "借金を抱えたミラノのウェディングプロデューサー、ルカは、19歳で逃げ出したアドリア海の港町スカリンへ戻り、誰も名を口にできないオリガルヒの秘密かつ豪華な結婚式を準備する。城門も浜辺も漁船も止められた6日間、3つの完全な恋愛ルートから選択しよう。毎日一時間だけ自由になりたい世界的ポップスターの花嫁オレリー、22年前に何も告げず置き去りにした初恋の仕立屋ドゥニャ、封鎖で生計を失い抗議を率いる地元活動家クララ。月曜の夜の一度の決断が、ルカの葛藤、親密さ、残りの一週間、そして最終的な結末を変える。",
-      "reviewSnippet": "",
-      "rawScore": 18,
-      "hensachi": 54.3,
-      "rank": 14
-    },
-    {
-      "appid": 4708610,
-      "name": "PixelBoss: Shattered Depths",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4708610/681f6047b37789247f2523882ffa9200eac419c0/header.jpg?t=1792865438",
-      "discountPercent": 40,
-      "initialPriceCents": 47000,
-      "finalPriceCents": 28200,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4708610/",
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "インディー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "PixelBoss: Shattered Depths は、ひとつのミスが重要になるハードコアな2Dピクセルアート・プラットフォーマーです。戦い、罠を避け、正確さ、反応速度、冷静さが求められるステージを突破しましょう。",
-      "reviewSnippet": "",
-      "rawScore": 18,
-      "hensachi": 54.3,
+      "hensachi": 54,
       "rank": 15
     },
     {
@@ -370,7 +373,7 @@
       "shortDescription": "最大6人の仲間と、銀行口座と莫大な借金を共有しながらギャンブルに挑む、オンライン協力型「カジノクローラー」。怪しげなアイテムを買い、最悪の選択を重ね、不吉なカジノタワーを登れ。5分以内に課されたノルマを達成しなければ――そのツケを払うことになる。",
       "reviewSnippet": "",
       "rawScore": 17.1,
-      "hensachi": 53.1,
+      "hensachi": 52.8,
       "rank": 16
     },
     {
@@ -391,8 +394,34 @@
       "shortDescription": "Defend your base from the robotic horde! Mine ores and sell them to make quick cash. Use your hard-earned money to buy weapons, attachments, and equipment that will assist you in defeating the bots! How long can you hold off the horde?",
       "reviewSnippet": "",
       "rawScore": 15.75,
-      "hensachi": 51.3,
+      "hensachi": 51,
       "rank": 17
+    },
+    {
+      "appid": 346110,
+      "name": "ARK: Survival Evolved",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/header.jpg?t=1792799671",
+      "discountPercent": 34,
+      "initialPriceCents": 170000,
+      "finalPriceCents": 112200,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/346110/",
+      "genres": [
+        "サバイバル",
+        "アクション",
+        "アドベンチャー",
+        "インディー",
+        "MM（Massively Multiplayer）",
+        "RPG"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2017,
+      "shortDescription": "Stranded on the shores of a mysterious island, you must learn to survive. Use your cunning to kill or tame the primeval creatures roaming the land, and encounter other players to survive, dominate... and escape!",
+      "reviewSnippet": "",
+      "rawScore": 15.3,
+      "hensachi": 50.4,
+      "rank": 18
     },
     {
       "appid": 5409020,
@@ -413,8 +442,8 @@
       "shortDescription": "Flick, brake and reverse your way from one tiny fidget spinner to a bustling pixel arcade. Restore machines, build gadget combinations, master mouse driven minigames and spend earned Tickets on chance games and cosmetics.",
       "reviewSnippet": "",
       "rawScore": 13.5,
-      "hensachi": 48.2,
-      "rank": 18
+      "hensachi": 48,
+      "rank": 19
     },
     {
       "appid": 4461260,
@@ -437,55 +466,8 @@
       "shortDescription": "Ball Bugs is an incremental defense game where you start with a single persistent ball and build up an arsenal of ball firing turrets, artillery and special ball types. Bounce, splat, upgrade and come back stronger until the bugs stop getting through.",
       "reviewSnippet": "",
       "rawScore": 13.5,
-      "hensachi": 48.2,
-      "rank": 19
-    },
-    {
-      "appid": 4262030,
-      "name": "Last Fisherman",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262030/086d1c597e2ea1b4918a6ad6163902bf8767bc48/header.jpg?t=1792887717",
-      "discountPercent": 30,
-      "initialPriceCents": 65500,
-      "finalPriceCents": 45800,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4262030/",
-      "genres": [
-        "アドベンチャー",
-        "インディー",
-        "RPG",
-        "シミュレーション"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "In abandoned biomes, forgotten cities, and lifeless waters, you cast your line — often without knowing whether it is still worth it. Rare fish, fragile systems, and a world without explanation create an atmosphere that observes rather than entertains.",
-      "reviewSnippet": "",
-      "rawScore": 13.5,
-      "hensachi": 48.2,
+      "hensachi": 48,
       "rank": 20
-    },
-    {
-      "appid": 4720170,
-      "name": "Panspermia - El eco de los antiguos",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4720170/a0a02a3270f52b7e0d15526d200a407437fb5fe5/header.jpg?t=1792865547",
-      "discountPercent": 30,
-      "initialPriceCents": 65500,
-      "finalPriceCents": 45800,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4720170/",
-      "genres": [
-        "アドベンチャー",
-        "カジュアル",
-        "インディー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "A narrative adventure where your words matter. Explore, decide, and uncover the secrets of the Panspermia universe in an experience inspired by classic text parser adventures.",
-      "reviewSnippet": "",
-      "rawScore": 13.5,
-      "hensachi": 48.2,
-      "rank": 21
     },
     {
       "appid": 2246340,
@@ -508,7 +490,29 @@
       "shortDescription": "荒々しく獰猛な自然が、襲い来る。 刻一刻とダイナミックにその姿を変貌させるフィールド。二面性をもつ世界に生きる、モンスターと人々の物語。 進化したハンティングアクションと、途切れることのない没入感を追求した究極の狩猟体験が、あなたを待っている。",
       "reviewSnippet": "",
       "rawScore": 11.25,
-      "hensachi": 45.1,
+      "hensachi": 45,
+      "rank": 21
+    },
+    {
+      "appid": 3703300,
+      "name": "I Checkmate Thee",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3703300/acf61e2e6044558149bae1491b62f06e6b1f2ad0/header.jpg?t=1792940876",
+      "discountPercent": 25,
+      "initialPriceCents": 70000,
+      "finalPriceCents": 52500,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/3703300/",
+      "genres": [
+        "インディー",
+        "ストラテジー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "&quot;I Checkmate Thee&quot; is a turn-based puzzle game with limited vision, in the setting and genre of horror and chess. The king is armed with a sword to escape from the confinement of the chessboard. Go through chess games, where every move is a step towards death!",
+      "reviewSnippet": "",
+      "rawScore": 11.25,
+      "hensachi": 45,
       "rank": 22
     },
     {
@@ -532,52 +536,8 @@
       "shortDescription": "一万トンの旗艦の舵を握り、慣性が応えるのを感じろ。旗艦操縦・艦隊指揮・ローグライク成長を融合した2Dリアルタイム宇宙戦闘ゲーム。自ら操縦し、僚艦に命令し、艦を改装し、艦長を招募せよ——単独で、あるいは最大三人のLAN協力で。",
       "reviewSnippet": "",
       "rawScore": 11.25,
-      "hensachi": 45.1,
+      "hensachi": 45,
       "rank": 23
-    },
-    {
-      "appid": 5378020,
-      "name": "Blamcon's Cyber Range",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5378020/9892acffc2aa1fb2c3605b07893803f790cbc553/header.jpg?t=1792887759",
-      "discountPercent": 25,
-      "initialPriceCents": 90500,
-      "finalPriceCents": 67800,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5378020/",
-      "genres": [
-        "シミュレーション",
-        "スポーツ"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "A day at the range for your Light Gun. Six real range target games on an outdoor range in the woods: paper, a speed plate rack, hanging steel, pop-up targets, a dueling tree, and a Texas star. This can be played with a mouse but it is a light gun game first, best played with Blamcon light guns.",
-      "reviewSnippet": "",
-      "rawScore": 11.25,
-      "hensachi": 45.1,
-      "rank": 24
-    },
-    {
-      "appid": 3357650,
-      "name": "PRAGMATA",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3357650/e32e168b25ed68a0cf6264c220c07e96c2abfb56/header.jpg?t=1791454600",
-      "discountPercent": 20,
-      "initialPriceCents": 799000,
-      "finalPriceCents": 639200,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/3357650/",
-      "genres": [
-        "アクション",
-        "アドベンチャー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "『プラグマタ』はカプコンが贈る完全新作タイトル。 パズルとアクションが融合した、新感覚のSFアクションアドベンチャーです。月で遭難した調査員&quot;ヒュー&quot;と、アンドロイドの少女&quot;ディアナ&quot;。AIに支配された近未来の月面世界を舞台に、二人は互いの力を頼りに地球への帰還を目指します。",
-      "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 42,
-      "rank": 25
     },
     {
       "appid": 2929250,
@@ -603,7 +563,7 @@
       "reviewSnippet": "",
       "rawScore": 9,
       "hensachi": 42,
-      "rank": 26
+      "rank": 24
     },
     {
       "appid": 5315300,
@@ -625,7 +585,7 @@
       "reviewSnippet": "",
       "rawScore": 9,
       "hensachi": 42,
-      "rank": 27
+      "rank": 25
     },
     {
       "appid": 5390450,
@@ -648,7 +608,7 @@
       "reviewSnippet": "",
       "rawScore": 9,
       "hensachi": 42,
-      "rank": 28
+      "rank": 26
     },
     {
       "appid": 4265280,
@@ -671,7 +631,7 @@
       "reviewSnippet": "",
       "rawScore": 9,
       "hensachi": 42,
-      "rank": 29
+      "rank": 27
     },
     {
       "appid": 5398650,
@@ -693,7 +653,7 @@
       "reviewSnippet": "",
       "rawScore": 9,
       "hensachi": 42,
-      "rank": 30
+      "rank": 28
     },
     {
       "appid": 294100,
@@ -717,12 +677,12 @@
       "reviewSnippet": "",
       "rawScore": 9,
       "hensachi": 42,
-      "rank": 31
+      "rank": 29
     },
     {
       "appid": 5335510,
       "name": "Moon Sweepers",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5335510/41e1e802dfc069cc245b91043e451a2f9ffa80e3/header.jpg?t=1792738801",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5335510/41e1e802dfc069cc245b91043e451a2f9ffa80e3/header.jpg?t=1792950881",
       "discountPercent": 15,
       "initialPriceCents": 115000,
       "finalPriceCents": 97700,
@@ -743,79 +703,53 @@
       "reviewSnippet": "",
       "rawScore": 6.75,
       "hensachi": 39,
-      "rank": 32
+      "rank": 30
     },
     {
-      "appid": 5281110,
-      "name": "Anima Trium",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5281110/ca2cf2af5fcf613f4ebbcb8a18722c2aacde4c44/header.jpg?t=1792899961",
+      "appid": 4111820,
+      "name": "Born of the Moon",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4111820/c960883e8ee0b94484074445762b193fc5e365a2/header.jpg?t=1792951230",
       "discountPercent": 15,
-      "initialPriceCents": 130000,
-      "finalPriceCents": 110500,
+      "initialPriceCents": 131900,
+      "finalPriceCents": 112100,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5281110/",
+      "storeUrl": "https://store.steampowered.com/app/4111820/",
       "genres": [
+        "アクション",
         "アドベンチャー",
+        "MM（Massively Multiplayer）"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Trapped in the von Adelstein mansion, one of you has already made a pact with the beast. Born of the Moon is a social horror for 3-6 players. Asymmetrical roles, sabotage, and insanity mechanics are deadlier than monsters. Will you survive until dawn if you can't even trust your own ears?",
+      "reviewSnippet": "",
+      "rawScore": 6.75,
+      "hensachi": 39,
+      "rank": 31
+    },
+    {
+      "appid": 5041720,
+      "name": "Debt Wish",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5041720/68207889ac2b181375ff4a02a629c7a4206954f8/header.jpg?t=1792944800",
+      "discountPercent": 15,
+      "initialPriceCents": 135000,
+      "finalPriceCents": 114700,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5041720/",
+      "genres": [
         "カジュアル",
-        "インディー",
-        "RPG",
+        "シミュレーション",
         "ストラテジー"
       ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "『Anima Trium』の主人公レオプは、自分と親友たちが、かつての戦争を生き延びた最後の人々なのかもしれないと考えていました。水平線に一隻の船を見つけるまでは。島々を探索し、忘れ去られた過去の謎を解き明かそう。冒険と謎に満ちたこのRPGでは、マニュアルとオートを選べるターン制バトルが楽しめます。",
-      "reviewSnippet": "",
-      "rawScore": 6.75,
-      "hensachi": 39,
-      "rank": 33
-    },
-    {
-      "appid": 5105260,
-      "name": "AVXRPG",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5105260/2360ed61e5077ed893b5c25b93eab6d5be00a4a5/header.jpg?t=1792872644",
-      "discountPercent": 15,
-      "initialPriceCents": 79000,
-      "finalPriceCents": 67100,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5105260/",
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "カジュアル",
-        "インディー",
-        "RPG"
-      ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "A 2D action RPG of short expeditions from a home town: fight, gather, complete stage quests, and forge your way forward.",
+      "shortDescription": "You start with $100 and a line of credit. Trade, borrow, bribe, and gamble your way up until you own everything. An incremental finance sim where the debt can be your best friend or worst enemy.",
       "reviewSnippet": "",
       "rawScore": 6.75,
       "hensachi": 39,
-      "rank": 34
-    },
-    {
-      "appid": 4709550,
-      "name": "Behind the Corner",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4709550/ff067adc322fe8522b8775b0a55f8f5a8dd01fcb/header.jpg?t=1792861209",
-      "discountPercent": 15,
-      "initialPriceCents": 155000,
-      "finalPriceCents": 131700,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4709550/",
-      "genres": [
-        "アクション",
-        "インディー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Explore dark vintage environments and survive encounters with a relentless entity in this first-person psychological horror game. Listen closely, watch the shadows, and face the unsettling feeling that something is waiting just around the corner.",
-      "reviewSnippet": "",
-      "rawScore": 6.75,
-      "hensachi": 39,
-      "rank": 35
+      "rank": 32
     },
     {
       "appid": 1203620,
@@ -839,30 +773,53 @@
       "shortDescription": "『Enshrouded~霧の王国~』は、プレイヤーの自由と創造性が最も重要となる、ソロおよび協力プレイ対応のサバイバルアクションRPG。エンバーベール王国を飲み込み、腐敗をもたらす霧「シュラウド」に立ち向かおう。秘密に満ちた緻密に作り込まれた世界を探索し、自分だけのヒーローを育て上げ、テラフォーミングで地形を改造可能な土地で、どこでも、何でも作り上げることができる。",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 35.9,
-      "rank": 36
+      "hensachi": 36,
+      "rank": 33
     },
     {
-      "appid": 5342920,
-      "name": "SpellWeave",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5342920/5ff23ecd0c17e568c410e44f3e2fc1524a35fdb5/header.jpg?t=1792883432",
+      "appid": 5303890,
+      "name": "Project Neko",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5303890/82c15804ecec1d0b71aef933f1394d601a35bb23/header.jpg?t=1792941577",
       "discountPercent": 10,
       "initialPriceCents": 135000,
       "finalPriceCents": 121500,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5342920/",
+      "storeUrl": "https://store.steampowered.com/app/5303890/",
       "genres": [
         "アクション",
         "インディー"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "Build a wand out of spell cards that modify and combine with each other, then fight down through an endless dungeon. Order is everything: a modifier changes every spell after it. No final floor — the run ends when you do.",
+      "shortDescription": "Pilot a cat-shaped ship through a neon rhythm tunnel. Hit, hold and trace notes to the beat, chase high scores, and take a loud, unruly cat band from rehearsal room to stage. Unlock partners and songs across four difficulties in this music-driven arcade adventure.",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 35.9,
-      "rank": 37
+      "hensachi": 36,
+      "rank": 34
+    },
+    {
+      "appid": 5396730,
+      "name": "PrankzPlz!",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5396730/2d11fd913930a6d66d4bdebc575f1d624514d102/header.jpg?t=1792923819",
+      "discountPercent": 10,
+      "initialPriceCents": 105000,
+      "finalPriceCents": 94500,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5396730/",
+      "genres": [
+        "アドベンチャー",
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Every great prank starts with a simple idea. Matt’s usually ends in complete chaos.",
+      "reviewSnippet": "",
+      "rawScore": 4.5,
+      "hensachi": 36,
+      "rank": 35
     }
   ]
 }
