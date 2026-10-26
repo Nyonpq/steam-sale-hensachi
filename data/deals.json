@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-25T20:14:36.079Z",
+  "fetchedAt": "2026-10-26T02:35:56.270Z",
   "currency": "JPY",
-  "count": 35,
-  "averageDiscount": 33.4,
+  "count": 36,
+  "averageDiscount": 34.6,
   "deals": [
     {
       "appid": 2050650,
@@ -24,8 +24,35 @@
       "shortDescription": "死を逸（かわ）し、倒す快感。 未曽有の生物災害“ラクーン事件”から 6年―。 エージェントとなったレオン・S・ケネディへ舞い込む誘拐された大統領令嬢の救出任務。 “狂気”に支配された地へ足を踏み入れたレオンの行く末とは…。 生と死、恐怖とカタルシスが交錯していく過酷な救出劇が、いま幕を開ける―。 直感的な操作と最新のグラフィック、再構成されたストーリーによって蘇る最新のサバイバルホラー体験。",
       "reviewSnippet": "",
       "rawScore": 33.75,
-      "hensachi": 74.9,
+      "hensachi": 73,
       "rank": 1
+    },
+    {
+      "appid": 2399830,
+      "name": "ARK: Survival Ascended",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/d934813ca531af0fce69fe36bc972f1c90d1aa19/header.jpg?t=1779293241",
+      "discountPercent": 75,
+      "initialPriceCents": 676000,
+      "finalPriceCents": 169000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/2399830/",
+      "genres": [
+        "サバイバル",
+        "アクション",
+        "アドベンチャー",
+        "インディー",
+        "MM（Massively Multiplayer）",
+        "RPG",
+        "早期アクセス"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2023,
+      "shortDescription": "ARKは、Unreal Engine 5を使用したこの次世代のビデオゲームテクノロジーのゼロから再考されます。部族を形成し、何百ものユニークな恐竜と原始の生き物を飼いならし、繁殖させ、食物鎖の頂上までの道を探索、工芸、建設し、戦います。あなたの新しい世界が待っています！",
+      "reviewSnippet": "",
+      "rawScore": 33.75,
+      "hensachi": 73,
+      "rank": 2
     },
     {
       "appid": 1091500,
@@ -45,8 +72,8 @@
       "shortDescription": "『サイバーパンク2077』――未来の巨大都市ナイトシティを舞台にしたオープンワールド・アクションアドベンチャーRPG",
       "reviewSnippet": "",
       "rawScore": 31.5,
-      "hensachi": 71.9,
-      "rank": 2
+      "hensachi": 70.2,
+      "rank": 3
     },
     {
       "appid": 322330,
@@ -73,8 +100,8 @@
       "shortDescription": "『Don't Starve Together』は容赦ないサバイバルゲーム、『Don't Starve』がマルチプレイヤーになる、スタンドアローン拡張パックです。",
       "reviewSnippet": "",
       "rawScore": 29.7,
-      "hensachi": 69.5,
-      "rank": 3
+      "hensachi": 67.9,
+      "rank": 4
     },
     {
       "appid": 32470,
@@ -94,8 +121,8 @@
       "shortDescription": "Command or corrupt an entire galaxy in the definitive Star Wars strategy collection. It is a time of galactic civil war. Will you take up the reins of the Rebellion, assume control of the Empire, or rule the Star Wars Underworld?",
       "reviewSnippet": "",
       "rawScore": 27,
-      "hensachi": 65.9,
-      "rank": 4
+      "hensachi": 64.5,
+      "rank": 5
     },
     {
       "appid": 3240220,
@@ -117,8 +144,8 @@
       "shortDescription": "大ヒットの『グランド・セフト・オートV』と「GTAオンライン」を体験しよう - 新世代用に美麗なグラフィック、短縮されたロード時間、3Dオーディオなどのアップグレード。さらに、「GTAオンライン」プレイヤー用の限定コンテンツなど。",
       "reviewSnippet": "",
       "rawScore": 22.5,
-      "hensachi": 59.9,
-      "rank": 5
+      "hensachi": 58.8,
+      "rank": 6
     },
     {
       "appid": 588650,
@@ -142,8 +169,8 @@
       "shortDescription": "『Dead Cells』は、ローグライトとメトロイドヴァニアにインスピレーションを得たアクションプラットフォーマー。プレイヤーは、無秩序に広がり絶えず変化する城を探索することになる…むろん2Dのソウルライクな戦闘で戦って、番人を通過することができたらの話だが。チェックポイントなし。殺して、死んで、学ぶ。その繰り返しだ",
       "reviewSnippet": "",
       "rawScore": 22.5,
-      "hensachi": 59.9,
-      "rank": 6
+      "hensachi": 58.8,
+      "rank": 7
     },
     {
       "appid": 2138330,
@@ -163,29 +190,7 @@
       "shortDescription": "『サイバーパンク2077』に、スパイスリラーをテーマとした拡張パック「仮初めの自由」が新登場。ナイトシティで生きる傭兵、Vに待つ新たな任務とは？スパイのソロモン・リードと共に、踏みにじまれた忠誠心と熾烈な権力闘争が絡み合うスパイの世界へと身を投じろ",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 54,
-      "rank": 7
-    },
-    {
-      "appid": 1943730,
-      "name": "Wicked Island",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943730/b2a1dbcf11a34b1f8e04fe1737db0ca06eecd11c/header.jpg?t=1782299299",
-      "discountPercent": 40,
-      "initialPriceCents": 390000,
-      "finalPriceCents": 234000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/1943730/",
-      "genres": [
-        "RPG",
-        "早期アクセス"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2025,
-      "shortDescription": "この18禁サバイバルRPGで、過酷かつ魅力的なオープンワールドを生き抜け。装備のクラフト、拠点の建築、キャラメイクを駆使し、ドラゴンを乗りこなせ！深いダンジョンを探索して凶暴なモンスターと戦おう。勝利を掴むか、敗北姦と妊娠システムによって欲望に屈するかはあなた次第だ。",
-      "reviewSnippet": "",
-      "rawScore": 18,
-      "hensachi": 54,
+      "hensachi": 53.1,
       "rank": 8
     },
     {
@@ -209,8 +214,30 @@
       "shortDescription": "4人パーティで連携し戦う、本格派アクションRPG！ 独自のアクションスタイルを持つキャラクターが多数登場。キャラクター同士で次々と技を繰り出し、4人で集中攻撃する「リンクアタック」「奥義チェイン」で華麗に敵を打ち倒そう。 奥深いバトル、カスタマイズ性の高い育成システムに加えて、アクションゲーム初心者でもプレイスキルに合わせて楽しめるサポート機能も充実。 皆でパーティを組み、冒険とバトルを楽しもう！",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 54,
+      "hensachi": 53.1,
       "rank": 9
+    },
+    {
+      "appid": 1943730,
+      "name": "Wicked Island",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943730/b2a1dbcf11a34b1f8e04fe1737db0ca06eecd11c/header.jpg?t=1782299299",
+      "discountPercent": 40,
+      "initialPriceCents": 390000,
+      "finalPriceCents": 234000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/1943730/",
+      "genres": [
+        "RPG",
+        "早期アクセス"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2025,
+      "shortDescription": "この18禁サバイバルRPGで、過酷かつ魅力的なオープンワールドを生き抜け。装備のクラフト、拠点の建築、キャラメイクを駆使し、ドラゴンを乗りこなせ！深いダンジョンを探索して凶暴なモンスターと戦おう。勝利を掴むか、敗北姦と妊娠システムによって欲望に屈するかはあなた次第だ。",
+      "reviewSnippet": "",
+      "rawScore": 18,
+      "hensachi": 53.1,
+      "rank": 10
     },
     {
       "appid": 2058670,
@@ -233,13 +260,13 @@
       "shortDescription": "ヴァイキングの部隊を率いて、フィヨルドからイングランド、そしてフランスへ遠征するリアルタイムバトルのローグライトです。最前線で斧を振るい、数十人の戦士を指揮しましょう。倒れてもヴァルハラで目覚め、次のサガに向けて村を発展させられます。",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 54,
-      "rank": 10
+      "hensachi": 53.1,
+      "rank": 11
     },
     {
       "appid": 4078410,
       "name": "Post-Utopia: Europe2999",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078410/b50d33361bbaffa9a1ff0b61adfd4902f5639309/header.jpg?t=1792941048",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078410/b50d33361bbaffa9a1ff0b61adfd4902f5639309/header.jpg?t=1792960869",
       "discountPercent": 40,
       "initialPriceCents": 120000,
       "finalPriceCents": 72000,
@@ -257,8 +284,8 @@
       "shortDescription": "『Europe2999』は、サバイバル、ストーリー、そして徹底したカスタマイズ要素を融合させたサードパーソン・シューティングゲームです。緊張感に包まれた地中海の島で、治療法を見つけ、自らの伝説を築き上げ、崩壊寸前の世界の運命を切り開いてください。",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 54,
-      "rank": 11
+      "hensachi": 53.1,
+      "rank": 12
     },
     {
       "appid": 5280220,
@@ -281,8 +308,8 @@
       "shortDescription": "Task Bar Cubeは、デスクトップで遊べる楽しい放置系RPGです。基礎ステータスが高い10体の専属ヒーローを解放し、永続ゴールドボーナスとAFK宝箱容量アップも手に入ります。",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 54,
-      "rank": 12
+      "hensachi": 53.1,
+      "rank": 13
     },
     {
       "appid": 5280250,
@@ -305,8 +332,8 @@
       "shortDescription": "Task Bar Cubeは、デスクトップで遊べる楽しい放置系RPGです。基礎ステータスが高い10体の専属仲間を解放し、永続ゴールドボーナスとAFK宝箱容量アップも手に入ります。",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 54,
-      "rank": 13
+      "hensachi": 53.1,
+      "rank": 14
     },
     {
       "appid": 5280270,
@@ -329,52 +356,8 @@
       "shortDescription": "Task Bar Cubeは、デスクトップで遊べる楽しい放置系RPGです。追加のSteamインベントリページを含む、すべての保管カテゴリーとページを解放し、AFK宝箱容量もアップします。",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 54,
-      "rank": 14
-    },
-    {
-      "appid": 4764890,
-      "name": "+PROTECTUS-",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4764890/c72c18f08e07487656a8297124218a736b906a67/header.jpg?t=1792915136",
-      "discountPercent": 40,
-      "initialPriceCents": 14000,
-      "finalPriceCents": 8400,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4764890/",
-      "genres": [
-        "インディー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "🧲 A minimalist first‑person puzzle game where you have to escape from a ruined lunar complex using an experimental magnetic cannon and uncover the secrets of the ECHO project together with the drone Kruitni.",
-      "reviewSnippet": "",
-      "rawScore": 18,
-      "hensachi": 54,
+      "hensachi": 53.1,
       "rank": 15
-    },
-    {
-      "appid": 3892270,
-      "name": "Gamble With Your Friends",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg?t=1792427976",
-      "discountPercent": 38,
-      "initialPriceCents": 92000,
-      "finalPriceCents": 57000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/3892270/",
-      "genres": [
-        "アドベンチャー",
-        "インディー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "最大6人の仲間と、銀行口座と莫大な借金を共有しながらギャンブルに挑む、オンライン協力型「カジノクローラー」。怪しげなアイテムを買い、最悪の選択を重ね、不吉なカジノタワーを登れ。5分以内に課されたノルマを達成しなければ――そのツケを払うことになる。",
-      "reviewSnippet": "",
-      "rawScore": 17.1,
-      "hensachi": 52.8,
-      "rank": 16
     },
     {
       "appid": 5074200,
@@ -394,8 +377,8 @@
       "shortDescription": "Defend your base from the robotic horde! Mine ores and sell them to make quick cash. Use your hard-earned money to buy weapons, attachments, and equipment that will assist you in defeating the bots! How long can you hold off the horde?",
       "reviewSnippet": "",
       "rawScore": 15.75,
-      "hensachi": 51,
-      "rank": 17
+      "hensachi": 50.2,
+      "rank": 16
     },
     {
       "appid": 346110,
@@ -420,8 +403,100 @@
       "shortDescription": "Stranded on the shores of a mysterious island, you must learn to survive. Use your cunning to kill or tame the primeval creatures roaming the land, and encounter other players to survive, dominate... and escape!",
       "reviewSnippet": "",
       "rawScore": 15.3,
-      "hensachi": 50.4,
+      "hensachi": 49.7,
+      "rank": 17
+    },
+    {
+      "appid": 1374490,
+      "name": "RuneScape: Dragonwilds ルーンスケープ：ドラゴンワイルズ",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/3e27915a647dbf05e17f2ff98d33c9a0765da539/header.jpg?t=1791278745",
+      "discountPercent": 30,
+      "initialPriceCents": 340000,
+      "finalPriceCents": 238000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/1374490/",
+      "genres": [
+        "サバイバル",
+        "アクション",
+        "アドベンチャー",
+        "RPG"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "RuneScapeの忘れ去られた大陸、アシェンフォールで、ドラゴンが目覚めた。この協力型サバイバルアドベンチャーで資源を集め、建築し、スキルを磨き、クラフトを駆使しろ。サバイバル術を極めて古代の秘密を解き明かすことだけが、獰猛なドラゴンクイーンに立ち向かう希望を生み出す。",
+      "reviewSnippet": "",
+      "rawScore": 13.5,
+      "hensachi": 47.4,
       "rank": 18
+    },
+    {
+      "appid": 5315330,
+      "name": "Tiny Spellcaster",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5315330/fdfd0ad708ae993220f6cddc8fd8ee2a3f03828c/header.jpg?t=1792965694",
+      "discountPercent": 30,
+      "initialPriceCents": 65500,
+      "finalPriceCents": 45800,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5315330/",
+      "genres": [
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Blast through endless hordes and hold the line against these demons! Tiny Spellcaster is a corner arcade idle shooter with rogue-lite upgrades, where rng and strategic builds help you overpower the rapid swarms of monsters closing in. Master the magic, unleash the chaos!",
+      "reviewSnippet": "",
+      "rawScore": 13.5,
+      "hensachi": 47.4,
+      "rank": 19
+    },
+    {
+      "appid": 4898560,
+      "name": "Tetromancer",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4898560/e42d6f39f2ef88d98e38d6e86184bcbfd8769fed/header.jpg?t=1792963734",
+      "discountPercent": 30,
+      "initialPriceCents": 90500,
+      "finalPriceCents": 63300,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4898560/",
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "ストラテジー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Tetromancer is a Tetris battler where the board is your war economy. Clear lines to conjure an army, then command it in real time against wave after wave of invaders. Stack greedily and you'll field a bigger force, but crowd your board and one bad piece can bury you.",
+      "reviewSnippet": "",
+      "rawScore": 13.5,
+      "hensachi": 47.4,
+      "rank": 20
+    },
+    {
+      "appid": 5169220,
+      "name": "Campsite",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5169220/6f00c812052cec41867670beb755eb582a418fa8/header.jpg?t=1792957335",
+      "discountPercent": 30,
+      "initialPriceCents": 70500,
+      "finalPriceCents": 49300,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5169220/",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "インディー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Warm nights in the evergreen forest, the peace and quiet, the gentle flicker of fire. Too quiet, almost unnatural. Something sinister lurks in the dark. It's faster than you, it's smarter than you, and it wants you out of it's forest. Your only hope to keep the flames from hollowing. Good luck.",
+      "reviewSnippet": "",
+      "rawScore": 13.5,
+      "hensachi": 47.4,
+      "rank": 21
     },
     {
       "appid": 5409020,
@@ -442,8 +517,8 @@
       "shortDescription": "Flick, brake and reverse your way from one tiny fidget spinner to a bustling pixel arcade. Restore machines, build gadget combinations, master mouse driven minigames and spend earned Tickets on chance games and cosmetics.",
       "reviewSnippet": "",
       "rawScore": 13.5,
-      "hensachi": 48,
-      "rank": 19
+      "hensachi": 47.4,
+      "rank": 22
     },
     {
       "appid": 4461260,
@@ -466,32 +541,8 @@
       "shortDescription": "Ball Bugs is an incremental defense game where you start with a single persistent ball and build up an arsenal of ball firing turrets, artillery and special ball types. Bounce, splat, upgrade and come back stronger until the bugs stop getting through.",
       "reviewSnippet": "",
       "rawScore": 13.5,
-      "hensachi": 48,
-      "rank": 20
-    },
-    {
-      "appid": 2246340,
-      "name": "モンスターハンターワイルズ",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg?t=1787549555",
-      "discountPercent": 25,
-      "initialPriceCents": 499000,
-      "finalPriceCents": 374200,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/2246340/",
-      "genres": [
-        "ソウルライク",
-        "アクション",
-        "アドベンチャー",
-        "RPG"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2025,
-      "shortDescription": "荒々しく獰猛な自然が、襲い来る。 刻一刻とダイナミックにその姿を変貌させるフィールド。二面性をもつ世界に生きる、モンスターと人々の物語。 進化したハンティングアクションと、途切れることのない没入感を追求した究極の狩猟体験が、あなたを待っている。",
-      "reviewSnippet": "",
-      "rawScore": 11.25,
-      "hensachi": 45,
-      "rank": 21
+      "hensachi": 47.4,
+      "rank": 23
     },
     {
       "appid": 3703300,
@@ -512,8 +563,8 @@
       "shortDescription": "&quot;I Checkmate Thee&quot; is a turn-based puzzle game with limited vision, in the setting and genre of horror and chess. The king is armed with a sword to escape from the confinement of the chessboard. Go through chess games, where every move is a step towards death!",
       "reviewSnippet": "",
       "rawScore": 11.25,
-      "hensachi": 45,
-      "rank": 22
+      "hensachi": 44.5,
+      "rank": 24
     },
     {
       "appid": 5074470,
@@ -536,34 +587,54 @@
       "shortDescription": "一万トンの旗艦の舵を握り、慣性が応えるのを感じろ。旗艦操縦・艦隊指揮・ローグライク成長を融合した2Dリアルタイム宇宙戦闘ゲーム。自ら操縦し、僚艦に命令し、艦を改装し、艦長を招募せよ——単独で、あるいは最大三人のLAN協力で。",
       "reviewSnippet": "",
       "rawScore": 11.25,
-      "hensachi": 45,
-      "rank": 23
+      "hensachi": 44.5,
+      "rank": 25
     },
     {
-      "appid": 2929250,
-      "name": "over the hill",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2929250/header.jpg?t=1792666389",
-      "discountPercent": 20,
-      "initialPriceCents": 315000,
-      "finalPriceCents": 252000,
+      "appid": 2246340,
+      "name": "モンスターハンターワイルズ",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg?t=1787549555",
+      "discountPercent": 25,
+      "initialPriceCents": 499000,
+      "finalPriceCents": 374200,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/2929250/",
+      "storeUrl": "https://store.steampowered.com/app/2246340/",
       "genres": [
+        "ソウルライク",
+        "アクション",
         "アドベンチャー",
-        "カジュアル",
-        "インディー",
-        "レース",
-        "シミュレーション",
-        "スポーツ"
+        "RPG"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2025,
+      "shortDescription": "荒々しく獰猛な自然が、襲い来る。 刻一刻とダイナミックにその姿を変貌させるフィールド。二面性をもつ世界に生きる、モンスターと人々の物語。 進化したハンティングアクションと、途切れることのない没入感を追求した究極の狩猟体験が、あなたを待っている。",
+      "reviewSnippet": "",
+      "rawScore": 11.25,
+      "hensachi": 44.5,
+      "rank": 26
+    },
+    {
+      "appid": 3357650,
+      "name": "PRAGMATA",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3357650/e32e168b25ed68a0cf6264c220c07e96c2abfb56/header.jpg?t=1791454600",
+      "discountPercent": 20,
+      "initialPriceCents": 799000,
+      "finalPriceCents": 639200,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/3357650/",
+      "genres": [
+        "アクション",
+        "アドベンチャー"
       ],
       "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "オフロード走行の黄金時代、未知の冒険が待ち受ける。1960年代～1980年代を代表する4WDに乗り込み、過酷なルートや美しい景色の中を走り抜けよう。1人でも、友達と一緒でも楽しめる。",
+      "shortDescription": "『プラグマタ』はカプコンが贈る完全新作タイトル。 パズルとアクションが融合した、新感覚のSFアクションアドベンチャーです。月で遭難した調査員&quot;ヒュー&quot;と、アンドロイドの少女&quot;ディアナ&quot;。AIに支配された近未来の月面世界を舞台に、二人は互いの力を頼りに地球への帰還を目指します。",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 42,
-      "rank": 24
+      "hensachi": 41.7,
+      "rank": 27
     },
     {
       "appid": 5315300,
@@ -584,8 +655,8 @@
       "shortDescription": "数千体のリフト生物が押し寄せる。守るべき基地はひとつ。砲塔ごとに射線の角度を自分で決め、主砲は自分の手で撃つ。15のマップを攻略し、5体のボスを倒せ。恒久強化で戦力を伸ばし、無限モードで世界ランキングに挑もう。自作マップはSteamワークショップで共有できる。",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 42,
-      "rank": 25
+      "hensachi": 41.7,
+      "rank": 28
     },
     {
       "appid": 5390450,
@@ -607,53 +678,8 @@
       "shortDescription": "ウキをドラッグして、画面いっぱいの魚を釣り上げよう！竿を強化し、巨大なスキルツリーを育てて、静かな池から北極、深海、竜宮を経て宇宙まで釣り進めましょう。278種の魚とマイ水族館が楽しめる、のんびり放置系の釣りゲーム。",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 42,
-      "rank": 26
-    },
-    {
-      "appid": 4265280,
-      "name": "Nile Express",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4265280/5b240439cd3bd2768e331d924f897231595af6b9/header.jpg?t=1792919090",
-      "discountPercent": 20,
-      "initialPriceCents": 120000,
-      "finalPriceCents": 96000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4265280/",
-      "genres": [
-        "インディー",
-        "シミュレーション",
-        "ストラテジー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Build the first railway network in Africa. Create profitable routes in Egypt, from Alexandria to Aswan. Deliver passengers and goods to the right destinations. Take care of your railway network and deal with accidents.",
-      "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 42,
-      "rank": 27
-    },
-    {
-      "appid": 5398650,
-      "name": "TRACE IT",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5398650/f3f2676d0e06f52f89d95c92b9bb33508d727e7a/header.jpg?t=1792913958",
-      "discountPercent": 20,
-      "initialPriceCents": 65500,
-      "finalPriceCents": 52400,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5398650/",
-      "genres": [
-        "カジュアル",
-        "インディー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "紙のような手描き風の線路パズル。各行・各列の数字を手がかりに、入口から出口まで一本の線路を敷きましょう。どのステージも答えはただひとつ。500ステージのほか、エンドレス・リラックス・デイリーチャレンジ、メダルと60個の実績。線路がつながったら、小さな汽車が走り出します。",
-      "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 42,
-      "rank": 28
+      "hensachi": 41.7,
+      "rank": 29
     },
     {
       "appid": 294100,
@@ -676,8 +702,8 @@
       "shortDescription": "知性のあるAIストーリーテラーによって織りなされるSFコロニーシミュレーションゲームです。人の性格、自然環境、銃撃戦、近接戦、気候、バイオーム、外交、対人関係、芸術、医学、貿易などをシミュレートし、ストーリーを生成します。",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 42,
-      "rank": 29
+      "hensachi": 41.7,
+      "rank": 30
     },
     {
       "appid": 5335510,
@@ -702,8 +728,8 @@
       "shortDescription": "掃除するのは月まるごと。最初の道具は歯ブラシ1本。最大16人で協力して月の砂ぼこりを集めて売り、道具をアップグレードし、清掃車両をアンロックしよう。とんでもない仕事を大繁盛のビジネスに変えよう。友達がちゃんと手伝ってくれれば、の話だけど。",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 39,
-      "rank": 30
+      "hensachi": 38.8,
+      "rank": 31
     },
     {
       "appid": 4111820,
@@ -725,8 +751,8 @@
       "shortDescription": "Trapped in the von Adelstein mansion, one of you has already made a pact with the beast. Born of the Moon is a social horror for 3-6 players. Asymmetrical roles, sabotage, and insanity mechanics are deadlier than monsters. Will you survive until dawn if you can't even trust your own ears?",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 39,
-      "rank": 31
+      "hensachi": 38.8,
+      "rank": 32
     },
     {
       "appid": 5041720,
@@ -748,8 +774,8 @@
       "shortDescription": "You start with $100 and a line of credit. Trade, borrow, bribe, and gamble your way up until you own everything. An incremental finance sim where the debt can be your best friend or worst enemy.",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 39,
-      "rank": 32
+      "hensachi": 38.8,
+      "rank": 33
     },
     {
       "appid": 1203620,
@@ -774,7 +800,7 @@
       "reviewSnippet": "",
       "rawScore": 4.5,
       "hensachi": 36,
-      "rank": 33
+      "rank": 34
     },
     {
       "appid": 5303890,
@@ -796,7 +822,7 @@
       "reviewSnippet": "",
       "rawScore": 4.5,
       "hensachi": 36,
-      "rank": 34
+      "rank": 35
     },
     {
       "appid": 5396730,
@@ -819,7 +845,7 @@
       "reviewSnippet": "",
       "rawScore": 4.5,
       "hensachi": 36,
-      "rank": 35
+      "rank": 36
     }
   ]
 }
