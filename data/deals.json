@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-10-30T21:51:42.416Z",
+  "fetchedAt": "2026-10-31T03:33:18.489Z",
   "currency": "JPY",
-  "count": 37,
-  "averageDiscount": 21.5,
+  "count": 35,
+  "averageDiscount": 22.9,
   "deals": [
     {
       "appid": 322330,
@@ -29,33 +29,8 @@
       "shortDescription": "『Don't Starve Together』は容赦ないサバイバルゲーム、『Don't Starve』がマルチプレイヤーになる、スタンドアローン拡張パックです。",
       "reviewSnippet": "",
       "rawScore": 29.7,
-      "hensachi": 81,
+      "hensachi": 82.1,
       "rank": 1
-    },
-    {
-      "appid": 2827200,
-      "name": "ミメシス",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827200/9108c2901a1d8ddc96bc68c6c5996fcb2b777ec0/header_alt_assets_2.jpg?t=1793079449",
-      "discountPercent": 60,
-      "initialPriceCents": 120000,
-      "finalPriceCents": 48000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/2827200/",
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "カジュアル",
-        "インディー",
-        "早期アクセス"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2025,
-      "shortDescription": "4人協力オンラインサバイバルホラーゲーム。汚染された雨を避けてスクラップを集め、トラムへ戻ろう。仲間の声と行動をそのまま模倣するモンスターや様々な脅威が立ちはだかる。装備を整え、協力することだけが生き残る道だ。",
-      "reviewSnippet": "",
-      "rawScore": 27,
-      "hensachi": 76.8,
-      "rank": 2
     },
     {
       "appid": 588650,
@@ -79,8 +54,8 @@
       "shortDescription": "『Dead Cells』は、ローグライトとメトロイドヴァニアにインスピレーションを得たアクションプラットフォーマー。プレイヤーは、無秩序に広がり絶えず変化する城を探索することになる…むろん2Dのソウルライクな戦闘で戦って、番人を通過することができたらの話だが。チェックポイントなし。殺して、死んで、学ぶ。その繰り返しだ",
       "reviewSnippet": "",
       "rawScore": 22.5,
-      "hensachi": 69.9,
-      "rank": 3
+      "hensachi": 70.2,
+      "rank": 2
     },
     {
       "appid": 251570,
@@ -107,8 +82,53 @@
       "shortDescription": "『7 Days to Die』は、FPS、サバイバルホラー、タワーディフェンス、ロールプレイングゲームをユニークに組み合わせたオープンワールド型のゲームです。元祖ゾンビサバイバルなサンドボックスRPGゲームをプレイしましょう。ナベズゲインがあなたを待っています！",
       "reviewSnippet": "",
       "rawScore": 20.25,
-      "hensachi": 66.4,
+      "hensachi": 66.5,
+      "rank": 3
+    },
+    {
+      "appid": 3778650,
+      "name": "Wall Brawl",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3778650/a501a4ee757e487ddbd876232291e79c895c6a1e/header.jpg?t=1793401440",
+      "discountPercent": 40,
+      "initialPriceCents": 98500,
+      "finalPriceCents": 59100,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/3778650/",
+      "genres": [
+        "アクション",
+        "ストラテジー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Hold the line! Team up in this tactical multiplayer castle‑brawler where players raise fortresses, set up defenses, and smash through enemy strongholds with physics‑driven destruction. Heroic last stands! Questionable tactics! Bricks moving at unsafe speeds!",
+      "reviewSnippet": "",
+      "rawScore": 18,
+      "hensachi": 62.7,
       "rank": 4
+    },
+    {
+      "appid": 5421610,
+      "name": "Prismhold",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5421610/641d1d316169fda19e282d887a75ead753a56617/header.jpg?t=1793396895",
+      "discountPercent": 40,
+      "initialPriceCents": 70500,
+      "finalPriceCents": 42300,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5421610/",
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "ストラテジー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "カードで戦うタワーディフェンス。ウェーブごとにデッキからタワーを選び、同じタワーを三つ合成して上限なく進化させ、14の属性を組み合わせて、終わりなきウェーブ、王冠を戴くボス、飛行する敵の猛攻を耐え抜け。ソロはもちろん、同じマップでの協力プレイや、最大6人での並走プレイも楽しめる。",
+      "reviewSnippet": "",
+      "rawScore": 18,
+      "hensachi": 62.7,
+      "rank": 5
     },
     {
       "appid": 3241660,
@@ -130,8 +150,8 @@
       "shortDescription": "An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.",
       "reviewSnippet": "",
       "rawScore": 15.75,
-      "hensachi": 59.4,
-      "rank": 5
+      "hensachi": 59,
+      "rank": 6
     },
     {
       "appid": 5263510,
@@ -154,8 +174,8 @@
       "shortDescription": "Slow Orbitは、画面の右下で小さな宇宙戦争が自動で進む放置ゲーム。ほかのことをしている間も艦隊は惑星を征服し続けます。時々様子を見て、アップグレードや昇進を選び、より堅い防衛線に挑みましょう。",
       "reviewSnippet": "",
       "rawScore": 15.75,
-      "hensachi": 59.4,
-      "rank": 6
+      "hensachi": 59,
+      "rank": 7
     },
     {
       "appid": 346110,
@@ -180,8 +200,8 @@
       "shortDescription": "Stranded on the shores of a mysterious island, you must learn to survive. Use your cunning to kill or tame the primeval creatures roaming the land, and encounter other players to survive, dominate... and escape!",
       "reviewSnippet": "",
       "rawScore": 15.3,
-      "hensachi": 58.7,
-      "rank": 7
+      "hensachi": 58.3,
+      "rank": 8
     },
     {
       "appid": 648800,
@@ -204,40 +224,64 @@
       "shortDescription": "Raft™ throws you and your friends into an epic oceanic adventure! Alone or together, players battle to survive a perilous voyage across a vast sea! Gather debris, scavenge reefs and build your own floating home, but be wary of the man-eating sharks!",
       "reviewSnippet": "",
       "rawScore": 14.85,
-      "hensachi": 58,
-      "rank": 8
-    },
-    {
-      "appid": 4880870,
-      "name": "Debtbound",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4880870/8692b9bbffaad41d4424ed5c6ef2c2decb1a3d7a/header.jpg?t=1793387115",
-      "discountPercent": 30,
-      "initialPriceCents": 115000,
-      "finalPriceCents": 80500,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4880870/",
-      "genres": [
-        "カジュアル"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Buying this game puts you $5 million in debt. Can you escape the debt spiral? Collect money, unlock upgrades, and increase your earnings before the interest catches up with you in this incremental game!",
-      "reviewSnippet": "",
-      "rawScore": 13.5,
-      "hensachi": 55.9,
+      "hensachi": 57.5,
       "rank": 9
     },
     {
-      "appid": 5285920,
-      "name": "THE MOUTHLESS STALKER",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5285920/03d767b6d6dac73081db58aada5dda08fec53efb/header.jpg?t=1793384169",
-      "discountPercent": 25,
-      "initialPriceCents": 53000,
-      "finalPriceCents": 39700,
+      "appid": 5335830,
+      "name": "Vagina Sancta",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5335830/fba911d640dccbb6a4fcffd9585ad13fee5fd5fb/header.jpg?t=1793409673",
+      "discountPercent": 31,
+      "initialPriceCents": 46500,
+      "finalPriceCents": 32000,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5285920/",
+      "storeUrl": "https://store.steampowered.com/app/5335830/",
+      "genres": [
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Vagina Sancta is a unique experience that allows u to interactively explore the fascinating world of female reproductive anatomy!",
+      "reviewSnippet": "",
+      "rawScore": 13.950000000000001,
+      "hensachi": 56,
+      "rank": 10
+    },
+    {
+      "appid": 5396420,
+      "name": "NAME ME IF YOU CAN",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5396420/84c56c1929d01f4a96a5162ff05493f8cb2f185d/header.jpg?t=1793413157",
+      "discountPercent": 25,
+      "initialPriceCents": 84500,
+      "finalPriceCents": 63300,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5396420/",
+      "genres": [
+        "アクション",
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "名前を見つけて、ノートに入力。相手を倒せ！NAME ME IF YOU CANは、自分の名前が弱点になる一人称視点のマルチプレイ・パーティーゲーム。友達を追いかけ、自分の名札は隠し、奇想天外なアイテムで絶体絶命のピンチを逆転のチャンスに変えよう",
+      "reviewSnippet": "",
+      "rawScore": 11.25,
+      "hensachi": 51.6,
+      "rank": 11
+    },
+    {
+      "appid": 4162890,
+      "name": "Gnomed",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162890/30187bf791dde06f3945f03545caf35609a4d42d/header.jpg?t=1793401639",
+      "discountPercent": 25,
+      "initialPriceCents": 92000,
+      "finalPriceCents": 69000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4162890/",
       "genres": [
         "アドベンチャー",
         "カジュアル",
@@ -245,11 +289,11 @@
       ],
       "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "一人称視点のサイコロジカルホラーゲームで、廃墟となった森林保護区を探索しましょう。暗い場所を調査し、手がかりを見つけ、謎を解き、不可解で不穏な出来事の真相を追ってください。謎めいた存在が、あなたの一挙一動を見つめています。",
+      "shortDescription": "Gnomedは、小さなノームが居心地のいいマイホームを守るローグライト・クリッカーゲームです。押し寄せる20ウェーブの敵を退け、新たな能力をアンロックして、プレイするたびに強くなろう！",
       "reviewSnippet": "",
       "rawScore": 11.25,
-      "hensachi": 52.4,
-      "rank": 10
+      "hensachi": 51.6,
+      "rank": 12
     },
     {
       "appid": 2246340,
@@ -272,8 +316,52 @@
       "shortDescription": "荒々しく獰猛な自然が、襲い来る。 刻一刻とダイナミックにその姿を変貌させるフィールド。二面性をもつ世界に生きる、モンスターと人々の物語。 進化したハンティングアクションと、途切れることのない没入感を追求した究極の狩猟体験が、あなたを待っている。",
       "reviewSnippet": "",
       "rawScore": 11.25,
-      "hensachi": 52.4,
-      "rank": 11
+      "hensachi": 51.6,
+      "rank": 13
+    },
+    {
+      "appid": 5285600,
+      "name": "FiND ME",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5285600/451ab5106ed29b6641512a0bb70054efec0162de/header.jpg?t=1793399036",
+      "discountPercent": 20,
+      "initialPriceCents": 70500,
+      "finalPriceCents": 56400,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5285600/",
+      "genres": [
+        "インディー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Play Find Me, a hide and seek horror game where a young girl is hiding in a house and wants to be found! So is... something else. Search the rooms, pay attention and listen closely. Find her to complete a round. Complete 8 rounds to win. Just make sure you don't find... them.",
+      "reviewSnippet": "",
+      "rawScore": 9,
+      "hensachi": 47.9,
+      "rank": 14
+    },
+    {
+      "appid": 5188560,
+      "name": "Idle Reef",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5188560/46c264500bb6e8b72a9c45cc7c3214fb539d288f/header.jpg?t=1793396957",
+      "discountPercent": 20,
+      "initialPriceCents": 39500,
+      "finalPriceCents": 31600,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5188560/",
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "荒涼とした海底を生命と色彩に満ちたサンゴ礁に変貌させましょう！リソースを管理して新しい海洋生物を解放し、生態系を拡大して、心地よい音楽とともにあなただけの水中パラダイスを築き上げましょう。",
+      "reviewSnippet": "",
+      "rawScore": 9,
+      "hensachi": 47.9,
+      "rank": 15
     },
     {
       "appid": 5424260,
@@ -294,13 +382,13 @@
       "shortDescription": "Steam、OBS Studio、NVIDIA GeForce / ShadowPlay の録画をひとつのライブラリで整理。フォルダーの追加、タグ付け、検索、内蔵プレイヤーでの再生、MP4 への書き出しに対応します。",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 49,
-      "rank": 12
+      "hensachi": 47.9,
+      "rank": 16
     },
     {
       "appid": 3624340,
       "name": "Strike and Pop",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3624340/2ec41136f8f3700d01549316104cb5ecbe929f55/header.jpg?t=1793393230",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3624340/2ec41136f8f3700d01549316104cb5ecbe929f55/header.jpg?t=1793399104",
       "discountPercent": 20,
       "initialPriceCents": 79000,
       "finalPriceCents": 63200,
@@ -319,13 +407,37 @@
       "shortDescription": "Explosive arcade fighting game where you control a puppet with a balloon head. Pop your rival's balloon using sharp weapons, play in duels or survival mode against the AI, unlock new weapons, and climb the online leaderboard!",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 49,
-      "rank": 13
+      "hensachi": 47.9,
+      "rank": 17
+    },
+    {
+      "appid": 5432240,
+      "name": "Seashells & Shovels",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5432240/688e9617f4ffe3306c9ee9ef00c2a4d42d2e556e/header.jpg?t=1793391423",
+      "discountPercent": 20,
+      "initialPriceCents": 70500,
+      "finalPriceCents": 56400,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5432240/",
+      "genres": [
+        "アドベンチャー",
+        "カジュアル",
+        "インディー",
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "観光客が訪れる島の清掃ボランティアになり、海賊の宝探しへ。心安らぐ一人称視点の冒険で、色鮮やかな12の島を航海し、ゴミを袋に集め、ペンキをこすり落とそう。地図をたどって埋もれた宝物を掘り出し、船を自分の家のように飾りつけよう。",
+      "reviewSnippet": "",
+      "rawScore": 9,
+      "hensachi": 47.9,
+      "rank": 18
     },
     {
       "appid": 5149240,
       "name": "Pixel Chaos: Tidy Up the Museum",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5149240/84a58d4624f43b43eed8800ea7eaeaf1a1d61a59/header.jpg?t=1793391217",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5149240/84a58d4624f43b43eed8800ea7eaeaf1a1d61a59/header.jpg?t=1793398522",
       "discountPercent": 20,
       "initialPriceCents": 71100,
       "finalPriceCents": 56800,
@@ -341,8 +453,8 @@
       "shortDescription": "混沌としたビクトリア朝の博物館を舞台にした、居心地の良い一人称視点の組織化ゲームです。散らばった色付きの立方体を集め、積み重ねて運び、対応するスロットに置くと、ピクセル アートワークが現れ、魅力的な 3D ボクセル展示物が復元されます。",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 49,
-      "rank": 14
+      "hensachi": 47.9,
+      "rank": 19
     },
     {
       "appid": 4799680,
@@ -365,52 +477,8 @@
       "shortDescription": "育っていく街の足もとに線を引く、ほっこりパズルゲーム。新しい家が、水、電力、インターネット、ガスを求めてやってきます。パイプを家まで引き、混み合う場所は地下を掘って抜け、川は水道橋で渡りましょう。5年ごとに、あなたが続投できるかどうかを街が投票で決めます。",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 49,
-      "rank": 15
-    },
-    {
-      "appid": 5328310,
-      "name": "Eggsecution Squad",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5328310/f7b5721cbf72ad4878c8f0d9687bc8f025c21ff0/header.jpg?t=1793386822",
-      "discountPercent": 20,
-      "initialPriceCents": 65500,
-      "finalPriceCents": 52400,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5328310/",
-      "genres": [
-        "アクション",
-        "カジュアル"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Eggsecution Squad is a fast, chaotic egg brawler for up to 4 players — local or online. Grab 14+ wild weapons, dash, block and punch across 5 maps, and knock the other eggs off or kill them. Last egg standing wins. Dress your egg up and beat up your friends (in game).",
-      "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 49,
-      "rank": 16
-    },
-    {
-      "appid": 4645790,
-      "name": "BURIED INSIDE ME",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4645790/9d381d21ed96bdcfccc420eeb68bd08ca1a1a83e/header.jpg?t=1793384382",
-      "discountPercent": 20,
-      "initialPriceCents": 79000,
-      "finalPriceCents": 63200,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4645790/",
-      "genres": [
-        "アクション",
-        "アドベンチャー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "What if you couldn’t wake up from your worst nightmare? BURIED INSIDE ME is a first-person psychological horror experience where you find yourself trapped within your own dream. Explore, solve puzzles, and survive yourself.",
-      "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 49,
-      "rank": 17
+      "hensachi": 47.9,
+      "rank": 20
     },
     {
       "appid": 5382480,
@@ -431,8 +499,8 @@
       "shortDescription": "Step into a peaceful low-poly mining world and build your own growing mining operation! Start with a simple pickaxe, break rocks, discover valuable ores, hire different types of workers and watch your small site transform into a productive automated bussiness.",
       "reviewSnippet": "",
       "rawScore": 7.65,
-      "hensachi": 46.9,
-      "rank": 18
+      "hensachi": 45.6,
+      "rank": 21
     },
     {
       "appid": 1799840,
@@ -455,8 +523,8 @@
       "shortDescription": "激しい戦闘と移動アクション中心の探索が楽しめる、レトロファンタジー・アクションRPG。謎に満ちた「ニアシード島」で、姿を消した父を探す冒険に繰り出そう。そこは邪悪な力が集い、そこかしこに秘密が隠され、眠れる女王が目覚めようとしている場所...",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 45.5,
-      "rank": 19
+      "hensachi": 44.1,
+      "rank": 22
     },
     {
       "appid": 4312190,
@@ -477,8 +545,8 @@
       "shortDescription": "なぜこの研究所に巨大な卵があるのか？ ミッションはいたってシンプルだ。卵を割ること。 余計なことは考えるな。 『CRACK』は、1～4人用の協力型インクリメンタル・アドベンチャーゲーム。 目的はただひとつ――謎の巨大な卵を割り、その中に何が隠されているのかを突き止めることだ。",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 45.5,
-      "rank": 20
+      "hensachi": 44.1,
+      "rank": 23
     },
     {
       "appid": 3675870,
@@ -499,8 +567,8 @@
       "shortDescription": "Use your handy Ghost Catcher to capture ghosts, solve puzzles, and stop the horny ghost girls that have been causing some trouble",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 45.5,
-      "rank": 21
+      "hensachi": 44.1,
+      "rank": 24
     },
     {
       "appid": 5114940,
@@ -521,13 +589,13 @@
       "shortDescription": "Dead Keys is a fast-paced typing action roguelite set in a pixel-art zombie apocalypse. Type to shoot, survive escalating hordes, build powerful chaotic runs, chase WPM records in Endless, and fight alongside, or against your friends online.",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 45.5,
-      "rank": 22
+      "hensachi": 44.1,
+      "rank": 25
     },
     {
       "appid": 5328430,
       "name": "cat.exe",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5328430/bd80c539deb23e0363fb4b71d3a044d2de9e2949/header.jpg?t=1793388192",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5328430/bd80c539deb23e0363fb4b71d3a044d2de9e2949/header.jpg?t=1793405977",
       "discountPercent": 15,
       "initialPriceCents": 28000,
       "finalPriceCents": 23800,
@@ -542,53 +610,8 @@
       "shortDescription": "cat.exe is the chill desktop cat you've always wanted. No idler mechanics, no clicking, just a plain cat.exe to hang out at the bottom of your screen while you use your computer.",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 45.5,
-      "rank": 23
-    },
-    {
-      "appid": 3036840,
-      "name": "Apocalyptica",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3036840/d5f8ddb051c2f06ae608f19f1e6157b02858bb63/header.jpg?t=1793387631",
-      "discountPercent": 15,
-      "initialPriceCents": 260000,
-      "finalPriceCents": 221000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/3036840/",
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "RPG"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Fight off starvation, dehydration, and madness. Lose your sanity, and your nightmares become fatal.",
-      "reviewSnippet": "",
-      "rawScore": 6.75,
-      "hensachi": 45.5,
-      "rank": 24
-    },
-    {
-      "appid": 5112040,
-      "name": "Enarian: Orbital Command",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5112040/6ecb72e25e0fe7826cf876bcb5192143ea816efd/header.jpg?t=1793384075",
-      "discountPercent": 15,
-      "initialPriceCents": 190000,
-      "finalPriceCents": 161500,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5112040/",
-      "genres": [
-        "RPG",
-        "ストラテジー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "A spaceship based RTS/RPG Hybrid, take command from your own outpost and lead wings of fighters, bombers, frigates and more, against powerful enemy fleets. Defend, Assault, Hack, Repair and Recover cargo for corporations and pirate factions building the strength of your ship and notoriety.",
-      "reviewSnippet": "",
-      "rawScore": 6.75,
-      "hensachi": 45.5,
-      "rank": 25
+      "hensachi": 44.1,
+      "rank": 26
     },
     {
       "appid": 4348910,
@@ -611,8 +634,8 @@
       "shortDescription": "ディストピア世界の宇宙ステーションを描いた、サイバーパンク経営シミュレーション。出所不明の商品を製作・交換・密輸しながら、各派閥との関係を上手く立ち回り、商売を成り立たせるためにどこまで踏み込むか判断しよう。家賃の値上げに追い込まれる前に、店を買い取れるだけの金を稼ぐのだ。",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 42,
-      "rank": 26
+      "hensachi": 40.4,
+      "rank": 27
     },
     {
       "appid": 4688700,
@@ -635,28 +658,7 @@
       "shortDescription": "Project Exhibitionist is a 3D sandbox game about exhibitionism and humiliation. Play as Ciel, a girl who, following a challenge, decides to leave her home completely naked. Discover all the points of interest and create your own story thanks to the game's complete customization.",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 42,
-      "rank": 27
-    },
-    {
-      "appid": 4005870,
-      "name": "FreshWomen - Season 3",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4005870/c0dfa6e526688c85bcc112086adf88bc3209c1c1/header.jpg?t=1793387563",
-      "discountPercent": 10,
-      "initialPriceCents": 260000,
-      "finalPriceCents": 234000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4005870/",
-      "genres": [
-        "アドベンチャー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "FreshWomenは、選択によって物語が進む大人向けビジュアルノベルです。人生の一番楽しい部分に焦点を当てています。あなたは豪邸を手に入れたばかりの大学1年生。女の子を家に招いて、付き合ったり、出かけたり、セックスしたりしましょう。あなたの物語は、コメディと恋愛、そしてたくさんのセックスであふれています。",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 42,
+      "hensachi": 40.4,
       "rank": 28
     },
     {
@@ -678,31 +680,8 @@
       "shortDescription": "『アノマリス／ANOMALITH』はリミナルスペースと昭和レトロの雰囲気が漂う日本を舞台にしたサバイバルTPSゲームです。行方不明となった友人を探すため、少女は異形うごめく世界へ足を踏み入れます。",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 42,
+      "hensachi": 40.4,
       "rank": 29
-    },
-    {
-      "appid": 4530370,
-      "name": "Football Manager 27",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530370/32b41d18ffaac3d2e1dc1a9c3915538db0ba3fca/header.jpg?t=1793296899",
-      "discountPercent": 10,
-      "initialPriceCents": 799000,
-      "finalPriceCents": 719100,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4530370/",
-      "genres": [
-        "シミュレーション",
-        "スポーツ",
-        "ストラテジー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "クラブを選んで指揮を執り、理想のチームを作り上げ、自分だけの戦術を確立しましょう。そして、あなただけが思い描く未来を追い求めてください。 『FM27』では、あなたのサッカーへの信念が現実になります。すべては、あなたの手に委ねられています。",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 42,
-      "rank": 30
     },
     {
       "appid": 3322630,
@@ -724,7 +703,28 @@
       "shortDescription": "ボードゲームとカードゲームが融合した伝説のゲーム「カルドセプト」。 斬新にして唯一無二のゲームシステムは、発売当初から多くのファンを熱狂させてきた。 プレイヤーはカードを自在に操る「セプター」となり、運と戦略を尽くしライバルたちと真剣勝負を繰り広げる。 10年の時を経て、新たな物語が動き出す。",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 42,
+      "hensachi": 40.4,
+      "rank": 30
+    },
+    {
+      "appid": 4005870,
+      "name": "FreshWomen - Season 3",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4005870/c0dfa6e526688c85bcc112086adf88bc3209c1c1/header.jpg?t=1793387563",
+      "discountPercent": 10,
+      "initialPriceCents": 260000,
+      "finalPriceCents": 234000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4005870/",
+      "genres": [
+        "アドベンチャー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "FreshWomenは、選択によって物語が進む大人向けビジュアルノベルです。人生の一番楽しい部分に焦点を当てています。あなたは豪邸を手に入れたばかりの大学1年生。女の子を家に招いて、付き合ったり、出かけたり、セックスしたりしましょう。あなたの物語は、コメディと恋愛、そしてたくさんのセックスであふれています。",
+      "reviewSnippet": "",
+      "rawScore": 4.5,
+      "hensachi": 40.4,
       "rank": 31
     },
     {
@@ -747,7 +747,7 @@
       "shortDescription": "Delved Too Deep is a game about an endless stream of machines exploring the depths seeking to fulfil the Factory Imperative. Each new machine iteration is better than the last, their accumulated knowledge leading to revelations that may change the fate of those who wander the deep...",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 42,
+      "hensachi": 40.4,
       "rank": 32
     },
     {
@@ -771,80 +771,31 @@
       "shortDescription": "Jason and Derek are two stoners on a road trip searching for the legendary Holy Weed. But when the Poop Killer returns, they must find the mysterious Golden Fart before it's too late!",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 42,
+      "hensachi": 40.4,
       "rank": 33
     },
     {
-      "appid": 5349910,
-      "name": "Cozy Necromancy",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5349910/2de52ff9be31d2bb90b6e80b2d4565b4a51043a5/header.jpg?t=1793389978",
+      "appid": 5431200,
+      "name": "Age Breaker",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5431200/31d2f790f8dad529c396580d886965f91cd3b97a/header.jpg?t=1793417042",
       "discountPercent": 10,
       "initialPriceCents": 115000,
       "finalPriceCents": 103500,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5349910/",
+      "storeUrl": "https://store.steampowered.com/app/5431200/",
       "genres": [
         "カジュアル",
         "インディー",
-        "RPG"
+        "ストラテジー"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "A gentle mystery about a village that cannot let go of its dead. As a journeyman necromancer, you lay six spirits to rest by listening to them, investigating what holds them, and making your case with three objects in a ritual circle. No combat, no timers, no fail states.",
+      "shortDescription": "A one-lane strategy game of armies, defenses and evolution. Spend gold on a push now or save for the next age, from bone clubs to plasma blades. Conquer a 36-battle campaign, battle giant bosses and try new tactics in custom skirmishes. Free demo available.",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 42,
+      "hensachi": 40.4,
       "rank": 34
-    },
-    {
-      "appid": 4701910,
-      "name": "Baby Peak",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4701910/ad2f425cef77bab2ff41e3a06c36d6e562b48645/header.jpg?t=1793385791",
-      "discountPercent": 10,
-      "initialPriceCents": 53000,
-      "finalPriceCents": 47700,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4701910/",
-      "genres": [
-        "アドベンチャー",
-        "カジュアル",
-        "レース",
-        "シミュレーション",
-        "ストラテジー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "Baby Peakは、4人の赤ちゃんが同時にレースをする、反射神経と戦略がぶつかり合う物理ベースのカオスなマルチプレイヤー・プラットフォームゲームです。目標はシンプル。ジャンプして、登って、ライバルを妨害して、誰よりも早く黄金のおしゃぶりにたどり着くこと。さまざまなパーティーモードとステージを探検しよう。",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 42,
-      "rank": 35
-    },
-    {
-      "appid": 5133900,
-      "name": "Can 'Em All",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5133900/19aa14ebe3720e02f7f8c720abbf9749cf36967f/header.jpg?t=1793384095",
-      "discountPercent": 10,
-      "initialPriceCents": 89900,
-      "finalPriceCents": 80900,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5133900/",
-      "genres": [
-        "アクション",
-        "インディー",
-        "シミュレーション",
-        "ストラテジー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "A juicy first-person incremental game about turning cute creatures into cans. Kill them, collect their bodies, can them, and sell them. Make money, upgrade your weapons and machines, and produce more and more.",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 42,
-      "rank": 36
     },
     {
       "appid": 91213,
@@ -862,8 +813,8 @@
       "shortDescription": "",
       "reviewSnippet": "",
       "rawScore": 2.25,
-      "hensachi": 38.5,
-      "rank": 37
+      "hensachi": 36.7,
+      "rank": 35
     }
   ]
 }
