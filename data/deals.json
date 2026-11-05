@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-11-04T23:03:18.547Z",
+  "fetchedAt": "2026-11-05T04:33:35.547Z",
   "currency": "JPY",
-  "count": 35,
-  "averageDiscount": 22.5,
+  "count": 34,
+  "averageDiscount": 23.1,
   "deals": [
     {
       "appid": 322330,
@@ -29,7 +29,7 @@
       "shortDescription": "『Don't Starve Together』は容赦ないサバイバルゲーム、『Don't Starve』がマルチプレイヤーになる、スタンドアローン拡張パックです。",
       "reviewSnippet": "",
       "rawScore": 29.7,
-      "hensachi": 84.3,
+      "hensachi": 83.3,
       "rank": 1
     },
     {
@@ -52,8 +52,31 @@
       "shortDescription": "2024年に生誕20周年を迎えたストーリーRPG「軌跡」シリーズ。その記念すべき第１作、『英雄伝説 空の軌跡FC（ファーストチャプター）』を完全フルリメイク！",
       "reviewSnippet": "",
       "rawScore": 22.5,
-      "hensachi": 71.7,
+      "hensachi": 70.9,
       "rank": 2
+    },
+    {
+      "appid": 2615540,
+      "name": "VOID/BREAKER",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2615540/4f3789458cfd9c3375c2926620b19640135f7c4a/header_alt_assets_8.jpg?t=1793821113",
+      "discountPercent": 40,
+      "initialPriceCents": 335000,
+      "finalPriceCents": 201000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/2615540/",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "Fast paced Bullet hell Roguelite FPS 🔴 Fight relentless machines driven by a hostile AI. Escape an endless cycle. Craft infinite weapon variants with deep gun modding. Forge deadly synergies. Carve your way out through enviro destruction /BREAK THE SYSTEM /BREAK FREE",
+      "reviewSnippet": "",
+      "rawScore": 18,
+      "hensachi": 63.1,
+      "rank": 3
     },
     {
       "appid": 3768760,
@@ -74,13 +97,13 @@
       "shortDescription": "ナンバーを勝ち取れ。007 ファーストライト は、IO Interactiveが贈る究極のスパイアクションアドベンチャー。MI6の訓練生として、若く聡明だが、時に向こう見ずすぎる男、ジェームズ・ボンドを操り、世界最高のスパイ誕生のストーリーを目撃せよ。",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 63.8,
-      "rank": 3
+      "hensachi": 63.1,
+      "rank": 4
     },
     {
       "appid": 5371500,
       "name": "Cats Here",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5371500/17d8cf002b8533d504edc7d7ca02b608bd899e69/header.jpg?t=1793825260",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5371500/17d8cf002b8533d504edc7d7ca02b608bd899e69/header.jpg?t=1793835935",
       "discountPercent": 40,
       "initialPriceCents": 26500,
       "finalPriceCents": 15900,
@@ -96,8 +119,8 @@
       "shortDescription": "😺 色鮮やかな風景の中に隠れた100匹以上の猫🐾を見つけよう。🏆 たくさんの実績を獲得しよう。何匹の猫🐈を見つけられるかな？🔎 急いで！⏱️",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 63.8,
-      "rank": 4
+      "hensachi": 63.1,
+      "rank": 5
     },
     {
       "appid": 4962500,
@@ -119,30 +142,7 @@
       "shortDescription": "Pixel DungeonにインスパイアされたローグライクRPG。12人のヒーローから選び、毎回姿を変えるダンジョンを探索し、使うほどに消耗する130種類以上のアイテムを使いこなそう。毎回のランで試されるのは、戦闘の腕前と戦略、そして手持ちのアイテムをいつ使うかという判断力だ。",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 63.8,
-      "rank": 5
-    },
-    {
-      "appid": 3241660,
-      "name": "R.E.P.O.",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg?t=1793278962",
-      "discountPercent": 35,
-      "initialPriceCents": 120000,
-      "finalPriceCents": 78000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/3241660/",
-      "genres": [
-        "サバイバル",
-        "アクション",
-        "早期アクセス"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2025,
-      "shortDescription": "An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.",
-      "reviewSnippet": "",
-      "rawScore": 15.75,
-      "hensachi": 59.8,
+      "hensachi": 63.1,
       "rank": 6
     },
     {
@@ -168,31 +168,8 @@
       "shortDescription": "Stranded on the shores of a mysterious island, you must learn to survive. Use your cunning to kill or tame the primeval creatures roaming the land, and encounter other players to survive, dominate... and escape!",
       "reviewSnippet": "",
       "rawScore": 15.3,
-      "hensachi": 59.1,
+      "hensachi": 58.5,
       "rank": 7
-    },
-    {
-      "appid": 5334830,
-      "name": "Idle Garden",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5334830/02c6a60b25859f9a3d816a10aa65d4ffe4b0a2d9/header.jpg?t=1793822287",
-      "discountPercent": 33,
-      "initialPriceCents": 79000,
-      "finalPriceCents": 52900,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5334830/",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "A cozy idle garden you check on a few times a day. Plant seeds, come back to a ripe harvest, and crossbreed neighbouring plants to discover 20 species, including 6 secret hybrids hidden behind riddles. Your garden keeps growing while you're away.",
-      "reviewSnippet": "",
-      "rawScore": 14.85,
-      "hensachi": 58.3,
-      "rank": 8
     },
     {
       "appid": 5139380,
@@ -215,7 +192,30 @@
       "shortDescription": "Marble Starsは、個人開発者が一人で制作した歯ごたえのあるプラットフォームゲームです。海の上に浮かぶ55のステージを探索し、各コースを極め、世界ランキングで競い合いながら、進行に応じてメダルを獲得しましょう。",
       "reviewSnippet": "",
       "rawScore": 13.5,
-      "hensachi": 55.9,
+      "hensachi": 55.4,
+      "rank": 8
+    },
+    {
+      "appid": 5344290,
+      "name": "作って！からあげ",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5344290/17d1fca9856f3f30b39e475769cad9a7296b4595/header_japanese.jpg?t=1793834275",
+      "discountPercent": 29,
+      "initialPriceCents": 70000,
+      "finalPriceCents": 49700,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5344290/",
+      "genres": [
+        "アクション",
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "おいしいからあげ作りに挑戦だ！ いっぱいつくって、目指せ大繁盛！",
+      "reviewSnippet": "",
+      "rawScore": 13.05,
+      "hensachi": 54.6,
       "rank": 9
     },
     {
@@ -238,8 +238,31 @@
       "shortDescription": "&quot;Descend into liminal space—evade lurking horrors, solve cryptic puzzles, and use your camera to preserve the memories you leave behind in this eerie world. Switch to night vision to uncover hidden clues and trace what's amiss. This first-person indie horror will keep you guessing at every turn.&quot;",
       "reviewSnippet": "",
       "rawScore": 12.6,
-      "hensachi": 54.3,
+      "hensachi": 53.8,
       "rank": 10
+    },
+    {
+      "appid": 5372430,
+      "name": "Neuroflip",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5372430/ef2af4728bd00528c09df1552029da32b166fb24/header.jpg?t=1793847749",
+      "discountPercent": 25,
+      "initialPriceCents": 84500,
+      "finalPriceCents": 63300,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5372430/",
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "ストラテジー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "カードで遊ぶ記憶力ローグライク。カードをめくり、どの顔がどこに出たかを覚え、ペアをそろえて書記、貴婦人、キングを打ち倒せ。初めて見るカードでのミスはノーペナルティ。でも、一度見たペアを忘れると高くつくかもしれない。",
+      "reviewSnippet": "",
+      "rawScore": 11.25,
+      "hensachi": 51.5,
+      "rank": 11
     },
     {
       "appid": 1677110,
@@ -257,29 +280,103 @@
       "shortDescription": "メカで豪快に農作業を楽しむ、のんびり遊べるオープンワールド農業ゲーム。理想の農場を築き、日々の作業を自動化しよう。メカをカスタマイズすれば、森を丸ごと切り開き、広大な畑を耕すことも。最大3人のフレンドと夕日を眺めながら、ゆったり過ごすのも自由だ。",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 48,
-      "rank": 11
+      "hensachi": 47.6,
+      "rank": 12
     },
     {
-      "appid": 2991310,
-      "name": "夢幻桜楼閣",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2991310/header_japanese.jpg?t=1793805269",
+      "appid": 3669870,
+      "name": "CONTROL Resonant（コントロール レゾナント）",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg?t=1793357289",
       "discountPercent": 20,
-      "initialPriceCents": 150000,
-      "finalPriceCents": 120000,
+      "initialPriceCents": 799000,
+      "finalPriceCents": 639200,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/2991310/",
+      "storeUrl": "https://store.steampowered.com/app/3669870/",
       "genres": [
-        "アクション"
+        "アクション",
+        "アドベンチャー",
+        "RPG"
       ],
       "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "刃を研ぎ澄まし、桜舞い散る永遠のダンジョン──『夢幻桜楼閣』へと足を踏み入れよ！　そこは安息を知らぬ怪異たちが彷徨う夢幻の迷宮。絶えず変化する領域を戦い抜き、報酬のアイテムで自身を強化！　ド派手なバトルと戦略で「エンドコンテンツ」に挑む、ローグライト3Dアクション！",
+      "shortDescription": "スリル満点のアクション・アドベンチャーRPGで、超常的な勢力による壊滅が迫る歪んだマンハッタンへ飛び込もう。人間性を守り抜こうと戦うディラン・フェイデンが秘めた異能を解き放ち、現実そのものをねじ曲げる宇宙的脅威に立ち向かえ。",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 48,
-      "rank": 12
+      "hensachi": 47.6,
+      "rank": 13
+    },
+    {
+      "appid": 5102640,
+      "name": "Pawn'd Chess",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5102640/b4143b3218ac74bab6f27447f9648161fb2f084f/header.jpg?t=1793846823",
+      "discountPercent": 20,
+      "initialPriceCents": 77700,
+      "finalPriceCents": 62100,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5102640/",
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "スポーツ",
+        "ストラテジー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Pick up a controller and play chess against human-like CPU opponents with adjustable difficulty. Make yourself comfortable with extensive accessibility options, explore freely with undo and redo, and create or revisit your own positions.",
+      "reviewSnippet": "",
+      "rawScore": 9,
+      "hensachi": 47.6,
+      "rank": 14
+    },
+    {
+      "appid": 3779560,
+      "name": "Celeste Blue Wizard Luna",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3779560/10e807d91328ded9d0981e0d070d1cfbc061fbc4/header.jpg?t=1793840429",
+      "discountPercent": 20,
+      "initialPriceCents": 210000,
+      "finalPriceCents": 168000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/3779560/",
+      "genres": [
+        "アドベンチャー",
+        "カジュアル",
+        "インディー",
+        "RPG"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Help Luna form a resistance to take down Princess Lucia the Black Witch and free the skyborne land of Jupiterno from her tyranny!",
+      "reviewSnippet": "",
+      "rawScore": 9,
+      "hensachi": 47.6,
+      "rank": 15
+    },
+    {
+      "appid": 5279240,
+      "name": "FarmLife",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5279240/dd471b356d6959bb54abb759fe77c0949b94bb61/header.jpg?t=1793832702",
+      "discountPercent": 20,
+      "initialPriceCents": 170000,
+      "finalPriceCents": 136000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5279240/",
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "RPG",
+        "シミュレーション"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Build a farm and shape a life in this single-player, text-based simulation. Grow crops, raise animals, pursue careers, build relationships, and manage your finances through choices that shape your future.",
+      "reviewSnippet": "",
+      "rawScore": 9,
+      "hensachi": 47.6,
+      "rank": 16
     },
     {
       "appid": 5433310,
@@ -303,13 +400,13 @@
       "shortDescription": "Hounded Reborn Greyhound Racing creates a fantasy world of greyhound racing. Buy, name and enjoy your own record breaking champion. Select between pups to buy, trainers, and optionally gamble away your fortune. Achieve cup wins, track records and top the asset value list.",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 48,
-      "rank": 13
+      "hensachi": 47.6,
+      "rank": 17
     },
     {
       "appid": 5460640,
       "name": "Rockhound Hollow",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5460640/cdc42d65983c615023b1d20a4337061d5db31d3a/header.jpg?t=1793825542",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5460640/cdc42d65983c615023b1d20a4337061d5db31d3a/header.jpg?t=1793834434",
       "discountPercent": 20,
       "initialPriceCents": 140000,
       "finalPriceCents": 112000,
@@ -324,11 +421,11 @@
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "Dig at 24 real rockhounding sites, crack open geodes, run a real 4-step rock tumbler and fill your Rock Journal from a cozy pixel-art cabin with Pebble the cat. A relaxing collecting game where every site, tool and fact comes from real rockhounding.",
+      "shortDescription": "Dig at 25 real rockhounding sites, crack open geodes, run a real 4-step rock tumbler and fill your Rock Journal from a cozy pixel-art cabin with Pebble the cat. A relaxing collecting game where every site, tool and fact comes from real rockhounding.",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 48,
-      "rank": 14
+      "hensachi": 47.6,
+      "rank": 18
     },
     {
       "appid": 4347370,
@@ -350,8 +447,8 @@
       "shortDescription": "Become private detective Dennis Monroe, a relentless investigator driven to catch the infamous &quot;Epiphany Killer,&quot; a shadowy figure who has haunted the city for over twenty years. Every clue draws you closer to the truth, but danger lurks behind every revelation.",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 48,
-      "rank": 15
+      "hensachi": 47.6,
+      "rank": 19
     },
     {
       "appid": 4677370,
@@ -372,8 +469,8 @@
       "shortDescription": "Just Keep Defending And Miningは、戦闘と資源収集を組み合わせたユニークなインクリメンタルゲームです。採掘と生存のバランスを取り、アップグレードに投資し、ラウンドごとに強くなり、新しい地域を解除して、Just Keep Defending and Mining。",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 48,
-      "rank": 16
+      "hensachi": 47.6,
+      "rank": 20
     },
     {
       "appid": 5037510,
@@ -395,8 +492,8 @@
       "shortDescription": "Thousands of balls are scattered throughout the playrooms. Someone should put them away, and there's no one here but you. Almost no one.",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 48,
-      "rank": 17
+      "hensachi": 47.6,
+      "rank": 21
     },
     {
       "appid": 4832510,
@@ -418,53 +515,8 @@
       "shortDescription": "答えのないジレンマに立ち向かい、風変わりなキャラクターたちと出会い、レバーを切り替えるたびに物語がどう変わるのかを見届けよう。トロッコが走り続ける中、誰を信じ、誰を裏切り、そして、なるつもりなどなかった自分になってしまうのか――すべてはあなたの選択次第だ。",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 48,
-      "rank": 18
-    },
-    {
-      "appid": 5091900,
-      "name": "Prigod Idle",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5091900/e2b0d312c018962f89129ec8e46c2879139b2904/header.jpg?t=1793815222",
-      "discountPercent": 20,
-      "initialPriceCents": 105000,
-      "finalPriceCents": 84000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5091900/",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "RPG",
-        "ストラテジー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "数百時間分のコンテンツを詰め込んだインクリメンタル系オートバトラー。さまざまなビルドを組んで、多彩な敵が待つ100ステージに挑もう。その間も資源は自動で集まる。ボスに勝てないなら、ビルドを変えて新しい手を試そう！38人のヒーロー、99のレリック、22のミニゲーム、4本のテックツリー。",
-      "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 48,
-      "rank": 19
-    },
-    {
-      "appid": 4932300,
-      "name": "Lust Tap",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4932300/018762c95afbe4cc07da09206850b9d740f4360a/header.jpg?t=1793815207",
-      "discountPercent": 20,
-      "initialPriceCents": 75000,
-      "finalPriceCents": 59900,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4932300/",
-      "genres": [
-        "カジュアル"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "Lust Tap — シネマティック3Dアダルトクリッカー。ゲージを満たし、リズムをキープして全シーンを解放。始めやすく、やめられない。",
-      "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 48,
-      "rank": 20
+      "hensachi": 47.6,
+      "rank": 22
     },
     {
       "appid": 2320980,
@@ -490,8 +542,8 @@
       "shortDescription": "『Loftia』へようこそ！ほのぼのとしたマルチプレイヤーワールドで、持続可能な明るい未来を作り上げよう。新しいフレンドも、昔からのフレンドも、みんなで一緒に農作業や物作り、探索、装飾などを楽しんで、意味のある変化を生み出そう。",
       "reviewSnippet": "",
       "rawScore": 7.65,
-      "hensachi": 45.7,
-      "rank": 21
+      "hensachi": 45.3,
+      "rank": 23
     },
     {
       "appid": 1799840,
@@ -514,31 +566,8 @@
       "shortDescription": "激しい戦闘と移動アクション中心の探索が楽しめる、レトロファンタジー・アクションRPG。謎に満ちた「ニアシード島」で、姿を消した父を探す冒険に繰り出そう。そこは邪悪な力が集い、そこかしこに秘密が隠され、眠れる女王が目覚めようとしている場所...",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 44.1,
-      "rank": 22
-    },
-    {
-      "appid": 5426370,
-      "name": "Junkbloom",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5426370/f342bc3cdd60346c0fe1a288e025c81b239f3bf2/header.jpg?t=1793824529",
-      "discountPercent": 15,
-      "initialPriceCents": 70500,
-      "finalPriceCents": 59900,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5426370/",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "ゴミ捨て場の片付けと自動化を楽しむ、ほっこりインクリメンタルゲーム。バールで洗濯機やタイヤ、古い冷蔵庫の山を崩し、働き者のお手伝いドローンに片付けを任せ、仕分け機やシュレッダー、発電機を建ててゴミを金属やポリマー、部品に変えましょう。小さな工房を少しずつ広げながら、博物館のために物語のある奇妙な珍品を40種類集めます。地面がきれいになるにつれて周りの雲が晴れ、新しいエリアと秘密が現れます。時間に追われることはなく、温かい音楽と昼夜の移り変わり、ホタルの光があなたを待っています。そして最後に、ゴミ捨て場の中心、雲の下で眠っているものの正体を確かめてください。",
-      "reviewSnippet": "",
-      "rawScore": 6.75,
-      "hensachi": 44.1,
-      "rank": 23
+      "hensachi": 43.7,
+      "rank": 24
     },
     {
       "appid": 4269100,
@@ -561,30 +590,7 @@
       "shortDescription": "「What’Sub」は最大4人協力プレイの潜水艦脱出（エキストラクション）ゲーム。ボロ船を操縦して魔の三角地帯「バミューダ海域」の深海へ。命懸けで財宝を回収し、地上へ持ち帰れ。さらなる深淵が君を待っている。",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 44.1,
-      "rank": 24
-    },
-    {
-      "appid": 5234980,
-      "name": "Wickwood",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5234980/48e7bd57889b87d36d233fd63ff294fdd600b9d4/header.jpg?t=1793815294",
-      "discountPercent": 15,
-      "initialPriceCents": 65500,
-      "finalPriceCents": 55600,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5234980/",
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "インディー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "A top-down pixel action game set across one long night. No crafting, no hunger, no inventory — just a bat, an axe, and a lantern burning down. The shrinking circle of light is the only clock you get. Find the parts for a dead car and drive out of Wickwood before the light goes.",
-      "reviewSnippet": "",
-      "rawScore": 6.75,
-      "hensachi": 44.1,
+      "hensachi": 43.7,
       "rank": 25
     },
     {
@@ -608,54 +614,8 @@
       "shortDescription": "魔法のディスケットがあなたのオフィスにポータルを開き、あなたを無限のダンジョンに引き込みます。そこで生き残れるかどうかは、順応し、戦い、次の世界のロックを解除するために破損したデータを収集するかどうかにかかっています。さまざまな力と武器があり、実行するたびに異なる挑戦が待っています。",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 44.1,
+      "hensachi": 43.7,
       "rank": 26
-    },
-    {
-      "appid": 4916010,
-      "name": "Shorted",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4916010/58b450c821b76a5b0c750a774531e2ca8e34ee8d/header.jpg?t=1793815229",
-      "discountPercent": 15,
-      "initialPriceCents": 90500,
-      "finalPriceCents": 76900,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4916010/",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "ストラテジー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "9×9グリッドで味わうBalatro風スコアリング。デッキがそのまま盤面になる。同色のPacketをなぞって得点になる形を作り、ルールをハックするPatchを組み込み、グリッドを補充するデッキを組み直そう。6つのFirewallが、オーバーロードしたハイスコアへの道を阻む。",
-      "reviewSnippet": "",
-      "rawScore": 6.75,
-      "hensachi": 44.1,
-      "rank": 27
-    },
-    {
-      "appid": 4646190,
-      "name": "Just Dying",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4646190/2bef5e3fb5207177a4d06483953eb6b7f0101fc8/header.jpg?t=1793815221",
-      "discountPercent": 15,
-      "initialPriceCents": 125000,
-      "finalPriceCents": 106200,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4646190/",
-      "genres": [
-        "アクション",
-        "カジュアル",
-        "インディー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "配信者が主役のローグライト・サバイバー。フォロワーを救って無職を回避し、ユニークなキャラクターを解放し、強力なルーンを積み重ね、純粋な混沌の破壊球と化せ。学べ。死ね。繰り返せ。",
-      "reviewSnippet": "",
-      "rawScore": 6.75,
-      "hensachi": 44.1,
-      "rank": 28
     },
     {
       "appid": 4348910,
@@ -678,8 +638,8 @@
       "shortDescription": "ディストピア世界の宇宙ステーションを描いた、サイバーパンク経営シミュレーション。出所不明の商品を製作・交換・密輸しながら、各派閥との関係を上手く立ち回り、商売を成り立たせるためにどこまで踏み込むか判断しよう。家賃の値上げに追い込まれる前に、店を買い取れるだけの金を稼ぐのだ。",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 40.1,
-      "rank": 29
+      "hensachi": 39.9,
+      "rank": 27
     },
     {
       "appid": 5266240,
@@ -701,8 +661,8 @@
       "shortDescription": "一人称視点のジャガイモ皮むきゲーム。ナイフがある。バケツがある。ジャガイモの山がある。本物の物理演算で皮をむこう。薄く切って、無駄にしない。もっと良い道具を買おう。山がなくなるまでむき続けろ。君ほど上手くむける者はいない。",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 40.1,
-      "rank": 30
+      "hensachi": 39.9,
+      "rank": 28
     },
     {
       "appid": 4530370,
@@ -724,7 +684,53 @@
       "shortDescription": "クラブを選んで指揮を執り、理想のチームを作り上げ、自分だけの戦術を確立しましょう。そして、あなただけが思い描く未来を追い求めてください。 『FM27』では、あなたのサッカーへの信念が現実になります。すべては、あなたの手に委ねられています。",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 40.1,
+      "hensachi": 39.9,
+      "rank": 29
+    },
+    {
+      "appid": 4135930,
+      "name": "斯凯尔的乌鸦",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4135930/8d8ebc94387bdf049bbde6118a081df6e311b511/header.jpg?t=1793846898",
+      "discountPercent": 10,
+      "initialPriceCents": 100000,
+      "finalPriceCents": 90000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4135930/",
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "ストラテジー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Scared Crow is a 5×5-grid roguelite deckbuilder. Add up to three ability stickers to each card, plan each week before the Boss arrives, and turn humble cards into build-defining powerhouses. Clear a run, challenge other players’ winning decks, and climb the leaderboard.",
+      "reviewSnippet": "",
+      "rawScore": 4.5,
+      "hensachi": 39.9,
+      "rank": 30
+    },
+    {
+      "appid": 4188260,
+      "name": "ニャンびり釣り日和",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4188260/cd2e99e445bbd8bf2daa0742fb76ff8ca3df5c14/header_japanese.jpg?t=1793846975",
+      "discountPercent": 10,
+      "initialPriceCents": 80000,
+      "finalPriceCents": 72000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4188260/",
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "ほっこり癒やし系の放置型釣りゲームです。PCデスクトップの片隅でのんびり釣りを楽しみ、可愛いアバターや背景を自由にカスタマイズ。様々な種類の猫たちに餌をあげてコレクションしましょう。美しい新しいシナリオを徐々にアンロックして、お仕事や勉強の合間をもっと楽しく。マルチプレイ対応で、みんなでこっそり“サボりタイム”を！",
+      "reviewSnippet": "",
+      "rawScore": 4.5,
+      "hensachi": 39.9,
       "rank": 31
     },
     {
@@ -748,7 +754,7 @@
       "shortDescription": "Kill King 2Dは、ダークファンタジーの1v1タクティカル・オートバトラー。秘密裏に命令をキューへ並べ、アクションポイントを消費したら、あとは駒たちが自らプランを遂行します。軍を進化させ、相手の読みを上回り、敵のキングを討ち取りましょう。",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 40.1,
+      "hensachi": 39.9,
       "rank": 32
     },
     {
@@ -771,7 +777,7 @@
       "shortDescription": "りんごを収穫して、ベリーを食べる――そんな夏の日々を覚えていますか？ 夏のアルバイトとして果物を収穫していたかもしれません。あるいは、おじいちゃんの果樹園を手伝っていたかもしれません。今度は、あの頃に戻って、そんな日々をもう一度味わってみましょう。さまざまな果物やベリー、ぶどうを何十種類も収穫して、箱に詰めていきます。",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 40.1,
+      "hensachi": 39.9,
       "rank": 33
     },
     {
@@ -795,32 +801,8 @@
       "shortDescription": "Shoot. Upgrade. Die. Repeat. Defend against endless swarms in this minimalist idle tower defense. Construct an impenetrable fortress, research game-breaking tech, craft legendary gear, and harness cosmic abilities like Black Holes and Orbital Strikes. How deep into the Void can you survive?",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 40.1,
+      "hensachi": 39.9,
       "rank": 34
-    },
-    {
-      "appid": 2995290,
-      "name": "King's Heart",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2995290/e719336f27321982437a1bba03fdb9477cf5c845/header.jpg?t=1793815222",
-      "discountPercent": 10,
-      "initialPriceCents": 105000,
-      "finalPriceCents": 94500,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/2995290/",
-      "genres": [
-        "アクション",
-        "カジュアル",
-        "インディー",
-        "RPG"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "You are a KING - a being with the power to travel through dimensions to save corrupted realms. Fight hordes of enemies, find the HEARTS of the KINGS, unlock new characters and discover the secrets of each dimension.",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 40.1,
-      "rank": 35
     }
   ]
 }
