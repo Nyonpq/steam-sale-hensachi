@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-11-08T03:44:02.088Z",
+  "fetchedAt": "2026-11-08T12:33:33.996Z",
   "currency": "JPY",
-  "count": 33,
-  "averageDiscount": 26.2,
+  "count": 30,
+  "averageDiscount": 27.7,
   "deals": [
     {
       "appid": 2492040,
@@ -22,7 +22,7 @@
       "shortDescription": "26年の時を経て、『餓狼伝説』が再始動！感性を刺激する独自の「アートスタイル」、バトルの興奮が加速していく「REVシステム」を新たに搭載。さらに初心者から上級者まで楽しめる2つの操作スタイルを始め、様々な新機能や新要素を用意。欲望に満ちたサウスタウンを舞台に、新たな“伝説”が始まる。",
       "reviewSnippet": "",
       "rawScore": 33.75,
-      "hensachi": 84.3,
+      "hensachi": 80.8,
       "rank": 1
     },
     {
@@ -45,7 +45,7 @@
       "shortDescription": "2024年に生誕20周年を迎えたストーリーRPG「軌跡」シリーズ。その記念すべき第１作、『英雄伝説 空の軌跡FC（ファーストチャプター）』を完全フルリメイク！",
       "reviewSnippet": "",
       "rawScore": 22.5,
-      "hensachi": 66.7,
+      "hensachi": 64.5,
       "rank": 2
     },
     {
@@ -70,7 +70,7 @@
       "shortDescription": "「幻夢守衛軍」は3Dの生存ゲームです。神秘かつ危険が溢れる土地に足を踏み入れます。なぜここにいるのかは知りませんが、無数の敵があなたの所になだれ込んでいます。全てをかけて、敵を倒して、強大な魔法を学んで、秘境を探索して、色んな秘密を見つけ出しましょう！戦い続けると、あなたと同時に敵も強くになります！",
       "reviewSnippet": "",
       "rawScore": 22.5,
-      "hensachi": 66.7,
+      "hensachi": 64.5,
       "rank": 3
     },
     {
@@ -96,7 +96,7 @@
       "shortDescription": "大災害が世界を襲った。任務中に乗っていた航空機が墜落し、あなたはZed Zoneに閉じ込められてしまう。 ゾンビと怪物が至るところにうろつく中、脱出を目指して資材を集め、スキルを磨き、シェルターを築き、ゾンビの大群と謎のメカを打ち倒しながら、かすかな希望を追い求めろ。",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 59.7,
+      "hensachi": 58,
       "rank": 4
     },
     {
@@ -118,8 +118,54 @@
       "shortDescription": "ナンバーを勝ち取れ。007 ファーストライト は、IO Interactiveが贈る究極のスパイアクションアドベンチャー。MI6の訓練生として、若く聡明だが、時に向こう見ずすぎる男、ジェームズ・ボンドを操り、世界最高のスパイ誕生のストーリーを目撃せよ。",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 59.7,
+      "hensachi": 58,
       "rank": 5
+    },
+    {
+      "appid": 3010300,
+      "name": "One-Hour Hero",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010300/196e2d66e77b6645d70a9417d4f3171154ea3ea3/header.jpg?t=1794118381",
+      "discountPercent": 40,
+      "initialPriceCents": 12000,
+      "finalPriceCents": 7200,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/3010300/",
+      "genres": [
+        "アドベンチャー",
+        "インディー",
+        "RPG"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "A compact 2.5D pixel-art, turn-based JRPG designed to be completed in about an hour. Train as a hero, explore White Mountain, learn new skills, collect gear, and fight beside your companion on the road to the Dragon King.",
+      "reviewSnippet": "",
+      "rawScore": 18,
+      "hensachi": 58,
+      "rank": 6
+    },
+    {
+      "appid": 4763220,
+      "name": "ONE SKILL - Drive or Fall",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4763220/0ac26b1ccfd3bf1f785ae2978366f9780d6ccea8/header.jpg?t=1794108324",
+      "discountPercent": 40,
+      "initialPriceCents": 56000,
+      "finalPriceCents": 33600,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4763220/",
+      "genres": [
+        "アドベンチャー",
+        "レース",
+        "シミュレーション"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Test your skills on various platforms and obstacles built high in the sky! Master your driving as you maneuver through thrilling challenges and perilous situations to reach the finish line.",
+      "reviewSnippet": "",
+      "rawScore": 18,
+      "hensachi": 58,
+      "rank": 7
     },
     {
       "appid": 5444410,
@@ -141,31 +187,31 @@
       "shortDescription": "Battle enemy hordes, build powerful ability combinations, and defeat challenging bosses in this single-player bullet heaven roguelike. Choose distinct characters, unlock evolutions, and earn permanent upgrades—all with offline gameplay.",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 59.7,
-      "rank": 6
+      "hensachi": 58,
+      "rank": 8
     },
     {
-      "appid": 4900110,
-      "name": "Oops… I Hooked Up with a Mermaid 🎣😳",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4900110/c2196ad8efee5dfa537eecc4f6b6c61214d45e08/header.jpg?t=1794091606",
-      "discountPercent": 37,
-      "initialPriceCents": 228500,
-      "finalPriceCents": 143900,
+      "appid": 3527290,
+      "name": "PEAK",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1792684718",
+      "discountPercent": 38,
+      "initialPriceCents": 88000,
+      "finalPriceCents": 54500,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4900110/",
+      "storeUrl": "https://store.steampowered.com/app/3527290/",
       "genres": [
-        "カジュアル",
-        "インディー",
-        "シミュレーション"
+        "アクション",
+        "アドベンチャー",
+        "インディー"
       ],
       "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "これは大物だ！ 魅惑的な笑顔の人魚を釣り上げたが、彼女はそう簡単に逃がしてくれない。彼女を引き寄せ、深海の秘密を暴き、甘い恋からダークな結末まで6つのエンディングを追いかけよう。",
+      "releaseYear": 2025,
+      "shortDescription": "『PEAK』は、わずかなミスが命取りになる協力登山ゲームだ。道を失った自然探検隊（ソロまたはマルチ）としてプレイ。この不思議な島から脱出するには、島の中心にある山を登るしかない。君はその山頂に到達できるだろうか？",
       "reviewSnippet": "",
-      "rawScore": 16.650000000000002,
-      "hensachi": 57.6,
-      "rank": 7
+      "rawScore": 17.1,
+      "hensachi": 56.7,
+      "rank": 9
     },
     {
       "appid": 3241660,
@@ -187,8 +233,8 @@
       "shortDescription": "An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.",
       "reviewSnippet": "",
       "rawScore": 15.75,
-      "hensachi": 56.2,
-      "rank": 8
+      "hensachi": 54.7,
+      "rank": 10
     },
     {
       "appid": 5076430,
@@ -211,8 +257,8 @@
       "shortDescription": "Carry a song from a quiet tavern to the Grand Concord. Meet townsfolk, earn their trust, build the right set for each crowd and perform on five instrument-themed rhythm boards in a story-rich medieval adventure.",
       "reviewSnippet": "",
       "rawScore": 15.75,
-      "hensachi": 56.2,
-      "rank": 9
+      "hensachi": 54.7,
+      "rank": 11
     },
     {
       "appid": 346110,
@@ -237,8 +283,29 @@
       "shortDescription": "Stranded on the shores of a mysterious island, you must learn to survive. Use your cunning to kill or tame the primeval creatures roaming the land, and encounter other players to survive, dominate... and escape!",
       "reviewSnippet": "",
       "rawScore": 15.3,
-      "hensachi": 55.5,
-      "rank": 10
+      "hensachi": 54.1,
+      "rank": 12
+    },
+    {
+      "appid": 5404190,
+      "name": "爆弾解体",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5404190/1890e5872b1e5f9b94982c349d0a98527f651c6e/header_japanese.jpg?t=1794118975",
+      "discountPercent": 30,
+      "initialPriceCents": 200000,
+      "finalPriceCents": 140000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5404190/",
+      "genres": [
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "拘束された女性が繋がれた新型爆弾を解除する、おさわりパズルシミュレーションゲーム。爆弾は彼女の心拍数と連動しており、体中に張り巡らされたタスクを解除し、絶頂させることで爆弾を解除します。ステージが進むほど拘束器具が増え、より過激な解除手順が登場。アニメーションのボーナスシーン3種と2種類のエンディングを収録。プレイ時間は約30分、ギャラリーモードも搭載。",
+      "reviewSnippet": "",
+      "rawScore": 13.5,
+      "hensachi": 51.5,
+      "rank": 13
     },
     {
       "appid": 5381260,
@@ -258,8 +325,8 @@
       "shortDescription": "Terrum DeepDrill is a single-player drilling game in a 2.5D side view. Terrum Corp owns your debt and calls it a contract. Win tenders against rival firms, drill through the rock, and haul enough ore to stay ahead of the bill.",
       "reviewSnippet": "",
       "rawScore": 13.5,
-      "hensachi": 52.6,
-      "rank": 11
+      "hensachi": 51.5,
+      "rank": 14
     },
     {
       "appid": 5472270,
@@ -284,31 +351,8 @@
       "shortDescription": "最も感情を揺さぶるホラーゲーム。怪物に見つかる前に、すべての写真を見つけ出せ。",
       "reviewSnippet": "",
       "rawScore": 13.5,
-      "hensachi": 52.6,
-      "rank": 12
-    },
-    {
-      "appid": 5273050,
-      "name": "Your Friend's Mom 2",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5273050/5d6496523574981dd0eb76051c06ba8ee466c4d1/header.jpg?t=1794068305",
-      "discountPercent": 30,
-      "initialPriceCents": 45000,
-      "finalPriceCents": 31500,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5273050/",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "💕 デスクトップの新しいパートナーは、なんとSteamフレンドのお母さん！会話や恋愛を楽しみ、見た目を自由にカスタマイズ。ミニゲームで遊び、ジグソーパズルを完成させて写真をアンロック！友達をオンライン協力プレイに誘ったり、ペットを選んだり、便利なツールを使ったりもできます！🥵",
-      "reviewSnippet": "",
-      "rawScore": 13.5,
-      "hensachi": 52.6,
-      "rank": 13
+      "hensachi": 51.5,
+      "rank": 15
     },
     {
       "appid": 4873800,
@@ -330,72 +374,32 @@
       "shortDescription": "かわいい猫娘たちと一緒に、回転パズルを解こう。のんびり楽しめる、ゆるやかな成長要素のあるゲームプレイ。猫娘とおしゃべり。なぜかパズルが上達していく。ちょっと怪しい選択をする。意外と役に立つアイテムをアンロック。",
       "reviewSnippet": "",
       "rawScore": 11.25,
-      "hensachi": 49.1,
-      "rank": 14
-    },
-    {
-      "appid": 5437570,
-      "name": "Cabin Life",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5437570/4350ce8a875b06deaa85526d4f93b9f5b6d80526/header.jpg?t=1794059236",
-      "discountPercent": 25,
-      "initialPriceCents": 124700,
-      "finalPriceCents": 93500,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5437570/",
-      "genres": [
-        "カジュアル",
-        "RPG",
-        "シミュレーション"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Create your character, pick your starting gear, and settle into a rented cabin in this immersive, relaxing life simulator. Forage, work odd jobs, sell junk at the thrift store, and keep yourself fed and clean as you save up for the cabin of your dreams.",
-      "reviewSnippet": "",
-      "rawScore": 11.25,
-      "hensachi": 49.1,
-      "rank": 15
-    },
-    {
-      "appid": 1677110,
-      "name": "Lightyear Frontier",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677110/f4aec944f634f189990fe69e6d353b5609787955/header_alt_assets_7.jpg?t=1793891345",
-      "discountPercent": 20,
-      "initialPriceCents": 340000,
-      "finalPriceCents": 272000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/1677110/",
-      "genres": [],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "メカで豪快に農作業を楽しむ、のんびり遊べるオープンワールド農業ゲーム。理想の農場を築き、日々の作業を自動化しよう。メカをカスタマイズすれば、森を丸ごと切り開き、広大な畑を耕すことも。最大3人のフレンドと夕日を眺めながら、ゆったり過ごすのも自由だ。",
-      "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 45.6,
+      "hensachi": 48.2,
       "rank": 16
     },
     {
-      "appid": 3669870,
-      "name": "CONTROL Resonant（コントロール レゾナント）",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg?t=1793357289",
+      "appid": 5201710,
+      "name": "研究生模拟器：毕业倒计时",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5201710/b5c218260fcc131a4789915e76be6d396eb71cb4/header.jpg?t=1794109227",
       "discountPercent": 20,
-      "initialPriceCents": 799000,
-      "finalPriceCents": 639200,
+      "initialPriceCents": 90500,
+      "finalPriceCents": 72400,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/3669870/",
+      "storeUrl": "https://store.steampowered.com/app/5201710/",
       "genres": [
-        "アクション",
-        "アドベンチャー",
-        "RPG"
+        "カジュアル",
+        "インディー",
+        "RPG",
+        "シミュレーション",
+        "ストラテジー"
       ],
-      "supportsJapanese": true,
+      "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "スリル満点のアクション・アドベンチャーRPGで、超常的な勢力による壊滅が迫る歪んだマンハッタンへ飛び込もう。人間性を守り抜こうと戦うディラン・フェイデンが秘めた異能を解き放ち、現実そのものをねじ曲げる宇宙的脅威に立ち向かえ。",
+      "shortDescription": "Read papers, build your thesis, join competitions, and manage stress, advisors, and peers. Meet your goals in 48 weeks and graduate with dignity.",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 45.6,
+      "hensachi": 45,
       "rank": 17
     },
     {
@@ -418,7 +422,7 @@
       "shortDescription": "おじいちゃんが、昔使っていた農場を君にプレゼントしてくれた！農場を片付け、野菜を植え、動物の世話をし、リンデナウという小さな村で友達を見つけよう。釣りを楽しんだり、洞窟を探索したり、街から持ち込まれた巨大な計画から村を守る手助けをしよう。一人で、あるいは最大3人の友達と一緒に遊べる。",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 45.6,
+      "hensachi": 45,
       "rank": 18
     },
     {
@@ -440,13 +444,13 @@
       "shortDescription": "Explore an abandoned and decaying village in this immersive first-person psychological horror experience, search forgotten houses and shadowed paths, piece together disturbing clues, and uncover the truth that waits within the suffocating darkness.",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 45.6,
+      "hensachi": 45,
       "rank": 19
     },
     {
       "appid": 4640760,
       "name": "Rent Out Together",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4640760/4fdd660ee6dfa0e72b6bac09e792167ac1091f27/header.jpg?t=1794073724",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4640760/4fdd660ee6dfa0e72b6bac09e792167ac1091f27/header.jpg?t=1794136136",
       "discountPercent": 20,
       "initialPriceCents": 140000,
       "finalPriceCents": 112000,
@@ -463,7 +467,7 @@
       "shortDescription": "友だちと一緒に、自分だけの賃貸ビジネスを始めよう！ボロボロの家をリフォームして家具を置き、写真を撮って貸し出そう。予測できないゲストを迎え、五つ星レビューを集め、家をめちゃくちゃにされたら後片づけ。小さなワンルームから海辺のヴィラまで、500軒以上の家が待っています！",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 45.6,
+      "hensachi": 45,
       "rank": 20
     },
     {
@@ -487,99 +491,8 @@
       "shortDescription": "支えを崩し、岩の塊を落として、その下の岩を砕こう。Rockburstは、崩落を起こして鉱石を集め、アップグレードを購入する採掘系インクリメンタルゲーム。ランプの燃料が尽きる前に、さらに深くまで掘り進めよう。",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 45.6,
+      "hensachi": 45,
       "rank": 21
-    },
-    {
-      "appid": 4541310,
-      "name": "Flirt Simulator",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4541310/afd18a32c6ba46176c4f3724c241016f506134f2/header.jpg?t=1794069489",
-      "discountPercent": 20,
-      "initialPriceCents": 125000,
-      "finalPriceCents": 100000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4541310/",
-      "genres": [
-        "RPG",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "用意された選択肢はもういらない。あなたの言葉でゲームが動き出す！本物の記憶を持つAIキャラクターに何でも自由に話しかけ、自然な反応を楽しめる一人称恋愛シミュレーション。プレイするたびに、まったく新しい物語が生まれます。",
-      "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 45.6,
-      "rank": 22
-    },
-    {
-      "appid": 5259730,
-      "name": "Dub Party",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5259730/135be578d9f2405f8b982ea62284f20ce16ccb83/header.jpg?t=1794094504",
-      "discountPercent": 20,
-      "initialPriceCents": 65500,
-      "finalPriceCents": 52400,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5259730/",
-      "genres": [
-        "カジュアル",
-        "インディー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "声優気分で動画を吹き替えるパーティーゲーム。好きな動画クリップに友達とアフレコ。役を決めて、ブースで1セリフずつ録音し、みんなでプレミア上映。ソファではスマホから参加して録音するか、1本のマイクを回し、オンラインは最大16人で5つのパーティーゲームを遊べます。",
-      "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 45.6,
-      "rank": 23
-    },
-    {
-      "appid": 5308680,
-      "name": "Little Supermarket",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5308680/95a9939931006fda38518f4499a6257583253119/header.jpg?t=1794065157",
-      "discountPercent": 20,
-      "initialPriceCents": 84500,
-      "finalPriceCents": 67600,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5308680/",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "3～6歳のお子さま向けの楽しいスーパーマーケット。どうぶつのお友だちとお買い物をして、商品をスキャンし、コインを数え、12種類のミニゲームで遊びましょう。シール集めやお店の飾り付けも楽しめます。絵のお買い物リストと音声ガイドがお手伝い！",
-      "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 45.6,
-      "rank": 24
-    },
-    {
-      "appid": 1990250,
-      "name": "SG Racing",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1990250/2a573fd5e03814f8509d27e8e0fb64f985526889/header.jpg?t=1794059684",
-      "discountPercent": 20,
-      "initialPriceCents": 105000,
-      "finalPriceCents": 84000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/1990250/",
-      "genres": [
-        "アクション",
-        "カジュアル",
-        "インディー",
-        "レース"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "4匹の動物と1体のロボットにレーシングカーを与えた。大失敗だった。『SG Racing』は、急カーブ、パワーアップアイテム、そして卵の無責任な使い方が満載の、ハチャメチャなドット絵アーケードレース！ 1人用チャンピオンシップ • 2～4人のローカルマルチプレイ • STEAM REMOTE PLAY TOGETHERでオンライン対戦も！",
-      "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 45.6,
-      "rank": 25
     },
     {
       "appid": 5160800,
@@ -602,8 +515,8 @@
       "shortDescription": "手元にあるのはシャベル一本と、約600万本の干し草。 そのどこかに、一本の針が隠されている。 最初は自分の手で掘り進め、干し草を売って資金を稼ぐ。 そのお金でコンベアや機械を増やし、少しずつ作業を自動化していこう。 最後には、もう自分で掘る必要すらなくなる。",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 42.1,
-      "rank": 26
+      "hensachi": 41.7,
+      "rank": 22
     },
     {
       "appid": 4982580,
@@ -625,8 +538,8 @@
       "shortDescription": "Top-down arcade football for the whole crew. Up to 6 players on one couch, or online with friends over Steam. Tournaments, football-tennis, penalties, minigames and legendary moments to fire up the match. Easy to pick up, impossible to put down. Grab a controller and score!",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 42.1,
-      "rank": 27
+      "hensachi": 41.7,
+      "rank": 23
     },
     {
       "appid": 4348910,
@@ -649,8 +562,8 @@
       "shortDescription": "ディストピア世界の宇宙ステーションを描いた、サイバーパンク経営シミュレーション。出所不明の商品を製作・交換・密輸しながら、各派閥との関係を上手く立ち回り、商売を成り立たせるためにどこまで踏み込むか判断しよう。家賃の値上げに追い込まれる前に、店を買い取れるだけの金を稼ぐのだ。",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 38.6,
-      "rank": 28
+      "hensachi": 38.5,
+      "rank": 24
     },
     {
       "appid": 5266240,
@@ -672,8 +585,8 @@
       "shortDescription": "一人称視点のジャガイモ皮むきゲーム。ナイフがある。バケツがある。ジャガイモの山がある。本物の物理演算で皮をむこう。薄く切って、無駄にしない。もっと良い道具を買おう。山がなくなるまでむき続けろ。君ほど上手くむける者はいない。",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 38.6,
-      "rank": 29
+      "hensachi": 38.5,
+      "rank": 25
     },
     {
       "appid": 3432860,
@@ -694,8 +607,79 @@
       "shortDescription": "認知異常により歪められた殺人現場で真実を探れ。『病能探偵』は、認知異常×本格ミステリーのデスゲーム推理アドベンチャー。 嘘がつけない、左半分が見えない、顔が識別できない—— 異常なルールを乗り越え、真犯人を暴き出せ。",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 38.6,
-      "rank": 30
+      "hensachi": 38.5,
+      "rank": 26
+    },
+    {
+      "appid": 4590950,
+      "name": "El Shaddai: Zero Nine Reversi",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4590950/5ee393092d115423260110c54c57249373387257/header.jpg?t=1794133992",
+      "discountPercent": 10,
+      "initialPriceCents": 53000,
+      "finalPriceCents": 47700,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4590950/",
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "エルシャダイの世界観で贈る、石にHPがあるリバーシ。裏返されるたびに石は弱り、0で消える。ひとりで40以上のストーリーを解放する「クラシック」と、キャラクターの能力で世界中のプレイヤーと戦う「オンライン」の2つのモードを収録。",
+      "reviewSnippet": "",
+      "rawScore": 4.5,
+      "hensachi": 38.5,
+      "rank": 27
+    },
+    {
+      "appid": 4755250,
+      "name": "ロムル",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4755250/b35b200df27aac1ccc3c3a24bccb6b786d8204e0/header_japanese.jpg?t=1794119916",
+      "discountPercent": 10,
+      "initialPriceCents": 140000,
+      "finalPriceCents": 126000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4755250/",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "カジュアル",
+        "インディー",
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "ROMULは人工知能を備えた戦利品収集協力型ホラーゲームです。音声操作に対応し、本格的な人工知能を持つロボットと共に、不安定な重力を持つ放棄された宇宙ステーションを探索しましょう。モンスターの中で生き延び、目標を撮影し、貴重な貨物を持ち出してください。",
+      "reviewSnippet": "",
+      "rawScore": 4.5,
+      "hensachi": 38.5,
+      "rank": 28
+    },
+    {
+      "appid": 2842720,
+      "name": "ToonSouls Maker",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2842720/b7ff0d258ab7109b02ffa514dbab7bf5e4e723e7/header.jpg?t=1794112403",
+      "discountPercent": 10,
+      "initialPriceCents": 79000,
+      "finalPriceCents": 71100,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/2842720/",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "Create, play, and share your own chaotic 2D platforming levels! Inspired by classic cartoons, powered by your creativity, and fueled by one simple truth: My game is good. The algorithm just ignores me.",
+      "reviewSnippet": "",
+      "rawScore": 4.5,
+      "hensachi": 38.5,
+      "rank": 29
     },
     {
       "appid": 4626180,
@@ -716,52 +700,8 @@
       "shortDescription": "医学生を舞台にしたライフシミュレーター――友を作り、敵を作り、危険な陰謀に巻き込まれ、境界線が曖昧になる世界で自分を見失わないように。魅力的なキャラクター、緊張感とユーモアが交錯するストーリー、そして誘惑に満ちた生々しい世界観。",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 38.6,
-      "rank": 31
-    },
-    {
-      "appid": 5218890,
-      "name": "Go! Go! Shovelcar!",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5218890/5df450ae33fad46c97155a2c96c728d81a1a7f91/header.jpg?t=1794066145",
-      "discountPercent": 10,
-      "initialPriceCents": 100000,
-      "finalPriceCents": 90000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5218890/",
-      "genres": [
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "退屈な工事現場はもう忘れよう！物理演算で動く本格ショベルカーを操縦して、金魚すくいや弁当作り、たぬき叩きに家屋解体までハチャメチャなバイトに挑戦！免許試験で腕を磨き、重機をカスタマイズして、サンドボックスで自由に暴れ回ろう！",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 38.6,
-      "rank": 32
-    },
-    {
-      "appid": 4688280,
-      "name": "Desktop Oasis",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4688280/489694585408f94703cf4d0da73e6093c45083aa/header.jpg?t=1794059884",
-      "discountPercent": 10,
-      "initialPriceCents": 79000,
-      "finalPriceCents": 71100,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4688280/",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "デスクトップに、自分だけの小さなオアシスを。タイピングや仕事、勉強の合間にインスピレーションをためて、植物や船、生き物、珍しいコレクションを発見しましょう。忙しい間は静かに育て、ひと息ついたら収集や植物の観察を。水に浮かぶものを動かして、リアルタイムの水の物理挙動でも遊べます。",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 38.6,
-      "rank": 33
+      "hensachi": 38.5,
+      "rank": 30
     }
   ]
 }
