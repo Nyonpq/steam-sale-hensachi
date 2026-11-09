@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-11-08T21:32:47.437Z",
+  "fetchedAt": "2026-11-09T03:56:54.557Z",
   "currency": "JPY",
-  "count": 33,
-  "averageDiscount": 25.2,
+  "count": 38,
+  "averageDiscount": 23.3,
   "deals": [
     {
       "appid": 2492040,
@@ -22,31 +22,8 @@
       "shortDescription": "26年の時を経て、『餓狼伝説』が再始動！感性を刺激する独自の「アートスタイル」、バトルの興奮が加速していく「REVシステム」を新たに搭載。さらに初心者から上級者まで楽しめる2つの操作スタイルを始め、様々な新機能や新要素を用意。欲望に満ちたサウスタウンを舞台に、新たな“伝説”が始まる。",
       "reviewSnippet": "",
       "rawScore": 33.75,
-      "hensachi": 81.3,
+      "hensachi": 85.4,
       "rank": 1
-    },
-    {
-      "appid": 275850,
-      "name": "No Man's Sky",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/9f1ca9e3b7d1dccb7b5af404a6739ddc1118ef32/header_alt_assets_26.jpg?t=1793196605",
-      "discountPercent": 60,
-      "initialPriceCents": 650000,
-      "finalPriceCents": 260000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/275850/",
-      "genres": [
-        "サバイバル",
-        "アクション",
-        "アドベンチャー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2016,
-      "shortDescription": "『No Man's Sky』は自動生成される無限の宇宙を舞台とする、探索と生存をテーマとしたSFゲームです。",
-      "reviewSnippet": "",
-      "rawScore": 27,
-      "hensachi": 71.9,
-      "rank": 2
     },
     {
       "appid": 3375780,
@@ -68,8 +45,8 @@
       "shortDescription": "2024年に生誕20周年を迎えたストーリーRPG「軌跡」シリーズ。その記念すべき第１作、『英雄伝説 空の軌跡FC（ファーストチャプター）』を完全フルリメイク！",
       "reviewSnippet": "",
       "rawScore": 22.5,
-      "hensachi": 65.6,
-      "rank": 3
+      "hensachi": 68.3,
+      "rank": 2
     },
     {
       "appid": 1211600,
@@ -94,8 +71,73 @@
       "shortDescription": "大災害が世界を襲った。任務中に乗っていた航空機が墜落し、あなたはZed Zoneに閉じ込められてしまう。 ゾンビと怪物が至るところにうろつく中、脱出を目指して資材を集め、スキルを磨き、シェルターを築き、ゾンビの大群と謎のメカを打ち倒しながら、かすかな希望を追い求めろ。",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 59.3,
+      "hensachi": 61.4,
+      "rank": 3
+    },
+    {
+      "appid": 3768760,
+      "name": "007 ファーストライト",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg?t=1793979129",
+      "discountPercent": 40,
+      "initialPriceCents": 991000,
+      "finalPriceCents": 594600,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/3768760/",
+      "genres": [
+        "アクション",
+        "アドベンチャー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "ナンバーを勝ち取れ。007 ファーストライト は、IO Interactiveが贈る究極のスパイアクションアドベンチャー。MI6の訓練生として、若く聡明だが、時に向こう見ずすぎる男、ジェームズ・ボンドを操り、世界最高のスパイ誕生のストーリーを目撃せよ。",
+      "reviewSnippet": "",
+      "rawScore": 18,
+      "hensachi": 61.4,
       "rank": 4
+    },
+    {
+      "appid": 1859550,
+      "name": "Raise",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1859550/98e1f9ff5b06622dd0207b618314ebd9b2773329/header.jpg?t=1794175810",
+      "discountPercent": 40,
+      "initialPriceCents": 115000,
+      "finalPriceCents": 69000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/1859550/",
+      "genres": [
+        "アクション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "墓から立ち上がり、試練に挑め。『Raise』は、戦闘とタイムアタックに焦点を当てたコンパクトな三人称視点のソウルライクです。アンデッドやボスを倒して成長し、連続する敵の波を突破しましょう。被弾はタイムに加算され、パリィの成功はタイムを短縮します。立ち回りを磨き、Steamランキングで自己ベストに挑戦。",
+      "reviewSnippet": "",
+      "rawScore": 18,
+      "hensachi": 61.4,
+      "rank": 5
+    },
+    {
+      "appid": 5279740,
+      "name": "ハリケーンの後で私を奪って",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5279740/87a507356c9d6651fc527e4bbf373e16b7ea6472/header_japanese.jpg?t=1794162393",
+      "discountPercent": 40,
+      "initialPriceCents": 90500,
+      "finalPriceCents": 54300,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5279740/",
+      "genres": [
+        "アドベンチャー",
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "ハリケーン・ホノラから4日後、停電と外出禁止令の中、発電機だけで持ちこたえるコルヴィナ・キーに災害損害査定人アルロ・フォンテノが到着する。彼は誰が支援を受け、誰が拒まれるのかを決める迅速かつ最終的な判断を下さなければならない。ヴィヴィアン、テス、ポピーとの3つの完全に異なる恋愛ルートから1つを選ぼう。公の場での対立、解決されない過去、少しずつ育つ協力関係を通して、彼女たちは決して振り返らなかった彼に、島と自分たち一人ひとりへの責任を向き合わせる。各ルートには独自の関係、葛藤、結末と成人向けシーンが用意されている。",
+      "reviewSnippet": "",
+      "rawScore": 18,
+      "hensachi": 61.4,
+      "rank": 6
     },
     {
       "appid": 5465870,
@@ -116,53 +158,7 @@
       "shortDescription": "ゾンビを盛って、消して、ハイスコアを目指せ！ 『ゾンビ盛り！』は、個性豊かなゾンビたちを盛りまくる爽快落ち物パズル！複数列の同時消去やゾンビの組み合わせでスコア倍率がアップ！全50種類のゾンビ図鑑をコンプリートしながら、自己ベストを更新しよう！ 盛れば盛るほど、スコアも盛り上がる！",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 59.3,
-      "rank": 5
-    },
-    {
-      "appid": 3010300,
-      "name": "One-Hour Hero",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010300/196e2d66e77b6645d70a9417d4f3171154ea3ea3/header.jpg?t=1794118381",
-      "discountPercent": 40,
-      "initialPriceCents": 12000,
-      "finalPriceCents": 7200,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/3010300/",
-      "genres": [
-        "アドベンチャー",
-        "インディー",
-        "RPG"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "A compact 2.5D pixel-art, turn-based JRPG designed to be completed in about an hour. Train as a hero, explore White Mountain, learn new skills, collect gear, and fight beside your companion on the road to the Dragon King.",
-      "reviewSnippet": "",
-      "rawScore": 18,
-      "hensachi": 59.3,
-      "rank": 6
-    },
-    {
-      "appid": 4763220,
-      "name": "ONE SKILL - Drive or Fall",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4763220/0ac26b1ccfd3bf1f785ae2978366f9780d6ccea8/header.jpg?t=1794108324",
-      "discountPercent": 40,
-      "initialPriceCents": 56000,
-      "finalPriceCents": 33600,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4763220/",
-      "genres": [
-        "アドベンチャー",
-        "レース",
-        "シミュレーション"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Test your skills on various platforms and obstacles built high in the sky! Master your driving as you maneuver through thrilling challenges and perilous situations to reach the finish line.",
-      "reviewSnippet": "",
-      "rawScore": 18,
-      "hensachi": 59.3,
+      "hensachi": 61.4,
       "rank": 7
     },
     {
@@ -185,7 +181,7 @@
       "shortDescription": "『PEAK』は、わずかなミスが命取りになる協力登山ゲームだ。道を失った自然探検隊（ソロまたはマルチ）としてプレイ。この不思議な島から脱出するには、島の中心にある山を登るしかない。君はその山頂に到達できるだろうか？",
       "reviewSnippet": "",
       "rawScore": 17.1,
-      "hensachi": 58.1,
+      "hensachi": 60.1,
       "rank": 8
     },
     {
@@ -208,30 +204,52 @@
       "shortDescription": "An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.",
       "reviewSnippet": "",
       "rawScore": 15.75,
-      "hensachi": 56.2,
+      "hensachi": 58,
       "rank": 9
     },
     {
-      "appid": 5096660,
-      "name": "怪談寺",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5096660/b0764fb44ff097889bc26a763e0c05498e9e4f41/header.jpg?t=1794160268",
-      "discountPercent": 34,
-      "initialPriceCents": 120000,
-      "finalPriceCents": 79200,
+      "appid": 4861910,
+      "name": "Pin-Finite",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4861910/9184f4a070308fb35b9f5192e5824a0adbfd72fb/header.jpg?t=1794178404",
+      "discountPercent": 35,
+      "initialPriceCents": 90500,
+      "finalPriceCents": 58800,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5096660/",
+      "storeUrl": "https://store.steampowered.com/app/4861910/",
       "genres": [
-        "アドベンチャー",
-        "インディー"
+        "インディー",
+        "ストラテジー"
       ],
-      "supportsJapanese": true,
+      "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "山の中にてあなたは偶然にも、怪談寺に迷い込む――。そこにいたのはとある4人の人物だった。まともな人物はゼロ。もはや語り手のほうが怖い？聞かされる怪談話の数々。王道ホラーから人怖、SFホラー、ホラーコメディなど多岐に渡る癖の強い物語たち。VHS風画面短編集邪道ホラーノベルゲーム。",
+      "shortDescription": "Pin-Finiteは、デッキ構築要素を取り入れたローグライク・ピンボールゲームです。 ユニークで強力なアップグレードを購入して、スコアを爆発的に伸ばそう！レアなピンボールやコンボをアンロックして、プレイの可能性を無限大に広げよう！",
       "reviewSnippet": "",
-      "rawScore": 15.3,
-      "hensachi": 55.5,
+      "rawScore": 15.75,
+      "hensachi": 58,
       "rank": 10
+    },
+    {
+      "appid": 4947250,
+      "name": "Kebab Dynasty",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4947250/0be98370fe83ef2e7ff17237309824f78634ad2c/header.jpg?t=1794176684",
+      "discountPercent": 35,
+      "initialPriceCents": 100000,
+      "finalPriceCents": 65000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4947250/",
+      "genres": [
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Build and run your own kebab restaurant in a single-player management simulation. Set prices, hire staff, serve customers, keep the shop clean, upgrade the interior, and turn a small counter into a thriving food business.",
+      "reviewSnippet": "",
+      "rawScore": 15.75,
+      "hensachi": 58,
+      "rank": 11
     },
     {
       "appid": 4643110,
@@ -252,8 +270,8 @@
       "shortDescription": "Garden of Being is a hand-drawn oil pastel art game and a quiet journal of moods. Plant flowers, dedicate gardens to loved ones, and create downloadable prints. A fusion of art and code where gardens come alive while you are in them, and wait silently when you leave.",
       "reviewSnippet": "",
       "rawScore": 14.85,
-      "hensachi": 54.9,
-      "rank": 11
+      "hensachi": 56.6,
+      "rank": 12
     },
     {
       "appid": 4961250,
@@ -275,28 +293,7 @@
       "shortDescription": "あなたは小さな王国の王子、王国の城を守るタワーディフェンスゲームです",
       "reviewSnippet": "",
       "rawScore": 13.5,
-      "hensachi": 53,
-      "rank": 12
-    },
-    {
-      "appid": 5404190,
-      "name": "爆弾解体",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5404190/1890e5872b1e5f9b94982c349d0a98527f651c6e/header_japanese.jpg?t=1794118975",
-      "discountPercent": 30,
-      "initialPriceCents": 200000,
-      "finalPriceCents": 140000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5404190/",
-      "genres": [
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "拘束された女性が繋がれた新型爆弾を解除する、おさわりパズルシミュレーションゲーム。爆弾は彼女の心拍数と連動しており、体中に張り巡らされたタスクを解除し、絶頂させることで爆弾を解除します。ステージが進むほど拘束器具が増え、より過激な解除手順が登場。アニメーションのボーナスシーン3種と2種類のエンディングを収録。プレイ時間は約30分、ギャラリーモードも搭載。",
-      "reviewSnippet": "",
-      "rawScore": 13.5,
-      "hensachi": 53,
+      "hensachi": 54.6,
       "rank": 13
     },
     {
@@ -315,16 +312,60 @@
       "shortDescription": "メカで豪快に農作業を楽しむ、のんびり遊べるオープンワールド農業ゲーム。理想の農場を築き、日々の作業を自動化しよう。メカをカスタマイズすれば、森を丸ごと切り開き、広大な畑を耕すことも。最大3人のフレンドと夕日を眺めながら、ゆったり過ごすのも自由だ。",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 46.8,
+      "hensachi": 47.7,
       "rank": 14
+    },
+    {
+      "appid": 5206500,
+      "name": "DOPA-MATCH3: Cosmic Journey",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5206500/683ca9ff53c73b47958b6826966115f7e24bd7ba/header.jpg?t=1794172761",
+      "discountPercent": 20,
+      "initialPriceCents": 29900,
+      "finalPriceCents": 23900,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5206500/",
+      "genres": [
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "宇宙でいちばん気持ちのいいマッチ3パズル！ ジェムを3つ並べて、キラキラ弾ける爽快プレイ！ HEATゲージを溜めて、最強のコンボタイムを叩き込め！ カードを選んで、永続的に強化。長い旅に備えよう！",
+      "reviewSnippet": "",
+      "rawScore": 9,
+      "hensachi": 47.7,
+      "rank": 15
+    },
+    {
+      "appid": 5465850,
+      "name": "FLUX CIRCUIT",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5465850/cbd0212660636d2ca09c95f22e43d88d06b5e232/header.jpg?t=1794165595",
+      "discountPercent": 20,
+      "initialPriceCents": 28000,
+      "finalPriceCents": 22400,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5465850/",
+      "genres": [
+        "インディー",
+        "レース"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "16のコースを駆け抜ける高速反重力レーシング。15台のライバルと競い、バンクコーナー、ループ、ジャンプを攻略しよう。エネルギーを管理して、ここぞという場面でブースト。個性豊かな12機のマシンをアンロックし、4つのグランプリカップで優勝を目指せ。",
+      "reviewSnippet": "",
+      "rawScore": 9,
+      "hensachi": 47.7,
+      "rank": 16
     },
     {
       "appid": 5100640,
       "name": "げんじゃく麻雀マネージャー",
       "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5100640/7f76c1c40e884e6714bb12a6395f84063fa708a4/header.jpg?t=1794156646",
       "discountPercent": 20,
-      "initialPriceCents": 240000,
-      "finalPriceCents": 192000,
+      "initialPriceCents": 140000,
+      "finalPriceCents": 112000,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
       "storeUrl": "https://store.steampowered.com/app/5100640/",
@@ -339,8 +380,8 @@
       "shortDescription": "弦雀麻雀マネージャーは立直麻雀のプロ雀士キャリアをシミュレートしたゲームである。プレイヤーは麻雀チームの監督として、選手を募集し、リーグ戦に参加し、チームのすべての対戦に携わる。同時に麻雀選手としても、団体リーグ戦や各種カップ戦に参加し、完全な立直麻雀リーグ戦の対戦を体験する。",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 46.8,
-      "rank": 15
+      "hensachi": 47.7,
+      "rank": 17
     },
     {
       "appid": 3908970,
@@ -363,8 +404,29 @@
       "shortDescription": "Mine every Shit Coin in the world.",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 46.8,
-      "rank": 16
+      "hensachi": 47.7,
+      "rank": 18
+    },
+    {
+      "appid": 4993730,
+      "name": "Arachnid",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4993730/a58aee2ae5904d5ad6d74b0591a95bcae6fbe0f3/header.jpg?t=1794148384",
+      "discountPercent": 20,
+      "initialPriceCents": 56000,
+      "finalPriceCents": 44800,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4993730/",
+      "genres": [
+        "インディー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "A PSX-style horror game set in an abandoned household. Do the chores, uncover what happened here, and survive whatever's sharing the house .",
+      "reviewSnippet": "",
+      "rawScore": 9,
+      "hensachi": 47.7,
+      "rank": 19
     },
     {
       "appid": 5403380,
@@ -386,8 +448,8 @@
       "shortDescription": "弟がおもちゃのブロックをぐちゃぐちゃにくっつけて不格好なカタマリにし、机の上に置いていった。バラして、ピースを絵柄の合うケースへ一つずつ仕分けたら、手順がミニ動画のように動く説明書を見ながら、すてきな作品を組み立てよう。あと1ピースだけ……",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 46.8,
-      "rank": 17
+      "hensachi": 47.7,
+      "rank": 20
     },
     {
       "appid": 5087290,
@@ -407,33 +469,8 @@
       "shortDescription": "The unemployed Louis Thompson accidentally catches a glimpse of the private moments of his neighbor, Holly Phillips, through the surveillance. The two then fall into a forbidden love, while mysterious nano-insects quietly set their sights on them.",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 46.8,
-      "rank": 18
-    },
-    {
-      "appid": 5201710,
-      "name": "研究生模拟器：毕业倒计时",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5201710/b5c218260fcc131a4789915e76be6d396eb71cb4/header.jpg?t=1794109227",
-      "discountPercent": 20,
-      "initialPriceCents": 90500,
-      "finalPriceCents": 72400,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5201710/",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "RPG",
-        "シミュレーション",
-        "ストラテジー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Read papers, build your thesis, join competitions, and manage stress, advisors, and peers. Meet your goals in 48 weeks and graduate with dignity.",
-      "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 46.8,
-      "rank": 19
+      "hensachi": 47.7,
+      "rank": 21
     },
     {
       "appid": 5160800,
@@ -456,8 +493,8 @@
       "shortDescription": "手元にあるのはシャベル一本と、約600万本の干し草。 そのどこかに、一本の針が隠されている。 最初は自分の手で掘り進め、干し草を売って資金を稼ぐ。 そのお金でコンベアや機械を増やし、少しずつ作業を自動化していこう。 最後には、もう自分で掘る必要すらなくなる。",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 43.6,
-      "rank": 20
+      "hensachi": 44.3,
+      "rank": 22
     },
     {
       "appid": 4708030,
@@ -480,8 +517,8 @@
       "shortDescription": "ハムスターが動かすバイオマイニング事業を築こう。自分の手でリグを組み立て、温度を管理し、ハムスターにエサを与えて生産を維持。ガレージから始め、設備を最適化して大規模な産業施設へと成長させよう。",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 43.6,
-      "rank": 21
+      "hensachi": 44.3,
+      "rank": 23
     },
     {
       "appid": 4621940,
@@ -501,8 +538,8 @@
       "shortDescription": "Leviticus is a bullet hell sci-fi action indie game where you play as a biblically accurate angel sent to guard those made in the image of GOD. you patrol the stars and destroy alien intruders that aren't made in his image. Fight across space, uncover and enforce Heaven’s decree.",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 43.6,
-      "rank": 22
+      "hensachi": 44.3,
+      "rank": 24
     },
     {
       "appid": 5312920,
@@ -523,31 +560,31 @@
       "shortDescription": "Take charge of your very own local trading card shop! Order booster packs, hunt for ultra-rare foils, design your store layout, and set market prices. Rip packs to display holy grail singles or sell sealed boxes to build the ultimate card collector's paradise.",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 43.6,
-      "rank": 23
+      "hensachi": 44.3,
+      "rank": 25
     },
     {
-      "appid": 5127280,
-      "name": "Corposlop",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5127280/28b623aa81d6dcc1a0241fe0658081f7b7448a5b/header.jpg?t=1794118354",
-      "discountPercent": 15,
-      "initialPriceCents": 56000,
-      "finalPriceCents": 47600,
+      "appid": 4774370,
+      "name": "GymPup",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4774370/a144d1cac640eae98aac6b6cf83cd170dc4bd8d2/header.jpg?t=1794182150",
+      "discountPercent": 14,
+      "initialPriceCents": 79000,
+      "finalPriceCents": 67900,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5127280/",
+      "storeUrl": "https://store.steampowered.com/app/4774370/",
       "genres": [
         "カジュアル",
-        "シミュレーション",
-        "ストラテジー"
+        "インディー",
+        "シミュレーション"
       ],
       "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "『Corposlop』は、デスクトップに住みつく自動化ゲームです。官僚主義で資源を刈り取り、部品に精製して企業という機械へ供給。高度な工場と効率的な配管を築き、限られた土地を最大限に使い切りましょう。",
+      "shortDescription": "GymPupは、ケモノ（ファーリー）を題材にした恋愛ナラティブゲームです。デスクトップペットとビジュアルノベルを融合させ、寄り添いながら主人公たちが心身ともに成長し、変わっていく姿を見届けます",
       "reviewSnippet": "",
-      "rawScore": 6.75,
+      "rawScore": 6.3,
       "hensachi": 43.6,
-      "rank": 24
+      "rank": 26
     },
     {
       "appid": 4348910,
@@ -570,8 +607,8 @@
       "shortDescription": "ディストピア世界の宇宙ステーションを描いた、サイバーパンク経営シミュレーション。出所不明の商品を製作・交換・密輸しながら、各派閥との関係を上手く立ち回り、商売を成り立たせるためにどこまで踏み込むか判断しよう。家賃の値上げに追い込まれる前に、店を買い取れるだけの金を稼ぐのだ。",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 40.5,
-      "rank": 25
+      "hensachi": 40.9,
+      "rank": 27
     },
     {
       "appid": 5266240,
@@ -593,8 +630,8 @@
       "shortDescription": "一人称視点のジャガイモ皮むきゲーム。ナイフがある。バケツがある。ジャガイモの山がある。本物の物理演算で皮をむこう。薄く切って、無駄にしない。もっと良い道具を買おう。山がなくなるまでむき続けろ。君ほど上手くむける者はいない。",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 40.5,
-      "rank": 26
+      "hensachi": 40.9,
+      "rank": 28
     },
     {
       "appid": 3432860,
@@ -615,8 +652,98 @@
       "shortDescription": "認知異常により歪められた殺人現場で真実を探れ。『病能探偵』は、認知異常×本格ミステリーのデスゲーム推理アドベンチャー。 嘘がつけない、左半分が見えない、顔が識別できない—— 異常なルールを乗り越え、真犯人を暴き出せ。",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 40.5,
-      "rank": 27
+      "hensachi": 40.9,
+      "rank": 29
+    },
+    {
+      "appid": 4530370,
+      "name": "Football Manager 27",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530370/a5aafac41eeaa1e307eff802e9fd114c18f394fe/header_alt_assets_0_japanese.jpg?t=1793982134",
+      "discountPercent": 10,
+      "initialPriceCents": 799000,
+      "finalPriceCents": 719100,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4530370/",
+      "genres": [
+        "シミュレーション",
+        "スポーツ",
+        "ストラテジー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "クラブを選んで指揮を執り、理想のチームを作り上げ、自分だけの戦術を確立しましょう。そして、あなただけが思い描く未来を追い求めてください。 『FM27』では、あなたのサッカーへの信念が現実になります。すべては、あなたの手に委ねられています。",
+      "reviewSnippet": "",
+      "rawScore": 4.5,
+      "hensachi": 40.9,
+      "rank": 30
+    },
+    {
+      "appid": 4920280,
+      "name": "喵呜风云",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4920280/8ae854eb8291ee7f86ef01c59871b4d06e16df93/header.jpg?t=1794193480",
+      "discountPercent": 10,
+      "initialPriceCents": 39500,
+      "finalPriceCents": 35500,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4920280/",
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "RPG"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "デスクトップに戦場を常駐させ、ネコちゃんやワンちゃんたちに自動で戦い、自動で成長してもらいましょう。あなたはタレントを振り、装備を買い、ビルドを組むだけ。さらにAPMでせっせと叩き上げれば、ただの兵士も効率抜群の「戦場の働き者」に大変身！ フレンドとチームを組んでランク戦に参加することだってできます！ 高いKDAやスコアを稼ぎながら、仕事中に誰が一番サボっているのかも見比べてみましょう！",
+      "reviewSnippet": "",
+      "rawScore": 4.5,
+      "hensachi": 40.9,
+      "rank": 31
+    },
+    {
+      "appid": 4258970,
+      "name": "Crawling Desktop Pet",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258970/2e39dc10263bb817cfaaa3ee97134dd1f1dbd006/header.jpg?t=1794185441",
+      "discountPercent": 10,
+      "initialPriceCents": 70500,
+      "finalPriceCents": 63400,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4258970/",
+      "genres": [
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "Raise a procedural pet on your Windows desktop. Hatch eggs, feed and evolve pets, collect Crystals, unlock toys and scenes, and shape each body part to create a companion of your own. Switch between windowed and transparent desktop modes, enable click-through, or invite friends online.",
+      "reviewSnippet": "",
+      "rawScore": 4.5,
+      "hensachi": 40.9,
+      "rank": 32
+    },
+    {
+      "appid": 4901540,
+      "name": "Brick Buddies",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4901540/45650fc36212b56784e565f5891b12670fca8bd7/header.jpg?t=1794179783",
+      "discountPercent": 10,
+      "initialPriceCents": 79900,
+      "finalPriceCents": 71900,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4901540/",
+      "genres": [
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "ブロックをひとつ手に取って、小さな世界を作りましょう。説明書を見ながら組み立て、シールを貼り、新しい作品を集める、心安らぐブロック組み立てゲームです。ひとりでのんびり、友達とおしゃべりしながら。少しずつコレクションを増やしていきましょう。",
+      "reviewSnippet": "",
+      "rawScore": 4.5,
+      "hensachi": 40.9,
+      "rank": 33
     },
     {
       "appid": 5312950,
@@ -639,8 +766,31 @@
       "shortDescription": "You are the keeper of a lighthouse on a frozen northern island. Keep the lamp lit, the stove fed and the car fueled. And when the storm comes, don't step out where the light can't reach: a wendigo walks the island at night. And it is listening.",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 40.5,
-      "rank": 28
+      "hensachi": 40.9,
+      "rank": 34
+    },
+    {
+      "appid": 3997770,
+      "name": "Battle Runes of Metalaria",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3997770/3e9e86f3d5b4a22a12371442071650118dee0362/header.jpg?t=1794162477",
+      "discountPercent": 10,
+      "initialPriceCents": 115000,
+      "finalPriceCents": 103500,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/3997770/",
+      "genres": [
+        "アクション",
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Battle Runes of Metalaria is an action packed, chaos infused board game for up to four players. Stack your runes on the board to make vertical and horizontal combos or smash your opponents pieces to smithereens",
+      "reviewSnippet": "",
+      "rawScore": 4.5,
+      "hensachi": 40.9,
+      "rank": 35
     },
     {
       "appid": 4684790,
@@ -663,8 +813,8 @@
       "shortDescription": "Escape a twisted facility where reality bends around you. Sneak past The Guardian, use a camera with a reality shifting lens to break the laws of physics, befriend strange entities lurking inside, and uncover the dark truth of Mira Voss's life.",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 40.5,
-      "rank": 29
+      "hensachi": 40.9,
+      "rank": 36
     },
     {
       "appid": 5389650,
@@ -686,8 +836,8 @@
       "shortDescription": "EVO RNGはスロットマシン型の神様ゲーム。生物をドラフトしてスピンを押せば、あなたの生態系が勝手に狩り、合成し、進化していきます。生物を集め、ペイラインや食物連鎖、ミシック生物を狙おう。本作には現実のお金を使ったギャンブル要素は一切含まれていません。",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 40.5,
-      "rank": 30
+      "hensachi": 40.9,
+      "rank": 37
     },
     {
       "appid": 4590950,
@@ -709,56 +859,8 @@
       "shortDescription": "エルシャダイの世界観で贈る、石にHPがあるリバーシ。裏返されるたびに石は弱り、0で消える。ひとりで40以上のストーリーを解放する「クラシック」と、キャラクターの能力で世界中のプレイヤーと戦う「オンライン」の2つのモードを収録。",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 40.5,
-      "rank": 31
-    },
-    {
-      "appid": 4755250,
-      "name": "ロムル",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4755250/b35b200df27aac1ccc3c3a24bccb6b786d8204e0/header_japanese.jpg?t=1794171840",
-      "discountPercent": 10,
-      "initialPriceCents": 140000,
-      "finalPriceCents": 126000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4755250/",
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "カジュアル",
-        "インディー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "ロムルは人工知能を備えた戦利品収集協力型ホラーゲームです。音声操作に対応し、本格的な人工知能を持つロボットと共に、不安定な重力を持つ放棄された宇宙ステーションを探索しましょう。モンスターの中で生き延び、目標を撮影し、貴重な貨物を持ち出してください。",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 40.5,
-      "rank": 32
-    },
-    {
-      "appid": 2842720,
-      "name": "ToonSouls Maker",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2842720/b7ff0d258ab7109b02ffa514dbab7bf5e4e723e7/header.jpg?t=1794112403",
-      "discountPercent": 10,
-      "initialPriceCents": 79000,
-      "finalPriceCents": 71100,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/2842720/",
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "インディー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "Create, play, and share your own chaotic 2D platforming levels! Inspired by classic cartoons, powered by your creativity, and fueled by one simple truth: My game is good. The algorithm just ignores me.",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 40.5,
-      "rank": 33
+      "hensachi": 40.9,
+      "rank": 38
     }
   ]
 }
