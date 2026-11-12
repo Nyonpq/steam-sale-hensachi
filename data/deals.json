@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-11-11T23:55:58.565Z",
+  "fetchedAt": "2026-11-12T05:11:43.604Z",
   "currency": "JPY",
-  "count": 35,
-  "averageDiscount": 23.2,
+  "count": 30,
+  "averageDiscount": 21.2,
   "deals": [
     {
       "appid": 489830,
@@ -22,7 +22,7 @@
       "shortDescription": "200以上のGame of the Yearアワードを獲得した『The Elder Scrolls V: Skyrim Special Edition』は、詳細にわたる描写で無限のファンタジーに命を吹き込みます。Special Editionには高い評価を受けた基本ゲームやアドオンに加え、新しい機能が含まれます。",
       "reviewSnippet": "",
       "rawScore": 36,
-      "hensachi": 82.2,
+      "hensachi": 83.3,
       "rank": 1
     },
     {
@@ -43,30 +43,8 @@
       "shortDescription": "26年の時を経て、『餓狼伝説』が再始動！感性を刺激する独自の「アートスタイル」、バトルの興奮が加速していく「REVシステム」を新たに搭載。さらに初心者から上級者まで楽しめる2つの操作スタイルを始め、様々な新機能や新要素を用意。欲望に満ちたサウスタウンを舞台に、新たな“伝説”が始まる。",
       "reviewSnippet": "",
       "rawScore": 33.75,
-      "hensachi": 79.4,
+      "hensachi": 80.4,
       "rank": 2
-    },
-    {
-      "appid": 2178480,
-      "name": "不思議のダンジョン　風来のシレン６　とぐろ島探検録",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178480/header_japanese.jpg?t=1738230227",
-      "discountPercent": 55,
-      "initialPriceCents": 598000,
-      "finalPriceCents": 269100,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/2178480/",
-      "genres": [
-        "ローグライク",
-        "RPG"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2024,
-      "shortDescription": "シレンとコッパの新たな冒険が幕を開ける。",
-      "reviewSnippet": "",
-      "rawScore": 24.75,
-      "hensachi": 68.1,
-      "rank": 3
     },
     {
       "appid": 3375780,
@@ -88,77 +66,34 @@
       "shortDescription": "2024年に生誕20周年を迎えたストーリーRPG「軌跡」シリーズ。その記念すべき第１作、『英雄伝説 空の軌跡FC（ファーストチャプター）』を完全フルリメイク！",
       "reviewSnippet": "",
       "rawScore": 22.5,
-      "hensachi": 65.2,
-      "rank": 4
+      "hensachi": 66.3,
+      "rank": 3
     },
     {
-      "appid": 5301110,
-      "name": "欲望と償い",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5301110/d57767d7a00a3db08d8a119df1c17f84d0579272/header_japanese.jpg?t=1794422718",
+      "appid": 1211600,
+      "name": "ZED ZONE",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/aac7446006d1fb3898eccf697406d0c357cf20a3/header_alt_assets_2.jpg?t=1794210733",
       "discountPercent": 40,
-      "initialPriceCents": 90500,
-      "finalPriceCents": 54300,
+      "initialPriceCents": 140000,
+      "finalPriceCents": 84000,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5301110/",
+      "storeUrl": "https://store.steampowered.com/app/1211600/",
       "genres": [
-        "アドベンチャー",
+        "サバイバル",
+        "ローグライク",
+        "アクション",
+        "インディー",
+        "RPG",
         "シミュレーション"
       ],
       "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "『欲望と償い』で、博物館の保存修復士レイフ・ソワービーによる6週間の返還計画を導こう。異なる3ルートからひとつを選び、仕事と私生活に及ぶ結果に向き合いながら、イェワンデ、エルスペス、またはブライスとの成人向けロマンスを紡いでください。",
+      "shortDescription": "大災害が世界を襲った。任務中に乗っていた航空機が墜落し、あなたはZed Zoneに閉じ込められてしまう。 ゾンビと怪物が至るところにうろつく中、脱出を目指して資材を集め、スキルを磨き、シェルターを築き、ゾンビの大群と謎のメカを打ち倒しながら、かすかな希望を追い求めろ。",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 59.5,
-      "rank": 5
-    },
-    {
-      "appid": 2536520,
-      "name": "「ディアブロ II リザレクテッド」 – 「獄炎エディション」",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/d1c9cc9a6d51ad8e54348e66b19eb4fba0d3c4b4/header_japanese.jpg?t=1774399170",
-      "discountPercent": 35,
-      "initialPriceCents": 480000,
-      "finalPriceCents": 312000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/2536520/",
-      "genres": [
-        "アクション",
-        "RPG",
-        "ストラテジー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "近代のアクションRPGジャンルを定義づけたダークファンタジーの名作を再発見できる完全リマスター版が登場。新クラス、新たなコンテンツ、快適性のアップグレード、刷新されたエンドゲームコンテンツを楽しめる。最大8名のプレイヤーで強力なスキルやアイテムのシナジーを繋げ、一大勢力として台頭し地獄の軍団を切り裂くことができる。",
-      "reviewSnippet": "",
-      "rawScore": 15.75,
-      "hensachi": 56.7,
-      "rank": 6
-    },
-    {
-      "appid": 4558350,
-      "name": "Roll with Splonk",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4558350/8265341e87613e8aee2f93eb091f9519d4b253d9/header.jpg?t=1794421432",
-      "discountPercent": 35,
-      "initialPriceCents": 70500,
-      "finalPriceCents": 45800,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4558350/",
-      "genres": [
-        "カジュアル",
-        "RPG",
-        "シミュレーション",
-        "ストラテジー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "スクリーンの片隅で暮らすスプロンクが、サイコロを振ってお金を稼ぐ。動画やネットをチェックしたり、仕事をこなすフリをしている間に、ダイスを転がして大金持ちになろう。サイコロを振る、お金持ちになる、より良いものを買う。その繰り返しが止まらない。",
-      "reviewSnippet": "",
-      "rawScore": 15.75,
-      "hensachi": 56.7,
-      "rank": 7
+      "hensachi": 60.6,
+      "rank": 4
     },
     {
       "appid": 4618570,
@@ -179,34 +114,8 @@
       "shortDescription": "ブースターパックを開けて、次のホイルヒーローを手に入れよう。『ブースターパックヒーロー』はインクリメンタルゲーム。1パックごとに、次の主力となるヒーローが眠っているかもしれない。果てしないモンスターの群れからタワーを守り、幾多のレルムを戦い抜け。",
       "reviewSnippet": "",
       "rawScore": 13.5,
-      "hensachi": 53.9,
-      "rank": 8
-    },
-    {
-      "appid": 2287150,
-      "name": "Revenge of the Mage",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2287150/0fec8e0a19c84d0aec5b69cecf8b1ce52b2fab40/header_alt_assets_2.jpg?t=1794421439",
-      "discountPercent": 30,
-      "initialPriceCents": 140000,
-      "finalPriceCents": 98000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/2287150/",
-      "genres": [
-        "弾幕",
-        "ローグライク",
-        "アクション",
-        "カジュアル",
-        "インディー",
-        "RPG"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "RotM is an Action Roguelite FPS game where players get in the robes of a Mage. Let the hands of fate open ways for the power of your magic. Save the Multiverse to power up yourself! Unlock, collect, discover, live, die, repeat!",
-      "reviewSnippet": "",
-      "rawScore": 13.5,
-      "hensachi": 53.9,
-      "rank": 9
+      "hensachi": 55,
+      "rank": 5
     },
     {
       "appid": 2584270,
@@ -227,8 +136,8 @@
       "shortDescription": "誰かの体を自らの武器に。Mortal Shell IIは、続編ながら前作をプレイしていなくても楽しめるアクションRPGで、アドレナリン全開の手強い戦闘が特徴だ。非凡な戦士の力を借りて偽りの神々を追放し、荒れ果てた世界を救済しよう。",
       "reviewSnippet": "",
       "rawScore": 11.25,
-      "hensachi": 51,
-      "rank": 10
+      "hensachi": 52.1,
+      "rank": 6
     },
     {
       "appid": 3159350,
@@ -252,30 +161,8 @@
       "shortDescription": "Match in Peace is a pair-matching roguelike. Monster pairs are hiding inside cursed tombstones, match them fast to unleash their unique effects. Use special Stone cards, powerful Statues and magical Potions to defeat haunting enemies ahead.",
       "reviewSnippet": "",
       "rawScore": 11.25,
-      "hensachi": 51,
-      "rank": 11
-    },
-    {
-      "appid": 4903020,
-      "name": "The Last Spire 2",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4903020/c4ec9efd71d9330cba9cf8476a0504793255ef05/header.jpg?t=1794424465",
-      "discountPercent": 25,
-      "initialPriceCents": 62500,
-      "finalPriceCents": 46800,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4903020/",
-      "genres": [
-        "カジュアル",
-        "インディー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Upgrade, evolve, and mutate powerful spells as you defend the Last Spire in this strategic incremental tower defense with endless progression and customizable spell loadouts.",
-      "reviewSnippet": "",
-      "rawScore": 11.25,
-      "hensachi": 51,
-      "rank": 12
+      "hensachi": 52.1,
+      "rank": 7
     },
     {
       "appid": 4876650,
@@ -296,8 +183,77 @@
       "shortDescription": "そのブロックの山の下のどこかに、あなたの床がある。マグネットグローブ、ふるい、そしてパーツを追う視覚で、攻略不能な「山」を仕分けよう。ラベル付きの引き出しを満たし、パーツを引き出し、MOCがブロックひとつずつ組み上がるのを見届けよう。心地よく、満たされる、たったひとつのルールに支配された世界、決して色で仕分けるな。",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 48.2,
-      "rank": 13
+      "hensachi": 49.3,
+      "rank": 8
+    },
+    {
+      "appid": 4549920,
+      "name": "Coastal Cargo",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4549920/1095a2c53d906c4c7e9c7a40e44a6db1d42b7d06/header.jpg?t=1794453384",
+      "discountPercent": 20,
+      "initialPriceCents": 90500,
+      "finalPriceCents": 72400,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4549920/",
+      "genres": [
+        "インディー",
+        "シミュレーション",
+        "ストラテジー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "『Coastal Cargo』は、世界一の海上物流業者を目指す戦略シミュレーションゲームです。広大な群島に点在する港々の間で貿易ルートを設定しましょう。船を配置し、貨物の輸送を開始して、報酬を獲得してください。ますます厳しさを増すこの環境の中で、あなたの帝国はどれだけ長く持ちこたえられるでしょうか？",
+      "reviewSnippet": "",
+      "rawScore": 9,
+      "hensachi": 49.3,
+      "rank": 9
+    },
+    {
+      "appid": 3700360,
+      "name": "Princessfall",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3700360/b0ec41cce4e9c6513fd972916ac31f0e05d42de3/header.jpg?t=1794445205",
+      "discountPercent": 20,
+      "initialPriceCents": 140000,
+      "finalPriceCents": 112000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/3700360/",
+      "genres": [
+        "アドベンチャー",
+        "RPG"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Betrayed, broke, and packing twin magic hand cannons, ex-noble Alice is fighting to survive with her one-armed butler in a ruthless world where the strong rule the weak. A dark fantasy JRPG with full voice acting, nostalgic doujin-style visuals, and 20+ hours of story-driven adventure.",
+      "reviewSnippet": "",
+      "rawScore": 9,
+      "hensachi": 49.3,
+      "rank": 10
+    },
+    {
+      "appid": 5404040,
+      "name": "Lewd Life",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5404040/adc168cf6cd5f9b06297b2ecbcfc1664d5cc7bce/header.jpg?t=1794441791",
+      "discountPercent": 20,
+      "initialPriceCents": 70500,
+      "finalPriceCents": 56400,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5404040/",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "警備員の目をかいくぐり、マップのギミックを使って、鍵のかかった扉をすべて開けよう。扉の向こうでは14人の美女が、それぞれのアニメーションシーンとともに待っている。全30ステージ、30の大人向けアニメーション。",
+      "reviewSnippet": "",
+      "rawScore": 9,
+      "hensachi": 49.3,
+      "rank": 11
     },
     {
       "appid": 5304170,
@@ -319,55 +275,32 @@
       "shortDescription": "MONKEY OVERDRIVE は、空飛ぶ円盤で敵に体当たりするアクションローグライク。長押しで力をため、離すと突進。ゼリーのようなスライムの群れを吹き飛ばし、車の流れやプレス機、列車にぶつけよう。24 体のボスを倒し、その技を一つずつ奪って使おう。",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 48.2,
-      "rank": 14
+      "hensachi": 49.3,
+      "rank": 12
     },
     {
-      "appid": 5191540,
-      "name": "The Keyless: Forbidden Door",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5191540/120d04656ee24f072f609a1687bce37bbab4ca2e/header.jpg?t=1794423951",
-      "discountPercent": 20,
-      "initialPriceCents": 65500,
-      "finalPriceCents": 52400,
+      "appid": 4767430,
+      "name": "盛夏的我们",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4767430/2daca74a855691f649dde9ae10166d1ad7eee174/header_japanese.jpg?t=1794459341",
+      "discountPercent": 17,
+      "initialPriceCents": 170000,
+      "finalPriceCents": 141100,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5191540/",
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "インディー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "「The Keyless: Forbidden Door」は夢のような超現実的な旅で、単純な課題を克服するにつれて形を変える世界で、奇妙で比喩的で超現実的なシーンを目撃します。",
-      "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 48.2,
-      "rank": 15
-    },
-    {
-      "appid": 5020720,
-      "name": "A BILLION GOLD DEBT",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5020720/6e8208d16b8a2828ae433c562ded19a65302b105/header.jpg?t=1794421235",
-      "discountPercent": 20,
-      "initialPriceCents": 84500,
-      "finalPriceCents": 67600,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5020720/",
+      "storeUrl": "https://store.steampowered.com/app/4767430/",
       "genres": [
         "カジュアル",
         "インディー",
-        "シミュレーション",
-        "ストラテジー"
+        "RPG",
+        "シミュレーション"
       ],
       "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "集落を発展させ、生産を自動化し、周辺を探索して近隣の集落と交易し、10億ゴールドの借金を返済しよう！",
+      "shortDescription": "夏休みを前に、学内で撮影のアルバイトを始めたあなた。優しく気遣ってくれる学園のマドンナ・劉詩琳先輩、クールな表情に温かさを秘めた文芸派の李飛児先輩、いたずら好きで振り回してくるモデルの後輩・夏薇、そしていつもそばにいる幼なじみの楽彤。卒業シーズンの撮影に向け、それぞれの得意分野を生かして力を合わせる日々。個性豊かな４人と過ごす、あなただけの胸ときめく夏の思い出が、今そっと幕を開ける……",
       "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 48.2,
-      "rank": 16
+      "rawScore": 7.65,
+      "hensachi": 47.6,
+      "rank": 13
     },
     {
       "appid": 5160800,
@@ -390,7 +323,74 @@
       "shortDescription": "手元にあるのはシャベル一本と、約600万本の干し草。 そのどこかに、一本の針が隠されている。 最初は自分の手で掘り進め、干し草を売って資金を稼ぐ。 そのお金でコンベアや機械を増やし、少しずつ作業を自動化していこう。 最後には、もう自分で掘る必要すらなくなる。",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 45.4,
+      "hensachi": 46.5,
+      "rank": 14
+    },
+    {
+      "appid": 4921660,
+      "name": "みんなでティア表!",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4921660/f25775854de3bb22f45f90df3c06bd60489362a2/header_japanese.jpg?t=1794452483",
+      "discountPercent": 15,
+      "initialPriceCents": 79000,
+      "finalPriceCents": 67100,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4921660/",
+      "genres": [
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "お題に合わせて5つのワードをS〜Dのティア表に並べ、主役の並びをみんなで予想する、2〜10人で遊ぶオンラインパーティーゲーム。ピタリ一致で歓声、まさかのズレで大爆笑。参加者の名前を全員で同じ順に並べる「全員一致」や、自作お題、配信者モードも収録。",
+      "reviewSnippet": "",
+      "rawScore": 6.75,
+      "hensachi": 46.5,
+      "rank": 15
+    },
+    {
+      "appid": 3256890,
+      "name": "Flexible Frosty",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3256890/3119a2b0750632e962097a15c92d56b4d26fed7e/header.jpg?t=1794457046",
+      "discountPercent": 15,
+      "initialPriceCents": 47000,
+      "finalPriceCents": 39900,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/3256890/",
+      "genres": [
+        "アドベンチャー",
+        "カジュアル",
+        "インディー",
+        "ストラテジー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "他のペンギンのようにジャンプできない、かわいい小さなペンギン「フロスティ」が登場する、短編の氷の世界を舞台にしたゲームボーイ風パズルプラットフォーマーです。",
+      "reviewSnippet": "",
+      "rawScore": 6.75,
+      "hensachi": 46.5,
+      "rank": 16
+    },
+    {
+      "appid": 5192820,
+      "name": "Pull My Finger",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5192820/8a690ebee16f1daad902bd0f73e88fad2de31258/header.jpg?t=1794439966",
+      "discountPercent": 15,
+      "initialPriceCents": 108700,
+      "finalPriceCents": 92300,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5192820/",
+      "genres": [
+        "カジュアル"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Face against up to 4 different players, your friends or bots. Take turns deciding which finger you are willing to pull, and see the outcome of your choices. Use the different items to get an advantage on your opponents. The best strategy comes out on top. 3 lives. 10 Choices. Your Move...",
+      "reviewSnippet": "",
+      "rawScore": 6.75,
+      "hensachi": 46.5,
       "rank": 17
     },
     {
@@ -414,147 +414,8 @@
       "shortDescription": "『Forged: Reconquest』は、最大4人で楽しめるローカル＆オンライン協力プレイ対応の鍛冶RTSです。熟練の鍛冶職人としてチームを組み、魔法の装備を作り出し、軍隊を強化して、異世界の敵から世界を取り戻すための戦いに挑みましょう。",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 45.4,
+      "hensachi": 46.5,
       "rank": 18
-    },
-    {
-      "appid": 4965130,
-      "name": "Corridors",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4965130/1401de09c2f42d5a35d773dc5f6a51e1bd5aa50e/header.jpg?t=1794425861",
-      "discountPercent": 15,
-      "initialPriceCents": 105000,
-      "finalPriceCents": 89200,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4965130/",
-      "genres": [
-        "アクション",
-        "アドベンチャー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "ファイルの中に棲むシューター／宝石集めゲーム。Corridors は、ハイスコアを競うアクションと、完全に機能する直感的なファイル＆メディアエクスプローラーを融合。プリセットワールドで競うも、自分の PC とファイルを舞台にするも自由。軽量・ポータブル、ほぼあらゆる環境でネイティブ動作。",
-      "reviewSnippet": "",
-      "rawScore": 6.75,
-      "hensachi": 45.4,
-      "rank": 19
-    },
-    {
-      "appid": 4696920,
-      "name": "Bumper & Thumper",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4696920/4beb74722698a6f86a985f778293e1baa00be037/header.jpg?t=1794426588",
-      "discountPercent": 15,
-      "initialPriceCents": 70500,
-      "finalPriceCents": 59900,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4696920/",
-      "genres": [
-        "アクション",
-        "カジュアル",
-        "インディー",
-        "レース"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "カオスな車両戦闘ログライト。車両を選び、何百体ものロボットをなぎ倒し、レベルを上げて武器を積み重ねよう。クレイジな強化を組み合わせて完璧な構成を作り、ボスに立ち向かい、危険なロボットから逃げ切れ。止まったら、死ぬ。",
-      "reviewSnippet": "",
-      "rawScore": 6.75,
-      "hensachi": 45.4,
-      "rank": 20
-    },
-    {
-      "appid": 5415560,
-      "name": "Eat Everything in a Supermarket",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5415560/845aa11ffa162c4c060a32e6d79d260e98b517a3/header.jpg?t=1794423381",
-      "discountPercent": 15,
-      "initialPriceCents": 84500,
-      "finalPriceCents": 71800,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5415560/",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "Eat your way through an entire supermarket! Start with snacks, earn money from everything you eat, and buy upgrades to eat faster and devour bigger things. Go from a bag of chips to entire shelves, fridges and even the checkouts. Can you eat the whole store?",
-      "reviewSnippet": "",
-      "rawScore": 6.75,
-      "hensachi": 45.4,
-      "rank": 21
-    },
-    {
-      "appid": 2624080,
-      "name": "MycoRelic",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2624080/header.jpg?t=1794422674",
-      "discountPercent": 15,
-      "initialPriceCents": 280000,
-      "finalPriceCents": 238000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/2624080/",
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "インディー",
-        "RPG"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "MycoRelicは、部族風のキノコ型ロボットが生息する島を舞台にした、協力型の三人称視点アクションRPGです。放棄された工場を探索し、ロボットの体を強化しましょう。古代の神殿を巡り、忘れ去られた元素の力を取り入れ、キノコを進化させましょう。",
-      "reviewSnippet": "",
-      "rawScore": 6.75,
-      "hensachi": 45.4,
-      "rank": 22
-    },
-    {
-      "appid": 5450030,
-      "name": "We Have a Sheep Problem",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5450030/6f0281352f411c218946f09a4ac680685e286c3d/header.jpg?t=1794421762",
-      "discountPercent": 15,
-      "initialPriceCents": 56000,
-      "finalPriceCents": 47600,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5450030/",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "牧場の羊たちがみんな展示台から逃げ出した！羊をつかまえておうちに運び、1匹ずつ自分の場所に戻してあげよう。帽子にコスチューム、牧場いっぱいの脱走羊たち、そして役に立つちょっとおかしな道具も。ほっこりもこもこのお片付けゲーム。",
-      "reviewSnippet": "",
-      "rawScore": 6.75,
-      "hensachi": 45.4,
-      "rank": 23
-    },
-    {
-      "appid": 4731250,
-      "name": "ムーンベリークロック：放置系ペット",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4731250/7371d23717bb3cd863d144ba47e1889caea90ad0/header_japanese.jpg?t=1794420713",
-      "discountPercent": 11,
-      "initialPriceCents": 65500,
-      "finalPriceCents": 58200,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4731250/",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "時計を眺めているだけで、ペットが自動でお金を稼いでくれる。貯めたお金で服やおもちゃ、楽しいアクセサリーをアンロックしよう。自分でペットを着せ替えることも、自動で見た目を変えるように設定することもできる。",
-      "reviewSnippet": "",
-      "rawScore": 4.95,
-      "hensachi": 43.1,
-      "rank": 24
     },
     {
       "appid": 2638080,
@@ -575,8 +436,8 @@
       "shortDescription": "『勇者パーティはぜんめつしました。』は、壊れてしまった仲間の〈業〉と向き合い、一緒にケジメをつける高湿度・激重感情RPGです。壊滅した勇者パーティから1人だけを救出し、ダンジョンから脱出しましょう。限界状況のなか生まれる感情は、絆か、疑心か、依存か。",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 42.5,
-      "rank": 25
+      "hensachi": 43.6,
+      "rank": 19
     },
     {
       "appid": 5266240,
@@ -598,32 +459,8 @@
       "shortDescription": "一人称視点のジャガイモ皮むきゲーム。ナイフがある。バケツがある。ジャガイモの山がある。本物の物理演算で皮をむこう。薄く切って、無駄にしない。もっと良い道具を買おう。山がなくなるまでむき続けろ。君ほど上手くむける者はいない。",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 42.5,
-      "rank": 26
-    },
-    {
-      "appid": 3669620,
-      "name": "Warhammer Survivors",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669620/dc61fccdeec6b05a58fbcdd7b1d0bbbe1f6999ea/header.jpg?t=1794409627",
-      "discountPercent": 10,
-      "initialPriceCents": 105000,
-      "finalPriceCents": 94500,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/3669620/",
-      "genres": [
-        "アクション",
-        "カジュアル",
-        "インディー",
-        "RPG"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "『Warhammer 40,000: Boltgun』の開発陣が手がける、過酷でダークな世界観の公式「弾幕サバイバル」アクション『Warhammer Survivors』が登場。『Warhammer 40,000』と『Warhammer Age of Sigmar』の両ユニバースから名だたるチャンピオンたち40名以上を操り、死と破壊をもたらす敵を打ち砕け。",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 42.5,
-      "rank": 27
+      "hensachi": 43.6,
+      "rank": 20
     },
     {
       "appid": 3432860,
@@ -644,8 +481,97 @@
       "shortDescription": "認知異常により歪められた殺人現場で真実を探れ。『病能探偵』は、認知異常×本格ミステリーのデスゲーム推理アドベンチャー。 嘘がつけない、左半分が見えない、顔が識別できない—— 異常なルールを乗り越え、真犯人を暴き出せ。",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 42.5,
-      "rank": 28
+      "hensachi": 43.6,
+      "rank": 21
+    },
+    {
+      "appid": 5027500,
+      "name": "わが子と吹奏楽部の1000日",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5027500/c12c2f8ab5c9ede25d143c42a058c1ff09647eb7/header_japanese.jpg?t=1794452541",
+      "discountPercent": 10,
+      "initialPriceCents": 48000,
+      "finalPriceCents": 43200,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5027500/",
+      "genres": [
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "わが子が入った吹奏楽部。その顧問に、なぜか自分がなった。 サボった部員を叱れば部は強くなる。叱った日の夜、わが子は少し無口になる。 中学3年間。9つの結末が待っている。",
+      "reviewSnippet": "",
+      "rawScore": 4.5,
+      "hensachi": 43.6,
+      "rank": 22
+    },
+    {
+      "appid": 5373430,
+      "name": "ATELIER BLOCKS",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5373430/c46edd9f57957f2a8953de175c4bb3247b729974/header.jpg?t=1794457148",
+      "discountPercent": 10,
+      "initialPriceCents": 145000,
+      "finalPriceCents": 130500,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5373430/",
+      "genres": [
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "ATELIER BLOCKSは、カスタマイズと創作、多彩な遊び方を楽しめる落ちものブロックパズルゲームです。18種類のシングルプレイヤールール、9種類のAI対戦ルール、かわいいミニゲーム、5つのクリエーションスタジオを収録しています。",
+      "reviewSnippet": "",
+      "rawScore": 4.5,
+      "hensachi": 43.6,
+      "rank": 23
+    },
+    {
+      "appid": 4915740,
+      "name": "鼠鼠的桌面环游",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4915740/ced838f6c1640b70e3b131bfa978e7bf586c71a4/header.jpg?t=1794448427",
+      "discountPercent": 10,
+      "initialPriceCents": 72900,
+      "finalPriceCents": 65600,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4915740/",
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "chichiの世界へようこそ！小さなネズミのchichiは、大きな旅を夢見る旅人。荷物は小さなボールひとつだけ！仕事や勉強中に一緒に過ごし、ふれあったり遊んだり、衣装やスキンを着せ替えたり。フレンドとオンラインで遊べば、それぞれのデスクトップにネズミたちが集まり、旅がもっとにぎやかに。",
+      "reviewSnippet": "",
+      "rawScore": 4.5,
+      "hensachi": 43.6,
+      "rank": 24
+    },
+    {
+      "appid": 5294070,
+      "name": "Chaos Table",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5294070/1906b09ddcaab464ba96108a081f47640c4909e1/header.jpg?t=1794443883",
+      "discountPercent": 10,
+      "initialPriceCents": 65500,
+      "finalPriceCents": 58900,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5294070/",
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "ストラテジー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "6〜10人で遊ぶ正体隠匿パーティーゲーム。空席はボットが埋めてくれます。秘密の役職が途中で入れ替わる中、嘘と投票とカードで駆け引きしよう。死んでも幽霊になって場をかき乱せます。",
+      "reviewSnippet": "",
+      "rawScore": 4.5,
+      "hensachi": 43.6,
+      "rank": 25
     },
     {
       "appid": 3759000,
@@ -667,13 +593,13 @@
       "shortDescription": "A casual, water-physics puzzle game about building dams as a beaver (2 - 3 hours). Gnaw down trees, and grab and throw objects to organically build dams, back up water, and progress to the next level.",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 42.5,
-      "rank": 29
+      "hensachi": 43.6,
+      "rank": 26
     },
     {
       "appid": 5305400,
       "name": "GLYPHTRIP",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5305400/a07f6e01e7bcacc067d4a17276fd430b21880a1b/header.jpg?t=1794431337",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5305400/a07f6e01e7bcacc067d4a17276fd430b21880a1b/header.jpg?t=1794456807",
       "discountPercent": 10,
       "initialPriceCents": 105000,
       "finalPriceCents": 94500,
@@ -685,11 +611,11 @@
       ],
       "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "レイキャストの ASCII ローグライク。文字でできた部屋を部屋自身に叩きつけ、キルするたびにトリップが上がる。まず色が変わり、やがて文字は自分が描く部屋と食い違い始める。20 フロアの降下。本の終わりまで五つのループ。",
+      "shortDescription": "GLYPHTRIP は、暴力がトリップを加速させるサイケデリックな ASCII ダンジョンクローラー。生きたグリフの群れに体当たりで突っ込み、キルするたびに強くなり、世界が崩れていくなかで道を探して戦え。自分を見失う前に、どこまで降りられるか？",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 42.5,
-      "rank": 30
+      "hensachi": 43.6,
+      "rank": 27
     },
     {
       "appid": 5191040,
@@ -711,94 +637,52 @@
       "shortDescription": "A cozy first-person sorting game. 2,100 plush teddy bears are scattered all over a toy store. Sort them onto the right shelves and bring the store back to order.",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 42.5,
-      "rank": 31
+      "hensachi": 43.6,
+      "rank": 28
     },
     {
-      "appid": 5010300,
-      "name": "こんにちは、主君さま",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5010300/4f39aeee428eb4ddeab463fa544850d5c1e68160/header.jpg?t=1794425054",
+      "appid": 5106240,
+      "name": "Prospect",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5106240/00f1bdf9e7be39aad039355592e26257149ae123/header.jpg?t=1794431062",
       "discountPercent": 10,
-      "initialPriceCents": 71000,
-      "finalPriceCents": 63900,
+      "initialPriceCents": 110000,
+      "finalPriceCents": 99000,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5010300/",
+      "storeUrl": "https://store.steampowered.com/app/5106240/",
       "genres": [
-        "シミュレーション",
-        "ストラテジー"
+        "アクション",
+        "アドベンチャー",
+        "インディー"
       ],
-      "supportsJapanese": true,
+      "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "かわいいデフォルメキャラクターが彩る三国志の世界へ。涼州から八州を巡り、名将を仲間に迎え、ともに豊かな街を育てましょう。四季の移ろいに合わせて建物を配置し、産業を発展させ、依頼を達成。街の成長と仲間たちの物語が織りなす旅の先に、あなたが思い描く太平の世を築いてください。",
+      "shortDescription": "Prospect is a mining roguelike where you carve through the depths of the mines on a perilous journey towards the world above. Vanquish your foes, find mythical artifacts, and forge your own path with your trusty pickaxe. Will you be the first dwarf to ever reach the surface?",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 42.5,
-      "rank": 32
+      "hensachi": 43.6,
+      "rank": 29
     },
     {
-      "appid": 5102300,
-      "name": "STARLINERS",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5102300/488a6c32be5a9f288f83c83c2f913ab33c533dd0/header.jpg?t=1794422933",
+      "appid": 4576270,
+      "name": "Mythsfall",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576270/91c97241a81b60d64047c5f2638f59453dc0a04d/header.jpg?t=1794430076",
       "discountPercent": 10,
-      "initialPriceCents": 140000,
-      "finalPriceCents": 126000,
+      "initialPriceCents": 70500,
+      "finalPriceCents": 63400,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5102300/",
+      "storeUrl": "https://store.steampowered.com/app/4576270/",
       "genres": [
         "ストラテジー"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "From Earth to the Moon and beyond, build colonies, develop industries, and manage supply chains in this incremental logistics game. Harness the resources of the Solar System to build an ark and carry humanity to other stars.",
+      "shortDescription": "Mythsfall is a mythology themed deckbuilding game where you progress through the map by defeating enemies in turn based card battles. Develop your deck, gain the upper hand by placing the right cards in the right places, and embark on adventure after adventure as you advance through the map!",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 42.5,
-      "rank": 33
-    },
-    {
-      "appid": 4335520,
-      "name": "Monty's Idle Mine",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4335520/0299f8eb9b993fa6e1a2efd0170298a630f6fd78/header.jpg?t=1794423672",
-      "discountPercent": 10,
-      "initialPriceCents": 64900,
-      "finalPriceCents": 58400,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4335520/",
-      "genres": [
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "画面下部で暮らす小さなマイナーが主人公の、リラックスできるデスクトップ放置ゲーム。モンティが採掘する様子を眺めながら、スキルや鉱物をアップグレードしてより多くのコインを獲得し、142種類の小さな宝物を見つけたり購入したりして、仕事や勉強の合間に彼の小さな世界を飾りましょう。",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 42.5,
-      "rank": 34
-    },
-    {
-      "appid": 4957320,
-      "name": "Dear Nobody",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4957320/747f091e15ff4e49dfb32a349608487c750c3038/header.jpg?t=1794422213",
-      "discountPercent": 10,
-      "initialPriceCents": 84500,
-      "finalPriceCents": 76000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4957320/",
-      "genres": [
-        "アドベンチャー",
-        "インディー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "一度も会ったことのない文通相手ふたりの手紙は、名もなき前線の後方で、あなたの検閲の机を通る。ふたりの恋は紙の上にしかない。だから、あなたが消した一行は恋から永遠に消える。やがて一通の手紙が、あなたが心の中でしか尋ねなかった問いに答える。もの哀しい書簡ロマンス。",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 42.5,
-      "rank": 35
+      "hensachi": 43.6,
+      "rank": 30
     }
   ]
 }
