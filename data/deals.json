@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-11-22T04:26:16.291Z",
+  "fetchedAt": "2026-11-22T13:52:45.815Z",
   "currency": "JPY",
-  "count": 30,
-  "averageDiscount": 30.7,
+  "count": 31,
+  "averageDiscount": 31.1,
   "deals": [
     {
       "appid": 2909400,
@@ -24,7 +24,7 @@
       "shortDescription": "魔晄都市ミッドガルを脱出したクラウドたちは広大な世界に旅立つ。 新たに語られるストーリー、広大な世界での自由な冒険、仲間との絆が深まるバトル―― 『FINAL FANTASY VII REMAKE』から、さらに進化したゲーム体験が再誕する。",
       "reviewSnippet": "",
       "rawScore": 38.25,
-      "hensachi": 76.9,
+      "hensachi": 76.4,
       "rank": 1
     },
     {
@@ -47,31 +47,53 @@
       "shortDescription": "バスターソードを背負う元ソルジャー・クラウドが魔晄都市ミッドガルに降り立つ。 最先端技術が駆使されたグラフィック映像、戦略性と直感的アクションが融合するバトル―― 不朽の名作『FINAL FANTASY VII』の世界が「新たな物語」として生まれ変わる。",
       "reviewSnippet": "",
       "rawScore": 36.9,
-      "hensachi": 75.4,
+      "hensachi": 74.9,
       "rank": 2
     },
     {
-      "appid": 1817070,
-      "name": "Marvel’s Spider-Man Remastered",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header_japanese.jpg?t=1787838689",
-      "discountPercent": 60,
-      "initialPriceCents": 759000,
-      "finalPriceCents": 303600,
+      "appid": 1426210,
+      "name": "It Takes Two",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header_japanese.jpg?t=1777395376",
+      "discountPercent": 80,
+      "initialPriceCents": 430000,
+      "finalPriceCents": 86000,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/1817070/",
+      "storeUrl": "https://store.steampowered.com/app/1426210/",
       "genres": [
+        "プラットフォーマー",
         "アクション",
-        "アドベンチャー",
-        "カジュアル"
+        "アドベンチャー"
       ],
       "supportsJapanese": true,
-      "releaseYear": 2022,
-      "shortDescription": "ピーター・パーカーの私生活とヒーローとしての生活がぶつかり合う、アクション満載の完全オリジナルストーリー。 経験豊富なスパイダーマン、ピーター・パーカーとなって、オープンワールドで描かれるマーベル世界のニューヨークを縦横無尽に駆け巡り、犯罪や巨大な陰謀と戦おう。",
+      "releaseYear": 2021,
+      "shortDescription": "「It Takes Two」で人生最大のクレイジーな旅に出かけましょう。「It Takes Two」で人生最高のクレイジーな旅に出かけましょう。フレンドパス*でフレンドを無料で招待して、一緒に愉快で過激なゲームプレイに挑戦です。",
       "reviewSnippet": "",
-      "rawScore": 27,
-      "hensachi": 64.5,
+      "rawScore": 36,
+      "hensachi": 73.9,
       "rank": 3
+    },
+    {
+      "appid": 2052410,
+      "name": "魔法使いの夜",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052410/header_japanese.jpg?t=1753952335",
+      "discountPercent": 50,
+      "initialPriceCents": 660000,
+      "finalPriceCents": 330000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/2052410/",
+      "genres": [
+        "ビジュアルノベル",
+        "アドベンチャー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2023,
+      "shortDescription": "彩（いろ）鮮やかに、声（おと）豊かに、TYPE-MOON正統派ビジュアルノベルが紡がれる。",
+      "reviewSnippet": "",
+      "rawScore": 22.5,
+      "hensachi": 59.2,
+      "rank": 4
     },
     {
       "appid": 2215430,
@@ -93,29 +115,7 @@
       "shortDescription": "嵐が、来る。『Ghost of Tsushima DIRECTOR’S CUT』のPC用完全版でオープンワールド時代劇アクションアドベンチャーへ足を踏み入れ、自身の道を切り開こう。本作はSucker Punch Productions、Nixxes Software、PlayStation Studiosの共同制作でお届けします。",
       "reviewSnippet": "",
       "rawScore": 22.5,
-      "hensachi": 59.6,
-      "rank": 4
-    },
-    {
-      "appid": 2052410,
-      "name": "魔法使いの夜",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052410/header_japanese.jpg?t=1753952335",
-      "discountPercent": 50,
-      "initialPriceCents": 660000,
-      "finalPriceCents": 330000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/2052410/",
-      "genres": [
-        "ビジュアルノベル",
-        "アドベンチャー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2023,
-      "shortDescription": "彩（いろ）鮮やかに、声（おと）豊かに、TYPE-MOON正統派ビジュアルノベルが紡がれる。",
-      "reviewSnippet": "",
-      "rawScore": 22.5,
-      "hensachi": 59.6,
+      "hensachi": 59.2,
       "rank": 5
     },
     {
@@ -136,27 +136,8 @@
       "shortDescription": "『ARC Raiders』は、ARC と呼ばれる謎の機械によって荒廃した、危険に満ちた未来の地球を舞台とするマルチプレイヤー・エクストラクションアドベンチャーです。",
       "reviewSnippet": "",
       "rawScore": 22.5,
-      "hensachi": 59.6,
+      "hensachi": 59.2,
       "rank": 6
-    },
-    {
-      "appid": 92770,
-      "name": "DEATH STRANDING COLLECTION",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/bundles/92770/zpcynaiv625taqu5/7f156fd9f3b11d5d160f2b72d5e198839c56d3a2/header_ratio.jpg?t=1795111209",
-      "discountPercent": 48,
-      "initialPriceCents": 1396000,
-      "finalPriceCents": 653400,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/92770/",
-      "genres": [],
-      "supportsJapanese": false,
-      "releaseYear": null,
-      "shortDescription": "",
-      "reviewSnippet": "",
-      "rawScore": 21.6,
-      "hensachi": 58.6,
-      "rank": 7
     },
     {
       "appid": 5371390,
@@ -178,7 +159,29 @@
       "shortDescription": "この冒険で発掘された失われたVHSテープの映像を⾒つけ出し、⽣き延びましょう。このホラー∕ポイント ＆クリックゲームで、新たなパペットたちと秘密を発⾒してください。パペットたちはたくさんのイタズ ラを企んでいるので、与えられたテクノロジーをすべて駆使して……安全を確保しましょう。",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 54.6,
+      "hensachi": 54.3,
+      "rank": 7
+    },
+    {
+      "appid": 5529590,
+      "name": "Entropic Signal",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5529590/7a2a17c39eb1451d43c12a39c383f25576080455/header.jpg?t=1795285957",
+      "discountPercent": 40,
+      "initialPriceCents": 70500,
+      "finalPriceCents": 42300,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5529590/",
+      "genres": [
+        "アクション",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "あるはずのない信号に、あなたは応えてしまった。七つの世界をさかのぼり、その源をたどれ。どの世界も、かつて人が互いに届こうとした手段であり、それぞれに固有のルールがある。武器は勝手に撃つ。あなたは歩き、選び、回線の向こうにまだ何が残っているかを知る。",
+      "reviewSnippet": "",
+      "rawScore": 18,
+      "hensachi": 54.3,
       "rank": 8
     },
     {
@@ -199,53 +202,8 @@
       "shortDescription": "After a emergency crash landing in the middle of the desert, your fight for survival begins. Space Base Nyra has detected your location and enemy signals. Guide yourself through increasingly intense waves of enemies with real-time radio support. Fast action FPS where every wave brings new threats",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 54.6,
+      "hensachi": 54.3,
       "rank": 9
-    },
-    {
-      "appid": 5307180,
-      "name": "Fuck Everything 👉👌💦",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5307180/d0a4af9120342e7f75ad32a91d288a9514a03d6a/header.jpg?t=1795272763",
-      "discountPercent": 40,
-      "initialPriceCents": 241100,
-      "finalPriceCents": 144600,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5307180/",
-      "genres": [
-        "アドベンチャー",
-        "カジュアル",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "新品のAIセックスドールに好みを聞かれたのに、答えられなかったあなた。でも大丈夫。家には、甘えん坊のテディベアからママみたいな雰囲気のバスタブまで、協力してくれるモノがいっぱい。10種類以上の性癖を試して、自分の好みを見つけよう。",
-      "reviewSnippet": "",
-      "rawScore": 18,
-      "hensachi": 54.6,
-      "rank": 10
-    },
-    {
-      "appid": 2651280,
-      "name": "Marvel's Spider-Man 2",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/header.jpg?t=1763569811",
-      "discountPercent": 33,
-      "initialPriceCents": 759000,
-      "finalPriceCents": 508500,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/2651280/",
-      "genres": [
-        "アクション",
-        "アドベンチャー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2025,
-      "shortDescription": "Be Greater. Together. ピーター・パーカーとマイルズ・モラレスは、人々を救うという使命と、日常生活や友人関係とのバランスを取りながら、恐るべきシンビオートとの死闘に臨む。大人気「Marvel's Spider-Man」シリーズの続編がPCに登場。",
-      "reviewSnippet": "",
-      "rawScore": 14.85,
-      "hensachi": 51.1,
-      "rank": 11
     },
     {
       "appid": 3280350,
@@ -266,13 +224,61 @@
       "shortDescription": "「我々は繋ぐべきだったのか？」　サムは人類を絶滅から救うために、仲間とともに新たな旅を始める。 荒廃した世界、立ちふさがる敵、混迷する謎。あらゆるものが使命の達成を阻もうとする。人と人との繋がりの向こうに、何があるのか？比類なきゲームクリエイター小島秀夫が、ふたたび世界を変える。",
       "reviewSnippet": "",
       "rawScore": 14.85,
-      "hensachi": 51.1,
+      "hensachi": 50.9,
+      "rank": 10
+    },
+    {
+      "appid": 4618570,
+      "name": "ブースターパックヒーロー",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618570/ac07ef6abf96418c47dbb3ef356eb28e96035052/header_japanese.jpg?t=1794991220",
+      "discountPercent": 30,
+      "initialPriceCents": 140000,
+      "finalPriceCents": 98000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4618570/",
+      "genres": [
+        "タワーディフェンス",
+        "ハクスラ",
+        "カジュアル",
+        "ストラテジー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "ブースターパックを開けて、次のホイルヒーローを手に入れよう。『ブースターパックヒーロー』はインクリメンタルゲーム。1パックごとに、次の主力となるヒーローが眠っているかもしれない。果てしないモンスターの群れからタワーを守り、幾多のレルムを戦い抜け。",
+      "reviewSnippet": "",
+      "rawScore": 13.5,
+      "hensachi": 49.4,
+      "rank": 11
+    },
+    {
+      "appid": 5191120,
+      "name": "PERI.CO",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5191120/05716b623368b0b4aa263373181d18a04225e722/header.jpg?t=1795337421",
+      "discountPercent": 30,
+      "initialPriceCents": 98500,
+      "finalPriceCents": 68900,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5191120/",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "基本4人・最大8人協力の一人称アクション。毎回変わる現場に投入され、ミッションをこなし、巨大ボスとモンスターを処理し、時間内に帰還せよ。給与で武器と装備を揃え、次の勤務へ。両腕の武器組み合わせ、Qキースキル、デバフ契約、SSD回収・復活システム、9言語対応。",
+      "reviewSnippet": "",
+      "rawScore": 13.5,
+      "hensachi": 49.4,
       "rank": 12
     },
     {
       "appid": 4682120,
       "name": "desert island time",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4682120/85b5a88f50fc297ebebe65b4b42809d409cae869/header.jpg?t=1795281821",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4682120/85b5a88f50fc297ebebe65b4b42809d409cae869/header.jpg?t=1795346593",
       "discountPercent": 30,
       "initialPriceCents": 98500,
       "finalPriceCents": 68900,
@@ -289,8 +295,31 @@
       "shortDescription": "この島では、作物を栽培したり、釣りをしたり、島の生き物を捕まえたり、採掘や伐採を行ったり、道具やアイテムを作ったりすることができます。ぜひこの島の世界を探索し、穏やかな生活を体験してください。",
       "reviewSnippet": "",
       "rawScore": 13.5,
-      "hensachi": 49.7,
+      "hensachi": 49.4,
       "rank": 13
+    },
+    {
+      "appid": 5499750,
+      "name": "It’s Table Time",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5499750/72f312934660aa29a3607064820f75086b89a90b/header.jpg?t=1795346548",
+      "discountPercent": 28,
+      "initialPriceCents": 98500,
+      "finalPriceCents": 70900,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5499750/",
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "ストラテジー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "『It’s Table Time』は30種類のクラシックボードゲーム、カード、ダイス、パズル＆軽快アーケードを集めたテーブルゲーム集！AI相手のソロプレイ、1台のPCで2〜4人のローカル対戦・パーティーカップ、さらにSteamオンライン対戦にも対応！",
+      "reviewSnippet": "",
+      "rawScore": 12.6,
+      "hensachi": 48.5,
+      "rank": 14
     },
     {
       "appid": 2483190,
@@ -312,8 +341,32 @@
       "shortDescription": "実際に存在する 550 台以上のマシンに乗って美しい景色を楽しみながら、Forza Horizon 史上最大のオープンワールド ドライビング アドベンチャーでレース界のレジェンドの座に上り詰めよう。",
       "reviewSnippet": "",
       "rawScore": 11.25,
-      "hensachi": 47.2,
-      "rank": 14
+      "hensachi": 47,
+      "rank": 15
+    },
+    {
+      "appid": 5208650,
+      "name": "Eko36 and the gang",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5208650/06ba1ae3955e51957cdea0a20751c0eb8c37cb70/header.jpg?t=1795334788",
+      "discountPercent": 25,
+      "initialPriceCents": 160000,
+      "finalPriceCents": 120000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5208650/",
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "レース",
+        "シミュレーション"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "A driving and drifting game about good roads, big skids, and having a good time behind the wheel.",
+      "reviewSnippet": "",
+      "rawScore": 11.25,
+      "hensachi": 47,
+      "rank": 16
     },
     {
       "appid": 5463810,
@@ -339,8 +392,8 @@
       "shortDescription": "Break through 50,000 bricks. Time to escape the walls. Punch your way to freedom! Break through walls, punch out the walls and escape prison one punch at a time! Smash through tougher walls, discover new areas, and become the ultimate wall-breaking machine in WALL PUNCH: ESCAPE THE WALLS SIMULATOR",
       "reviewSnippet": "",
       "rawScore": 11.25,
-      "hensachi": 47.2,
-      "rank": 15
+      "hensachi": 47,
+      "rank": 17
     },
     {
       "appid": 5374580,
@@ -360,53 +413,7 @@
       "shortDescription": "ほっとひと息つける、アニメ絵のパズルゲーム。やさしいスライドパズルとジグソーで、手描き仕上げの32枚のイラストを組み上げ、AからZまでアルファベットをすべて集めましょう。完成した絵はすべて壁紙として残せます。あたたかな音楽、タイマーなし、焦る必要もありません。",
       "reviewSnippet": "",
       "rawScore": 11.25,
-      "hensachi": 47.2,
-      "rank": 16
-    },
-    {
-      "appid": 5533720,
-      "name": "Fuck Everything 👉👌💦 - WALLPAPERS🔞",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5533720/7732e8142ba11e4634b6b7ef8ae3ccbe560e0d29/header.jpg?t=1795272502",
-      "discountPercent": 25,
-      "initialPriceCents": 42000,
-      "finalPriceCents": 31500,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5533720/",
-      "genres": [
-        "アドベンチャー",
-        "カジュアル",
-        "シミュレーション"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Give your desktop a bold new look with this exclusive wallpaper pack for Fuck Everything 👉👌💦. Explore a collection of high-quality artworks inspired by the game’s characters, cheeky atmosphere, and unforgettable moments.",
-      "reviewSnippet": "",
-      "rawScore": 11.25,
-      "hensachi": 47.2,
-      "rank": 17
-    },
-    {
-      "appid": 3101040,
-      "name": "魔法少女ノ魔女裁判",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3101040/header.jpg?t=1789891545",
-      "discountPercent": 20,
-      "initialPriceCents": 350000,
-      "finalPriceCents": 280000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/3101040/",
-      "genres": [
-        "アドベンチャー",
-        "インディー",
-        "シミュレーション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2025,
-      "shortDescription": "少女たちが目覚めると、そこは見知らぬ牢屋敷――。来るべき「魔女裁判」に向け、牢屋敷を捜査して、少女に混ざりこんだ魔女を炙り出せ。魔女の魔法と嘘を暴き、処刑せよ。「Acacia」が送る魔法議論×ADVミステリー。",
-      "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 44.7,
+      "hensachi": 47,
       "rank": 18
     },
     {
@@ -429,8 +436,54 @@
       "shortDescription": "あの象徴的なデッキ構築型ローグライクが帰ってきた。Slay the Spire 2をプレイして、ユニークなデッキを構築し、奇怪な生物たちと出会い、圧倒的な力を秘めたレリックを発見しよう！",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 44.7,
+      "hensachi": 44.5,
       "rank": 19
+    },
+    {
+      "appid": 3101040,
+      "name": "魔法少女ノ魔女裁判",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3101040/header.jpg?t=1789891545",
+      "discountPercent": 20,
+      "initialPriceCents": 350000,
+      "finalPriceCents": 280000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/3101040/",
+      "genres": [
+        "アドベンチャー",
+        "インディー",
+        "シミュレーション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2025,
+      "shortDescription": "少女たちが目覚めると、そこは見知らぬ牢屋敷――。来るべき「魔女裁判」に向け、牢屋敷を捜査して、少女に混ざりこんだ魔女を炙り出せ。魔女の魔法と嘘を暴き、処刑せよ。「Acacia」が送る魔法議論×ADVミステリー。",
+      "reviewSnippet": "",
+      "rawScore": 9,
+      "hensachi": 44.5,
+      "rank": 20
+    },
+    {
+      "appid": 5277480,
+      "name": "República do Caos",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5277480/1ebee5312c915d16fd953d8c709c8c9afc959484/header.jpg?t=1795350814",
+      "discountPercent": 20,
+      "initialPriceCents": 53000,
+      "finalPriceCents": 42400,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5277480/",
+      "genres": [
+        "アクション",
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Republic of Chaos is a political satire game where the right, the left, unlikely alliances, and outrageous caricatures fight for control of a republic on the verge of collapse. Pick your side, provoke your rivals, and see just how far the chaos can go.",
+      "reviewSnippet": "",
+      "rawScore": 9,
+      "hensachi": 44.5,
+      "rank": 21
     },
     {
       "appid": 5534460,
@@ -452,8 +505,8 @@
       "shortDescription": "Up to six friends pilot cheap drill pods straight down to Hell. Dig a new hex-column world every contract, haul ore to a shared crew bank, build Lift stations at depth, break the Seals, beat the devil waiting at the bottom, then escape the flood.",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 44.7,
-      "rank": 20
+      "hensachi": 44.5,
+      "rank": 22
     },
     {
       "appid": 4288310,
@@ -474,8 +527,31 @@
       "shortDescription": "BOUNCE, BATTLE AND BASH your friends in this fast paced movement party game! Engage in 7 different game modes where winning requires speed, strategy and skill! Customise your Bert with unlockable outfits galore!",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 44.7,
-      "rank": 21
+      "hensachi": 44.5,
+      "rank": 23
+    },
+    {
+      "appid": 5029710,
+      "name": "mechakucha pakurion",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5029710/abcdc3fc88d1d49e431b59799809f16d5a1b1373/header.jpg?t=1795320809",
+      "discountPercent": 17,
+      "initialPriceCents": 65500,
+      "finalPriceCents": 54300,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5029710/",
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "RPG"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Multiplayer hide‑and‑seek party game featuring painting systems, fully customisable match rules and unique special abilities including clone power（kagebunshin）,optical‑camouflage(kougakumeisai 2620). Play with friends and compete across varied modes.",
+      "reviewSnippet": "",
+      "rawScore": 7.65,
+      "hensachi": 43.1,
+      "rank": 24
     },
     {
       "appid": 5442160,
@@ -495,8 +571,8 @@
       "shortDescription": "Sil-More is a tactical turn-based rogue-like role-playing game, fork of Angband and Sil. You're one of the greatest heroes of the First Age and your task is to descend into Angband, the citadel of the Greatest Enemy, and bring back the Great Jewels from the Enemy's crown.",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 42.2,
-      "rank": 22
+      "hensachi": 42.1,
+      "rank": 25
     },
     {
       "appid": 5550890,
@@ -517,8 +593,8 @@
       "shortDescription": "A text adventure inspired by the Sierra classics. A pirate with a hat and no ship, a sarcastic parrot and a map torn in three: type your way across the Caribbean, dig up chests, forge papers, bribe a skeleton with a fish and out-fence your old captain to a legendary hoard.",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 42.2,
-      "rank": 23
+      "hensachi": 42.1,
+      "rank": 26
     },
     {
       "appid": 2638080,
@@ -542,7 +618,7 @@
       "reviewSnippet": "",
       "rawScore": 4.5,
       "hensachi": 39.7,
-      "rank": 24
+      "rank": 27
     },
     {
       "appid": 5049210,
@@ -565,7 +641,7 @@
       "reviewSnippet": "",
       "rawScore": 4.5,
       "hensachi": 39.7,
-      "rank": 25
+      "rank": 28
     },
     {
       "appid": 5305100,
@@ -586,7 +662,7 @@
       "reviewSnippet": "",
       "rawScore": 4.5,
       "hensachi": 39.7,
-      "rank": 26
+      "rank": 29
     },
     {
       "appid": 5474720,
@@ -609,7 +685,7 @@
       "reviewSnippet": "",
       "rawScore": 4.5,
       "hensachi": 39.7,
-      "rank": 27
+      "rank": 30
     },
     {
       "appid": 3649840,
@@ -630,51 +706,7 @@
       "reviewSnippet": "",
       "rawScore": 4.5,
       "hensachi": 39.7,
-      "rank": 28
-    },
-    {
-      "appid": 5359980,
-      "name": "Chill Summoners",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5359980/43ae0729a0b180df51fb7b843ddc4ae5a87b2210/header.jpg?t=1795273254",
-      "discountPercent": 10,
-      "initialPriceCents": 80000,
-      "finalPriceCents": 72000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5359980/",
-      "genres": [
-        "カジュアル"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "『Chill Summoners』は、『Grand Summoners』10周年記念チルアプリです。グラサマ楽曲をチルアレンジした全9曲を楽しめます。好きなキャラクターと音楽と背景を選んで、ラクトヘルムを旅しているような穏やかな時間をお楽しみください。ポモドーロタイマーも搭載し、作業や勉強のおともにも。",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 39.7,
-      "rank": 29
-    },
-    {
-      "appid": 5467080,
-      "name": "强化之王",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5467080/c1058c695ce0c073911201ddcc53d2212c2899a4/header.jpg?t=1795317669",
-      "discountPercent": 10,
-      "initialPriceCents": 56000,
-      "finalPriceCents": 50400,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5467080/",
-      "genres": [
-        "カジュアル",
-        "シミュレーション",
-        "ストラテジー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "『Upking』は、強化と抽選、そして欲望が渦巻く一人称視点の店舗経営ゲーム。コレクションアイテムを仕入れ、依頼を受け、ハンマーで高レベルとレアな特性を狙おう。堅実に稼ぐもよし、賠償金を払って客の逸品を自分のものにするもよし。次の一打が、大儲けにも破産にもつながる。",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 39.7,
-      "rank": 30
+      "rank": 31
     }
   ]
 }
