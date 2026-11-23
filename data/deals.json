@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-11-22T23:03:26.004Z",
+  "fetchedAt": "2026-11-23T05:01:39.090Z",
   "currency": "JPY",
-  "count": 36,
-  "averageDiscount": 30.9,
+  "count": 34,
+  "averageDiscount": 28.2,
   "deals": [
     {
       "appid": 2909400,
@@ -24,7 +24,7 @@
       "shortDescription": "魔晄都市ミッドガルを脱出したクラウドたちは広大な世界に旅立つ。 新たに語られるストーリー、広大な世界での自由な冒険、仲間との絆が深まるバトル―― 『FINAL FANTASY VII REMAKE』から、さらに進化したゲーム体験が再誕する。",
       "reviewSnippet": "",
       "rawScore": 38.25,
-      "hensachi": 77.2,
+      "hensachi": 79.9,
       "rank": 1
     },
     {
@@ -47,31 +47,8 @@
       "shortDescription": "バスターソードを背負う元ソルジャー・クラウドが魔晄都市ミッドガルに降り立つ。 最先端技術が駆使されたグラフィック映像、戦略性と直感的アクションが融合するバトル―― 不朽の名作『FINAL FANTASY VII』の世界が「新たな物語」として生まれ変わる。",
       "reviewSnippet": "",
       "rawScore": 36.9,
-      "hensachi": 75.7,
+      "hensachi": 78.3,
       "rank": 2
-    },
-    {
-      "appid": 1426210,
-      "name": "It Takes Two",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header_japanese.jpg?t=1777395376",
-      "discountPercent": 80,
-      "initialPriceCents": 430000,
-      "finalPriceCents": 86000,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/1426210/",
-      "genres": [
-        "プラットフォーマー",
-        "アクション",
-        "アドベンチャー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2021,
-      "shortDescription": "「It Takes Two」で人生最大のクレイジーな旅に出かけましょう。「It Takes Two」で人生最高のクレイジーな旅に出かけましょう。フレンドパス*でフレンドを無料で招待して、一緒に愉快で過激なゲームプレイに挑戦です。",
-      "reviewSnippet": "",
-      "rawScore": 36,
-      "hensachi": 74.7,
-      "rank": 3
     },
     {
       "appid": 1817070,
@@ -93,8 +70,8 @@
       "shortDescription": "ピーター・パーカーの私生活とヒーローとしての生活がぶつかり合う、アクション満載の完全オリジナルストーリー。 経験豊富なスパイダーマン、ピーター・パーカーとなって、オープンワールドで描かれるマーベル世界のニューヨークを縦横無尽に駆け巡り、犯罪や巨大な陰謀と戦おう。",
       "reviewSnippet": "",
       "rawScore": 27,
-      "hensachi": 64.6,
-      "rank": 4
+      "hensachi": 66.7,
+      "rank": 3
     },
     {
       "appid": 2215430,
@@ -116,29 +93,8 @@
       "shortDescription": "嵐が、来る。『Ghost of Tsushima DIRECTOR’S CUT』のPC用完全版でオープンワールド時代劇アクションアドベンチャーへ足を踏み入れ、自身の道を切り開こう。本作はSucker Punch Productions、Nixxes Software、PlayStation Studiosの共同制作でお届けします。",
       "reviewSnippet": "",
       "rawScore": 22.5,
-      "hensachi": 59.6,
-      "rank": 5
-    },
-    {
-      "appid": 1808500,
-      "name": "ARC Raiders",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/41ee6c5c81a5797132879892586465b917acc563/header_alt_assets_9.jpg?t=1794215815",
-      "discountPercent": 50,
-      "initialPriceCents": 639000,
-      "finalPriceCents": 319500,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/1808500/",
-      "genres": [
-        "アクション"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2025,
-      "shortDescription": "『ARC Raiders』は、ARC と呼ばれる謎の機械によって荒廃した、危険に満ちた未来の地球を舞台とするマルチプレイヤー・エクストラクションアドベンチャーです。",
-      "reviewSnippet": "",
-      "rawScore": 22.5,
-      "hensachi": 59.6,
-      "rank": 6
+      "hensachi": 61.5,
+      "rank": 4
     },
     {
       "appid": 2052410,
@@ -159,8 +115,29 @@
       "shortDescription": "彩（いろ）鮮やかに、声（おと）豊かに、TYPE-MOON正統派ビジュアルノベルが紡がれる。",
       "reviewSnippet": "",
       "rawScore": 22.5,
-      "hensachi": 59.6,
-      "rank": 7
+      "hensachi": 61.5,
+      "rank": 5
+    },
+    {
+      "appid": 1808500,
+      "name": "ARC Raiders",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/41ee6c5c81a5797132879892586465b917acc563/header_alt_assets_9.jpg?t=1794215815",
+      "discountPercent": 50,
+      "initialPriceCents": 639000,
+      "finalPriceCents": 319500,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/1808500/",
+      "genres": [
+        "アクション"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2025,
+      "shortDescription": "『ARC Raiders』は、ARC と呼ばれる謎の機械によって荒廃した、危険に満ちた未来の地球を舞台とするマルチプレイヤー・エクストラクションアドベンチャーです。",
+      "reviewSnippet": "",
+      "rawScore": 22.5,
+      "hensachi": 61.5,
+      "rank": 6
     },
     {
       "appid": 4873240,
@@ -182,8 +159,8 @@
       "shortDescription": "「私と勝負しろ！！」突然勝負を挑んできた虫取り女。こんな生意気な相手は初めてだ。そのふざけた水鉄砲をこっちに渡せ、お前の体をびしょびしょにしてやる。くらえ！高速わからせピストンの連続攻撃で急所に大ダメージ！",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 54.6,
-      "rank": 8
+      "hensachi": 56.2,
+      "rank": 7
     },
     {
       "appid": 5511850,
@@ -205,30 +182,8 @@
       "shortDescription": "自分だけの砂の城を建て、ビーチをデザインしよう。キャンペーンの36のビーチで水路を掘り、砂の堤防で潮の満ち込みを防ごう。エンドレスでは、城がどこまで持ちこたえられるか挑戦できる。",
       "reviewSnippet": "",
       "rawScore": 18,
-      "hensachi": 54.6,
-      "rank": 9
-    },
-    {
-      "appid": 5542640,
-      "name": "WeirdBus",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5542640/900f2748816281cac97787fbfb9afc052303e48b/header.jpg?t=1795346552",
-      "discountPercent": 40,
-      "initialPriceCents": 14100,
-      "finalPriceCents": 8400,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5542640/",
-      "genres": [
-        "アドベンチャー",
-        "インディー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "One bus. Four wheels. A whole lot of bad decisions. Share control of an uncooperative bus, rescue flying passengers and cross cities, canyons, ice and swamps on the way to a megatower roof. Play solo or argue your way to the finish with up to three friends.",
-      "reviewSnippet": "",
-      "rawScore": 18,
-      "hensachi": 54.6,
-      "rank": 10
+      "hensachi": 56.2,
+      "rank": 8
     },
     {
       "appid": 5001650,
@@ -251,8 +206,8 @@
       "shortDescription": "Blörbit, blob it, orbit, beat it. 急募：なめらかな2Dツインスティックバトルで戦うブロブ。ソファでの協力プレイ歓迎。終わりなき敵を相手に、自分だけのローグライト・キャリアを築こう。未経験者歓迎。",
       "reviewSnippet": "",
       "rawScore": 15.3,
-      "hensachi": 51.6,
-      "rank": 11
+      "hensachi": 53.1,
+      "rank": 9
     },
     {
       "appid": 3280350,
@@ -273,8 +228,8 @@
       "shortDescription": "「我々は繋ぐべきだったのか？」　サムは人類を絶滅から救うために、仲間とともに新たな旅を始める。 荒廃した世界、立ちふさがる敵、混迷する謎。あらゆるものが使命の達成を阻もうとする。人と人との繋がりの向こうに、何があるのか？比類なきゲームクリエイター小島秀夫が、ふたたび世界を変える。",
       "reviewSnippet": "",
       "rawScore": 14.85,
-      "hensachi": 51.1,
-      "rank": 12
+      "hensachi": 52.5,
+      "rank": 10
     },
     {
       "appid": 4618570,
@@ -297,76 +252,31 @@
       "shortDescription": "ブースターパックを開けて、次のホイルヒーローを手に入れよう。『ブースターパックヒーロー』はインクリメンタルゲーム。1パックごとに、次の主力となるヒーローが眠っているかもしれない。果てしないモンスターの群れからタワーを守り、幾多のレルムを戦い抜け。",
       "reviewSnippet": "",
       "rawScore": 13.5,
-      "hensachi": 49.6,
-      "rank": 13
+      "hensachi": 50.9,
+      "rank": 11
     },
     {
-      "appid": 5352510,
-      "name": "Game Translation",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5352510/d8d170b0a480d05647ad2c02c35996942e9876fb/header.jpg?t=1795340125",
+      "appid": 5514250,
+      "name": "DeepBreaker",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5514250/66a94e1ee5bd8e06329156e29d605c3e078db229/header.jpg?t=1795408413",
       "discountPercent": 30,
-      "initialPriceCents": 133800,
-      "finalPriceCents": 93600,
+      "initialPriceCents": 70500,
+      "finalPriceCents": 49300,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5352510/",
-      "genres": [
-        "ユーティリティ"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "Understand game chat and write back in another language. Capture your saved chat region with a shortcut, read original messages beside their translations, then translate and copy your reply. Local OCR and translation are included, with optional support for your own external service.",
-      "reviewSnippet": "",
-      "rawScore": 13.5,
-      "hensachi": 49.6,
-      "rank": 14
-    },
-    {
-      "appid": 5191120,
-      "name": "PERI.CO",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5191120/05716b623368b0b4aa263373181d18a04225e722/header.jpg?t=1795337421",
-      "discountPercent": 30,
-      "initialPriceCents": 98500,
-      "finalPriceCents": 68900,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5191120/",
+      "storeUrl": "https://store.steampowered.com/app/5514250/",
       "genres": [
         "アクション",
         "アドベンチャー",
-        "カジュアル",
         "インディー"
       ],
       "supportsJapanese": true,
       "releaseYear": 2026,
-      "shortDescription": "基本4人・最大8人協力の一人称アクション。毎回変わる現場に投入され、ミッションをこなし、巨大ボスとモンスターを処理し、時間内に帰還せよ。給与で武器と装備を揃え、次の勤務へ。両腕の武器組み合わせ、Qキースキル、デバフ契約、SSD回収・復活システム、9言語対応。",
+      "shortDescription": "ツルハシはない。あるのは拳だけ。硬い岩をブロックごとに砕き、ガントレットを強化し、サソリと四体の古代の守護者と戦い、深淵で待つライバルと対峙せよ。",
       "reviewSnippet": "",
       "rawScore": 13.5,
-      "hensachi": 49.6,
-      "rank": 15
-    },
-    {
-      "appid": 5499750,
-      "name": "It’s Table Time",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5499750/72f312934660aa29a3607064820f75086b89a90b/header.jpg?t=1795346548",
-      "discountPercent": 28,
-      "initialPriceCents": 98500,
-      "finalPriceCents": 70900,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5499750/",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "ストラテジー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "『It’s Table Time』は30種類のクラシックボードゲーム、カード、ダイス、パズル＆軽快アーケードを集めたテーブルゲーム集！AI相手のソロプレイ、1台のPCで2〜4人のローカル対戦・パーティーカップ、さらにSteamオンライン対戦にも対応！",
-      "reviewSnippet": "",
-      "rawScore": 12.6,
-      "hensachi": 48.5,
-      "rank": 16
+      "hensachi": 50.9,
+      "rank": 12
     },
     {
       "appid": 2483190,
@@ -388,8 +298,54 @@
       "shortDescription": "実際に存在する 550 台以上のマシンに乗って美しい景色を楽しみながら、Forza Horizon 史上最大のオープンワールド ドライビング アドベンチャーでレース界のレジェンドの座に上り詰めよう。",
       "reviewSnippet": "",
       "rawScore": 11.25,
-      "hensachi": 47,
-      "rank": 17
+      "hensachi": 48.3,
+      "rank": 13
+    },
+    {
+      "appid": 5014420,
+      "name": "にゃんこサバイバー",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5014420/b004997f4d2db2dd8d97542920bb1de72b83ac13/header_japanese.jpg?t=1795397254",
+      "discountPercent": 25,
+      "initialPriceCents": 79000,
+      "finalPriceCents": 59200,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5014420/",
+      "genres": [
+        "アクション",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "『にゃんこサバイバー』は、避ける地雷を武器に変える&quot;地雷原オートバトル&quot;。数字を読み、旗を立て、狙って起爆。連鎖が戦場を塗り替える。力ではなく、頭脳で討て。",
+      "reviewSnippet": "",
+      "rawScore": 11.25,
+      "hensachi": 48.3,
+      "rank": 14
+    },
+    {
+      "appid": 1419970,
+      "name": "ZULMARASH: Echoes of Zaltar",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1419970/f8228ac44321d2b649202c7f434118383eb1504c/header.jpg?t=1795380168",
+      "discountPercent": 25,
+      "initialPriceCents": 185000,
+      "finalPriceCents": 138700,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/1419970/",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "インディー",
+        "RPG"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "A turn-based, tile-by-tile tactical RPG in pixel art. Randomized loot in five rarities, gear that shows on your hero, generated dungeons, spreading fire. And a living village where the children sing at vespers. Several endings.",
+      "reviewSnippet": "",
+      "rawScore": 11.25,
+      "hensachi": 48.3,
+      "rank": 15
     },
     {
       "appid": 5158540,
@@ -409,8 +365,8 @@
       "shortDescription": "鉱石を掘り、弾薬を作り、大群に蹂躙された衛星に鉄道を敷こう。自動タレットへの補給を絶やさず、走行モードと攻城モードを切り替え、移動式の連結車両を強化する、見下ろし視点の兵站・防衛ゲーム。",
       "reviewSnippet": "",
       "rawScore": 11.25,
-      "hensachi": 47,
-      "rank": 18
+      "hensachi": 48.3,
+      "rank": 16
     },
     {
       "appid": 2868840,
@@ -432,8 +388,8 @@
       "shortDescription": "あの象徴的なデッキ構築型ローグライクが帰ってきた。Slay the Spire 2をプレイして、ユニークなデッキを構築し、奇怪な生物たちと出会い、圧倒的な力を秘めたレリックを発見しよう！",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 44.5,
-      "rank": 19
+      "hensachi": 45.7,
+      "rank": 17
     },
     {
       "appid": 3101040,
@@ -455,8 +411,8 @@
       "shortDescription": "少女たちが目覚めると、そこは見知らぬ牢屋敷――。来るべき「魔女裁判」に向け、牢屋敷を捜査して、少女に混ざりこんだ魔女を炙り出せ。魔女の魔法と嘘を暴き、処刑せよ。「Acacia」が送る魔法議論×ADVミステリー。",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 44.5,
-      "rank": 20
+      "hensachi": 45.7,
+      "rank": 18
     },
     {
       "appid": 5426410,
@@ -478,8 +434,8 @@
       "shortDescription": "ヤギたちが帰ってきた。しかも今度は雄牛を雇ってきた。「Ranch Attack Classic」の改良版となる本作で、つかんで、投げて、群れから逃げ切ろう。スピーディーで笑えるアーケードランゲームで、2人の農夫、アンロック要素がぎっしり詰まった納屋、そしておまけとして最初のプロトタイプ版も収録。",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 44.5,
-      "rank": 21
+      "hensachi": 45.7,
+      "rank": 19
     },
     {
       "appid": 5492690,
@@ -501,8 +457,8 @@
       "shortDescription": "街外れのトンネル式洗車場で夜勤。窓口で会計し、ナンバープレートを記録し、朝6時までブラシを回す。トンネルが詰まれば、外に出て手で直す。責任者は掲示板に規則を残していく。守っていれば大丈夫。",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 44.5,
-      "rank": 22
+      "hensachi": 45.7,
+      "rank": 20
     },
     {
       "appid": 5220580,
@@ -524,8 +480,8 @@
       "shortDescription": "Pixireels is a cozy pixel-art slot roguelike where you stack rule-breaking coins, chain runaway multipliers, watch a tiny score get out of hand through runs, and squeeze thirty rounds per run to unlock who knows what. Then you spend it all on a cat who does not appreciate it. Good luck!",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 44.5,
-      "rank": 23
+      "hensachi": 45.7,
+      "rank": 21
     },
     {
       "appid": 5353330,
@@ -547,8 +503,8 @@
       "shortDescription": "石を割って中身を見つけ、伝説のコレクションを作ろう。巨大な石切り場の山から石を割り、鉱石を売り、道具を強化して、探知機で20個の希少な特別な石を探し出そう。ソロでも、最大4人のオンライン/LAN協力プレイでも遊べます。",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 44.5,
-      "rank": 24
+      "hensachi": 45.7,
+      "rank": 22
     },
     {
       "appid": 5179700,
@@ -570,94 +526,77 @@
       "shortDescription": "英雄やモンスターを育成・進化させるオートバトラーRPGです。ユニットを進化させて新たな潜在能力を引き出し、多彩な英雄や装備を組み合わせて最適な陣形を構築しましょう。ダンジョンを探索して装備をファーミングし、自分だけの精鋭部隊を完成させてください！",
       "reviewSnippet": "",
       "rawScore": 9,
-      "hensachi": 44.5,
+      "hensachi": 45.7,
+      "rank": 23
+    },
+    {
+      "appid": 4937320,
+      "name": "KAREI - ENDLESS DEATH MATCH",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4937320/988139d5e0d8bba61b171c9349802a9319a649a7/header.jpg?t=1795402542",
+      "discountPercent": 15,
+      "initialPriceCents": 190000,
+      "finalPriceCents": 161500,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4937320/",
+      "genres": [
+        "インディー",
+        "ストラテジー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "グリッドベースのターン制パズルローグライク。ひとりのくノ一となり、無限の城を駆け上がれ。各フロアを盤面として読み解き、壁から武具を得て、行く手を阻む鬼を斬り伏せろ。一手の油断が、すべてを終わらせる。",
+      "reviewSnippet": "",
+      "rawScore": 6.75,
+      "hensachi": 43,
+      "rank": 24
+    },
+    {
+      "appid": 4885580,
+      "name": "Heya! Sumo Manager",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4885580/ed14d482c37c0977bcbfb225e22d0a4a03c8d52c/header.jpg?t=1795395814",
+      "discountPercent": 15,
+      "initialPriceCents": 260000,
+      "finalPriceCents": 221000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4885580/",
+      "genres": [
+        "シミュレーション",
+        "スポーツ",
+        "ストラテジー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "Heya! Sumo Manager allows you to manage a sumo stable and develop the skills of your rikishi on their road to Yokozuna! Climb from Jonokuchi to Sekitori by organizing the diet, training and tactics of your wrestlers and see them compete in 3D matches.",
+      "reviewSnippet": "",
+      "rawScore": 6.75,
+      "hensachi": 43,
       "rank": 25
     },
     {
-      "appid": 4298260,
-      "name": "A Game About Dodging Balls",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4298260/589b593dbc9b7a99d114dda951ac8bee02ccf14e/header.jpg?t=1795354477",
-      "discountPercent": 20,
-      "initialPriceCents": 28000,
-      "finalPriceCents": 22400,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4298260/",
-      "genres": [
-        "インディー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Dodge balls, take risks and grow stronger in this incremental survival game. Near misses pay more, upgrades stack up, and soon you are smashing whole waves with chain lightning and kill combos. Beat 11 stages and their bosses.",
-      "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 44.5,
-      "rank": 26
-    },
-    {
-      "appid": 4377160,
-      "name": "Mechanic and Healing Girl",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4377160/5122fbc1d96a32c35b32db15f8a4c68bd8d90dc9/header.jpg?t=1795361575",
-      "discountPercent": 20,
+      "appid": 4845700,
+      "name": "Football Commissioner",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4845700/63040c35a5a80c2a1322e5b86ac6260deaaff833/header.jpg?t=1795380719",
+      "discountPercent": 15,
       "initialPriceCents": 135000,
-      "finalPriceCents": 108000,
+      "finalPriceCents": 114700,
       "reviewPositiveRate": 0,
       "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4377160/",
+      "storeUrl": "https://store.steampowered.com/app/4845700/",
       "genres": [
-        "RPG"
+        "インディー",
+        "シミュレーション",
+        "スポーツ",
+        "ストラテジー"
       ],
       "supportsJapanese": false,
       "releaseYear": 2026,
-      "shortDescription": "Nineteen-year-old Aaron Tekin was reborn from the brink of death in a repair shop and gained the ability to control machinery. He came to the college and befriended three mature female tutors, but was caught in a crisis due to a mysterious signal and had to protect them.",
+      "shortDescription": "The definitive, first-of-its-kind American football league management sim. Take control of the newest spring football league by customizing the structure, teams, ticket prices, salaries, and more. Sim games week by week to grow your league from a startup into a thriving sports empire.",
       "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 44.5,
-      "rank": 27
-    },
-    {
-      "appid": 5277480,
-      "name": "República do Caos",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5277480/1ebee5312c915d16fd953d8c709c8c9afc959484/header.jpg?t=1795350814",
-      "discountPercent": 20,
-      "initialPriceCents": 53000,
-      "finalPriceCents": 42400,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5277480/",
-      "genres": [
-        "アクション",
-        "カジュアル",
-        "インディー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Republic of Chaos is a political satire game where the right, the left, unlikely alliances, and outrageous caricatures fight for control of a republic on the verge of collapse. Pick your side, provoke your rivals, and see just how far the chaos can go.",
-      "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 44.5,
-      "rank": 28
-    },
-    {
-      "appid": 5542420,
-      "name": "杀个痛快",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5542420/5cc46934a73cefc5fa8cd2f1b67fa8270230dffc/header.jpg?t=1795348486",
-      "discountPercent": 20,
-      "initialPriceCents": 56000,
-      "finalPriceCents": 44800,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5542420/",
-      "genres": [
-        "カジュアル"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "A clicker incremental game where every swing fuels your growth. Hold to attack, cut through monsters, and turn your earnings into lasting power. Go from struggling against a single foe to sweeping through crowds. How far will you get this time?",
-      "reviewSnippet": "",
-      "rawScore": 9,
-      "hensachi": 44.5,
-      "rank": 29
+      "rawScore": 6.75,
+      "hensachi": 43,
+      "rank": 26
     },
     {
       "appid": 5394410,
@@ -679,8 +618,8 @@
       "shortDescription": "Descend into a traditional turn-based roguelike of deadly dungeons, strange heroes, and sixteen demanding gods. Create your adventurer, recover ancient Orbs, and survive to tithe your treasures. Compete in the one-shot Daily Delve, uncover fallen players' graves, or watch and bless their adventures.",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 42,
-      "rank": 30
+      "hensachi": 43,
+      "rank": 27
     },
     {
       "appid": 4761730,
@@ -702,8 +641,8 @@
       "shortDescription": "キーを打つたびに、デスクトップに海が育つ！仕事や勉強、タイピングやクリックのたびにゴールドが貯まります。集めたゴールドで海水魚やカラフルなサンゴ、楽しい装飾をコレクションしましょう。自分だけの魚を描いたり、フレンドの水槽を訪ねたり、魚を交換したりもできます。心地よいキーの音とともに、あなただけの癒やしの水槽を作りましょう！",
       "reviewSnippet": "",
       "rawScore": 6.75,
-      "hensachi": 42,
-      "rank": 31
+      "hensachi": 43,
+      "rank": 28
     },
     {
       "appid": 2638080,
@@ -726,8 +665,54 @@
       "shortDescription": "『勇者パーティはぜんめつしました。』は、壊れてしまった仲間の〈業〉と向き合い、一緒にケジメをつける高湿度・激重感情RPGです。壊滅した勇者パーティから1人だけを救出し、ダンジョンから脱出しましょう。限界状況のなか生まれる感情は、絆か、疑心か、依存か。",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 39.5,
-      "rank": 32
+      "hensachi": 40.4,
+      "rank": 29
+    },
+    {
+      "appid": 5308970,
+      "name": "Lot Lot Lot Lot",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5308970/c62c6b7b2daeb3b332ed2586e7d6af543a27eb55/header.jpg?t=1795409111",
+      "discountPercent": 10,
+      "initialPriceCents": 100000,
+      "finalPriceCents": 90000,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/5308970/",
+      "genres": [
+        "アクション",
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "1984年、MSXの投稿ゲームとして誕生し、ファミコンやアーケードにも展開した「ロットロットロット」が究極進化！制限時間内に攻めて稼ぐ、爽快スコアアタック。全部屋で交換を成立させてフィーバー発動！スコアをその場で２倍にするダイヤモンドや、盤面全体の回転で一発逆転を狙え！サウンドは「ゼビウス」「ディグダグ」などを手掛けた慶野由利子。原作と、高速移動「Ｂダッシュ」などを加えた微アレンジ版も収録。VIDEO GAME CLASSICシリーズ30周年記念作品！",
+      "reviewSnippet": "",
+      "rawScore": 4.5,
+      "hensachi": 40.4,
+      "rank": 30
+    },
+    {
+      "appid": 4538150,
+      "name": "After Hue",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4538150/946f95890a67c99eef4de6b9e24324f02af832fa/header.jpg?t=1795391453",
+      "discountPercent": 10,
+      "initialPriceCents": 40500,
+      "finalPriceCents": 36400,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4538150/",
+      "genres": [
+        "アドベンチャー",
+        "カジュアル",
+        "インディー"
+      ],
+      "supportsJapanese": true,
+      "releaseYear": 2026,
+      "shortDescription": "『After Hue』は、かわいいカメレオンが冒険を繰り広げるパズルプラットフォーマーです！色を変え、障害物を通り抜け、それぞれの色合いに隠された謎を解き明かしましょう！",
+      "reviewSnippet": "",
+      "rawScore": 4.5,
+      "hensachi": 40.4,
+      "rank": 31
     },
     {
       "appid": 5537490,
@@ -748,7 +733,28 @@
       "shortDescription": "The most immersive darts career simulation ever made. Build your player, design your darts and rise from pub opens to the World Championship. Handle the press, win over sponsors and take on more than 2,000 players in a living world of tours, rankings and rivalries.",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 39.5,
+      "hensachi": 40.4,
+      "rank": 32
+    },
+    {
+      "appid": 4845070,
+      "name": "Ravenhill: Initiation",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4845070/ca59ba32aa1aa5a41247e7bf48cf3d259fd0220f/header.jpg?t=1795369285",
+      "discountPercent": 10,
+      "initialPriceCents": 215000,
+      "finalPriceCents": 193500,
+      "reviewPositiveRate": 0,
+      "reviewCount": 0,
+      "storeUrl": "https://store.steampowered.com/app/4845070/",
+      "genres": [
+        "アドベンチャー"
+      ],
+      "supportsJapanese": false,
+      "releaseYear": 2026,
+      "shortDescription": "After a bitter argument with Hannah, Ethan vanishes while auditing files in quarantined Ravenhill Valley. When police refuse to enter the restricted zone, Hannah ventures into the fog-drenched woods to find her boyfriend. What she uncovers is an ancient threat and an ever-shifting nightmare reality.",
+      "reviewSnippet": "",
+      "rawScore": 4.5,
+      "hensachi": 40.4,
       "rank": 33
     },
     {
@@ -771,53 +777,8 @@
       "shortDescription": "Uncle Sal left you the keys to his pawn shop on Avenue A. Haggle with sellers, spot the fakes, hand out pawn loans and flip the deals of the week. Run the counter solo or with up to 3 friends in online co-op.",
       "reviewSnippet": "",
       "rawScore": 4.5,
-      "hensachi": 39.5,
+      "hensachi": 40.4,
       "rank": 34
-    },
-    {
-      "appid": 5550020,
-      "name": "Chains of Three Kingdoms",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5550020/42dbb6cc41e313418518571afeaaa457b83a0b7e/header_japanese.jpg?t=1795342730",
-      "discountPercent": 10,
-      "initialPriceCents": 155000,
-      "finalPriceCents": 139500,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/5550020/",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "ストラテジー"
-      ],
-      "supportsJapanese": true,
-      "releaseYear": 2026,
-      "shortDescription": "A Three Kingdoms strategy roguelike. Battles are match-3, decisions are strategy. Build a different army every run from 50 generals and 6 formations, and march on Luoyang, where Dong Zhuo has made a pact with a demon.",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 39.5,
-      "rank": 35
-    },
-    {
-      "appid": 4859890,
-      "name": "Beyond the Masque of the Red Death",
-      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4859890/3b7b4d30caba4613b099c56bff648060239b94f3/header.jpg?t=1795342156",
-      "discountPercent": 10,
-      "initialPriceCents": 84600,
-      "finalPriceCents": 76100,
-      "reviewPositiveRate": 0,
-      "reviewCount": 0,
-      "storeUrl": "https://store.steampowered.com/app/4859890/",
-      "genres": [
-        "アドベンチャー",
-        "インディー"
-      ],
-      "supportsJapanese": false,
-      "releaseYear": 2026,
-      "shortDescription": "Explore a gothic, macabre environment and find objects of symbolic significance, in this text-based adventure game inspired by &quot;The Masque of the Red Death&quot; by Edgar Allan Poe. Interact by typing your intentions in text, in an authentically written story that goes Beyond where the original one ends.",
-      "reviewSnippet": "",
-      "rawScore": 4.5,
-      "hensachi": 39.5,
-      "rank": 36
     }
   ]
 }
